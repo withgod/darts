@@ -29,7 +29,7 @@ ___
 |4|1005|<span class="rank-name-dl">REIMON髪成</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |5|998|<span class="rank-name-dl">タピオカ専務</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |6|989|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|7|965|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|7|965|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |8|961|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |9|959|<span class="rank-name-pd">ひろし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |10|958|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
@@ -70,59 +70,59 @@ ___
 |45|807|<span class="rank-name-dl">JBPaisen</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |46|806|<span class="rank-name-dl">氵㐬石少日召且力</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |47|804|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|47|804|<span class="rank-name-dl">綾ポコ♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|47|804|<span class="rank-name-dl">綾ポコ♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |49|803|<span class="rank-name-dl">owl</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |50|801|<span class="rank-name-pd">たーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |50|801|<span class="rank-name-pd">でーうぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |52|800|<span class="rank-name-pd">yuta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |52|800|<span class="rank-name-dl">たっくん@四ﾂ矢印</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |54|797|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 雄輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|55|796|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|55|796|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |56|794|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |57|792|<span class="rank-name-dl">JBCojicoji</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |57|792|<span class="rank-name-pd">おかぜっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |59|788|<span class="rank-name-dl">FALL</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |60|786|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|61|783|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|62|782|<span class="rank-name-dl">おーみん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|62|782|<span class="rank-name-pd">武藏一馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|62|782|<span class="rank-name-dl">磯崎 翔太</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|65|781|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|66|779|<span class="rank-name-pd">0039_7394</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|66|779|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|68|776|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|69|775|<span class="rank-name-dl">まこぬ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|70|770|<span class="rank-name-dl">さとう</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|71|769|<span class="rank-name-pd">ジャガビー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|72|767|<span class="rank-name-pd">touniti</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|73|764|<span class="rank-name-dl">おーみ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|74|762|<span class="rank-name-dl">千葉さん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|75|760|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|75|760|<span class="rank-name-pd">taichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|77|759|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|78|756|<span class="rank-name-dl">ゼファー@オジー</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|78|756|<span class="rank-name-dl">ミスターS</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|80|753|<span class="rank-name-pd">YuuMa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|81|752|<span class="rank-name-dl">SHOoo</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|81|752|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|81|752|<span class="rank-name-pd">下</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|84|749|<span class="rank-name-pd">M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|84|749|<span class="rank-name-dl">TT haya</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|86|745|<span class="rank-name-dl">うじうじゆうぽん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|87|742|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|88|740|<span class="rank-name-dl">マツヤ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|89|738|<span class="rank-name-dl">ろきそにん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|90|731|<span class="rank-name-dl">りょ！</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|90|731|<span class="rank-name-pd">カイン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|92|730|<span class="rank-name-dl">ちゃんあらい</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|93|728|<span class="rank-name-dl">Koudai。</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|94|725|<span class="rank-name-dl">あるくはね</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|95|724|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|95|724|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|97|723|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|98|722|<span class="rank-name-pd">0182_6458</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|98|722|<span class="rank-name-pd"><span class="pro-icon-pd"></span>増井 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|100|720|<span class="rank-name-dl">すがいる</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|61|782|<span class="rank-name-dl">おーみん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|61|782|<span class="rank-name-pd">武藏一馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|61|782|<span class="rank-name-dl">磯崎 翔太</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|64|781|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|65|779|<span class="rank-name-pd">0039_7394</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|65|779|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|67|776|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|68|775|<span class="rank-name-dl">まこぬ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|69|770|<span class="rank-name-dl">さとう</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|70|769|<span class="rank-name-pd">ジャガビー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|71|767|<span class="rank-name-pd">touniti</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|72|764|<span class="rank-name-dl">おーみ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|73|762|<span class="rank-name-dl">千葉さん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|74|760|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|74|760|<span class="rank-name-pd">taichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|76|759|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|77|756|<span class="rank-name-dl">ゼファー@オジー</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|77|756|<span class="rank-name-dl">ミスターS</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|79|753|<span class="rank-name-pd">YuuMa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|80|752|<span class="rank-name-dl">SHOoo</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|80|752|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|80|752|<span class="rank-name-pd">下</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|83|749|<span class="rank-name-pd">M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|83|749|<span class="rank-name-dl">TT haya</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|85|745|<span class="rank-name-dl">うじうじゆうぽん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|86|742|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|87|740|<span class="rank-name-dl">マツヤ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|88|738|<span class="rank-name-dl">ろきそにん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|89|731|<span class="rank-name-dl">りょ！</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|89|731|<span class="rank-name-pd">カイン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|91|730|<span class="rank-name-dl">ちゃんあらい</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|92|728|<span class="rank-name-dl">Koudai。</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|93|725|<span class="rank-name-dl">あるくはね</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|94|724|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|94|724|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|96|723|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|97|722|<span class="rank-name-pd">0182_6458</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|97|722|<span class="rank-name-pd"><span class="pro-icon-pd"></span>増井 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91061?s_seq=91061">No name 875</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|99|720|<span class="rank-name-dl">すがいる</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|100|718|<span class="rank-name-dl">真鶴</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -138,7 +138,7 @@ ___
 |4|1005|<span class="rank-name-dl">REIMON髪成</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |5|998|<span class="rank-name-dl">タピオカ専務</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |6|989|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|7|965|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|7|965|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |8|961|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |9|958|<span class="rank-name-dl">小原 惇</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |10|935|<span class="rank-name-dl">フクロウ準教授</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
@@ -171,67 +171,67 @@ ___
 |37|807|<span class="rank-name-dl">JBPaisen</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |38|806|<span class="rank-name-dl">氵㐬石少日召且力</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |39|804|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|39|804|<span class="rank-name-dl">綾ポコ♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|39|804|<span class="rank-name-dl">綾ポコ♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |41|803|<span class="rank-name-dl">owl</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |42|800|<span class="rank-name-dl">たっくん@四ﾂ矢印</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|43|796|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|43|796|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |44|794|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |45|792|<span class="rank-name-dl">JBCojicoji</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |46|788|<span class="rank-name-dl">FALL</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |47|786|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|48|783|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|49|782|<span class="rank-name-dl">おーみん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|49|782|<span class="rank-name-dl">磯崎 翔太</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|51|781|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|52|779|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|53|776|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|54|775|<span class="rank-name-dl">まこぬ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|55|770|<span class="rank-name-dl">さとう</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|56|764|<span class="rank-name-dl">おーみ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|57|762|<span class="rank-name-dl">千葉さん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|58|760|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|59|759|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|60|756|<span class="rank-name-dl">ゼファー@オジー</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|60|756|<span class="rank-name-dl">ミスターS</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|62|752|<span class="rank-name-dl">SHOoo</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|62|752|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|64|749|<span class="rank-name-dl">TT haya</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|65|745|<span class="rank-name-dl">うじうじゆうぽん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|66|742|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|67|740|<span class="rank-name-dl">マツヤ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|68|738|<span class="rank-name-dl">ろきそにん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|69|731|<span class="rank-name-dl">りょ！</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|70|730|<span class="rank-name-dl">ちゃんあらい</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|71|728|<span class="rank-name-dl">Koudai。</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|72|725|<span class="rank-name-dl">あるくはね</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|73|724|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|73|724|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|75|720|<span class="rank-name-dl">すがいる</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|76|718|<span class="rank-name-dl">真鶴</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|77|716|<span class="rank-name-dl">堂本 佳祐</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|78|715|<span class="rank-name-dl">わちゅわ2</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|78|715|<span class="rank-name-dl">竜人やねん。</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|80|713|<span class="rank-name-dl">すがいる</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|81|709|<span class="rank-name-dl">比叡山金閣寺</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|82|700|<span class="rank-name-dl">No name 0635</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|83|694|<span class="rank-name-dl">@nami...</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ 小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|84|688|<span class="rank-name-dl">ポコちゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|85|681|<span class="rank-name-dl">tkc@bwc</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|86|674|<span class="rank-name-dl">norie</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|87|673|<span class="rank-name-dl">りゅう。まだ635</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|88|672|<span class="rank-name-dl">momoka♡</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|89|668|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|90|666|<span class="rank-name-dl">KOMACHI</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|91|660|<span class="rank-name-dl">すずめぐ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|91|660|<span class="rank-name-dl">れんれん</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|93|659|<span class="rank-name-dl">すわリーニョ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|94|656|<span class="rank-name-dl">そらまめ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|95|655|<span class="rank-name-dl">アメスペ</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|96|653|<span class="rank-name-dl">長谷川</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|97|651|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|98|649|<span class="rank-name-dl">ダッチLIVE</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|99|647|<span class="rank-name-dl">わちゅわtrh9</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|100|646|<span class="rank-name-dl">NO NAME 2945</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|48|782|<span class="rank-name-dl">おーみん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|48|782|<span class="rank-name-dl">磯崎 翔太</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|50|781|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|51|779|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|52|776|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|53|775|<span class="rank-name-dl">まこぬ</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|54|770|<span class="rank-name-dl">さとう</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|55|764|<span class="rank-name-dl">おーみ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|56|762|<span class="rank-name-dl">千葉さん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|57|760|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|58|759|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|59|756|<span class="rank-name-dl">ゼファー@オジー</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|59|756|<span class="rank-name-dl">ミスターS</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|61|752|<span class="rank-name-dl">SHOoo</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|61|752|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|63|749|<span class="rank-name-dl">TT haya</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|64|745|<span class="rank-name-dl">うじうじゆうぽん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|65|742|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|66|740|<span class="rank-name-dl">マツヤ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|67|738|<span class="rank-name-dl">ろきそにん</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|68|731|<span class="rank-name-dl">りょ！</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|69|730|<span class="rank-name-dl">ちゃんあらい</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|70|728|<span class="rank-name-dl">Koudai。</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|71|725|<span class="rank-name-dl">あるくはね</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|72|724|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|72|724|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|74|720|<span class="rank-name-dl">すがいる</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|75|718|<span class="rank-name-dl">真鶴</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|76|716|<span class="rank-name-dl">堂本 佳祐</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|77|715|<span class="rank-name-dl">わちゅわ2</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|77|715|<span class="rank-name-dl">竜人やねん。</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|79|709|<span class="rank-name-dl">比叡山金閣寺</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|80|700|<span class="rank-name-dl">No name 0635</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|81|694|<span class="rank-name-dl">@nami...</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|82|688|<span class="rank-name-dl">ポコちゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|83|681|<span class="rank-name-dl">tkc@bwc</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|84|674|<span class="rank-name-dl">norie</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|85|673|<span class="rank-name-dl">りゅう。まだ635</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|86|672|<span class="rank-name-dl">momoka♡</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|87|666|<span class="rank-name-dl">KOMACHI</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|88|660|<span class="rank-name-dl">すずめぐ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|88|660|<span class="rank-name-dl">れんれん</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|90|659|<span class="rank-name-dl">すわリーニョ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|91|656|<span class="rank-name-dl">そらまめ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|92|655|<span class="rank-name-dl">アメスペ</span>|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|93|653|<span class="rank-name-dl">長谷川</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|94|651|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|95|649|<span class="rank-name-dl">ダッチLIVE</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|96|647|<span class="rank-name-dl">わちゅわtrh9</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|97|646|<span class="rank-name-dl">NO NAME 2945</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|98|645|<span class="rank-name-dl">なおき</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|98|645|<span class="rank-name-dl">れいほ</span>|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|100|640|<span class="rank-name-dl">堂本 佳祐(呑)</span>|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 
 
 #### PHOENIXDARTS TOP 100

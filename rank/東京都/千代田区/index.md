@@ -23,14 +23,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1217|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|1|1217|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |2|1202|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |3|1200|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |4|1169|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c55daf370d004dba0d9b047a20a7ba1e">Darts Cafe GROVE</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |5|1167|<span class="rank-name-dl">⭐︎田中MAN⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |6|1165|<span class="rank-name-pd">大石藍貴【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49384?s_seq=49384">ダーツカフェGROVE神田6F店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |7|1158|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大石 藍貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49384?s_seq=49384">ダーツカフェGROVE神田6F店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|8|1153|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店 アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|8|1153|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |8|1153|<span class="rank-name-pd">尿酸値高め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49384?s_seq=49384">ダーツカフェGROVE神田6F店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |10|1147|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |11|1145|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -40,7 +40,7 @@ ___
 |15|1135|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |16|1134|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |16|1134|<span class="rank-name-dl">サカイ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|18|1133|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店 アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|18|1133|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |19|1132|<span class="rank-name-dl">おりおり</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |19|1132|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |19|1132|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -51,7 +51,7 @@ ___
 |25|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/a609caf435298e340d9b047a20a7ba1e">ダイニングダーツバーBee 有楽町店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |27|1128|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |28|1125|<span class="rank-name-dl">issey@JB’s BAR</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|29|1123|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|29|1123|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |30|1122|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |31|1121|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |31|1121|<span class="rank-name-dl">ajk</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -60,69 +60,69 @@ ___
 |35|1117|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c55daf370d004dba0d9b047a20a7ba1e">Darts Cafe GROVE</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |35|1117|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/37c0a162246492430d9b047a20a7ba1e">ダーツカフェデルタ神田店(DartsCafeDELTA神田店)</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |35|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|38|1110|<span class="rank-name-dl">Laide Zhang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|39|1109|<span class="rank-name-dl">てのひらeasyえる</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原 ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|38|1110|<span class="rank-name-dl">Laide Zhang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|39|1109|<span class="rank-name-dl">てのひらeasyえる</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |40|1108|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦井 裕太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49384?s_seq=49384">ダーツカフェGROVE神田6F店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|40|1108|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田 UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|42|1105|<span class="rank-name-dl">tsuki</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|42|1105|<span class="rank-name-pd">鈴木 憂司@COSMO DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|44|1104|<span class="rank-name-dl">Ronnie</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|44|1104|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|44|1104|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|47|1103|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|47|1103|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|49|1100|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|50|1099|<span class="rank-name-dl">みやぽこら</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|51|1098|<span class="rank-name-pd">NO.エル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|51|1098|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/601d2e8bc596d61b0d9b047a20a7ba1e">WANTED</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|53|1097|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|53|1097|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|55|1096|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|55|1096|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|57|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|58|1091|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原 ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|59|1090|<span class="rank-name-dl">増子 涼太郎</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|60|1089|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店 JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|61|1088|<span class="rank-name-dl">Cyrus tsang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|61|1088|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/e3e160ff0f22d6940d9b047a20a7ba1e">JB's BAR BLUE RABBIT JB's BAR BLUE RABBIT</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|61|1088|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|61|1088|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|65|1087|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|65|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|65|1087|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/29023bf88352f88858d385ea46352d8f">カラオケ館 秋葉原本店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|68|1086|<span class="rank-name-dl">もこ</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店 Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|69|1085|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|69|1085|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|69|1085|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|72|1082|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|73|1081|<span class="rank-name-dl">n</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|73|1081|<span class="rank-name-dl">よぎーた</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|75|1080|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|76|1079|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|76|1079|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|78|1078|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|78|1078|<span class="rank-name-pd">尿酸値高め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8400?s_seq=8400">TiTO SHOP 秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|80|1077|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|80|1077|<span class="rank-name-dl">Mitsu</span>|<a href="https://search.dartslive.com/jp/shop/65742c5478e0152b774c926eb736cb5a">UP日比谷</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|82|1076|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店 JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|82|1076|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1075|<span class="rank-name-dl">Nujakust①</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1075|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/d4f31ed474e5efc7b21333aee1bd51e4">PlayGarden 神田西口店 PlayGarden 神田西口店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1075|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|87|1074|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|88|1073|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|88|1073|<span class="rank-name-dl">§　　蒼槍　　§</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|88|1073|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|88|1073|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|88|1073|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|93|1072|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|93|1072|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|93|1072|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/23e49a4f49ad66345f9f3321c1147265">ダーツワン 水道橋西口駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|96|1071|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|96|1071|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|96|1071|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|99|1070|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|99|1070|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|41|1105|<span class="rank-name-dl">tsuki</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|41|1105|<span class="rank-name-pd">鈴木 憂司@COSMO DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|43|1104|<span class="rank-name-dl">Ronnie</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|43|1104|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|43|1104|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|46|1103|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|46|1103|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|48|1100|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|49|1099|<span class="rank-name-dl">みやぽこら</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|50|1098|<span class="rank-name-pd">NO.エル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|50|1098|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/601d2e8bc596d61b0d9b047a20a7ba1e">WANTED</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|52|1097|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|52|1097|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|54|1096|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|54|1096|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|56|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|57|1091|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|58|1090|<span class="rank-name-dl">増子 涼太郎</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|59|1089|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|60|1088|<span class="rank-name-dl">Cyrus tsang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|60|1088|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/e3e160ff0f22d6940d9b047a20a7ba1e">JB's BAR BLUE RABBIT</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|60|1088|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|60|1088|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|64|1087|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|64|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|64|1087|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/29023bf88352f88858d385ea46352d8f">カラオケ館 秋葉原本店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|67|1086|<span class="rank-name-dl">もこ</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|68|1085|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|68|1085|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|68|1085|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|71|1082|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|72|1081|<span class="rank-name-dl">n</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|72|1081|<span class="rank-name-dl">よぎーた</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|74|1080|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82627?s_seq=82627">ビアポンバー GROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|75|1079|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|75|1079|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|77|1078|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|77|1078|<span class="rank-name-pd">尿酸値高め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8400?s_seq=8400">TiTO SHOP 秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|79|1077|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|79|1077|<span class="rank-name-dl">Mitsu</span>|<a href="https://search.dartslive.com/jp/shop/65742c5478e0152b774c926eb736cb5a">UP日比谷</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|81|1076|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|81|1076|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|83|1075|<span class="rank-name-dl">Nujakust①</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|83|1075|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/d4f31ed474e5efc7b21333aee1bd51e4">PlayGarden 神田西口店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|83|1075|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|86|1074|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|87|1073|<span class="rank-name-dl">§　　蒼槍　　§</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|87|1073|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|87|1073|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|87|1073|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|91|1072|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|91|1072|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|91|1072|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/23e49a4f49ad66345f9f3321c1147265">ダーツワン 水道橋西口駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|94|1071|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|94|1071|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|94|1071|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|97|1070|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|97|1070|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|99|1069|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|99|1069|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,12 +132,12 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1217|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|1|1217|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |2|1202|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |3|1200|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |4|1169|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c55daf370d004dba0d9b047a20a7ba1e">Darts Cafe GROVE</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |5|1167|<span class="rank-name-dl">⭐︎田中MAN⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|6|1153|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店 アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|6|1153|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |7|1147|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |8|1145|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |9|1142|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -146,7 +146,7 @@ ___
 |12|1135|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |13|1134|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |13|1134|<span class="rank-name-dl">サカイ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|15|1133|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店 アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|15|1133|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |16|1132|<span class="rank-name-dl">おりおり</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |16|1132|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |16|1132|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -156,7 +156,7 @@ ___
 |22|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/a609caf435298e340d9b047a20a7ba1e">ダイニングダーツバーBee 有楽町店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |23|1128|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |24|1125|<span class="rank-name-dl">issey@JB’s BAR</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|25|1123|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|25|1123|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |26|1122|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |27|1121|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |27|1121|<span class="rank-name-dl">ajk</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -165,73 +165,73 @@ ___
 |31|1117|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c55daf370d004dba0d9b047a20a7ba1e">Darts Cafe GROVE</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |31|1117|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/37c0a162246492430d9b047a20a7ba1e">ダーツカフェデルタ神田店(DartsCafeDELTA神田店)</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |31|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|34|1110|<span class="rank-name-dl">Laide Zhang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|35|1109|<span class="rank-name-dl">てのひらeasyえる</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原 ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|36|1108|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田 UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|37|1105|<span class="rank-name-dl">tsuki</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|38|1104|<span class="rank-name-dl">Ronnie</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|38|1104|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|38|1104|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|41|1103|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|41|1103|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|43|1100|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|44|1099|<span class="rank-name-dl">みやぽこら</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|45|1098|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/601d2e8bc596d61b0d9b047a20a7ba1e">WANTED</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|46|1097|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|46|1097|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|48|1096|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|48|1096|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|50|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|51|1091|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原 ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|52|1090|<span class="rank-name-dl">増子 涼太郎</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|53|1089|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店 JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|54|1088|<span class="rank-name-dl">Cyrus tsang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|54|1088|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/e3e160ff0f22d6940d9b047a20a7ba1e">JB's BAR BLUE RABBIT JB's BAR BLUE RABBIT</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|54|1088|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|54|1088|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|58|1087|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|58|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|58|1087|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/29023bf88352f88858d385ea46352d8f">カラオケ館 秋葉原本店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|61|1086|<span class="rank-name-dl">もこ</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店 Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|62|1085|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|62|1085|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|62|1085|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|65|1082|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|66|1081|<span class="rank-name-dl">n</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原 BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|66|1081|<span class="rank-name-dl">よぎーた</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|68|1079|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|68|1079|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|70|1078|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|71|1077|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店 快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|71|1077|<span class="rank-name-dl">Mitsu</span>|<a href="https://search.dartslive.com/jp/shop/65742c5478e0152b774c926eb736cb5a">UP日比谷</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|73|1076|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店 JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|73|1076|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|75|1075|<span class="rank-name-dl">Nujakust①</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|75|1075|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/d4f31ed474e5efc7b21333aee1bd51e4">PlayGarden 神田西口店 PlayGarden 神田西口店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|75|1075|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|78|1074|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|79|1073|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|79|1073|<span class="rank-name-dl">§　　蒼槍　　§</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|79|1073|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|79|1073|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|79|1073|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1072|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1072|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|84|1072|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/23e49a4f49ad66345f9f3321c1147265">ダーツワン 水道橋西口駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|87|1071|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|87|1071|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|87|1071|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|90|1070|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|90|1070|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|92|1069|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|92|1069|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|92|1069|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|95|1067|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|95|1067|<span class="rank-name-dl">ぴーまん</span>|<a href="https://search.dartslive.com/jp/shop/37c0a162246492430d9b047a20a7ba1e">ダーツカフェデルタ神田店(DartsCafeDELTA神田店)</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|95|1067|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|98|1066|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|99|1065|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|100|1064|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|34|1110|<span class="rank-name-dl">Laide Zhang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|35|1109|<span class="rank-name-dl">てのひらeasyえる</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|36|1105|<span class="rank-name-dl">tsuki</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|37|1104|<span class="rank-name-dl">Ronnie</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|37|1104|<span class="rank-name-dl">なごし けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|37|1104|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|40|1103|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|40|1103|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|42|1100|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|43|1099|<span class="rank-name-dl">みやぽこら</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|44|1098|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/601d2e8bc596d61b0d9b047a20a7ba1e">WANTED</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|45|1097|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|45|1097|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|47|1096|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|47|1096|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|49|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|50|1091|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/c0574c04a2173f70f454cb89828a1cfe">ビアポンバーGROVE秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|51|1090|<span class="rank-name-dl">増子 涼太郎</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|52|1089|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|53|1088|<span class="rank-name-dl">Cyrus tsang</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|53|1088|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/e3e160ff0f22d6940d9b047a20a7ba1e">JB's BAR BLUE RABBIT</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|53|1088|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|53|1088|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/fc0255dcb6506e3c5f9f3321c1147265">Bee AKIHABARA</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|57|1087|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|57|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">Darts Physics Laboratory</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|57|1087|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/29023bf88352f88858d385ea46352d8f">カラオケ館 秋葉原本店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|60|1086|<span class="rank-name-dl">もこ</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|61|1085|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|61|1085|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|61|1085|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|64|1082|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|65|1081|<span class="rank-name-dl">n</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|65|1081|<span class="rank-name-dl">よぎーた</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|67|1079|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|67|1079|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|69|1078|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|70|1077|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|70|1077|<span class="rank-name-dl">Mitsu</span>|<a href="https://search.dartslive.com/jp/shop/65742c5478e0152b774c926eb736cb5a">UP日比谷</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|72|1076|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|72|1076|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|74|1075|<span class="rank-name-dl">Nujakust①</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|74|1075|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/d4f31ed474e5efc7b21333aee1bd51e4">PlayGarden 神田西口店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|74|1075|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/380da5ee0920fdbd0d9b047a20a7ba1e">JB's BAR</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|77|1074|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|78|1073|<span class="rank-name-dl">§　　蒼槍　　§</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|78|1073|<span class="rank-name-dl">イッセー</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|78|1073|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/2d7e92bc687d68d958d385ea46352d8f">UP神田</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|78|1073|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|82|1072|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|82|1072|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|82|1072|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/23e49a4f49ad66345f9f3321c1147265">ダーツワン 水道橋西口駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|85|1071|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|85|1071|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|85|1071|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|88|1070|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|88|1070|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|90|1069|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|90|1069|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|90|1069|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|93|1067|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/73cf5b331d16b5d20d9b047a20a7ba1e">Darts Bar A's 水道橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|93|1067|<span class="rank-name-dl">ぴーまん</span>|<a href="https://search.dartslive.com/jp/shop/37c0a162246492430d9b047a20a7ba1e">ダーツカフェデルタ神田店(DartsCafeDELTA神田店)</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|93|1067|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|96|1066|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/50cd693af4db9e3b774c926eb736cb5a">REGALO 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|97|1065|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/fb99168cb5f3005e0d9b047a20a7ba1e">アイ・カフェAKIBA ROCKET店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|98|1064|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e296fdfacc8a73500d9b047a20a7ba1e">BAGUS-バグース-秋葉原</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|98|1064|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/e1b2c20cd451808d0d9b047a20a7ba1e">JACK 飯田橋店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|100|1062|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/6829d68f61e64af9b21333aee1bd51e4">快活CLUB 秋葉原駅前店</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 
 
 #### PHOENIXDARTS TOP 100

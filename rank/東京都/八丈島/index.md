@@ -25,41 +25,34 @@ ___
 |---|---|---|---|---|
 |1|925|<span class="rank-name-dl">のあ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
 |2|782|<span class="rank-name-dl">かぼす(*･ω･)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|3|778|<span class="rank-name-dl">のあ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|4|777|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|5|745|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|6|730|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|7|715|<span class="rank-name-dl">aneboy</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|8|707|<span class="rank-name-dl">かぼす(*･ω･)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|9|638|<span class="rank-name-dl">RAIYA</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|10|620|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|10|620|<span class="rank-name-dl">ぴさや</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|12|595|<span class="rank-name-dl">DANZA KUDURO</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|12|595|<span class="rank-name-dl">NA7</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|14|579|<span class="rank-name-dl">ポルコ・ロッソ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|15|565|<span class="rank-name-dl">アーモンドアイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|16|559|<span class="rank-name-dl">じゃがりこ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|17|557|<span class="rank-name-dl">8</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|18|533|<span class="rank-name-dl">ショウヘイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|19|522|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|20|501|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|21|492|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|22|476|<span class="rank-name-dl">DJ ANDREA 2000</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|23|455|<span class="rank-name-dl">あいちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|24|447|<span class="rank-name-dl">ゴミ箱愛</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|25|444|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|26|428|<span class="rank-name-dl">と</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|27|420|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|28|417|<span class="rank-name-dl">⌘White・Bear⌘</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|29|416|<span class="rank-name-dl">NO NAME 3542</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|30|392|<span class="rank-name-dl">NO NAME 9793</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|31|388|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|32|386|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|33|375|<span class="rank-name-dl">Moon</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|34|348|<span class="rank-name-dl">malco727</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|35|324|<span class="rank-name-dl">ポテサワ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|35|324|<span class="rank-name-dl">ＵＥＰ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|37|319|<span class="rank-name-dl">Ikko yamada</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|3|777|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|4|730|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|5|715|<span class="rank-name-dl">aneboy</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|6|638|<span class="rank-name-dl">RAIYA</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|7|620|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|7|620|<span class="rank-name-dl">ぴさや</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|9|595|<span class="rank-name-dl">DANZA KUDURO</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|9|595|<span class="rank-name-dl">NA7</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|11|579|<span class="rank-name-dl">ポルコ・ロッソ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|12|565|<span class="rank-name-dl">アーモンドアイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|13|559|<span class="rank-name-dl">じゃがりこ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|14|557|<span class="rank-name-dl">8</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|15|533|<span class="rank-name-dl">ショウヘイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|16|501|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|17|492|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|18|476|<span class="rank-name-dl">DJ ANDREA 2000</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|19|455|<span class="rank-name-dl">あいちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|20|447|<span class="rank-name-dl">ゴミ箱愛</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|21|444|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|22|428|<span class="rank-name-dl">と</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|23|417|<span class="rank-name-dl">⌘White・Bear⌘</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|24|416|<span class="rank-name-dl">NO NAME 3542</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|25|392|<span class="rank-name-dl">NO NAME 9793</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|26|375|<span class="rank-name-dl">Moon</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|27|348|<span class="rank-name-dl">malco727</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|28|324|<span class="rank-name-dl">ポテサワ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|28|324|<span class="rank-name-dl">ＵＥＰ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|30|319|<span class="rank-name-dl">Ikko yamada</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -71,41 +64,34 @@ ___
 |---|---|---|---|---|
 |1|925|<span class="rank-name-dl">のあ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
 |2|782|<span class="rank-name-dl">かぼす(*･ω･)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|3|778|<span class="rank-name-dl">のあ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|4|777|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|5|745|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|6|730|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|7|715|<span class="rank-name-dl">aneboy</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|8|707|<span class="rank-name-dl">かぼす(*･ω･)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|9|638|<span class="rank-name-dl">RAIYA</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|10|620|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|10|620|<span class="rank-name-dl">ぴさや</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|12|595|<span class="rank-name-dl">DANZA KUDURO</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|12|595|<span class="rank-name-dl">NA7</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|14|579|<span class="rank-name-dl">ポルコ・ロッソ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|15|565|<span class="rank-name-dl">アーモンドアイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|16|559|<span class="rank-name-dl">じゃがりこ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|17|557|<span class="rank-name-dl">8</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|18|533|<span class="rank-name-dl">ショウヘイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|19|522|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|20|501|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|21|492|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|22|476|<span class="rank-name-dl">DJ ANDREA 2000</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|23|455|<span class="rank-name-dl">あいちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|24|447|<span class="rank-name-dl">ゴミ箱愛</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|25|444|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|26|428|<span class="rank-name-dl">と</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|27|420|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|28|417|<span class="rank-name-dl">⌘White・Bear⌘</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|29|416|<span class="rank-name-dl">NO NAME 3542</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|30|392|<span class="rank-name-dl">NO NAME 9793</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|31|388|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|32|386|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|33|375|<span class="rank-name-dl">Moon</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|34|348|<span class="rank-name-dl">malco727</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|35|324|<span class="rank-name-dl">ポテサワ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|35|324|<span class="rank-name-dl">ＵＥＰ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
-|37|319|<span class="rank-name-dl">Ikko yamada</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|3|777|<span class="rank-name-dl">kun</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|4|730|<span class="rank-name-dl">40</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|5|715|<span class="rank-name-dl">aneboy</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|6|638|<span class="rank-name-dl">RAIYA</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|7|620|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|7|620|<span class="rank-name-dl">ぴさや</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|9|595|<span class="rank-name-dl">DANZA KUDURO</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|9|595|<span class="rank-name-dl">NA7</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|11|579|<span class="rank-name-dl">ポルコ・ロッソ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|12|565|<span class="rank-name-dl">アーモンドアイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|13|559|<span class="rank-name-dl">じゃがりこ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|14|557|<span class="rank-name-dl">8</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|15|533|<span class="rank-name-dl">ショウヘイ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|16|501|<span class="rank-name-dl">MITSUKI</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|17|492|<span class="rank-name-dl">アイガエ・チャン</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|18|476|<span class="rank-name-dl">DJ ANDREA 2000</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|19|455|<span class="rank-name-dl">あいちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|20|447|<span class="rank-name-dl">ゴミ箱愛</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|21|444|<span class="rank-name-dl">Reona</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|22|428|<span class="rank-name-dl">と</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|23|417|<span class="rank-name-dl">⌘White・Bear⌘</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|24|416|<span class="rank-name-dl">NO NAME 3542</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|25|392|<span class="rank-name-dl">NO NAME 9793</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|26|375|<span class="rank-name-dl">Moon</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|27|348|<span class="rank-name-dl">malco727</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|28|324|<span class="rank-name-dl">ポテサワ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|28|324|<span class="rank-name-dl">ＵＥＰ</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
+|30|319|<span class="rank-name-dl">Ikko yamada</span>|<a href="https://search.dartslive.com/jp/shop/acd9788ddd858cfb0d9b047a20a7ba1e">DARTS BAR リーゼント</a>|<a href="/darts/rank/東京都/八丈島">東京都八丈島</a>|
 
 
 #### PHOENIXDARTS TOP 100

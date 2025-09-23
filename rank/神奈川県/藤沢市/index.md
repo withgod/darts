@@ -35,11 +35,11 @@ ___
 |9|1132|<span class="rank-name-dl">機能評価係数Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |11|1128|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |12|1126|<span class="rank-name-pd">shinichi ogawa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9537?s_seq=9537">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|13|1125|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店 自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|13|1125|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |14|1124|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|15|1122|<span class="rank-name-dl">ゆーと</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|16|1119|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|17|1116|<span class="rank-name-dl">ナベ＠T-CROWN</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店 自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|15|1122|<span class="rank-name-dl">ゆーと</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|16|1119|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|17|1116|<span class="rank-name-dl">ナベ＠T-CROWN</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |17|1116|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |19|1111|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |20|1110|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
@@ -60,69 +60,69 @@ ___
 |35|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |36|1073|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡邊 嚴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56593?s_seq=56593">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |37|1070|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|37|1070|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|37|1070|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |39|1069|<span class="rank-name-dl">O･BO･RO</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |40|1068|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |41|1066|<span class="rank-name-dl">しょ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |42|1065|<span class="rank-name-dl">レモンサワ〜!!</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |42|1065|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堤 博之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95299?s_seq=95299">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|44|1062|<span class="rank-name-dl">-ぴろ-[〜FAM〜］</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|45|1060|<span class="rank-name-pd">拾い屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95299?s_seq=95299">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|46|1059|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|47|1057|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|48|1056|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|49|1055|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|50|1053|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|51|1052|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|51|1052|<span class="rank-name-dl">たいよう</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|53|1049|<span class="rank-name-pd">いんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9395?s_seq=9395">Darts Labo fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|54|1048|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|54|1048|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|56|1047|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|56|1047|<span class="rank-name-dl">田中</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|58|1046|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|59|1045|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|60|1042|<span class="rank-name-dl">龍聖@EXCITE</span>|<a href="https://search.dartslive.com/jp/shop/c778deb0a9c5381a0d9b047a20a7ba1e">BAR EXCITE BAR EXCITE</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|61|1041|<span class="rank-name-dl">Hiroki.H</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|62|1040|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|63|1039|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|63|1039|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|65|1038|<span class="rank-name-dl">Hiroshi@湘南</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|65|1038|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|67|1035|<span class="rank-name-dl">sou</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|68|1034|<span class="rank-name-dl">NO NAME 1798</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|68|1034|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|68|1034|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|71|1032|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|72|1031|<span class="rank-name-dl">たいせい☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|73|1030|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|74|1029|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|75|1027|<span class="rank-name-dl">カツカレー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|76|1026|<span class="rank-name-dl">へっ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|77|1022|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|77|1022|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|77|1022|<span class="rank-name-dl">斉藤　龍聖</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|77|1022|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|81|1021|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|82|1020|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|82|1020|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/313f31a6fd592a5e0d9b047a20a7ba1e">Amusenent BAR プラチナ</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|82|1020|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|85|1019|<span class="rank-name-dl">Hiroshi_&quot;M&quot;</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|86|1016|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|87|1015|<span class="rank-name-dl">sora</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|87|1015|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|89|1014|<span class="rank-name-dl">コッペ</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|90|1012|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|90|1012|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|92|1011|<span class="rank-name-dl">まさや</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|92|1011|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|94|1010|<span class="rank-name-dl">びな太郎零式</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|94|1010|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|96|1009|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|96|1009|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|98|1008|<span class="rank-name-dl">しばっち</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|98|1008|<span class="rank-name-dl">たいよー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|98|1008|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|44|1060|<span class="rank-name-pd">拾い屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95299?s_seq=95299">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|45|1059|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|46|1057|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|47|1056|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|48|1055|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|49|1053|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|50|1052|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|50|1052|<span class="rank-name-dl">たいよう</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|52|1049|<span class="rank-name-pd">いんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9395?s_seq=9395">Darts Labo fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|53|1048|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|53|1048|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|55|1047|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|55|1047|<span class="rank-name-dl">田中</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|57|1046|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|58|1045|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|59|1042|<span class="rank-name-dl">龍聖@EXCITE</span>|<a href="https://search.dartslive.com/jp/shop/c778deb0a9c5381a0d9b047a20a7ba1e">BAR EXCITE</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|60|1041|<span class="rank-name-dl">Hiroki.H</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|61|1040|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|62|1039|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|62|1039|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|64|1038|<span class="rank-name-dl">Hiroshi@湘南</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|64|1038|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|66|1035|<span class="rank-name-dl">sou</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|67|1034|<span class="rank-name-dl">NO NAME 1798</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|67|1034|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|67|1034|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|70|1032|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|71|1031|<span class="rank-name-dl">たいせい☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|72|1030|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|73|1029|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|74|1027|<span class="rank-name-dl">カツカレー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|75|1026|<span class="rank-name-dl">へっ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|76|1022|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|76|1022|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|76|1022|<span class="rank-name-dl">斉藤　龍聖</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|76|1022|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|80|1021|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|81|1020|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|81|1020|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/313f31a6fd592a5e0d9b047a20a7ba1e">Amusenent BAR プラチナ</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|83|1019|<span class="rank-name-dl">Hiroshi_&quot;M&quot;</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|84|1016|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|85|1015|<span class="rank-name-dl">sora</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|85|1015|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|87|1014|<span class="rank-name-dl">コッペ</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|88|1012|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|88|1012|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|90|1011|<span class="rank-name-dl">まさや</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|90|1011|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|92|1010|<span class="rank-name-dl">びな太郎零式</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|92|1010|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|94|1009|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|94|1009|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|96|1008|<span class="rank-name-dl">しばっち</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|96|1008|<span class="rank-name-dl">たいよー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|96|1008|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|99|1007|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|99|1007|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -143,11 +143,11 @@ ___
 |9|1132|<span class="rank-name-dl">-ぴろ-[〜FAM〜］</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |9|1132|<span class="rank-name-dl">機能評価係数Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |11|1128|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|12|1125|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店 自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|12|1125|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |13|1124|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|14|1122|<span class="rank-name-dl">ゆーと</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|15|1119|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|16|1116|<span class="rank-name-dl">ナベ＠T-CROWN</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店 自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|14|1122|<span class="rank-name-dl">ゆーと</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|15|1119|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|16|1116|<span class="rank-name-dl">ナベ＠T-CROWN</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |16|1116|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |18|1111|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |19|1110|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
@@ -165,73 +165,73 @@ ___
 |31|1077|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |32|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |33|1070|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|33|1070|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|33|1070|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |35|1069|<span class="rank-name-dl">O･BO･RO</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |36|1068|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |37|1066|<span class="rank-name-dl">しょ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 |38|1065|<span class="rank-name-dl">レモンサワ〜!!</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|39|1062|<span class="rank-name-dl">-ぴろ-[〜FAM〜］</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|40|1059|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|41|1057|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|42|1056|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|43|1055|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|44|1053|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|45|1052|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|45|1052|<span class="rank-name-dl">たいよう</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|47|1048|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|47|1048|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|49|1047|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|49|1047|<span class="rank-name-dl">田中</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|51|1046|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|52|1045|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|53|1042|<span class="rank-name-dl">龍聖@EXCITE</span>|<a href="https://search.dartslive.com/jp/shop/c778deb0a9c5381a0d9b047a20a7ba1e">BAR EXCITE BAR EXCITE</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|54|1041|<span class="rank-name-dl">Hiroki.H</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|55|1040|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|56|1039|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|56|1039|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|58|1038|<span class="rank-name-dl">Hiroshi@湘南</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|58|1038|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|60|1035|<span class="rank-name-dl">sou</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|61|1034|<span class="rank-name-dl">NO NAME 1798</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|61|1034|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|61|1034|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|64|1032|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|65|1031|<span class="rank-name-dl">たいせい☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|66|1030|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|67|1029|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|68|1027|<span class="rank-name-dl">カツカレー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|69|1026|<span class="rank-name-dl">へっ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|70|1022|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|70|1022|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|70|1022|<span class="rank-name-dl">斉藤　龍聖</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|70|1022|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|74|1021|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|75|1020|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|75|1020|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/313f31a6fd592a5e0d9b047a20a7ba1e">Amusenent BAR プラチナ</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|75|1020|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|78|1019|<span class="rank-name-dl">Hiroshi_&quot;M&quot;</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|79|1016|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|80|1015|<span class="rank-name-dl">sora</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|80|1015|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|82|1014|<span class="rank-name-dl">コッペ</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|83|1012|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|83|1012|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|85|1011|<span class="rank-name-dl">まさや</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|85|1011|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|87|1010|<span class="rank-name-dl">びな太郎零式</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|87|1010|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|89|1009|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|89|1009|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|91|1008|<span class="rank-name-dl">しばっち</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|91|1008|<span class="rank-name-dl">たいよー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|91|1008|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|94|1007|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|94|1007|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|96|1006|<span class="rank-name-dl">RYOTA《絆》</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|96|1006|<span class="rank-name-dl">無限神奈川【KZ】</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|98|1005|<span class="rank-name-dl">ぬこ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|98|1005|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
-|100|1003|<span class="rank-name-dl">ひぐちょ✯</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|39|1059|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|40|1057|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|41|1056|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|42|1055|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|43|1053|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|44|1052|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|44|1052|<span class="rank-name-dl">たいよう</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|46|1048|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|46|1048|<span class="rank-name-dl">西久保　悠友</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|48|1047|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|48|1047|<span class="rank-name-dl">田中</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|50|1046|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|51|1045|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|52|1042|<span class="rank-name-dl">龍聖@EXCITE</span>|<a href="https://search.dartslive.com/jp/shop/c778deb0a9c5381a0d9b047a20a7ba1e">BAR EXCITE</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|53|1041|<span class="rank-name-dl">Hiroki.H</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|54|1040|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|55|1039|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|55|1039|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|57|1038|<span class="rank-name-dl">Hiroshi@湘南</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|57|1038|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|59|1035|<span class="rank-name-dl">sou</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|60|1034|<span class="rank-name-dl">NO NAME 1798</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|60|1034|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|60|1034|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|63|1032|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|64|1031|<span class="rank-name-dl">たいせい☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|65|1030|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|66|1029|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|67|1027|<span class="rank-name-dl">カツカレー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|68|1026|<span class="rank-name-dl">へっ。</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|69|1022|<span class="rank-name-dl">ナベ＠Rally</span>|<a href="https://search.dartslive.com/jp/shop/2588afb68a70afb60d9b047a20a7ba1e">Triple Crown 湘南</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|69|1022|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|69|1022|<span class="rank-name-dl">斉藤　龍聖</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|69|1022|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|73|1021|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|74|1020|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|74|1020|<span class="rank-name-dl">堤　博之</span>|<a href="https://search.dartslive.com/jp/shop/313f31a6fd592a5e0d9b047a20a7ba1e">Amusenent BAR プラチナ</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|76|1019|<span class="rank-name-dl">Hiroshi_&quot;M&quot;</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|77|1016|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|78|1015|<span class="rank-name-dl">sora</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|78|1015|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|80|1014|<span class="rank-name-dl">コッペ</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|81|1012|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|81|1012|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/b5d688214a499e4bb21333aee1bd51e4">DARTS&BAR FAM</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|83|1011|<span class="rank-name-dl">まさや</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|83|1011|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|85|1010|<span class="rank-name-dl">びな太郎零式</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|85|1010|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|87|1009|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|87|1009|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|89|1008|<span class="rank-name-dl">しばっち</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|89|1008|<span class="rank-name-dl">たいよー</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|89|1008|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/3ba2385f2ff79fc2a3f63593b5358cc4">自遊空間 藤沢駅前南口店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|92|1007|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|92|1007|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|94|1006|<span class="rank-name-dl">RYOTA《絆》</span>|<a href="https://search.dartslive.com/jp/shop/69330fb70884244bfec1ae84bb28bd87">快活CLUB 藤沢弥勒寺店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|94|1006|<span class="rank-name-dl">無限神奈川【KZ】</span>|<a href="https://search.dartslive.com/jp/shop/d117ec2b40c927020d9b047a20a7ba1e">Darts Labo Fujisawa</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|96|1005|<span class="rank-name-dl">ぬこ</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|96|1005|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/a3fa1af00403fb820d9b047a20a7ba1e">Backdoor</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|98|1003|<span class="rank-name-dl">ひぐちょ✯</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|98|1003|<span class="rank-name-dl">太田博一</span>|<a href="https://search.dartslive.com/jp/shop/478a97a6a23b5b930d9b047a20a7ba1e">LION・HEART</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
+|98|1003|<span class="rank-name-dl">弥富 悠太</span>|<a href="https://search.dartslive.com/jp/shop/ed1228848f40a639fec1ae84bb28bd87">快活CLUB Luz湘南辻堂店</a>|<a href="/darts/rank/神奈川県/藤沢市">神奈川県藤沢市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -29,7 +29,7 @@ ___
 |4|1057|<span class="rank-name-dl">うりぼし</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |5|1049|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横山  貴志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |6|1029|<span class="rank-name-dl">D-CLEW☆やっし～</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|7|984|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|7|984|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |8|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>市川 勇太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |9|969|<span class="rank-name-pd">あかまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |10|965|<span class="rank-name-pd">やっし〜セパ@D-CLEW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
@@ -53,7 +53,7 @@ ___
 |28|884|<span class="rank-name-pd">かいしま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |28|884|<span class="rank-name-dl">しょーへい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |30|879|<span class="rank-name-dl">ﾀ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|31|872|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|31|872|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |32|871|<span class="rank-name-dl">Kento.Yagi</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |33|869|<span class="rank-name-dl">DOI</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |34|865|<span class="rank-name-dl">NB 19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
@@ -62,7 +62,7 @@ ___
 |37|850|<span class="rank-name-pd">[LINE] BROWN Black</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |38|848|<span class="rank-name-dl">がんじ～</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |39|842|<span class="rank-name-pd">kino</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|40|841|<span class="rank-name-dl">しょーへい〆</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|40|841|<span class="rank-name-dl">しょーへい〆</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |41|838|<span class="rank-name-pd">たーくお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |42|837|<span class="rank-name-dl">チル</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |43|835|<span class="rank-name-dl">なべ吉19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
@@ -80,49 +80,49 @@ ___
 |55|794|<span class="rank-name-dl">リクシル</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |56|791|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |57|790|<span class="rank-name-dl">きしくん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|57|790|<span class="rank-name-dl">マッチ棒@湧泉</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|57|790|<span class="rank-name-dl">マッチ棒@湧泉</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |59|789|<span class="rank-name-dl">kodak0523</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |60|788|<span class="rank-name-pd">Koduck0523</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|60|788|<span class="rank-name-dl">NOJIMA-DENKI</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |60|788|<span class="rank-name-dl">くろぱっち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|63|785|<span class="rank-name-pd">あんどす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|64|784|<span class="rank-name-pd">kaname.m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|65|782|<span class="rank-name-pd">Hacchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|66|776|<span class="rank-name-pd">ウッキー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|67|775|<span class="rank-name-pd">サタＫＥＮ 。。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|68|773|<span class="rank-name-pd">ながしまるな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|69|772|<span class="rank-name-pd">てってれー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|70|771|<span class="rank-name-dl">きむたW(`0`)W</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|70|771|<span class="rank-name-dl">ｼﾞﾐｰｸﾘﾌ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|72|769|<span class="rank-name-dl">NO NAME3989</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|72|769|<span class="rank-name-dl">keisuke</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|74|767|<span class="rank-name-dl">タンメン@NEO</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|75|763|<span class="rank-name-dl">KJ-WAVE</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|75|763|<span class="rank-name-dl">かずま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|77|762|<span class="rank-name-pd">レモンティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|78|761|<span class="rank-name-pd">RAIジングRAI⚡️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|78|761|<span class="rank-name-pd">後藤／九十九</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|80|754|<span class="rank-name-pd">MASARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|80|754|<span class="rank-name-dl">涼介</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|82|751|<span class="rank-name-pd">K.K-CEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|82|751|<span class="rank-name-pd">カマキリJo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|84|750|<span class="rank-name-dl">田中太郎</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|85|749|<span class="rank-name-dl">げんき@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|86|746|<span class="rank-name-pd">shi&#x27;nya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|87|744|<span class="rank-name-dl">kiyo$ick</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|88|743|<span class="rank-name-pd">はなかっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|89|742|<span class="rank-name-pd">たぬきさん@豊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|90|740|<span class="rank-name-dl">connect@12</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|91|738|<span class="rank-name-dl">いちかわさき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|92|737|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|93|735|<span class="rank-name-pd">そばジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|93|735|<span class="rank-name-pd">セイヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|95|734|<span class="rank-name-dl">hiroki arakawa</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|96|733|<span class="rank-name-pd">A.A-CEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|97|731|<span class="rank-name-dl">family.tetu-2</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|98|729|<span class="rank-name-pd">葬送のたけるん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|99|726|<span class="rank-name-pd">TTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|100|723|<span class="rank-name-pd">りょうみけろっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|62|785|<span class="rank-name-pd">あんどす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|63|784|<span class="rank-name-pd">kaname.m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|64|782|<span class="rank-name-pd">Hacchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|65|776|<span class="rank-name-pd">ウッキー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|66|775|<span class="rank-name-pd">サタＫＥＮ 。。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|67|773|<span class="rank-name-pd">ながしまるな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|68|772|<span class="rank-name-pd">てってれー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|69|771|<span class="rank-name-dl">きむたW(`0`)W</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|69|771|<span class="rank-name-dl">ｼﾞﾐｰｸﾘﾌ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|71|769|<span class="rank-name-dl">NO NAME3989</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|71|769|<span class="rank-name-dl">keisuke</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|73|767|<span class="rank-name-dl">タンメン@NEO</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|74|763|<span class="rank-name-dl">KJ-WAVE</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|74|763|<span class="rank-name-dl">かずま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|76|762|<span class="rank-name-pd">レモンティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|77|761|<span class="rank-name-pd">RAIジングRAI⚡️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|77|761|<span class="rank-name-pd">後藤／九十九</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|79|754|<span class="rank-name-pd">MASARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|79|754|<span class="rank-name-dl">涼介</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|81|751|<span class="rank-name-pd">K.K-CEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|81|751|<span class="rank-name-pd">カマキリJo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|83|750|<span class="rank-name-dl">田中太郎</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|84|749|<span class="rank-name-dl">げんき@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|85|746|<span class="rank-name-pd">shi&#x27;nya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|86|744|<span class="rank-name-dl">kiyo$ick</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|87|743|<span class="rank-name-pd">はなかっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|88|742|<span class="rank-name-pd">たぬきさん@豊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|89|740|<span class="rank-name-dl">connect@12</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|90|738|<span class="rank-name-dl">いちかわさき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|91|737|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|92|735|<span class="rank-name-pd">そばジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|92|735|<span class="rank-name-pd">セイヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|94|734|<span class="rank-name-dl">hiroki arakawa</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|95|733|<span class="rank-name-pd">A.A-CEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|96|731|<span class="rank-name-dl">family.tetu-2</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|97|729|<span class="rank-name-pd">葬送のたけるん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|98|726|<span class="rank-name-pd">TTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|99|723|<span class="rank-name-pd">りょうみけろっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|100|722|<span class="rank-name-pd">ライジングRAI⚡️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49388?s_seq=49388">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1061|<span class="rank-name-dl">うりぼっし</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |2|1057|<span class="rank-name-dl">うりぼし</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |3|1029|<span class="rank-name-dl">D-CLEW☆やっし～</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|4|984|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|4|984|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |5|964|<span class="rank-name-dl">やっし～⭐︎Link</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |6|963|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |7|934|<span class="rank-name-dl">NOJIMA-DENKI</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
@@ -146,13 +146,13 @@ ___
 |10|905|<span class="rank-name-dl">拳JIRO†HAT</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |13|884|<span class="rank-name-dl">しょーへい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |14|879|<span class="rank-name-dl">ﾀ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|15|872|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|15|872|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |16|871|<span class="rank-name-dl">Kento.Yagi</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |17|869|<span class="rank-name-dl">DOI</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |18|865|<span class="rank-name-dl">NB 19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |19|862|<span class="rank-name-dl">3iuken</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |20|848|<span class="rank-name-dl">がんじ～</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|21|841|<span class="rank-name-dl">しょーへい〆</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|21|841|<span class="rank-name-dl">しょーへい〆</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |22|837|<span class="rank-name-dl">チル</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |23|835|<span class="rank-name-dl">なべ吉19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |24|829|<span class="rank-name-dl">ﾊﾞﾋﾞﾛﾝ@桜だﾌｧﾐﾘｱ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
@@ -165,73 +165,73 @@ ___
 |31|794|<span class="rank-name-dl">リクシル</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |32|791|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |33|790|<span class="rank-name-dl">きしくん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|33|790|<span class="rank-name-dl">マッチ棒@湧泉</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|33|790|<span class="rank-name-dl">マッチ棒@湧泉</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |35|789|<span class="rank-name-dl">kodak0523</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|36|788|<span class="rank-name-dl">NOJIMA-DENKI</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 |36|788|<span class="rank-name-dl">くろぱっち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|38|771|<span class="rank-name-dl">きむたW(`0`)W</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|38|771|<span class="rank-name-dl">ｼﾞﾐｰｸﾘﾌ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|40|769|<span class="rank-name-dl">NO NAME3989</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|40|769|<span class="rank-name-dl">keisuke</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|42|767|<span class="rank-name-dl">タンメン@NEO</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|43|763|<span class="rank-name-dl">KJ-WAVE</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|43|763|<span class="rank-name-dl">かずま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|45|754|<span class="rank-name-dl">涼介</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|46|750|<span class="rank-name-dl">田中太郎</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|47|749|<span class="rank-name-dl">kaname.m</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|47|749|<span class="rank-name-dl">げんき@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|49|744|<span class="rank-name-dl">kiyo$ick</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|50|740|<span class="rank-name-dl">connect@12</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|51|738|<span class="rank-name-dl">いちかわさき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|52|737|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|53|734|<span class="rank-name-dl">hiroki arakawa</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|54|731|<span class="rank-name-dl">family.tetu-2</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|55|719|<span class="rank-name-dl">kasu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|56|715|<span class="rank-name-dl">JB</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|56|715|<span class="rank-name-dl">ae</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|58|711|<span class="rank-name-dl">bear0330</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|59|705|<span class="rank-name-dl">ホゲタ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|60|696|<span class="rank-name-dl">ナベキチ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|61|693|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|61|693|<span class="rank-name-dl">葬送のタケールン</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|63|692|<span class="rank-name-dl">あかまる</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|64|691|<span class="rank-name-dl">ミジン子</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店 Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|65|688|<span class="rank-name-dl">葬送のたけるん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|66|680|<span class="rank-name-dl">ざわっち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|66|680|<span class="rank-name-dl">大三元こうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|68|660|<span class="rank-name-dl">MED</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|69|647|<span class="rank-name-dl">ちづる@Link和光</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|69|647|<span class="rank-name-dl">てりやき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|71|643|<span class="rank-name-dl">45(YOKO.)</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|72|639|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|73|638|<span class="rank-name-dl">ATSUSHI74</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|74|631|<span class="rank-name-dl">葬送のたけるん貳</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|75|604|<span class="rank-name-dl">屑魔静馬</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|76|596|<span class="rank-name-dl">ベンタンクール</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|77|595|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|78|584|<span class="rank-name-dl">あゆぱんまん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|79|580|<span class="rank-name-dl">_(._.)_</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|79|580|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|81|578|<span class="rank-name-dl">みなまる</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|82|568|<span class="rank-name-dl">mono</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|83|566|<span class="rank-name-dl">suigetu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|84|555|<span class="rank-name-dl">たべい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|85|545|<span class="rank-name-dl">たふぃー</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|86|537|<span class="rank-name-dl">たくみ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|87|481|<span class="rank-name-dl">きなこもち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|88|478|<span class="rank-name-dl">ぇみ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|89|463|<span class="rank-name-dl">まあじの開き</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|90|462|<span class="rank-name-dl">あぐら</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|91|461|<span class="rank-name-dl">ビスケ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|92|453|<span class="rank-name-dl">りょまのすけ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|93|438|<span class="rank-name-dl">Curumi</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|94|429|<span class="rank-name-dl">くもめ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|95|423|<span class="rank-name-dl">昌古/操/雫</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|96|420|<span class="rank-name-dl">まど</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|97|414|<span class="rank-name-dl">あかまる</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|98|405|<span class="rank-name-dl">Mizuho@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|99|395|<span class="rank-name-dl">にょい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
-|100|393|<span class="rank-name-dl">ポンコツ ハタケ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|37|771|<span class="rank-name-dl">きむたW(`0`)W</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|37|771|<span class="rank-name-dl">ｼﾞﾐｰｸﾘﾌ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|39|769|<span class="rank-name-dl">NO NAME3989</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|39|769|<span class="rank-name-dl">keisuke</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|41|767|<span class="rank-name-dl">タンメン@NEO</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|42|763|<span class="rank-name-dl">KJ-WAVE</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|42|763|<span class="rank-name-dl">かずま</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|44|754|<span class="rank-name-dl">涼介</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|45|750|<span class="rank-name-dl">田中太郎</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|46|749|<span class="rank-name-dl">kaname.m</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|46|749|<span class="rank-name-dl">げんき@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|48|744|<span class="rank-name-dl">kiyo$ick</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|49|740|<span class="rank-name-dl">connect@12</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|50|738|<span class="rank-name-dl">いちかわさき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|51|737|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|52|734|<span class="rank-name-dl">hiroki arakawa</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|53|731|<span class="rank-name-dl">family.tetu-2</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|54|719|<span class="rank-name-dl">kasu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|55|715|<span class="rank-name-dl">JB</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|55|715|<span class="rank-name-dl">ae</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|57|711|<span class="rank-name-dl">bear0330</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|58|705|<span class="rank-name-dl">ホゲタ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|59|696|<span class="rank-name-dl">ナベキチ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|60|693|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|60|693|<span class="rank-name-dl">葬送のタケールン</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|62|692|<span class="rank-name-dl">あかまる</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|63|691|<span class="rank-name-dl">ミジン子</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|64|688|<span class="rank-name-dl">葬送のたけるん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|65|680|<span class="rank-name-dl">ざわっち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|65|680|<span class="rank-name-dl">大三元こうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|67|660|<span class="rank-name-dl">MED</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|68|647|<span class="rank-name-dl">ちづる@Link和光</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|68|647|<span class="rank-name-dl">てりやき</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|70|643|<span class="rank-name-dl">45(YOKO.)</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|71|639|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|72|638|<span class="rank-name-dl">ATSUSHI74</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|73|631|<span class="rank-name-dl">葬送のたけるん貳</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|74|604|<span class="rank-name-dl">屑魔静馬</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|75|596|<span class="rank-name-dl">ベンタンクール</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|76|595|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|77|584|<span class="rank-name-dl">あゆぱんまん</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|78|580|<span class="rank-name-dl">_(._.)_</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|78|580|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|80|578|<span class="rank-name-dl">みなまる</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|81|568|<span class="rank-name-dl">mono</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|82|566|<span class="rank-name-dl">suigetu</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|83|555|<span class="rank-name-dl">たべい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|84|545|<span class="rank-name-dl">たふぃー</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|85|537|<span class="rank-name-dl">たくみ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|86|481|<span class="rank-name-dl">きなこもち</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|87|478|<span class="rank-name-dl">ぇみ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|88|463|<span class="rank-name-dl">まあじの開き</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|89|462|<span class="rank-name-dl">あぐら</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|90|461|<span class="rank-name-dl">ビスケ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|91|453|<span class="rank-name-dl">りょまのすけ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|92|438|<span class="rank-name-dl">Curumi</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|93|429|<span class="rank-name-dl">くもめ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|94|423|<span class="rank-name-dl">昌古/操/雫</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|95|420|<span class="rank-name-dl">まど</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|96|405|<span class="rank-name-dl">Mizuho@Apollo</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|97|395|<span class="rank-name-dl">にょい</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|98|393|<span class="rank-name-dl">ポンコツ ハタケ</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|99|391|<span class="rank-name-dl">ひなの</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
+|100|337|<span class="rank-name-dl">Akkey</span>|<a href="https://search.dartslive.com/jp/shop/695efbee164a44390d9b047a20a7ba1e">Link 和光市店</a>|<a href="/darts/rank/埼玉県/和光市">埼玉県和光市</a>|
 
 
 #### PHOENIXDARTS TOP 100

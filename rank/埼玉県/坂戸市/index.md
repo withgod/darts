@@ -37,7 +37,7 @@ ___
 |12|925|<span class="rank-name-dl">しーしー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |13|923|<span class="rank-name-dl">つぅ。</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |14|901|<span class="rank-name-dl">ねぎぼーず</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|15|880|<span class="rank-name-dl">テルユキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|15|880|<span class="rank-name-dl">テルユキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |16|868|<span class="rank-name-dl">れいじ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |17|865|<span class="rank-name-pd">TADASHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |18|862|<span class="rank-name-dl">Kin</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -49,7 +49,7 @@ ___
 |24|829|<span class="rank-name-pd">けーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |25|822|<span class="rank-name-dl">ちょろ♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |26|819|<span class="rank-name-dl">KOUTAROU</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|27|818|<span class="rank-name-dl">NO NAME 1101</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|27|818|<span class="rank-name-dl">NO NAME 1101</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |28|815|<span class="rank-name-pd">けいくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |29|812|<span class="rank-name-pd">ポッキー&amp;つくね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |30|808|<span class="rank-name-pd">Fujino</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -66,7 +66,7 @@ ___
 |40|797|<span class="rank-name-pd">K.B!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |42|790|<span class="rank-name-dl">ｽｷﾞﾁｬﾝ@Vintage</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |43|786|<span class="rank-name-dl">PABLOW</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|44|785|<span class="rank-name-dl">パジャマでドンキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|44|785|<span class="rank-name-dl">パジャマでドンキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |45|781|<span class="rank-name-pd">ハシビロコウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |46|778|<span class="rank-name-dl">ｳﾒﾄﾞﾘﾙ＠Vintage</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |47|777|<span class="rank-name-pd">ゆうき　BARだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -77,52 +77,52 @@ ___
 |51|772|<span class="rank-name-dl">めろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |53|768|<span class="rank-name-dl">ミッシー60</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |54|761|<span class="rank-name-dl">うぉーい</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|55|758|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|55|758|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |56|753|<span class="rank-name-pd">★頼りない門番NORI★テラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |56|753|<span class="rank-name-dl">めろゆにばーす</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |58|752|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |58|752|<span class="rank-name-pd">RYUKI@DARUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |60|744|<span class="rank-name-dl">WINTER</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |61|741|<span class="rank-name-dl">麗々</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|62|737|<span class="rank-name-dl">リュー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|62|737|<span class="rank-name-dl">リュー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |63|736|<span class="rank-name-dl">ふみや@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|64|729|<span class="rank-name-dl">バランちゃん@樹</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|64|729|<span class="rank-name-dl">バランちゃん@樹</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |65|728|<span class="rank-name-pd">メロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |66|726|<span class="rank-name-pd">みかげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |67|723|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |68|721|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |69|719|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |70|717|<span class="rank-name-pd">RYUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|70|717|<span class="rank-name-dl">つぅ。</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|72|715|<span class="rank-name-dl">SHO1</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|72|715|<span class="rank-name-pd">けいくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|74|713|<span class="rank-name-pd">YUUTA@IPPO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|74|713|<span class="rank-name-pd">はっちゃん@だるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|76|710|<span class="rank-name-dl">しょーたぁ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|77|706|<span class="rank-name-dl">すぎしょー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|78|704|<span class="rank-name-dl">N.かずき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|79|699|<span class="rank-name-dl">つんつんまる様</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|80|698|<span class="rank-name-dl">K9K0K8K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|81|696|<span class="rank-name-dl">ichi</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|82|692|<span class="rank-name-dl">Ib</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|83|690|<span class="rank-name-dl">りょた</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|84|689|<span class="rank-name-pd">ばいきんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|85|684|<span class="rank-name-dl">ここ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|86|683|<span class="rank-name-dl">willcom5</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|87|682|<span class="rank-name-dl">わっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|88|681|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|89|680|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|90|679|<span class="rank-name-pd">しーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|91|677|<span class="rank-name-dl">おじさん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|91|677|<span class="rank-name-pd">松島　純一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|93|675|<span class="rank-name-dl">machi♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|94|669|<span class="rank-name-dl">おーしの</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|95|667|<span class="rank-name-dl">R33 GT-R</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|95|667|<span class="rank-name-dl">kobayan♂51℃</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|97|665|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|98|662|<span class="rank-name-dl">くろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|99|659|<span class="rank-name-pd">ケジラミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|100|658|<span class="rank-name-dl">Daniel</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|71|715|<span class="rank-name-dl">SHO1</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|71|715|<span class="rank-name-pd">けいくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|73|713|<span class="rank-name-pd">YUUTA@IPPO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|73|713|<span class="rank-name-pd">はっちゃん@だるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|75|710|<span class="rank-name-dl">しょーたぁ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|76|706|<span class="rank-name-dl">すぎしょー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|77|704|<span class="rank-name-dl">N.かずき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|78|699|<span class="rank-name-dl">つんつんまる様</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|79|698|<span class="rank-name-dl">K9K0K8K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|80|696|<span class="rank-name-dl">ichi</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|81|692|<span class="rank-name-dl">Ib</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|82|690|<span class="rank-name-dl">りょた</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|83|689|<span class="rank-name-pd">ばいきんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|84|684|<span class="rank-name-dl">ここ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|85|683|<span class="rank-name-dl">willcom5</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|86|682|<span class="rank-name-dl">わっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|87|681|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|88|679|<span class="rank-name-pd">しーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|89|677|<span class="rank-name-dl">おじさん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|89|677|<span class="rank-name-pd">松島　純一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|91|675|<span class="rank-name-dl">machi♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|92|669|<span class="rank-name-dl">おーしの</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|93|667|<span class="rank-name-dl">R33 GT-R</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|93|667|<span class="rank-name-dl">kobayan♂51℃</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|95|665|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|96|662|<span class="rank-name-dl">くろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|97|659|<span class="rank-name-pd">ケジラミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|98|658|<span class="rank-name-dl">Daniel</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|98|658|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|100|656|<span class="rank-name-pd">PONPON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -143,7 +143,7 @@ ___
 |9|925|<span class="rank-name-dl">しーしー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |10|923|<span class="rank-name-dl">つぅ。</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |11|901|<span class="rank-name-dl">ねぎぼーず</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|12|880|<span class="rank-name-dl">テルユキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|12|880|<span class="rank-name-dl">テルユキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |13|868|<span class="rank-name-dl">れいじ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |14|862|<span class="rank-name-dl">Kin</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |15|854|<span class="rank-name-dl">ぽんぽこ2</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -151,7 +151,7 @@ ___
 |17|846|<span class="rank-name-dl">®️ GUNJI</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |18|822|<span class="rank-name-dl">ちょろ♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |19|819|<span class="rank-name-dl">KOUTAROU</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|20|818|<span class="rank-name-dl">NO NAME 1101</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|20|818|<span class="rank-name-dl">NO NAME 1101</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |21|808|<span class="rank-name-dl">god☆i@Queen&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |22|807|<span class="rank-name-dl">凜人</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |23|801|<span class="rank-name-dl">LosT</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -160,7 +160,7 @@ ___
 |26|799|<span class="rank-name-dl">syateru</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |27|790|<span class="rank-name-dl">ｽｷﾞﾁｬﾝ@Vintage</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |28|786|<span class="rank-name-dl">PABLOW</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|29|785|<span class="rank-name-dl">パジャマでドンキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|29|785|<span class="rank-name-dl">パジャマでドンキ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |30|778|<span class="rank-name-dl">ｳﾒﾄﾞﾘﾙ＠Vintage</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |31|774|<span class="rank-name-dl">P5R</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |31|774|<span class="rank-name-dl">玲冷</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
@@ -169,66 +169,64 @@ ___
 |34|772|<span class="rank-name-dl">めろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |36|768|<span class="rank-name-dl">ミッシー60</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |37|761|<span class="rank-name-dl">うぉーい</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|38|758|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|38|758|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |39|753|<span class="rank-name-dl">めろゆにばーす</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |40|752|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |41|744|<span class="rank-name-dl">WINTER</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |42|741|<span class="rank-name-dl">麗々</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|43|737|<span class="rank-name-dl">リュー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|43|737|<span class="rank-name-dl">リュー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |44|736|<span class="rank-name-dl">ふみや@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|45|729|<span class="rank-name-dl">バランちゃん@樹</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|45|729|<span class="rank-name-dl">バランちゃん@樹</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |46|723|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |47|721|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |48|719|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|49|717|<span class="rank-name-dl">つぅ。</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|50|715|<span class="rank-name-dl">SHO1</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|51|710|<span class="rank-name-dl">しょーたぁ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|52|706|<span class="rank-name-dl">すぎしょー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|53|704|<span class="rank-name-dl">N.かずき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|54|699|<span class="rank-name-dl">つんつんまる様</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|55|698|<span class="rank-name-dl">K9K0K8K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店 ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|56|696|<span class="rank-name-dl">ichi</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|57|692|<span class="rank-name-dl">Ib</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|58|690|<span class="rank-name-dl">りょた</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|59|684|<span class="rank-name-dl">ここ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|60|683|<span class="rank-name-dl">willcom5</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|61|682|<span class="rank-name-dl">わっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|62|681|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|63|680|<span class="rank-name-dl">axa_ta0505</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|64|677|<span class="rank-name-dl">おじさん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|65|675|<span class="rank-name-dl">machi♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|66|669|<span class="rank-name-dl">おーしの</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|67|667|<span class="rank-name-dl">R33 GT-R</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|67|667|<span class="rank-name-dl">kobayan♂51℃</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|69|665|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|70|662|<span class="rank-name-dl">くろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|71|658|<span class="rank-name-dl">Daniel</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|71|658|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|73|650|<span class="rank-name-dl">たかあき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|74|648|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|75|640|<span class="rank-name-dl">Maiii</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|76|638|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|77|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|78|632|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|79|625|<span class="rank-name-dl">ヌカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|80|623|<span class="rank-name-dl">ばばちゃん@BOC</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|81|612|<span class="rank-name-dl">糸井 天</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|82|561|<span class="rank-name-dl">B-slim</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|83|544|<span class="rank-name-dl">youhua</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|84|530|<span class="rank-name-dl">水蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|85|513|<span class="rank-name-dl">Hauru</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|86|504|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|87|486|<span class="rank-name-dl">めめたん♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|88|480|<span class="rank-name-dl">まるかいてフォイ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|89|473|<span class="rank-name-dl">Enable</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|90|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|91|386|<span class="rank-name-dl">yuna</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|92|348|<span class="rank-name-dl">ごはんあむあむ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|93|333|<span class="rank-name-dl">あいみ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|94|331|<span class="rank-name-dl">NO NAME 2167</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|95|329|<span class="rank-name-dl">nachan</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|96|298|<span class="rank-name-dl">咲夜</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|97|234|<span class="rank-name-dl">Chii</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|49|715|<span class="rank-name-dl">SHO1</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|50|710|<span class="rank-name-dl">しょーたぁ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|51|706|<span class="rank-name-dl">すぎしょー</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|52|704|<span class="rank-name-dl">N.かずき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|53|699|<span class="rank-name-dl">つんつんまる様</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|54|698|<span class="rank-name-dl">K9K0K8K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|55|696|<span class="rank-name-dl">ichi</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|56|692|<span class="rank-name-dl">Ib</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|57|690|<span class="rank-name-dl">りょた</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|58|684|<span class="rank-name-dl">ここ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|59|683|<span class="rank-name-dl">willcom5</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|60|682|<span class="rank-name-dl">わっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|61|681|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|62|677|<span class="rank-name-dl">おじさん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|63|675|<span class="rank-name-dl">machi♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|64|669|<span class="rank-name-dl">おーしの</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|65|667|<span class="rank-name-dl">R33 GT-R</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|65|667|<span class="rank-name-dl">kobayan♂51℃</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|67|665|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|68|662|<span class="rank-name-dl">くろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|69|658|<span class="rank-name-dl">Daniel</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|69|658|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|71|650|<span class="rank-name-dl">たかあき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|72|648|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|73|640|<span class="rank-name-dl">Maiii</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|74|638|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|75|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|76|632|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|77|625|<span class="rank-name-dl">ヌカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|78|623|<span class="rank-name-dl">ばばちゃん@BOC</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|79|612|<span class="rank-name-dl">糸井 天</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|80|561|<span class="rank-name-dl">B-slim</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|81|544|<span class="rank-name-dl">youhua</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|82|530|<span class="rank-name-dl">水蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|83|513|<span class="rank-name-dl">Hauru</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|84|504|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|85|486|<span class="rank-name-dl">めめたん♪</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|86|480|<span class="rank-name-dl">まるかいてフォイ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|87|473|<span class="rank-name-dl">Enable</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|88|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|89|386|<span class="rank-name-dl">yuna</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|90|348|<span class="rank-name-dl">ごはんあむあむ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|91|333|<span class="rank-name-dl">あいみ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|92|331|<span class="rank-name-dl">NO NAME 2167</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|93|329|<span class="rank-name-dl">nachan</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|94|298|<span class="rank-name-dl">咲夜</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|95|234|<span class="rank-name-dl">Chii</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 
 
 #### PHOENIXDARTS TOP 100

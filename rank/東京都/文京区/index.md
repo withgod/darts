@@ -47,7 +47,7 @@ ___
 |22|730|<span class="rank-name-pd">たけちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |22|730|<span class="rank-name-dl">呑熊猫・･)⊃&gt;ｰ◎</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |22|730|<span class="rank-name-pd"><span class="pro-icon-pd"></span>服部 有紗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|25|719|<span class="rank-name-dl">お譲</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|25|719|<span class="rank-name-dl">お譲</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |26|710|<span class="rank-name-pd">AI0814</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |27|696|<span class="rank-name-pd">ぷ～こ∝Jammy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |28|679|<span class="rank-name-dl">ます</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
@@ -55,7 +55,7 @@ ___
 |30|673|<span class="rank-name-dl">ヤニぽこ（さわ）</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |31|672|<span class="rank-name-pd">KENKEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |32|668|<span class="rank-name-pd">キム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94396?s_seq=94396">Baris</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|33|654|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|33|654|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |34|647|<span class="rank-name-dl">おーすけ</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |35|640|<span class="rank-name-pd">Hossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88288?s_seq=88288">RED DOOR</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |35|640|<span class="rank-name-pd">wakusan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88288?s_seq=88288">RED DOOR</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
@@ -117,7 +117,7 @@ ___
 |90|510|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |93|508|<span class="rank-name-pd">‡ぷ～こ‡Jammy‡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |94|500|<span class="rank-name-pd">ryota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|94|500|<span class="rank-name-dl">アちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|94|500|<span class="rank-name-dl">アちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |96|499|<span class="rank-name-pd">冬木の若様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89536?s_seq=89536">トリプルワン</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |97|496|<span class="rank-name-pd">すだ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |98|495|<span class="rank-name-pd">斉藤 龍聖</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86847?s_seq=86847">Maison Jammy</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
@@ -140,10 +140,10 @@ ___
 |6|743|<span class="rank-name-dl">トシユキ@BABA□</span>|<a href="https://search.dartslive.com/jp/shop/3e7799b7231964650d9b047a20a7ba1e">LEGALISS本郷</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |7|733|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |8|730|<span class="rank-name-dl">呑熊猫・･)⊃&gt;ｰ◎</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|9|719|<span class="rank-name-dl">お譲</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|9|719|<span class="rank-name-dl">お譲</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |10|679|<span class="rank-name-dl">ます</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |11|673|<span class="rank-name-dl">ヤニぽこ（さわ）</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|12|654|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|12|654|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |13|647|<span class="rank-name-dl">おーすけ</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |14|640|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/081cb99683ee001da3f63593b5358cc4">上野ガールズバーLIP 上野ガールズバーLIP</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |15|616|<span class="rank-name-dl">玄貴</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
@@ -167,46 +167,43 @@ ___
 |33|510|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |33|510|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |33|510|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|36|500|<span class="rank-name-dl">アちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|36|500|<span class="rank-name-dl">アちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 |37|490|<span class="rank-name-dl">Nodoka</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|38|489|<span class="rank-name-dl">yo__ko</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|39|488|<span class="rank-name-dl">ChrisJones</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|40|485|<span class="rank-name-dl">ねむちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|41|480|<span class="rank-name-dl">松崎し★げろ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|42|477|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|43|472|<span class="rank-name-dl">ヤニぽこ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|44|467|<span class="rank-name-dl">清掃員</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|45|466|<span class="rank-name-dl">バルにゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|46|456|<span class="rank-name-dl">ANNON</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|46|456|<span class="rank-name-dl">tm3696</span>|<a href="https://search.dartslive.com/jp/shop/3e7799b7231964650d9b047a20a7ba1e">LEGALISS本郷</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|48|455|<span class="rank-name-dl">SAT</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|49|445|<span class="rank-name-dl">ぐちえ！！</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|50|442|<span class="rank-name-dl">NO NAME 7271</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|50|442|<span class="rank-name-dl">がんちゃんこ鍋</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|52|439|<span class="rank-name-dl">pipiruru</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|53|437|<span class="rank-name-dl">popopo_8</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|54|430|<span class="rank-name-dl">ゆめち</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|55|426|<span class="rank-name-dl">bar_monolith</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|56|423|<span class="rank-name-dl">NO NAME 3254</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|57|422|<span class="rank-name-dl">NO NAME 7880</span>|<a href="https://search.dartslive.com/jp/shop/3e7799b7231964650d9b047a20a7ba1e">LEGALISS本郷</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|57|422|<span class="rank-name-dl">ヒカル</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|59|414|<span class="rank-name-dl">わき毛ごはん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|60|412|<span class="rank-name-dl">たこさん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|61|411|<span class="rank-name-dl">NO NAME 9777</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|62|407|<span class="rank-name-dl">だんき@ monolith</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|63|403|<span class="rank-name-dl">まよよ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|64|396|<span class="rank-name-dl">Kichy</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|65|384|<span class="rank-name-dl">のぴた</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|66|380|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|67|369|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|68|360|<span class="rank-name-dl">エイリ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|69|354|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|70|348|<span class="rank-name-dl">エース</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店 JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|71|335|<span class="rank-name-dl">が〜す〜</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|72|331|<span class="rank-name-dl">ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|73|328|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|74|322|<span class="rank-name-dl">りょーた</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
-|75|276|<span class="rank-name-dl">みの</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|38|488|<span class="rank-name-dl">ChrisJones</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|39|485|<span class="rank-name-dl">ねむちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|40|480|<span class="rank-name-dl">松崎し★げろ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|41|477|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|42|467|<span class="rank-name-dl">清掃員</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|43|466|<span class="rank-name-dl">バルにゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|44|456|<span class="rank-name-dl">ANNON</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|44|456|<span class="rank-name-dl">tm3696</span>|<a href="https://search.dartslive.com/jp/shop/3e7799b7231964650d9b047a20a7ba1e">LEGALISS本郷</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|46|455|<span class="rank-name-dl">SAT</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|47|445|<span class="rank-name-dl">ぐちえ！！</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|48|442|<span class="rank-name-dl">NO NAME 7271</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|48|442|<span class="rank-name-dl">がんちゃんこ鍋</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|50|439|<span class="rank-name-dl">pipiruru</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|51|437|<span class="rank-name-dl">popopo_8</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|52|430|<span class="rank-name-dl">ゆめち</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|53|426|<span class="rank-name-dl">bar_monolith</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|54|423|<span class="rank-name-dl">NO NAME 3254</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|55|422|<span class="rank-name-dl">NO NAME 7880</span>|<a href="https://search.dartslive.com/jp/shop/3e7799b7231964650d9b047a20a7ba1e">LEGALISS本郷</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|55|422|<span class="rank-name-dl">ヒカル</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|57|414|<span class="rank-name-dl">わき毛ごはん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|58|412|<span class="rank-name-dl">たこさん</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|59|411|<span class="rank-name-dl">NO NAME 9777</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|60|407|<span class="rank-name-dl">だんき@ monolith</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|61|403|<span class="rank-name-dl">まよよ</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|62|396|<span class="rank-name-dl">Kichy</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|63|384|<span class="rank-name-dl">のぴた</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|64|380|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|65|369|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|66|354|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|67|348|<span class="rank-name-dl">エース</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|68|335|<span class="rank-name-dl">が〜す〜</span>|<a href="https://search.dartslive.com/jp/shop/3367c24cc764291b0d9b047a20a7ba1e">B4 ＋A</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|69|331|<span class="rank-name-dl">ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|70|328|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|71|322|<span class="rank-name-dl">りょーた</span>|<a href="https://search.dartslive.com/jp/shop/2d2c74a6891b77720d9b047a20a7ba1e">JJ 上野店</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
+|72|276|<span class="rank-name-dl">みの</span>|<a href="https://search.dartslive.com/jp/shop/53ac260a951f92e15f9f3321c1147265">bar monolith</a>|<a href="/darts/rank/東京都/文京区">東京都文京区</a>|
 
 
 #### PHOENIXDARTS TOP 100

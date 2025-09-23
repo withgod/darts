@@ -39,90 +39,90 @@ ___
 |14|975|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 |15|974|<span class="rank-name-pd">yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 |16|971|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|17|970|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|18|966|<span class="rank-name-dl">みやっち(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|19|964|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|20|960|<span class="rank-name-dl">オグヒコ(´Д` )</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|21|959|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|22|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|22|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|24|956|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|25|955|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|26|954|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|27|953|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|27|953|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|29|948|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|30|942|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|31|941|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|32|938|<span class="rank-name-dl">へっぽこぽこちん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|33|937|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|33|937|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|35|935|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|36|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|36|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|38|932|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|39|922|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|40|919|<span class="rank-name-dl">gs400</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|41|916|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|42|903|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|43|901|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|44|897|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|45|896|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|46|894|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|47|893|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|48|891|<span class="rank-name-dl">★A‐killer★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|49|880|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|49|880|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|51|879|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|52|868|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|53|867|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|54|866|<span class="rank-name-pd">NJP15</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82125?s_seq=82125">Darts Bar ROX</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|55|865|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|55|865|<span class="rank-name-dl">ＫＵＲＩ☆YU→☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|57|863|<span class="rank-name-dl">pin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|58|861|<span class="rank-name-dl">MAA</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|58|861|<span class="rank-name-dl">けけんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|60|860|<span class="rank-name-dl">柴崎　稜善</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|61|857|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|62|855|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|63|852|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|64|851|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|65|848|<span class="rank-name-pd">⠀ yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|66|847|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|67|846|<span class="rank-name-dl">84</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|67|846|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|69|841|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|70|840|<span class="rank-name-dl">shiba？</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|71|832|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|72|829|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|72|829|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|72|829|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|75|819|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|76|815|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|77|812|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|78|810|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|79|809|<span class="rank-name-dl">india91</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|80|806|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|81|805|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|82|803|<span class="rank-name-dl">憧葛</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|83|801|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|84|800|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|85|799|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|86|797|<span class="rank-name-dl">Zawa</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|87|796|<span class="rank-name-dl">oguhiko</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|88|785|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|89|783|<span class="rank-name-dl">二乃</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|90|777|<span class="rank-name-dl">≫ＭＩ＊Ｚ◎≪</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|91|774|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|92|773|<span class="rank-name-dl">ozipan</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|93|772|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|94|771|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|95|770|<span class="rank-name-dl">WoTake</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|95|770|<span class="rank-name-dl">はちみつボーイ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|97|769|<span class="rank-name-dl">みこぴー</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|98|768|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86754?s_seq=86754">韓国居酒屋ポチャポチャ</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|99|766|<span class="rank-name-dl">ｍａ✿</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|100|762|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|17|966|<span class="rank-name-dl">みやっち(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|18|964|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|19|960|<span class="rank-name-dl">オグヒコ(´Д` )</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|20|959|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|21|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|22|956|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|23|953|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|23|953|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|25|948|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|26|942|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|27|941|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|28|938|<span class="rank-name-dl">へっぽこぽこちん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|29|937|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|30|935|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|31|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|31|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|33|932|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|34|922|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|35|919|<span class="rank-name-dl">gs400</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|36|916|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|37|903|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|38|901|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|39|897|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|40|896|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|41|894|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|42|893|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|43|891|<span class="rank-name-dl">★A‐killer★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|44|880|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|44|880|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|46|879|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|47|868|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|48|867|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|49|866|<span class="rank-name-pd">NJP15</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82125?s_seq=82125">Darts Bar ROX</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|50|865|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|50|865|<span class="rank-name-dl">ＫＵＲＩ☆YU→☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|52|863|<span class="rank-name-dl">pin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|53|861|<span class="rank-name-dl">MAA</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|53|861|<span class="rank-name-dl">けけんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|55|860|<span class="rank-name-dl">柴崎　稜善</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|56|857|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|57|852|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|58|851|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|59|848|<span class="rank-name-pd">⠀ yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|60|846|<span class="rank-name-dl">84</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|60|846|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|62|841|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|63|840|<span class="rank-name-dl">shiba？</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|64|832|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|65|829|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|65|829|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|67|819|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|68|815|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|69|812|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|70|809|<span class="rank-name-dl">india91</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|71|806|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|72|803|<span class="rank-name-dl">憧葛</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|73|800|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|74|797|<span class="rank-name-dl">Zawa</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|75|796|<span class="rank-name-dl">oguhiko</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|76|785|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|77|783|<span class="rank-name-dl">二乃</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|78|777|<span class="rank-name-dl">≫ＭＩ＊Ｚ◎≪</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|79|774|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|80|773|<span class="rank-name-dl">ozipan</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|81|772|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|82|771|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|83|770|<span class="rank-name-dl">WoTake</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|83|770|<span class="rank-name-dl">はちみつボーイ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|85|769|<span class="rank-name-dl">みこぴー</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|86|768|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86754?s_seq=86754">韓国居酒屋ポチャポチャ</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|87|766|<span class="rank-name-dl">ｍａ✿</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|88|762|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|89|761|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|90|760|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|91|754|<span class="rank-name-dl">ハミャニャヴヴ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|92|753|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|93|749|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|94|745|<span class="rank-name-dl">全力でオレンジ君</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|95|744|<span class="rank-name-dl">やす BIG DOOR</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|96|743|<span class="rank-name-pd">YSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61318?s_seq=61318">JOYJOY 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|97|740|<span class="rank-name-dl">√カヅヤ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|98|737|<span class="rank-name-dl">ぶっちょ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|99|733|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|100|731|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -147,91 +147,91 @@ ___
 |13|976|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 |14|975|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 |15|971|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|16|970|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|17|966|<span class="rank-name-dl">みやっち(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|18|964|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|19|960|<span class="rank-name-dl">オグヒコ(´Д` )</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|20|959|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|21|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|21|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|23|956|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|24|955|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|25|954|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|26|953|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|27|948|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|28|942|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|29|941|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|30|938|<span class="rank-name-dl">へっぽこぽこちん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|31|937|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|31|937|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|33|935|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|34|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|34|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|36|932|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|37|922|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|38|919|<span class="rank-name-dl">gs400</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|39|916|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|40|903|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|41|901|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|42|897|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|43|896|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|44|894|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|45|893|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|46|891|<span class="rank-name-dl">★A‐killer★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|47|880|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|47|880|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|49|879|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|50|868|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|51|867|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|52|865|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|52|865|<span class="rank-name-dl">ＫＵＲＩ☆YU→☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|54|863|<span class="rank-name-dl">pin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|55|861|<span class="rank-name-dl">MAA</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|55|861|<span class="rank-name-dl">けけんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|57|860|<span class="rank-name-dl">柴崎　稜善</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|58|857|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|59|855|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|60|852|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|61|851|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|62|847|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|63|846|<span class="rank-name-dl">84</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|63|846|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|65|841|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|66|840|<span class="rank-name-dl">shiba？</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|67|832|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|68|829|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|68|829|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|70|819|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|71|815|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|72|812|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|73|810|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|74|809|<span class="rank-name-dl">india91</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|75|806|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|76|805|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|77|803|<span class="rank-name-dl">憧葛</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|78|801|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|79|800|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|80|799|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88 DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|81|797|<span class="rank-name-dl">Zawa</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|82|796|<span class="rank-name-dl">oguhiko</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|83|783|<span class="rank-name-dl">二乃</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|84|777|<span class="rank-name-dl">≫ＭＩ＊Ｚ◎≪</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|85|774|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|86|773|<span class="rank-name-dl">ozipan</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|87|772|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|88|771|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|89|770|<span class="rank-name-dl">WoTake</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|89|770|<span class="rank-name-dl">はちみつボーイ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店 カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|91|769|<span class="rank-name-dl">みこぴー</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|92|766|<span class="rank-name-dl">ｍａ✿</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|93|762|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|94|761|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|95|760|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|96|754|<span class="rank-name-dl">ハミャニャヴヴ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|97|753|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|98|749|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|99|745|<span class="rank-name-dl">全力でオレンジ君</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|100|744|<span class="rank-name-dl">やす BIG DOOR</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|16|966|<span class="rank-name-dl">みやっち(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|17|964|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|18|960|<span class="rank-name-dl">オグヒコ(´Д` )</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|19|959|<span class="rank-name-dl">MAKKY ×BAT</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|20|958|<span class="rank-name-dl">しばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|21|956|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|22|953|<span class="rank-name-dl">K∀ZU・M・U</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|23|948|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|24|942|<span class="rank-name-dl">＊†Ｕ～Ｇ†＊</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|25|941|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|26|938|<span class="rank-name-dl">へっぽこぽこちん</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|27|937|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|28|935|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|29|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|29|934|<span class="rank-name-dl">H i S a</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|31|932|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|32|922|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|33|919|<span class="rank-name-dl">gs400</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|34|916|<span class="rank-name-dl">いとう たくま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|35|903|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|36|901|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|37|897|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|38|896|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|39|894|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|40|893|<span class="rank-name-dl">Mackey</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|41|891|<span class="rank-name-dl">★A‐killer★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|42|880|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|42|880|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|44|879|<span class="rank-name-dl">よしあき</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|45|868|<span class="rank-name-dl">よしまる</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|46|867|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|47|865|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|47|865|<span class="rank-name-dl">ＫＵＲＩ☆YU→☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|49|863|<span class="rank-name-dl">pin</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|50|861|<span class="rank-name-dl">MAA</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|50|861|<span class="rank-name-dl">けけんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|52|860|<span class="rank-name-dl">柴崎　稜善</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|53|857|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|54|852|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|55|851|<span class="rank-name-dl">マッキー(Mackey)</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|56|846|<span class="rank-name-dl">84</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|56|846|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|58|841|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|59|840|<span class="rank-name-dl">shiba？</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|60|832|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|61|829|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|62|819|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|63|815|<span class="rank-name-dl">☆Shota☆</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|64|812|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|65|809|<span class="rank-name-dl">india91</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|66|806|<span class="rank-name-dl">RinRin_Season.Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|67|803|<span class="rank-name-dl">憧葛</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|68|800|<span class="rank-name-dl">林　亮佑</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|69|797|<span class="rank-name-dl">Zawa</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|70|796|<span class="rank-name-dl">oguhiko</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|71|783|<span class="rank-name-dl">二乃</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|72|777|<span class="rank-name-dl">≫ＭＩ＊Ｚ◎≪</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|73|774|<span class="rank-name-dl">オマツ</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|74|773|<span class="rank-name-dl">ozipan</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|75|772|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|76|771|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|77|770|<span class="rank-name-dl">WoTake</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|77|770|<span class="rank-name-dl">はちみつボーイ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|79|769|<span class="rank-name-dl">みこぴー</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|80|766|<span class="rank-name-dl">ｍａ✿</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|81|762|<span class="rank-name-dl">へちこ 88</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|82|761|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|83|760|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|84|754|<span class="rank-name-dl">ハミャニャヴヴ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|85|753|<span class="rank-name-dl">★☆ichi☆★</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|86|749|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|87|745|<span class="rank-name-dl">全力でオレンジ君</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|88|744|<span class="rank-name-dl">やす BIG DOOR</span>|<a href="https://search.dartslive.com/jp/shop/1d9e63c1426738d4a3f63593b5358cc4">Big Door</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|89|740|<span class="rank-name-dl">√カヅヤ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|90|737|<span class="rank-name-dl">ぶっちょ</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|91|733|<span class="rank-name-dl">りょーちん25/50</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|92|731|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|93|730|<span class="rank-name-dl">NO NAME3408</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|94|728|<span class="rank-name-dl">Zawa</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|95|727|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|96|726|<span class="rank-name-dl">shiba</span>|<a href="https://search.dartslive.com/jp/shop/5ef2b0f081c5e52025d56fb0e5c39bac">Dining Bar 大福</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|97|725|<span class="rank-name-dl">Kohekin_Master</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|98|717|<span class="rank-name-dl">真輝</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|99|716|<span class="rank-name-dl">Kohekin_Master</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|99|716|<span class="rank-name-dl">マーー</span>|<a href="https://search.dartslive.com/jp/shop/b00a2b1f5317e950790ab824ce8730e5">カラオケ ジョイジョイ 中津川IC店</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
 
 
 #### PHOENIXDARTS TOP 100

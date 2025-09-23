@@ -50,7 +50,7 @@ ___
 |25|1044|<span class="rank-name-dl">のりさん</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |26|1041|<span class="rank-name-pd">竜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9432?s_seq=9432">アプレシオ掛尾店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |27|1040|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦井 裕太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55615?s_seq=55615">Amuse&Drunk Hang out</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|28|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|28|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |29|1037|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |29|1037|<span class="rank-name-pd">ヤザクぱぴこ【ヴァーミリオン】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6243?s_seq=6243">アプレシオ 天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |29|1037|<span class="rank-name-dl">小畔遼平</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
@@ -112,7 +112,7 @@ ___
 |87|955|<span class="rank-name-pd">け</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10624?s_seq=10624">アプレシオ 豊田店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |88|953|<span class="rank-name-pd">☆taku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43623?s_seq=43623">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |89|951|<span class="rank-name-pd">λ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6243?s_seq=6243">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|90|950|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店 アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|90|950|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |90|950|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |92|949|<span class="rank-name-pd">I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43623?s_seq=43623">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |92|949|<span class="rank-name-pd">あーりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6243?s_seq=6243">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
@@ -143,7 +143,7 @@ ___
 |9|1060|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |10|1049|<span class="rank-name-dl">l</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |11|1044|<span class="rank-name-dl">のりさん</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|12|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|12|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |13|1037|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |13|1037|<span class="rank-name-dl">小畔遼平</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |15|1036|<span class="rank-name-dl">ははろ</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
@@ -162,7 +162,7 @@ ___
 |28|967|<span class="rank-name-dl">トビるんるん♪</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |29|964|<span class="rank-name-dl">Guess death</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |30|956|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|31|950|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店 アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|31|950|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |31|950|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |33|949|<span class="rank-name-dl">遼夏</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |34|947|<span class="rank-name-dl">やざくパピコ</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
@@ -172,7 +172,7 @@ ___
 |38|943|<span class="rank-name-dl">⭐︎taku</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |39|941|<span class="rank-name-dl">YUTA7</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |40|939|<span class="rank-name-dl">ナキ</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|41|936|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|41|936|<span class="rank-name-dl">Bolognese</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |42|933|<span class="rank-name-dl">NO NAME 2918</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |43|928|<span class="rank-name-dl">ぱんでも</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |44|925|<span class="rank-name-dl">ジェレミア</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
@@ -188,50 +188,50 @@ ___
 |54|885|<span class="rank-name-dl">ριｃｈΦη</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |55|884|<span class="rank-name-dl">け</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |56|883|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|57|882|<span class="rank-name-dl">よーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|57|882|<span class="rank-name-dl">よーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |58|878|<span class="rank-name-dl">KAITO</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |59|877|<span class="rank-name-dl">K’on</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |59|877|<span class="rank-name-dl">yatto(-.-)!!</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |61|869|<span class="rank-name-dl">はやした</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |62|868|<span class="rank-name-dl">カミーユ・ビダン</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|63|867|<span class="rank-name-dl">Kumicho3</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|63|867|<span class="rank-name-dl">Kumicho3</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |63|867|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |65|862|<span class="rank-name-dl">yarimasyoka</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|66|861|<span class="rank-name-dl">NO NAME 4033</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店 アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|67|860|<span class="rank-name-dl">るど</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|67|860|<span class="rank-name-dl">露決闘</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|69|859|<span class="rank-name-dl">ぱんでも</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|66|861|<span class="rank-name-dl">NO NAME 4033</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|67|860|<span class="rank-name-dl">るど</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|67|860|<span class="rank-name-dl">露決闘</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |69|859|<span class="rank-name-dl">みた</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|71|858|<span class="rank-name-dl">Naki</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|71|858|<span class="rank-name-dl">ぱんでも</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|73|857|<span class="rank-name-dl">kit</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|74|851|<span class="rank-name-dl">xDaisy</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|75|849|<span class="rank-name-dl">kit</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|76|844|<span class="rank-name-dl">擬似連</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|77|839|<span class="rank-name-dl">りゅーき@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|78|837|<span class="rank-name-dl">NO NAME 4033</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|79|834|<span class="rank-name-dl">ササキっち</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|80|828|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|81|827|<span class="rank-name-dl">かなちゅん∞</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|82|825|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|83|823|<span class="rank-name-dl">やざくパピコ</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店 アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|84|822|<span class="rank-name-dl">LEO13</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|85|820|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|86|818|<span class="rank-name-dl">ナキ</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店 快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|87|813|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店 アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|88|809|<span class="rank-name-dl">u8</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|89|808|<span class="rank-name-dl">WATA</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|90|804|<span class="rank-name-dl">うえぴょんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|91|803|<span class="rank-name-dl">ruki</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|92|802|<span class="rank-name-dl">むろ</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|93|801|<span class="rank-name-dl">g-ko</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|93|801|<span class="rank-name-dl">ふき</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|95|798|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|96|795|<span class="rank-name-dl">YOKO</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|97|792|<span class="rank-name-dl">NO NAME 2816</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|98|790|<span class="rank-name-dl">GERO</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|99|789|<span class="rank-name-dl">のりさん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|100|788|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|70|858|<span class="rank-name-dl">Naki</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|70|858|<span class="rank-name-dl">ぱんでも</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|72|857|<span class="rank-name-dl">kit</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|73|851|<span class="rank-name-dl">xDaisy</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|74|849|<span class="rank-name-dl">kit</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|75|844|<span class="rank-name-dl">擬似連</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|76|839|<span class="rank-name-dl">りゅーき@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|77|834|<span class="rank-name-dl">ササキっち</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|78|828|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|79|827|<span class="rank-name-dl">かなちゅん∞</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|80|825|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|81|822|<span class="rank-name-dl">LEO13</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|82|820|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|83|813|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|84|809|<span class="rank-name-dl">u8</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|85|808|<span class="rank-name-dl">WATA</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|86|804|<span class="rank-name-dl">うえぴょんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|87|803|<span class="rank-name-dl">ruki</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|88|802|<span class="rank-name-dl">むろ</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|89|801|<span class="rank-name-dl">g-ko</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|89|801|<span class="rank-name-dl">ふき</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|91|798|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|92|795|<span class="rank-name-dl">YOKO</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|93|792|<span class="rank-name-dl">NO NAME 2816</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|94|790|<span class="rank-name-dl">GERO</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|95|789|<span class="rank-name-dl">のりさん</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|96|788|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|97|783|<span class="rank-name-dl">ザンザン</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|98|782|<span class="rank-name-dl">NO NAME 2871</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|99|780|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|100|777|<span class="rank-name-dl">じょー</span>|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -51,13 +51,13 @@ ___
 |25|867|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丹野 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |27|866|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |28|864|<span class="rank-name-pd">【赤間明空歩】@Monday&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|29|857|<span class="rank-name-dl">まこと</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|29|857|<span class="rank-name-dl">まこと</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |30|853|<span class="rank-name-pd">たんたん魔王子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |30|853|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |32|848|<span class="rank-name-pd">ひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |33|835|<span class="rank-name-dl">つむSAM圓CHARM</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |33|835|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|35|834|<span class="rank-name-dl">G T</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|35|834|<span class="rank-name-dl">G T</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |36|828|<span class="rank-name-pd">HIRO^@^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |36|828|<span class="rank-name-pd">ｺｰｼﾝ☆ﾁｮｾﾖ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |38|827|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
@@ -66,7 +66,7 @@ ___
 |41|817|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 健太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |42|813|<span class="rank-name-pd">リムル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |42|813|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|44|810|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|44|810|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |44|810|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今野 優輝乃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |46|806|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今野 裕次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |47|801|<span class="rank-name-pd">HITOMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
@@ -92,37 +92,37 @@ ___
 |67|753|<span class="rank-name-pd">【櫻井清司】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |67|753|<span class="rank-name-pd">使-徒@ビチビチやねん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |69|752|<span class="rank-name-pd">徳永　龍太郎@Monday&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|70|751|<span class="rank-name-dl">和時ｸﾝのお父ﾁｬﾝ!</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|71|745|<span class="rank-name-dl">タオPayPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|72|744|<span class="rank-name-pd">Yuiha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|72|744|<span class="rank-name-dl">桃白白</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|74|741|<span class="rank-name-pd">man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|75|740|<span class="rank-name-pd">桃白白（タオパイパイ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|76|738|<span class="rank-name-dl">ポニョたま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|77|735|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|78|730|<span class="rank-name-pd">食ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|79|728|<span class="rank-name-pd">GOLD 5 -FIVE -</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|79|728|<span class="rank-name-pd">あや@BARDORA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|81|727|<span class="rank-name-dl">-Hide-</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|81|727|<span class="rank-name-dl">カッシー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|83|716|<span class="rank-name-pd">ASH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|84|715|<span class="rank-name-pd">なかむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|85|714|<span class="rank-name-dl">NO NAME 4727</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|86|711|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|87|708|<span class="rank-name-pd">こまっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|88|707|<span class="rank-name-dl">葛西のりんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|89|705|<span class="rank-name-dl">世紀末覇者</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|90|704|<span class="rank-name-pd">MEGANE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|91|701|<span class="rank-name-dl">NO NAME 5942</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|92|700|<span class="rank-name-dl">ひこにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|93|698|<span class="rank-name-pd">【大宮奉明】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|94|696|<span class="rank-name-pd">TECCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|94|696|<span class="rank-name-pd">shinnichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|96|693|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小松 駿斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|97|692|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|98|691|<span class="rank-name-pd">やっぱり、ぷーたろー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|99|687|<span class="rank-name-pd">AKR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|100|684|<span class="rank-name-dl">【大宮奉明】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|70|745|<span class="rank-name-dl">タオPayPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|71|744|<span class="rank-name-pd">Yuiha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|71|744|<span class="rank-name-dl">桃白白</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|73|741|<span class="rank-name-pd">man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|74|740|<span class="rank-name-pd">桃白白（タオパイパイ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|75|738|<span class="rank-name-dl">ポニョたま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|76|730|<span class="rank-name-pd">食ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|77|728|<span class="rank-name-pd">GOLD 5 -FIVE -</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|77|728|<span class="rank-name-pd">あや@BARDORA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|79|727|<span class="rank-name-dl">-Hide-</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|80|716|<span class="rank-name-pd">ASH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|81|715|<span class="rank-name-pd">なかむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|82|714|<span class="rank-name-dl">NO NAME 4727</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|83|711|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|84|708|<span class="rank-name-pd">こまっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|85|707|<span class="rank-name-dl">葛西のりんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|86|704|<span class="rank-name-pd">MEGANE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93270?s_seq=93270">5-FIVE-</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|87|701|<span class="rank-name-dl">NO NAME 5942</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|88|700|<span class="rank-name-dl">ひこにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|89|698|<span class="rank-name-pd">【大宮奉明】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|90|696|<span class="rank-name-pd">TECCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|90|696|<span class="rank-name-pd">shinnichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|92|693|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小松 駿斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|93|692|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|94|691|<span class="rank-name-pd">やっぱり、ぷーたろー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|95|687|<span class="rank-name-pd">AKR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|96|684|<span class="rank-name-dl">【大宮奉明】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|97|683|<span class="rank-name-pd">.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|98|680|<span class="rank-name-pd">アクア@Monday&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|99|678|<span class="rank-name-pd">MY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78041?s_seq=78041">WAN！Bull</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|99|678|<span class="rank-name-dl">フジサワPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,62 +139,55 @@ ___
 |5|907|<span class="rank-name-dl">和時ｸﾝのお父ﾁｬﾝ!</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |6|879|<span class="rank-name-dl">wattan</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |7|866|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|8|857|<span class="rank-name-dl">まこと</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|8|857|<span class="rank-name-dl">まこと</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |9|853|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |10|835|<span class="rank-name-dl">つむSAM圓CHARM</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |10|835|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|12|834|<span class="rank-name-dl">G T</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|12|834|<span class="rank-name-dl">G T</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |13|827|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |14|819|<span class="rank-name-dl">もあき</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |15|813|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|16|810|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|16|810|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |17|782|<span class="rank-name-dl">オル</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |18|763|<span class="rank-name-dl">カッシー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |19|758|<span class="rank-name-dl">かずまっくすー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |19|758|<span class="rank-name-dl">はしりょう</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|21|751|<span class="rank-name-dl">和時ｸﾝのお父ﾁｬﾝ!</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|22|745|<span class="rank-name-dl">タオPayPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|23|744|<span class="rank-name-dl">桃白白</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|24|738|<span class="rank-name-dl">ポニョたま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|25|735|<span class="rank-name-dl">Sassa</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|26|727|<span class="rank-name-dl">-Hide-</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|26|727|<span class="rank-name-dl">カッシー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|28|714|<span class="rank-name-dl">NO NAME 4727</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|29|711|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|30|707|<span class="rank-name-dl">葛西のりんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|31|705|<span class="rank-name-dl">世紀末覇者</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|32|701|<span class="rank-name-dl">NO NAME 5942</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|33|700|<span class="rank-name-dl">ひこにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|34|692|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|35|684|<span class="rank-name-dl">【大宮奉明】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|36|678|<span class="rank-name-dl">フジサワPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|37|671|<span class="rank-name-dl">まっくす</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|37|671|<span class="rank-name-dl">オル</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|39|666|<span class="rank-name-dl">マチャマチャ[Mz]</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|40|664|<span class="rank-name-dl">NO NAME 7463</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|41|662|<span class="rank-name-dl">ｲｼｵｶ　ﾋｻｷ【Mz】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|42|660|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|43|658|<span class="rank-name-dl">take</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|44|656|<span class="rank-name-dl">１８号</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|45|647|<span class="rank-name-dl">１８号</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|46|642|<span class="rank-name-dl">コドゥー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|47|634|<span class="rank-name-dl">きょきょきょきょ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|48|625|<span class="rank-name-dl">もーたろ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|49|619|<span class="rank-name-dl">ゆうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|50|615|<span class="rank-name-dl">きょきょきょきょ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|51|606|<span class="rank-name-dl">さかえ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|52|595|<span class="rank-name-dl">Shii</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|53|576|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|54|517|<span class="rank-name-dl">まちゃこ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|55|481|<span class="rank-name-dl">ちゃみデグ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|56|474|<span class="rank-name-dl">ユキ☆</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|57|445|<span class="rank-name-dl">TOKIO DX</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|58|431|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|59|429|<span class="rank-name-dl">おすず No.2</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|60|410|<span class="rank-name-dl">としはるくん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|61|344|<span class="rank-name-dl">ひでにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|62|323|<span class="rank-name-dl">レン君のママ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|63|279|<span class="rank-name-dl">てつとごま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|21|745|<span class="rank-name-dl">タオPayPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|22|744|<span class="rank-name-dl">桃白白</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|23|738|<span class="rank-name-dl">ポニョたま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|24|727|<span class="rank-name-dl">-Hide-</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|25|714|<span class="rank-name-dl">NO NAME 4727</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|26|711|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|27|707|<span class="rank-name-dl">葛西のりんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|28|701|<span class="rank-name-dl">NO NAME 5942</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|29|700|<span class="rank-name-dl">ひこにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|30|692|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|31|684|<span class="rank-name-dl">【大宮奉明】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|32|678|<span class="rank-name-dl">フジサワPay</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|33|671|<span class="rank-name-dl">まっくす</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|34|666|<span class="rank-name-dl">マチャマチャ[Mz]</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|35|664|<span class="rank-name-dl">NO NAME 7463</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|36|662|<span class="rank-name-dl">ｲｼｵｶ　ﾋｻｷ【Mz】</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|37|660|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|38|658|<span class="rank-name-dl">take</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|39|656|<span class="rank-name-dl">１８号</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|40|642|<span class="rank-name-dl">コドゥー</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|41|634|<span class="rank-name-dl">きょきょきょきょ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|42|625|<span class="rank-name-dl">もーたろ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|43|619|<span class="rank-name-dl">ゆうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|44|606|<span class="rank-name-dl">さかえ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|45|595|<span class="rank-name-dl">Shii</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|46|576|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|47|517|<span class="rank-name-dl">まちゃこ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|48|481|<span class="rank-name-dl">ちゃみデグ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|49|474|<span class="rank-name-dl">ユキ☆</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|50|445|<span class="rank-name-dl">TOKIO DX</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|51|431|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|52|429|<span class="rank-name-dl">おすず No.2</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|53|410|<span class="rank-name-dl">としはるくん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|54|344|<span class="rank-name-dl">ひでにゃん</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|55|323|<span class="rank-name-dl">レン君のママ</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|56|279|<span class="rank-name-dl">てつとごま</span>|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 
 
 #### PHOENIXDARTS TOP 100

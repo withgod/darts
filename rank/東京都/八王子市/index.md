@@ -28,7 +28,7 @@ ___
 |3|1169|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |4|1168|<span class="rank-name-dl">岩本凌空</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |5|1167|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|6|1155|<span class="rank-name-dl">K Nishimoto</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|6|1155|<span class="rank-name-dl">K Nishimoto</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |7|1152|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |8|1137|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85485?s_seq=85485">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |9|1133|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -41,13 +41,13 @@ ___
 |15|1123|<span class="rank-name-dl">相田 究</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |17|1122|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |17|1122|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|19|1119|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|19|1119|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |20|1118|<span class="rank-name-dl">やなぎ</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |21|1117|<span class="rank-name-dl">まるめるakaこば</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |22|1115|<span class="rank-name-dl">津村友弥</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |23|1114|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |24|1108|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|25|1104|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店 快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|25|1104|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |26|1103|<span class="rank-name-dl">やなぎ</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |27|1102|<span class="rank-name-dl">MYK</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |27|1102|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -76,7 +76,7 @@ ___
 |51|1059|<span class="rank-name-dl">MYK</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |51|1059|<span class="rank-name-dl">宮脇 実由</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |51|1059|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|54|1058|<span class="rank-name-dl">マイコー</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|54|1058|<span class="rank-name-dl">マイコー</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |55|1057|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |56|1056|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |56|1056|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -92,37 +92,37 @@ ___
 |65|1051|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 健太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9724?s_seq=9724">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |68|1050|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |68|1050|<span class="rank-name-pd">松井 聖弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87355?s_seq=87355">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|70|1048|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/589614d3217e38e60d9b047a20a7ba1e">BAR 247 BAR 247</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|71|1047|<span class="rank-name-dl">はな</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店 快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|71|1047|<span class="rank-name-dl">大谷</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|73|1046|<span class="rank-name-pd">GALAXY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87355?s_seq=87355">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|73|1046|<span class="rank-name-pd">八王子のりょ-たDX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85485?s_seq=85485">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|75|1045|<span class="rank-name-pd">Cafe&#x27;nBar TAKAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85087?s_seq=85087">ビアポンバー GROVE 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|75|1045|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|75|1045|<span class="rank-name-pd">八王子のりーだー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8896?s_seq=8896">ビリヤード＆ダーツ パル</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|75|1045|<span class="rank-name-dl">山崎 銀河</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1044|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1044|<span class="rank-name-dl">き-×-くん→</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|81|1043|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店 快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|81|1043|<span class="rank-name-dl">山﨑 司紗</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|83|1042|<span class="rank-name-dl">☆もりたろう☆</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|83|1042|<span class="rank-name-dl">ヘノケチュン</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店 アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|85|1040|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|86|1039|<span class="rank-name-dl">かやたん</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|86|1039|<span class="rank-name-dl">ふじももち</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|88|1037|<span class="rank-name-dl">[帝]GALAXY</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|89|1035|<span class="rank-name-pd">ざぁこ♡ざこけんと♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8896?s_seq=8896">ビリヤード＆ダーツ パル</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|89|1035|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1033|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1033|<span class="rank-name-dl">NO NAME 8871</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1033|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87355?s_seq=87355">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|94|1032|<span class="rank-name-dl">O.P.I.PhaseD</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|94|1032|<span class="rank-name-pd">津村友弥【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85485?s_seq=85485">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|96|1029|<span class="rank-name-dl">DMC 菊地恭介</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|96|1029|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|96|1029|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|96|1029|<span class="rank-name-dl">Tsuyu</span>|<a href="https://search.dartslive.com/jp/shop/c6ace1801dd85b7f0d9b047a20a7ba1e">カラオケBanBan八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|96|1029|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|70|1048|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/589614d3217e38e60d9b047a20a7ba1e">BAR 247</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|71|1047|<span class="rank-name-dl">はな</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|72|1046|<span class="rank-name-pd">GALAXY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87355?s_seq=87355">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|72|1046|<span class="rank-name-pd">八王子のりょ-たDX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85485?s_seq=85485">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1045|<span class="rank-name-pd">Cafe&#x27;nBar TAKAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85087?s_seq=85087">ビアポンバー GROVE 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1045|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1045|<span class="rank-name-pd">八王子のりーだー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8896?s_seq=8896">ビリヤード＆ダーツ パル</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1045|<span class="rank-name-dl">山崎 銀河</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|78|1044|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|78|1044|<span class="rank-name-dl">き-×-くん→</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|80|1043|<span class="rank-name-dl">山﨑 司紗</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|81|1042|<span class="rank-name-dl">☆もりたろう☆</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|81|1042|<span class="rank-name-dl">ヘノケチュン</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|83|1040|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|84|1039|<span class="rank-name-dl">かやたん</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|84|1039|<span class="rank-name-dl">ふじももち</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|86|1037|<span class="rank-name-dl">[帝]GALAXY</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|87|1035|<span class="rank-name-pd">ざぁこ♡ざこけんと♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8896?s_seq=8896">ビリヤード＆ダーツ パル</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|87|1035|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|89|1033|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|89|1033|<span class="rank-name-dl">NO NAME 8871</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|89|1033|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87355?s_seq=87355">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|92|1032|<span class="rank-name-dl">O.P.I.PhaseD</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|92|1032|<span class="rank-name-pd">津村友弥【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85485?s_seq=85485">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">DMC 菊地恭介</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">Tsuyu</span>|<a href="https://search.dartslive.com/jp/shop/c6ace1801dd85b7f0d9b047a20a7ba1e">カラオケBanBan八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|94|1029|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|100|1028|<span class="rank-name-dl">-YMS-</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,7 +136,7 @@ ___
 |2|1169|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |3|1168|<span class="rank-name-dl">岩本凌空</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |4|1167|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|5|1155|<span class="rank-name-dl">K Nishimoto</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|5|1155|<span class="rank-name-dl">K Nishimoto</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |6|1152|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |7|1133|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |8|1131|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -148,13 +148,13 @@ ___
 |13|1123|<span class="rank-name-dl">相田 究</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |15|1122|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |15|1122|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|17|1119|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|17|1119|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |18|1118|<span class="rank-name-dl">やなぎ</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |19|1117|<span class="rank-name-dl">まるめるakaこば</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |20|1115|<span class="rank-name-dl">津村友弥</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |21|1114|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |22|1108|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|23|1104|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店 快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|23|1104|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |24|1103|<span class="rank-name-dl">やなぎ</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |25|1102|<span class="rank-name-dl">MYK</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |25|1102|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -179,7 +179,7 @@ ___
 |45|1059|<span class="rank-name-dl">MYK</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |45|1059|<span class="rank-name-dl">宮脇 実由</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |45|1059|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|48|1058|<span class="rank-name-dl">マイコー</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|48|1058|<span class="rank-name-dl">マイコー</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |49|1057|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |50|1056|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |50|1056|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
@@ -191,47 +191,47 @@ ___
 |57|1051|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |57|1051|<span class="rank-name-dl">津村　友弥</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 |59|1050|<span class="rank-name-dl">cafe仙人</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|60|1048|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/589614d3217e38e60d9b047a20a7ba1e">BAR 247 BAR 247</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|61|1047|<span class="rank-name-dl">はな</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店 快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|61|1047|<span class="rank-name-dl">大谷</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|63|1045|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|63|1045|<span class="rank-name-dl">山崎 銀河</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|65|1044|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|65|1044|<span class="rank-name-dl">き-×-くん→</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|67|1043|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店 快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|67|1043|<span class="rank-name-dl">山﨑 司紗</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|69|1042|<span class="rank-name-dl">☆もりたろう☆</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|69|1042|<span class="rank-name-dl">ヘノケチュン</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店 アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|71|1040|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|72|1039|<span class="rank-name-dl">かやたん</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|72|1039|<span class="rank-name-dl">ふじももち</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|74|1037|<span class="rank-name-dl">[帝]GALAXY</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|75|1035|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|76|1033|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|76|1033|<span class="rank-name-dl">NO NAME 8871</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|78|1032|<span class="rank-name-dl">O.P.I.PhaseD</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">DMC 菊地恭介</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子 SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">Tsuyu</span>|<a href="https://search.dartslive.com/jp/shop/c6ace1801dd85b7f0d9b047a20a7ba1e">カラオケBanBan八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|79|1029|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|85|1028|<span class="rank-name-dl">-YMS-</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|85|1028|<span class="rank-name-dl">えおてぃーな</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|85|1028|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|88|1027|<span class="rank-name-dl">病み上がりおおや</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|89|1025|<span class="rank-name-dl">はな</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|89|1025|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1024|<span class="rank-name-dl">UG♂Starlight</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1024|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|91|1024|<span class="rank-name-dl">佐藤 かす美</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|94|1023|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|94|1023|<span class="rank-name-dl">こばたく</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|94|1023|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店 快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|97|1022|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|97|1022|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|99|1021|<span class="rank-name-dl">ぎんたろうです</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子 ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
-|99|1021|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|60|1048|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/589614d3217e38e60d9b047a20a7ba1e">BAR 247</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|61|1047|<span class="rank-name-dl">はな</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|62|1045|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|62|1045|<span class="rank-name-dl">山崎 銀河</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|64|1044|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|64|1044|<span class="rank-name-dl">き-×-くん→</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|66|1043|<span class="rank-name-dl">山﨑 司紗</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|67|1042|<span class="rank-name-dl">☆もりたろう☆</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|67|1042|<span class="rank-name-dl">ヘノケチュン</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|69|1040|<span class="rank-name-dl">八王子のりょたDX</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|70|1039|<span class="rank-name-dl">かやたん</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|70|1039|<span class="rank-name-dl">ふじももち</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|72|1037|<span class="rank-name-dl">[帝]GALAXY</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|73|1035|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1033|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|74|1033|<span class="rank-name-dl">NO NAME 8871</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|76|1032|<span class="rank-name-dl">O.P.I.PhaseD</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">DMC 菊地恭介</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">Tsuyu</span>|<a href="https://search.dartslive.com/jp/shop/c6ace1801dd85b7f0d9b047a20a7ba1e">カラオケBanBan八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|77|1029|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|83|1028|<span class="rank-name-dl">-YMS-</span>|<a href="https://search.dartslive.com/jp/shop/16d972932d58bb68774c926eb736cb5a">快活CLUB 八王子大和田店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|83|1028|<span class="rank-name-dl">えおてぃーな</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|83|1028|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/15d1b5e364f9614b0d9b047a20a7ba1e">Shamrock</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|86|1027|<span class="rank-name-dl">病み上がりおおや</span>|<a href="https://search.dartslive.com/jp/shop/ea31a11b7d37bd580d9b047a20a7ba1e">メディアカフェポパイ 八王子店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|87|1025|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/7ff2ea872ca6c1c50d9b047a20a7ba1e">Darts&Bar D-WALT'S</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|88|1024|<span class="rank-name-dl">UG♂Starlight</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|88|1024|<span class="rank-name-dl">佐藤 かす美</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|90|1023|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|90|1023|<span class="rank-name-dl">こばたく</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|90|1023|<span class="rank-name-dl">まつい せいや</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|93|1022|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|93|1022|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|95|1021|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|96|1020|<span class="rank-name-dl">あきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/73ca632d1e7f3d100d9b047a20a7ba1e">アプレシオ八王子駅前店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|96|1020|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/36e9652df1b0afd25f9f3321c1147265">ビアポンバーGROVE八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|96|1020|<span class="rank-name-dl">凌空</span>|<a href="https://search.dartslive.com/jp/shop/b2fcca4d3f062e70b21333aee1bd51e4">快活CLUB 八王子本店</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|96|1020|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/4f01e52d629c7f5058d385ea46352d8f">Darts bar Glanz</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
+|100|1019|<span class="rank-name-dl">taka-C</span>|<a href="https://search.dartslive.com/jp/shop/a4ade0bb9c7bbe2a0d9b047a20a7ba1e">SILKHAT八王子</a>|<a href="/darts/rank/東京都/八王子市">東京都八王子市</a>|
 
 
 #### PHOENIXDARTS TOP 100

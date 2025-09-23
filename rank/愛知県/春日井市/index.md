@@ -30,7 +30,7 @@ ___
 |5|1043|<span class="rank-name-pd">長谷川 典生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |6|1020|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |7|1014|<span class="rank-name-dl">もchan⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|8|1010|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|8|1010|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |9|1009|<span class="rank-name-pd">ハム野菜//鎹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10368?s_seq=10368">亜熱帯 春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |10|1008|<span class="rank-name-pd">ばーど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |11|1000|<span class="rank-name-dl">teru</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
@@ -48,7 +48,7 @@ ___
 |22|962|<span class="rank-name-pd">ミレニアムファルコン号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |24|958|<span class="rank-name-pd">∀こーへー∀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |24|958|<span class="rank-name-pd">ぽんちょ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|26|957|<span class="rank-name-dl">NO NAME 7286</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|26|957|<span class="rank-name-dl">NO NAME 7286</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |27|955|<span class="rank-name-pd">kkr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |28|952|<span class="rank-name-dl">Takuya</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |29|946|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
@@ -83,46 +83,46 @@ ___
 |57|900|<span class="rank-name-pd">神崎真夜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |59|898|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |60|897|<span class="rank-name-pd">TRANSCENDENCE.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|60|897|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店 JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|62|890|<span class="rank-name-pd">ひろきんにく☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|62|890|<span class="rank-name-dl">翼</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|64|888|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|64|888|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|64|888|<span class="rank-name-dl">ははろ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|64|888|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|68|886|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|68|886|<span class="rank-name-pd">コソ練</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|70|880|<span class="rank-name-pd">まッこい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|70|880|<span class="rank-name-pd">Ｈｉｒｏｍｉｔｓｕ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88820?s_seq=88820">SECOND DINER</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|72|875|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|73|872|<span class="rank-name-dl">kkr</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|74|870|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|75|867|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|75|867|<span class="rank-name-pd">コソ練</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|77|865|<span class="rank-name-pd">ゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10368?s_seq=10368">亜熱帯 春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|78|863|<span class="rank-name-dl">虎鉄</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|79|861|<span class="rank-name-pd">まッこい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|79|861|<span class="rank-name-dl">ストラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|81|856|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|82|855|<span class="rank-name-dl">せん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|83|854|<span class="rank-name-dl">∀こーへー∀</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|84|853|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|84|853|<span class="rank-name-pd">神崎真夜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|86|850|<span class="rank-name-dl">おかやん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|86|850|<span class="rank-name-pd"><span class="pro-icon-pd"></span>近藤 晃吉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|88|849|<span class="rank-name-pd">ともや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|89|847|<span class="rank-name-pd">ばぁきぃ@JOKER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|90|846|<span class="rank-name-pd">おかやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|90|846|<span class="rank-name-dl">フージー</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|90|846|<span class="rank-name-dl">初太刀を制す者</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|90|846|<span class="rank-name-pd">小川 竜矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|94|845|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|94|845|<span class="rank-name-dl">りょ-ちン☆Bonds</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|94|845|<span class="rank-name-pd">宮城朱勇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|844|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|844|<span class="rank-name-dl">陽介</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|844|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|100|843|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|61|890|<span class="rank-name-pd">ひろきんにく☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|61|890|<span class="rank-name-dl">翼</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|63|888|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|63|888|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|63|888|<span class="rank-name-dl">ははろ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|63|888|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|67|886|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|67|886|<span class="rank-name-pd">コソ練</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|69|880|<span class="rank-name-pd">まッこい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|69|880|<span class="rank-name-pd">Ｈｉｒｏｍｉｔｓｕ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88820?s_seq=88820">SECOND DINER</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|71|875|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|72|872|<span class="rank-name-dl">kkr</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|73|870|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|74|867|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|74|867|<span class="rank-name-pd">コソ練</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|76|865|<span class="rank-name-pd">ゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10368?s_seq=10368">亜熱帯 春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|77|863|<span class="rank-name-dl">虎鉄</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|78|861|<span class="rank-name-pd">まッこい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|78|861|<span class="rank-name-dl">ストラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|80|856|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|81|855|<span class="rank-name-dl">せん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|82|853|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|82|853|<span class="rank-name-pd">神崎真夜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|84|850|<span class="rank-name-dl">おかやん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|84|850|<span class="rank-name-pd"><span class="pro-icon-pd"></span>近藤 晃吉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|86|849|<span class="rank-name-pd">ともや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|87|847|<span class="rank-name-pd">ばぁきぃ@JOKER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|88|846|<span class="rank-name-pd">おかやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|88|846|<span class="rank-name-dl">フージー</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|88|846|<span class="rank-name-dl">初太刀を制す者</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|88|846|<span class="rank-name-pd">小川 竜矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|92|845|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|92|845|<span class="rank-name-dl">りょ-ちン☆Bonds</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|92|845|<span class="rank-name-pd">宮城朱勇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|95|844|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|95|844|<span class="rank-name-dl">陽介</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|95|844|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10073?s_seq=10073">オークランド春日井</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|98|843|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|98|843|<span class="rank-name-dl">りん-Rin-</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|100|842|<span class="rank-name-pd">ACE-K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9488?s_seq=9488">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,7 +136,7 @@ ___
 |2|1096|<span class="rank-name-dl">#晃@=3=3</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |3|1020|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |4|1014|<span class="rank-name-dl">もchan⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|5|1010|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|5|1010|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |6|1000|<span class="rank-name-dl">teru</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |7|983|<span class="rank-name-dl">ばーど</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |7|983|<span class="rank-name-dl">もふ†cross</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
@@ -146,7 +146,7 @@ ___
 |12|969|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |13|964|<span class="rank-name-dl">＊SATOSHI＊</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |14|962|<span class="rank-name-dl">はせてん</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|15|957|<span class="rank-name-dl">NO NAME 7286</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|15|957|<span class="rank-name-dl">NO NAME 7286</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |16|952|<span class="rank-name-dl">Takuya</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |17|946|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |18|934|<span class="rank-name-dl">あさちぇん子</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
@@ -158,80 +158,80 @@ ___
 |24|915|<span class="rank-name-dl">†BEAT†@pp1</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |25|903|<span class="rank-name-dl">あさちぇん子</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |26|898|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|27|897|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店 JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|28|890|<span class="rank-name-dl">翼</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|29|888|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|29|888|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|29|888|<span class="rank-name-dl">ははろ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|29|888|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|33|886|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|34|872|<span class="rank-name-dl">kkr</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|35|870|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|36|867|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|37|863|<span class="rank-name-dl">虎鉄</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|38|861|<span class="rank-name-dl">ストラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|39|856|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|40|855|<span class="rank-name-dl">せん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|41|854|<span class="rank-name-dl">∀こーへー∀</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|42|850|<span class="rank-name-dl">おかやん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|43|846|<span class="rank-name-dl">フージー</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|43|846|<span class="rank-name-dl">初太刀を制す者</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|45|845|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|45|845|<span class="rank-name-dl">りょ-ちン☆Bonds</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|47|844|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|47|844|<span class="rank-name-dl">陽介</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|49|843|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|49|843|<span class="rank-name-dl">りん-Rin-</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|51|840|<span class="rank-name-dl">tnkdic</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店 JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|52|834|<span class="rank-name-dl">潤</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|53|833|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|54|832|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|55|831|<span class="rank-name-dl">OGA</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|56|830|<span class="rank-name-dl">NO NAME 8584</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|57|829|<span class="rank-name-dl">そち</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|58|827|<span class="rank-name-dl">M.S.R32</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|59|826|<span class="rank-name-dl">ミルクレープ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|60|825|<span class="rank-name-dl">芹田 英海</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|61|824|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|62|822|<span class="rank-name-dl">かじ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|63|821|<span class="rank-name-dl">TAkuYA</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|64|819|<span class="rank-name-dl">まッこい</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|65|813|<span class="rank-name-dl">ポムポム</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|66|811|<span class="rank-name-dl">tnkdic</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|67|809|<span class="rank-name-dl">たきび</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|68|808|<span class="rank-name-dl">かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|69|807|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|70|806|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|71|803|<span class="rank-name-dl">翔希</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|72|802|<span class="rank-name-dl">ロン</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|73|801|<span class="rank-name-dl">リョースケ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|74|800|<span class="rank-name-dl">(」゜□゜)」</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|75|798|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店 JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|76|790|<span class="rank-name-dl">Solo camper</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|77|786|<span class="rank-name-dl">たくみ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|77|786|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|79|785|<span class="rank-name-dl">ＨＡＲＵ基地</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|80|784|<span class="rank-name-dl">shin</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|81|783|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|81|783|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|83|781|<span class="rank-name-dl">chaozu 11 ∞ATM</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|83|781|<span class="rank-name-dl">激刺っ！gaNeza</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|85|778|<span class="rank-name-dl">shoya(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|85|778|<span class="rank-name-dl">ちけけ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|87|777|<span class="rank-name-dl">ヨネ【REVEL】</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|88|776|<span class="rank-name-dl">さくや</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|89|773|<span class="rank-name-dl">こんどぅ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|90|772|<span class="rank-name-dl">なつみかん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|91|766|<span class="rank-name-dl">¥MK</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|92|765|<span class="rank-name-dl">KOU</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|92|765|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|92|765|<span class="rank-name-dl">凩</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|95|763|<span class="rank-name-dl">pompom</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|95|763|<span class="rank-name-dl">ななち師範代(仮)</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|762|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|762|<span class="rank-name-dl">あおぶだい</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|97|762|<span class="rank-name-dl">フウキ@D-SPE</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店 亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|100|761|<span class="rank-name-dl">Pianissimo</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店 快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|27|890|<span class="rank-name-dl">翼</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|28|888|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|28|888|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|28|888|<span class="rank-name-dl">ははろ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|28|888|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|32|886|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|33|872|<span class="rank-name-dl">kkr</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|34|870|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|35|867|<span class="rank-name-dl">かずまっくす</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|36|863|<span class="rank-name-dl">虎鉄</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|37|861|<span class="rank-name-dl">ストラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|38|856|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|39|855|<span class="rank-name-dl">せん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|40|854|<span class="rank-name-dl">∀こーへー∀</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|41|850|<span class="rank-name-dl">おかやん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|42|846|<span class="rank-name-dl">フージー</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|42|846|<span class="rank-name-dl">初太刀を制す者</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|44|845|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|44|845|<span class="rank-name-dl">りょ-ちン☆Bonds</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|46|844|<span class="rank-name-dl">ともや＠N中JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|46|844|<span class="rank-name-dl">陽介</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|48|843|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|48|843|<span class="rank-name-dl">りん-Rin-</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|50|840|<span class="rank-name-dl">tnkdic</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|51|834|<span class="rank-name-dl">潤</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|52|833|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|53|832|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|54|831|<span class="rank-name-dl">OGA</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|55|830|<span class="rank-name-dl">NO NAME 8584</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|56|829|<span class="rank-name-dl">そち</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|57|827|<span class="rank-name-dl">M.S.R32</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|58|826|<span class="rank-name-dl">ミルクレープ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|59|825|<span class="rank-name-dl">芹田 英海</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|60|824|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|61|822|<span class="rank-name-dl">かじ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|62|821|<span class="rank-name-dl">TAkuYA</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|63|819|<span class="rank-name-dl">まッこい</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|64|813|<span class="rank-name-dl">ポムポム</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|65|811|<span class="rank-name-dl">tnkdic</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|66|809|<span class="rank-name-dl">たきび</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|67|808|<span class="rank-name-dl">かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|68|807|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|69|806|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|70|803|<span class="rank-name-dl">翔希</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|71|802|<span class="rank-name-dl">ロン</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|72|801|<span class="rank-name-dl">リョースケ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|73|800|<span class="rank-name-dl">(」゜□゜)」</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|74|798|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|75|790|<span class="rank-name-dl">Solo camper</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|76|786|<span class="rank-name-dl">たくみ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|76|786|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|78|785|<span class="rank-name-dl">ＨＡＲＵ基地</span>|<a href="https://search.dartslive.com/jp/shop/e72639e3bbe021d8f454cb89828a1cfe">JOYJOY春日井高蔵寺店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|79|784|<span class="rank-name-dl">shin</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|80|783|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|80|783|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|82|781|<span class="rank-name-dl">chaozu 11 ∞ATM</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|82|781|<span class="rank-name-dl">激刺っ！gaNeza</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|84|778|<span class="rank-name-dl">shoya(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|84|778|<span class="rank-name-dl">ちけけ</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|86|777|<span class="rank-name-dl">ヨネ【REVEL】</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|87|776|<span class="rank-name-dl">さくや</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|88|773|<span class="rank-name-dl">こんどぅ</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|89|772|<span class="rank-name-dl">なつみかん</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|90|766|<span class="rank-name-dl">¥MK</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|91|765|<span class="rank-name-dl">KOU</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|91|765|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|91|765|<span class="rank-name-dl">凩</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|94|763|<span class="rank-name-dl">pompom</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|94|763|<span class="rank-name-dl">ななち師範代(仮)</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|96|762|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|96|762|<span class="rank-name-dl">あおぶだい</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|96|762|<span class="rank-name-dl">フウキ@D-SPE</span>|<a href="https://search.dartslive.com/jp/shop/69ea59e56005e030790ab824ce8730e5">亜熱帯春日井IC店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|99|761|<span class="rank-name-dl">Pianissimo</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|100|760|<span class="rank-name-dl">ぽんちょ侍</span>|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 
 
 #### PHOENIXDARTS TOP 100

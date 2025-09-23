@@ -42,87 +42,87 @@ ___
 |17|1051|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |18|1050|<span class="rank-name-dl">Yujiro</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |19|1046|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|20|1041|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|20|1041|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |21|1039|<span class="rank-name-dl">自虐的はぐれザル</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |21|1039|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|23|1038|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|23|1038|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |24|1035|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |25|1032|<span class="rank-name-dl">ほし</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |26|1026|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |27|1022|<span class="rank-name-dl">INTE.VTEC</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |28|1018|<span class="rank-name-pd">♂疲れた清盛♂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|29|1015|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|30|1009|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|31|1008|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|32|1005|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|33|1004|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|34|1003|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|34|1003|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|36|1001|<span class="rank-name-dl">Ryota178</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|36|1001|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|38|999|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|39|998|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|40|984|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|40|984|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|40|984|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|43|983|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|44|976|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|45|974|<span class="rank-name-dl">MATSU×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|46|973|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|47|971|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|47|971|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|49|970|<span class="rank-name-pd">KO-1 malm</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|49|970|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|51|969|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|52|967|<span class="rank-name-pd">一般人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|53|966|<span class="rank-name-pd">しんちよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|53|966|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|53|966|<span class="rank-name-pd"><span class="pro-icon-pd"></span>植松 明宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|56|965|<span class="rank-name-dl">JOKER V</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|56|965|<span class="rank-name-pd">Sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|56|965|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|59|964|<span class="rank-name-dl">自虐的煢然野郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|60|963|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|61|960|<span class="rank-name-dl">ＫＯ－１ malm</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|62|959|<span class="rank-name-pd">☆Tor@☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|63|956|<span class="rank-name-dl">NO9TURNE</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|63|956|<span class="rank-name-pd">やっぴ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|65|955|<span class="rank-name-dl">河上 凌弥</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|66|952|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|67|951|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|68|950|<span class="rank-name-dl">$hiro sub</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|69|949|<span class="rank-name-dl">Hide.(°▽°)v</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|70|947|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|70|947|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|72|945|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|73|944|<span class="rank-name-pd">HkR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|74|942|<span class="rank-name-pd">aipg925‪°ʚ✞ɞ°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|74|942|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|76|938|<span class="rank-name-pd">たけうちっちきちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|77|937|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|78|936|<span class="rank-name-dl">ROTAKO</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|78|936|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|80|934|<span class="rank-name-pd">ZC33S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|81|933|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|82|932|<span class="rank-name-dl">きつね×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|82|932|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|84|931|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|84|931|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|86|928|<span class="rank-name-pd">KO-1 三発矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|86|928|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|88|927|<span class="rank-name-dl">yu</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|88|927|<span class="rank-name-dl">♂疲れた清盛♂</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|88|927|<span class="rank-name-pd">高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|91|926|<span class="rank-name-pd">三間 紀之@カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|91|926|<span class="rank-name-pd">千射万箭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|93|925|<span class="rank-name-pd">益田 和弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|94|921|<span class="rank-name-pd">Daiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|95|919|<span class="rank-name-dl">#Hyt</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|96|918|<span class="rank-name-pd">りょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|97|917|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|98|916|<span class="rank-name-dl">柊@元影武者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|99|915|<span class="rank-name-dl">K2ﾞ　@TYK</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|99|915|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|29|1009|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|30|1008|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|31|1005|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|32|1004|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|33|1003|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|33|1003|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|35|1001|<span class="rank-name-dl">Ryota178</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|35|1001|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|37|999|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|38|998|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|39|984|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|39|984|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|39|984|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|42|983|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|43|976|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|44|974|<span class="rank-name-dl">MATSU×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|45|973|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|46|971|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|47|970|<span class="rank-name-pd">KO-1 malm</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|47|970|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|49|969|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|50|967|<span class="rank-name-pd">一般人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|51|966|<span class="rank-name-pd">しんちよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|51|966|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|51|966|<span class="rank-name-pd"><span class="pro-icon-pd"></span>植松 明宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|54|965|<span class="rank-name-dl">JOKER V</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|54|965|<span class="rank-name-pd">Sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|54|965|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|57|964|<span class="rank-name-dl">自虐的煢然野郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|58|963|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|59|960|<span class="rank-name-dl">ＫＯ－１ malm</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|60|959|<span class="rank-name-pd">☆Tor@☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|61|956|<span class="rank-name-dl">NO9TURNE</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|61|956|<span class="rank-name-pd">やっぴ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|63|955|<span class="rank-name-dl">河上 凌弥</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|64|952|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|65|951|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|66|950|<span class="rank-name-dl">$hiro sub</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|67|949|<span class="rank-name-dl">Hide.(°▽°)v</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|68|947|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|68|947|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|70|945|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|71|944|<span class="rank-name-pd">HkR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|72|942|<span class="rank-name-pd">aipg925‪°ʚ✞ɞ°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|72|942|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|74|938|<span class="rank-name-pd">たけうちっちきちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|75|937|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|76|936|<span class="rank-name-dl">ROTAKO</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|76|936|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|78|934|<span class="rank-name-pd">ZC33S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|79|933|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|80|932|<span class="rank-name-dl">きつね×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|80|932|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|82|931|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|82|931|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|84|928|<span class="rank-name-pd">KO-1 三発矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|84|928|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|86|927|<span class="rank-name-dl">yu</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|86|927|<span class="rank-name-pd">高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|88|926|<span class="rank-name-pd">三間 紀之@カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|88|926|<span class="rank-name-pd">千射万箭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|90|925|<span class="rank-name-pd">益田 和弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|91|921|<span class="rank-name-pd">Daiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|92|919|<span class="rank-name-dl">#Hyt</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|93|918|<span class="rank-name-pd">りょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|94|917|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|95|916|<span class="rank-name-dl">柊@元影武者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|96|915|<span class="rank-name-dl">K2ﾞ　@TYK</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|96|915|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|98|914|<span class="rank-name-pd">HANATARO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8773?s_seq=8773">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|98|914|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|98|914|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -144,21 +144,21 @@ ___
 |10|1056|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |11|1051|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |12|1050|<span class="rank-name-dl">Yujiro</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|13|1041|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|13|1041|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |14|1039|<span class="rank-name-dl">自虐的はぐれザル</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|15|1038|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|15|1038|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |16|1035|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |17|1032|<span class="rank-name-dl">ほし</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |18|1026|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |19|1022|<span class="rank-name-dl">INTE.VTEC</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|20|1015|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|20|1015|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |21|1009|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |22|1008|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |23|1005|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |24|1004|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |25|1003|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |25|1003|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|27|1001|<span class="rank-name-dl">Ryota178</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|27|1001|<span class="rank-name-dl">Ryota178</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |27|1001|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |29|999|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |30|984|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
@@ -166,72 +166,72 @@ ___
 |30|984|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |33|983|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |34|974|<span class="rank-name-dl">MATSU×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|35|973|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|36|971|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|35|973|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 |36|971|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|38|970|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|39|969|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|40|966|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|41|965|<span class="rank-name-dl">JOKER V</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|41|965|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|43|964|<span class="rank-name-dl">自虐的煢然野郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|44|963|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|45|960|<span class="rank-name-dl">ＫＯ－１ malm</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|46|956|<span class="rank-name-dl">NO9TURNE</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|46|956|<span class="rank-name-dl">しんちよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|48|955|<span class="rank-name-dl">河上 凌弥</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|49|952|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|50|951|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|51|950|<span class="rank-name-dl">$hiro sub</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|52|949|<span class="rank-name-dl">Hide.(°▽°)v</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|53|947|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|53|947|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|55|945|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|56|944|<span class="rank-name-dl">♂疲れた清盛♂</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|57|942|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|58|936|<span class="rank-name-dl">ROTAKO</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|58|936|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|60|933|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|61|932|<span class="rank-name-dl">きつね×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|61|932|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|63|928|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|64|927|<span class="rank-name-dl">yu</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|64|927|<span class="rank-name-dl">♂疲れた清盛♂</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|66|919|<span class="rank-name-dl">#Hyt</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|67|917|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|68|916|<span class="rank-name-dl">柊@元影武者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|69|915|<span class="rank-name-dl">K2ﾞ　@TYK</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|69|915|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|71|914|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|71|914|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|71|914|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|74|912|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|75|910|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|76|907|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|77|905|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|78|903|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|79|898|<span class="rank-name-dl">Spooky</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|79|898|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店 アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|81|896|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|81|896|<span class="rank-name-dl">千射万箭</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|83|894|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|84|890|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|85|888|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|86|883|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|86|883|<span class="rank-name-dl">やまちゃー</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|86|883|<span class="rank-name-dl">ゴリ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|89|880|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|90|876|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|91|875|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|92|874|<span class="rank-name-dl">ともみ@暁</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|93|873|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|94|872|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|95|867|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|96|864|<span class="rank-name-dl">すけゆ。</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|97|859|<span class="rank-name-dl">きつね</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|98|858|<span class="rank-name-dl">(゜∀。)</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|98|858|<span class="rank-name-dl">ダス</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|100|857|<span class="rank-name-dl">梅吉&lt;障泥賊&gt;LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|37|970|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|38|969|<span class="rank-name-dl">麻婆</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|39|966|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|40|965|<span class="rank-name-dl">JOKER V</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|40|965|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|42|964|<span class="rank-name-dl">自虐的煢然野郎</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|43|963|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|44|960|<span class="rank-name-dl">ＫＯ－１ malm</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|45|956|<span class="rank-name-dl">NO9TURNE</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|45|956|<span class="rank-name-dl">しんちよ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|47|955|<span class="rank-name-dl">河上 凌弥</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|48|952|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|49|951|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|50|950|<span class="rank-name-dl">$hiro sub</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|51|949|<span class="rank-name-dl">Hide.(°▽°)v</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|52|947|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|52|947|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|54|945|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|55|944|<span class="rank-name-dl">♂疲れた清盛♂</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|56|942|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|57|936|<span class="rank-name-dl">ROTAKO</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|57|936|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|59|933|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|60|932|<span class="rank-name-dl">きつね×LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|60|932|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|62|928|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|63|927|<span class="rank-name-dl">yu</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|64|919|<span class="rank-name-dl">#Hyt</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|65|917|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|66|916|<span class="rank-name-dl">柊@元影武者</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|67|915|<span class="rank-name-dl">K2ﾞ　@TYK</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|67|915|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|69|914|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|69|914|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|69|914|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|72|912|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|73|907|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|74|905|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|75|903|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|76|898|<span class="rank-name-dl">Spooky</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|76|898|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|78|896|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|78|896|<span class="rank-name-dl">千射万箭</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|80|894|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|81|890|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|82|888|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|83|883|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|83|883|<span class="rank-name-dl">やまちゃー</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|83|883|<span class="rank-name-dl">ゴリ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|86|880|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|87|876|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|88|875|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|89|874|<span class="rank-name-dl">ともみ@暁</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|90|873|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|91|872|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|92|867|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|93|864|<span class="rank-name-dl">すけゆ。</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|94|859|<span class="rank-name-dl">きつね</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|95|858|<span class="rank-name-dl">(゜∀。)</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|95|858|<span class="rank-name-dl">ダス</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|97|857|<span class="rank-name-dl">梅吉&lt;障泥賊&gt;LOZA</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|98|856|<span class="rank-name-dl">自虐的煢然野郎</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|99|854|<span class="rank-name-dl">ﾌｧｰﾑがﾎｰﾑ！</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|100|852|<span class="rank-name-dl">Show☆StarDust</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

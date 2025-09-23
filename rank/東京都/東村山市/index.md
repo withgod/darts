@@ -31,98 +31,98 @@ ___
 |6|1158|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |7|1156|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |8|1140|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|9|1139|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|9|1139|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |10|1136|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|11|1133|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|12|1130|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|13|1129|<span class="rank-name-dl">佐藤　剛</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|14|1127|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|15|1121|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|16|1114|<span class="rank-name-pd">こーえー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|16|1114|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|18|1113|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|19|1105|<span class="rank-name-dl">蓮音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|20|1104|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|21|1100|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|22|1095|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64257?s_seq=64257">BARLKS</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|23|1092|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|24|1091|<span class="rank-name-dl">さったら(^^)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|24|1091|<span class="rank-name-dl">ﾑﾝﾌﾊﾞﾄ ﾑﾝﾌｫｱﾏｶﾞﾗ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|26|1088|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|26|1088|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|28|1087|<span class="rank-name-pd">桒原 康裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|28|1087|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|30|1086|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|30|1086|<span class="rank-name-dl">田中 稜大</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|32|1083|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|33|1081|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|34|1078|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|35|1077|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|36|1076|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|36|1076|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|38|1075|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|39|1064|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|40|1063|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|41|1061|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|42|1060|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|42|1060|<span class="rank-name-dl">しぃたけぇ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|42|1060|<span class="rank-name-dl">佐々木 沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|45|1059|<span class="rank-name-dl">さったら</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|46|1057|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|47|1056|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|47|1056|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|49|1053|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|50|1052|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|51|1050|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|51|1050|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/23f5b9644b12db3828032249b44395af">カラオケALL 久米川店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|53|1048|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|54|1047|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|54|1047|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|56|1046|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|57|1045|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|57|1045|<span class="rank-name-dl">齋藤 大志</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|59|1043|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|59|1043|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|61|1042|<span class="rank-name-dl">SpoKAZ なかじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|61|1042|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|63|1040|<span class="rank-name-pd">MANDA[TARGET]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64257?s_seq=64257">BARLKS</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|64|1037|<span class="rank-name-dl">Tako</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|65|1034|<span class="rank-name-dl">佐々木沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|66|1033|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|67|1032|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|68|1030|<span class="rank-name-dl">Kimu</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|69|1028|<span class="rank-name-dl">麗音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|70|1025|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|70|1025|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|72|1019|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|73|1016|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|74|1015|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|74|1015|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|74|1015|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|77|1014|<span class="rank-name-dl">Union Jack</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|77|1014|<span class="rank-name-dl">ア・ベチャン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|79|1010|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|79|1010|<span class="rank-name-dl">はこゆーり</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|79|1010|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|82|1009|<span class="rank-name-dl">つよーし</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|82|1009|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|84|1008|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|85|1007|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|86|1005|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|86|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|88|1002|<span class="rank-name-dl">(&gt;ω&lt;)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|88|1002|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|90|1001|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|91|993|<span class="rank-name-dl">寅次郎</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|92|986|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|93|979|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|93|979|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|95|978|<span class="rank-name-dl">そば派</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|96|974|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|97|973|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|98|968|<span class="rank-name-dl">も◎Jam</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|98|968|<span class="rank-name-dl">ナッスィーニ</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|100|964|<span class="rank-name-dl">おひで</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|11|1133|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|12|1129|<span class="rank-name-dl">佐藤　剛</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|13|1127|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|14|1121|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|15|1114|<span class="rank-name-pd">こーえー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|15|1114|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|17|1113|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|18|1105|<span class="rank-name-dl">蓮音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|19|1104|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|20|1100|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|21|1095|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64257?s_seq=64257">BARLKS</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|22|1092|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|23|1091|<span class="rank-name-dl">さったら(^^)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|23|1091|<span class="rank-name-dl">ﾑﾝﾌﾊﾞﾄ ﾑﾝﾌｫｱﾏｶﾞﾗ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|25|1088|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|25|1088|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|27|1087|<span class="rank-name-pd">桒原 康裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|27|1087|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|29|1086|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|29|1086|<span class="rank-name-dl">田中 稜大</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|31|1081|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|32|1078|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|33|1077|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|34|1076|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|34|1076|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|36|1075|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|37|1064|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|38|1063|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|39|1061|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|40|1060|<span class="rank-name-dl">しぃたけぇ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|40|1060|<span class="rank-name-dl">佐々木 沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|42|1059|<span class="rank-name-dl">さったら</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|43|1057|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|44|1056|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|44|1056|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|46|1053|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|47|1052|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|48|1050|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/23f5b9644b12db3828032249b44395af">カラオケALL 久米川店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|49|1047|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|49|1047|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|51|1046|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|52|1045|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|52|1045|<span class="rank-name-dl">齋藤 大志</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|54|1043|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|54|1043|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|56|1042|<span class="rank-name-dl">SpoKAZ なかじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|56|1042|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|58|1040|<span class="rank-name-pd">MANDA[TARGET]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64257?s_seq=64257">BARLKS</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|59|1037|<span class="rank-name-dl">Tako</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|60|1034|<span class="rank-name-dl">佐々木沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|61|1033|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|62|1032|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|63|1030|<span class="rank-name-dl">Kimu</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|64|1028|<span class="rank-name-dl">麗音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|65|1019|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|66|1015|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|66|1015|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|66|1015|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|69|1014|<span class="rank-name-dl">Union Jack</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|69|1014|<span class="rank-name-dl">ア・ベチャン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|71|1010|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|71|1010|<span class="rank-name-dl">はこゆーり</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|71|1010|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|74|1009|<span class="rank-name-dl">つよーし</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|74|1009|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|76|1007|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|77|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|78|1002|<span class="rank-name-dl">(&gt;ω&lt;)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|78|1002|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|80|1001|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|81|993|<span class="rank-name-dl">寅次郎</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|82|979|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|83|978|<span class="rank-name-dl">そば派</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|84|974|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|85|968|<span class="rank-name-dl">も◎Jam</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|85|968|<span class="rank-name-dl">ナッスィーニ</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|87|964|<span class="rank-name-dl">おひで</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|88|963|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|89|962|<span class="rank-name-dl">田代　秀実</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|90|961|<span class="rank-name-dl">Siitake</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|90|961|<span class="rank-name-dl">鎌田愛</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|92|959|<span class="rank-name-pd">金子颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|93|958|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|94|956|<span class="rank-name-dl">Black Tamamba</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|95|954|<span class="rank-name-dl">NO NAME 4630</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|95|954|<span class="rank-name-dl">ちょうじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|97|952|<span class="rank-name-dl">ＡＺＵ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|98|951|<span class="rank-name-pd">こうちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92711?s_seq=92711">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|99|950|<span class="rank-name-dl">abcabc159</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|100|946|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -140,98 +140,98 @@ ___
 |6|1158|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |7|1156|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |8|1140|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|9|1139|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|9|1139|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 |10|1136|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|11|1133|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|12|1130|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|13|1129|<span class="rank-name-dl">佐藤　剛</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|14|1127|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|15|1121|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|16|1114|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|17|1113|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|18|1105|<span class="rank-name-dl">蓮音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|19|1104|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|20|1100|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|21|1092|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|22|1091|<span class="rank-name-dl">さったら(^^)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|22|1091|<span class="rank-name-dl">ﾑﾝﾌﾊﾞﾄ ﾑﾝﾌｫｱﾏｶﾞﾗ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|24|1088|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|24|1088|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|26|1087|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|27|1086|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|27|1086|<span class="rank-name-dl">田中 稜大</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|29|1083|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|30|1081|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|31|1078|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|32|1077|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|33|1076|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|33|1076|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|35|1075|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|36|1064|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|37|1063|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|38|1061|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|39|1060|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|39|1060|<span class="rank-name-dl">しぃたけぇ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|39|1060|<span class="rank-name-dl">佐々木 沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|42|1059|<span class="rank-name-dl">さったら</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|43|1057|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|44|1056|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|44|1056|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|46|1053|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|47|1052|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|48|1050|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|48|1050|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/23f5b9644b12db3828032249b44395af">カラオケALL 久米川店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|50|1048|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|51|1047|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|51|1047|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|53|1046|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|54|1045|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|54|1045|<span class="rank-name-dl">齋藤 大志</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|56|1043|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|56|1043|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|58|1042|<span class="rank-name-dl">SpoKAZ なかじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|58|1042|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|60|1037|<span class="rank-name-dl">Tako</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|61|1034|<span class="rank-name-dl">佐々木沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|62|1033|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|63|1032|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|64|1030|<span class="rank-name-dl">Kimu</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|65|1028|<span class="rank-name-dl">麗音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|66|1025|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|66|1025|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|68|1019|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|69|1016|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|70|1015|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|70|1015|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|70|1015|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|73|1014|<span class="rank-name-dl">Union Jack</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|73|1014|<span class="rank-name-dl">ア・ベチャン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|75|1010|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|75|1010|<span class="rank-name-dl">はこゆーり</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|75|1010|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|78|1009|<span class="rank-name-dl">つよーし</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|78|1009|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|80|1008|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|81|1007|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|82|1005|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|82|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店 快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|84|1002|<span class="rank-name-dl">(&gt;ω&lt;)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|84|1002|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|86|1001|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|87|993|<span class="rank-name-dl">寅次郎</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|88|986|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|89|979|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|89|979|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|91|978|<span class="rank-name-dl">そば派</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|92|974|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|93|973|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|94|968|<span class="rank-name-dl">も◎Jam</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|94|968|<span class="rank-name-dl">ナッスィーニ</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|96|964|<span class="rank-name-dl">おひで</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|97|963|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|98|962|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|98|962|<span class="rank-name-dl">田代　秀実</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
-|100|961|<span class="rank-name-dl">Siitake</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|11|1133|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|12|1129|<span class="rank-name-dl">佐藤　剛</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|13|1127|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|14|1121|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|15|1114|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|16|1113|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|17|1105|<span class="rank-name-dl">蓮音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|18|1104|<span class="rank-name-dl">SpoKAZ★JOKER+L</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|19|1100|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|20|1092|<span class="rank-name-dl">ひぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|21|1091|<span class="rank-name-dl">さったら(^^)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|21|1091|<span class="rank-name-dl">ﾑﾝﾌﾊﾞﾄ ﾑﾝﾌｫｱﾏｶﾞﾗ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|23|1088|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|23|1088|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|25|1087|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|26|1086|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|26|1086|<span class="rank-name-dl">田中 稜大</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|28|1081|<span class="rank-name-dl">Ф堀健Ф久Ж川流</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|29|1078|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|30|1077|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|31|1076|<span class="rank-name-dl">( ﾟдﾟ)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|31|1076|<span class="rank-name-dl">TT HAYA</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|33|1075|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|34|1064|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|35|1063|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|36|1061|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|37|1060|<span class="rank-name-dl">しぃたけぇ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|37|1060|<span class="rank-name-dl">佐々木 沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|39|1059|<span class="rank-name-dl">さったら</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|40|1057|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|41|1056|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|41|1056|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|43|1053|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|44|1052|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|45|1050|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/23f5b9644b12db3828032249b44395af">カラオケALL 久米川店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|46|1047|<span class="rank-name-dl">DRAGON</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|46|1047|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|48|1046|<span class="rank-name-dl">うえと</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|49|1045|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|49|1045|<span class="rank-name-dl">齋藤 大志</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|51|1043|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|51|1043|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|53|1042|<span class="rank-name-dl">SpoKAZ なかじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|53|1042|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|55|1037|<span class="rank-name-dl">Tako</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|56|1034|<span class="rank-name-dl">佐々木沙綾香</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|57|1033|<span class="rank-name-dl">戦闘員やす(マジ)</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|58|1032|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|59|1030|<span class="rank-name-dl">Kimu</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|60|1028|<span class="rank-name-dl">麗音</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|61|1019|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|62|1015|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|62|1015|<span class="rank-name-dl">田代 哲也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|62|1015|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|65|1014|<span class="rank-name-dl">Union Jack</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|65|1014|<span class="rank-name-dl">ア・ベチャン</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|67|1010|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|67|1010|<span class="rank-name-dl">はこゆーり</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|67|1010|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|70|1009|<span class="rank-name-dl">つよーし</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|70|1009|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|72|1007|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|73|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|74|1002|<span class="rank-name-dl">(&gt;ω&lt;)しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|74|1002|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|76|1001|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|77|993|<span class="rank-name-dl">寅次郎</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|78|979|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|79|978|<span class="rank-name-dl">そば派</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|80|974|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|81|968|<span class="rank-name-dl">も◎Jam</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|81|968|<span class="rank-name-dl">ナッスィーニ</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|83|964|<span class="rank-name-dl">おひで</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|84|963|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|85|962|<span class="rank-name-dl">田代　秀実</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|86|961|<span class="rank-name-dl">Siitake</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|86|961|<span class="rank-name-dl">鎌田愛</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|88|958|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|89|956|<span class="rank-name-dl">Black Tamamba</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|90|954|<span class="rank-name-dl">NO NAME 4630</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|90|954|<span class="rank-name-dl">ちょうじ</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|92|952|<span class="rank-name-dl">ＡＺＵ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|93|950|<span class="rank-name-dl">abcabc159</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|94|946|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|95|942|<span class="rank-name-dl">＊Emi＊</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|96|941|<span class="rank-name-dl">ﾔｯﾁｮ＠ﾄﾘﾆﾀﾞｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|97|937|<span class="rank-name-dl">Y↯✪…JackPot</span>|<a href="https://search.dartslive.com/jp/shop/0bc042302926e5a30d9b047a20a7ba1e">Sports Cafe KAZ</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|98|933|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|98|933|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/5d8e6acced8257480d9b047a20a7ba1e">Dining Bar Jam</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
+|100|932|<span class="rank-name-dl">Starfee</span>|<a href="https://search.dartslive.com/jp/shop/4923ea7be2184ae3b21333aee1bd51e4">快活CLUB 東村山店</a>|<a href="/darts/rank/東京都/東村山市">東京都東村山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

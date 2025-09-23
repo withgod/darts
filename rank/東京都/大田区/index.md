@@ -43,86 +43,86 @@ ___
 |15|1138|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55363?s_seq=55363">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 |19|1137|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 |20|1135|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|20|1135|<span class="rank-name-dl">笛木 和樹</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|22|1130|<span class="rank-name-dl">海山@チャん!!</span>|<a href="https://search.dartslive.com/jp/shop/bee23f0402b8a0f6790ab824ce8730e5">アミューズメントバー チャン!! アミューズメントバー チャン!!</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|23|1129|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|24|1128|<span class="rank-name-dl">Kimura Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|25|1126|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|25|1126|<span class="rank-name-dl">むた★JACK大森★</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|25|1126|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|28|1125|<span class="rank-name-dl">カオマンガイ</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|29|1124|<span class="rank-name-dl">kento( • • )</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|30|1123|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|31|1122|<span class="rank-name-dl">408号</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|31|1122|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|33|1121|<span class="rank-name-dl">ムッシュ斎藤</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|34|1120|<span class="rank-name-dl">まさ次郎系</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|35|1119|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|35|1119|<span class="rank-name-dl">笛木　和樹</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|37|1117|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/ee56d8659ec13edb0d9b047a20a7ba1e">Darts Bar RISE</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|38|1115|<span class="rank-name-dl">NO NAME 3661</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|38|1115|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|40|1113|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|40|1113|<span class="rank-name-dl">T&#x27;s@だいき</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|42|1112|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|43|1107|<span class="rank-name-dl">９２aki[ﾁｮｷ]UDS</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|44|1105|<span class="rank-name-dl">【　】イーブイ</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|44|1105|<span class="rank-name-dl">塾長</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1104|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1104|<span class="rank-name-dl">t.d</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|48|1103|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|48|1103|<span class="rank-name-dl">えーき</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|48|1103|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|48|1103|<span class="rank-name-dl">㈲N.R.K</span>|<a href="https://search.dartslive.com/jp/shop/78dc6cd014d9a5e20d9b047a20a7ba1e">Blue Room</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|48|1103|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|53|1102|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店 快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|54|1101|<span class="rank-name-dl">POR FAVOR</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|54|1101|<span class="rank-name-dl">斉藤　直紀</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|54|1101|<span class="rank-name-dl">松村　大地</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|54|1101|<span class="rank-name-dl">鈴木秀和★ポタラ</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|58|1100|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|59|1093|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/05ab45ffa70e6ca20d9b047a20a7ba1e">アプレシオ サンライズ蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|60|1091|<span class="rank-name-pd"><span class="pro-icon-pd"></span>藤原 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55363?s_seq=55363">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|61|1089|<span class="rank-name-dl">my七味ﾆｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|62|1088|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|62|1088|<span class="rank-name-dl">橋本 光</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|64|1087|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|64|1087|<span class="rank-name-dl">ますかっと</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|64|1087|<span class="rank-name-dl">將</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|64|1087|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|68|1086|<span class="rank-name-dl">smiley☆CROWBAR</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|69|1085|<span class="rank-name-dl">ニライカナイ</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|70|1084|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|70|1084|<span class="rank-name-dl">やまぎし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|70|1084|<span class="rank-name-dl">ゆうとです！</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|70|1084|<span class="rank-name-dl">夜は甘えん坊将軍</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|74|1083|<span class="rank-name-dl">Jansaan</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|75|1082|<span class="rank-name-dl">後藤 智弥</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|76|1081|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|77|1079|<span class="rank-name-dl">ガ イ モ ン</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|78|1078|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/f50e971f8ad344160d9b047a20a7ba1e">ZUCCHIS BAR</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|78|1078|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|78|1078|<span class="rank-name-dl">オオタキくん</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|81|1077|<span class="rank-name-dl">伊東 健史</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|81|1077|<span class="rank-name-pd">坊やヒロ(ブル)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9750?s_seq=9750">MBY</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|83|1076|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|83|1076|<span class="rank-name-dl">RAINMAKER</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|83|1076|<span class="rank-name-dl">Yana-MO&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|83|1076|<span class="rank-name-dl">たかも</span>|<a href="https://search.dartslive.com/jp/shop/cd2bbe0ed5bddd400d9b047a20a7ba1e">cafe & bar Re; cafe & bar Re;</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|87|1075|<span class="rank-name-dl">ゆーーーーと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|88|1074|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|88|1074|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|88|1074|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/dd40279e19f9567ff454cb89828a1cfe">DiCE蒲田駅西口店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|88|1074|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|92|1071|<span class="rank-name-dl">shigi_whole9</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9 Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|93|1070|<span class="rank-name-dl">TAKUMA TAKESHITA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|93|1070|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/15288bb8bfd2d4e70d9b047a20a7ba1e">Haunt</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|93|1070|<span class="rank-name-dl">高清水　PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|96|1069|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|96|1069|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|96|1069|<span class="rank-name-dl">伊東 潤多</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|99|1067|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|100|1066|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|21|1130|<span class="rank-name-dl">海山@チャん!!</span>|<a href="https://search.dartslive.com/jp/shop/bee23f0402b8a0f6790ab824ce8730e5">アミューズメントバー チャン!!</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|22|1129|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|23|1128|<span class="rank-name-dl">Kimura Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|24|1126|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|24|1126|<span class="rank-name-dl">むた★JACK大森★</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|24|1126|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|27|1125|<span class="rank-name-dl">カオマンガイ</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|28|1124|<span class="rank-name-dl">kento( • • )</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|29|1123|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|30|1122|<span class="rank-name-dl">408号</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|30|1122|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|32|1121|<span class="rank-name-dl">ムッシュ斎藤</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|33|1120|<span class="rank-name-dl">まさ次郎系</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|34|1119|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|34|1119|<span class="rank-name-dl">笛木　和樹</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|36|1117|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/ee56d8659ec13edb0d9b047a20a7ba1e">Darts Bar RISE</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|37|1115|<span class="rank-name-dl">NO NAME 3661</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|37|1115|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|39|1113|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|39|1113|<span class="rank-name-dl">T&#x27;s@だいき</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|41|1112|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|42|1107|<span class="rank-name-dl">９２aki[ﾁｮｷ]UDS</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|43|1105|<span class="rank-name-dl">【　】イーブイ</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|43|1105|<span class="rank-name-dl">塾長</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1104|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1104|<span class="rank-name-dl">t.d</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|47|1103|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|47|1103|<span class="rank-name-dl">えーき</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|47|1103|<span class="rank-name-dl">㈲N.R.K</span>|<a href="https://search.dartslive.com/jp/shop/78dc6cd014d9a5e20d9b047a20a7ba1e">Blue Room</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|47|1103|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|51|1101|<span class="rank-name-dl">POR FAVOR</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|51|1101|<span class="rank-name-dl">斉藤　直紀</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|51|1101|<span class="rank-name-dl">松村　大地</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|51|1101|<span class="rank-name-dl">鈴木秀和★ポタラ</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|55|1100|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|56|1093|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/05ab45ffa70e6ca20d9b047a20a7ba1e">アプレシオ サンライズ蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|57|1091|<span class="rank-name-pd"><span class="pro-icon-pd"></span>藤原 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55363?s_seq=55363">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|58|1089|<span class="rank-name-dl">my七味ﾆｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|59|1088|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|59|1088|<span class="rank-name-dl">橋本 光</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|61|1087|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|61|1087|<span class="rank-name-dl">ますかっと</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|61|1087|<span class="rank-name-dl">將</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|61|1087|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|65|1086|<span class="rank-name-dl">smiley☆CROWBAR</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|66|1085|<span class="rank-name-dl">ニライカナイ</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|67|1084|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|67|1084|<span class="rank-name-dl">やまぎし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|67|1084|<span class="rank-name-dl">ゆうとです！</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|67|1084|<span class="rank-name-dl">夜は甘えん坊将軍</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|71|1083|<span class="rank-name-dl">Jansaan</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|72|1082|<span class="rank-name-dl">後藤 智弥</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|73|1081|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|74|1079|<span class="rank-name-dl">ガ イ モ ン</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|75|1078|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/f50e971f8ad344160d9b047a20a7ba1e">ZUCCHIS BAR</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|75|1078|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|75|1078|<span class="rank-name-dl">オオタキくん</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|78|1077|<span class="rank-name-dl">伊東 健史</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|78|1077|<span class="rank-name-pd">坊やヒロ(ブル)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9750?s_seq=9750">MBY</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|80|1076|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|80|1076|<span class="rank-name-dl">RAINMAKER</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|80|1076|<span class="rank-name-dl">Yana-MO&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|80|1076|<span class="rank-name-dl">たかも</span>|<a href="https://search.dartslive.com/jp/shop/cd2bbe0ed5bddd400d9b047a20a7ba1e">cafe & bar Re; cafe & bar Re;</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|84|1075|<span class="rank-name-dl">ゆーーーーと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1074|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1074|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1074|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/dd40279e19f9567ff454cb89828a1cfe">DiCE蒲田駅西口店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1074|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|89|1070|<span class="rank-name-dl">TAKUMA TAKESHITA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|89|1070|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/15288bb8bfd2d4e70d9b047a20a7ba1e">Haunt</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|89|1070|<span class="rank-name-dl">高清水　PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|92|1069|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|92|1069|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|92|1069|<span class="rank-name-dl">伊東 潤多</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|95|1067|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|96|1066|<span class="rank-name-dl">✌︎</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|97|1065|<span class="rank-name-pd">まきまき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55363?s_seq=55363">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|98|1064|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|98|1064|<span class="rank-name-dl">がぶのみ@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|98|1064|<span class="rank-name-dl">さの かつとし</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -150,88 +150,88 @@ ___
 |14|1138|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 |17|1137|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 |18|1135|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|18|1135|<span class="rank-name-dl">笛木 和樹</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|20|1130|<span class="rank-name-dl">海山@チャん!!</span>|<a href="https://search.dartslive.com/jp/shop/bee23f0402b8a0f6790ab824ce8730e5">アミューズメントバー チャン!! アミューズメントバー チャン!!</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|21|1129|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|22|1128|<span class="rank-name-dl">Kimura Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|23|1126|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|23|1126|<span class="rank-name-dl">むた★JACK大森★</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|23|1126|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|26|1125|<span class="rank-name-dl">カオマンガイ</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|27|1124|<span class="rank-name-dl">kento( • • )</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|28|1123|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|29|1122|<span class="rank-name-dl">408号</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|29|1122|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|31|1121|<span class="rank-name-dl">ムッシュ斎藤</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|32|1120|<span class="rank-name-dl">まさ次郎系</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|33|1119|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|33|1119|<span class="rank-name-dl">笛木　和樹</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|35|1117|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/ee56d8659ec13edb0d9b047a20a7ba1e">Darts Bar RISE</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|36|1115|<span class="rank-name-dl">NO NAME 3661</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|36|1115|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|38|1113|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|38|1113|<span class="rank-name-dl">T&#x27;s@だいき</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|40|1112|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|41|1107|<span class="rank-name-dl">９２aki[ﾁｮｷ]UDS</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|42|1105|<span class="rank-name-dl">【　】イーブイ</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|42|1105|<span class="rank-name-dl">塾長</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|44|1104|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|44|1104|<span class="rank-name-dl">t.d</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1103|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1103|<span class="rank-name-dl">えーき</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1103|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1103|<span class="rank-name-dl">㈲N.R.K</span>|<a href="https://search.dartslive.com/jp/shop/78dc6cd014d9a5e20d9b047a20a7ba1e">Blue Room</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|46|1103|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|51|1102|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店 快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|52|1101|<span class="rank-name-dl">POR FAVOR</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|52|1101|<span class="rank-name-dl">斉藤　直紀</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|52|1101|<span class="rank-name-dl">松村　大地</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|52|1101|<span class="rank-name-dl">鈴木秀和★ポタラ</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|56|1100|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|57|1093|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/05ab45ffa70e6ca20d9b047a20a7ba1e">アプレシオ サンライズ蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|58|1089|<span class="rank-name-dl">my七味ﾆｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|59|1088|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|59|1088|<span class="rank-name-dl">橋本 光</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|61|1087|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|61|1087|<span class="rank-name-dl">ますかっと</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|61|1087|<span class="rank-name-dl">將</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|61|1087|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|65|1086|<span class="rank-name-dl">smiley☆CROWBAR</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|66|1085|<span class="rank-name-dl">ニライカナイ</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|67|1084|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|67|1084|<span class="rank-name-dl">やまぎし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|67|1084|<span class="rank-name-dl">ゆうとです！</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|67|1084|<span class="rank-name-dl">夜は甘えん坊将軍</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|71|1083|<span class="rank-name-dl">Jansaan</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|72|1082|<span class="rank-name-dl">後藤 智弥</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|73|1081|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|74|1079|<span class="rank-name-dl">ガ イ モ ン</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|75|1078|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/f50e971f8ad344160d9b047a20a7ba1e">ZUCCHIS BAR</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|75|1078|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|75|1078|<span class="rank-name-dl">オオタキくん</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|78|1077|<span class="rank-name-dl">伊東 健史</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|79|1076|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|79|1076|<span class="rank-name-dl">RAINMAKER</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|79|1076|<span class="rank-name-dl">Yana-MO&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|79|1076|<span class="rank-name-dl">たかも</span>|<a href="https://search.dartslive.com/jp/shop/cd2bbe0ed5bddd400d9b047a20a7ba1e">cafe & bar Re; cafe & bar Re;</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|83|1075|<span class="rank-name-dl">ゆーーーーと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|84|1074|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|84|1074|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|84|1074|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/dd40279e19f9567ff454cb89828a1cfe">DiCE蒲田駅西口店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|84|1074|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|88|1071|<span class="rank-name-dl">shigi_whole9</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9 Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|89|1070|<span class="rank-name-dl">TAKUMA TAKESHITA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|89|1070|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/15288bb8bfd2d4e70d9b047a20a7ba1e">Haunt</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|89|1070|<span class="rank-name-dl">高清水　PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|92|1069|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|92|1069|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|92|1069|<span class="rank-name-dl">伊東 潤多</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|95|1067|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|96|1066|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|96|1066|<span class="rank-name-dl">✌︎</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店 Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|98|1064|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|98|1064|<span class="rank-name-dl">がぶのみ@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
-|98|1064|<span class="rank-name-dl">さの かつとし</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|19|1130|<span class="rank-name-dl">海山@チャん!!</span>|<a href="https://search.dartslive.com/jp/shop/bee23f0402b8a0f6790ab824ce8730e5">アミューズメントバー チャン!!</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|20|1129|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|21|1128|<span class="rank-name-dl">Kimura Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|22|1126|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|22|1126|<span class="rank-name-dl">むた★JACK大森★</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|22|1126|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|25|1125|<span class="rank-name-dl">カオマンガイ</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|26|1124|<span class="rank-name-dl">kento( • • )</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|27|1123|<span class="rank-name-dl">まき✕３</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|28|1122|<span class="rank-name-dl">408号</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|28|1122|<span class="rank-name-dl">ちくわ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|30|1121|<span class="rank-name-dl">ムッシュ斎藤</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|31|1120|<span class="rank-name-dl">まさ次郎系</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|32|1119|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|32|1119|<span class="rank-name-dl">笛木　和樹</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|34|1117|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/ee56d8659ec13edb0d9b047a20a7ba1e">Darts Bar RISE</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|35|1115|<span class="rank-name-dl">NO NAME 3661</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|35|1115|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|37|1113|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|37|1113|<span class="rank-name-dl">T&#x27;s@だいき</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|39|1112|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|40|1107|<span class="rank-name-dl">９２aki[ﾁｮｷ]UDS</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|41|1105|<span class="rank-name-dl">【　】イーブイ</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|41|1105|<span class="rank-name-dl">塾長</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|43|1104|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|43|1104|<span class="rank-name-dl">t.d</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1103|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/535e8aeeb797f05d0d9b047a20a7ba1e">Pool&Darts CHALKIES</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1103|<span class="rank-name-dl">えーき</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1103|<span class="rank-name-dl">㈲N.R.K</span>|<a href="https://search.dartslive.com/jp/shop/78dc6cd014d9a5e20d9b047a20a7ba1e">Blue Room</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|45|1103|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|49|1101|<span class="rank-name-dl">POR FAVOR</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|49|1101|<span class="rank-name-dl">斉藤　直紀</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|49|1101|<span class="rank-name-dl">松村　大地</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|49|1101|<span class="rank-name-dl">鈴木秀和★ポタラ</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|53|1100|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|54|1093|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/05ab45ffa70e6ca20d9b047a20a7ba1e">アプレシオ サンライズ蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|55|1089|<span class="rank-name-dl">my七味ﾆｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|56|1088|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|56|1088|<span class="rank-name-dl">橋本 光</span>|<a href="https://search.dartslive.com/jp/shop/acb670ff3ff4a52e0d9b047a20a7ba1e">Mars.Kamata</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|58|1087|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|58|1087|<span class="rank-name-dl">ますかっと</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|58|1087|<span class="rank-name-dl">將</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|58|1087|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|62|1086|<span class="rank-name-dl">smiley☆CROWBAR</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|63|1085|<span class="rank-name-dl">ニライカナイ</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|64|1084|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|64|1084|<span class="rank-name-dl">やまぎし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|64|1084|<span class="rank-name-dl">ゆうとです！</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|64|1084|<span class="rank-name-dl">夜は甘えん坊将軍</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|68|1083|<span class="rank-name-dl">Jansaan</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|69|1082|<span class="rank-name-dl">後藤 智弥</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|70|1081|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/9f43c227b18186590d9b047a20a7ba1e">Bar RING</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|71|1079|<span class="rank-name-dl">ガ イ モ ン</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|72|1078|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/f50e971f8ad344160d9b047a20a7ba1e">ZUCCHIS BAR</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|72|1078|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/bbd06daa3728c642a3f63593b5358cc4">UP蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|72|1078|<span class="rank-name-dl">オオタキくん</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|75|1077|<span class="rank-name-dl">伊東 健史</span>|<a href="https://search.dartslive.com/jp/shop/b54ce151c27b782a774c926eb736cb5a">DARTS BAR iris</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|76|1076|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/4640fd63b063aaa50d9b047a20a7ba1e">ベスト10 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|76|1076|<span class="rank-name-dl">RAINMAKER</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|76|1076|<span class="rank-name-dl">Yana-MO&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|76|1076|<span class="rank-name-dl">たかも</span>|<a href="https://search.dartslive.com/jp/shop/cd2bbe0ed5bddd400d9b047a20a7ba1e">cafe & bar Re; cafe & bar Re;</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|80|1075|<span class="rank-name-dl">ゆーーーーと</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|81|1074|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|81|1074|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/d3fd1161752e47030d9b047a20a7ba1e">パラダイス 大岡山店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|81|1074|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/dd40279e19f9567ff454cb89828a1cfe">DiCE蒲田駅西口店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|81|1074|<span class="rank-name-dl">ｶｼﾞﾋﾛｷ♨️T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1070|<span class="rank-name-dl">TAKUMA TAKESHITA</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1070|<span class="rank-name-dl">ななまる</span>|<a href="https://search.dartslive.com/jp/shop/15288bb8bfd2d4e70d9b047a20a7ba1e">Haunt</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|85|1070|<span class="rank-name-dl">高清水　PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|88|1069|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/0d8dc7ea301b5db90d9b047a20a7ba1e">JACK 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|88|1069|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|88|1069|<span class="rank-name-dl">伊東 潤多</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|91|1067|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|92|1066|<span class="rank-name-dl">✌︎</span>|<a href="https://search.dartslive.com/jp/shop/e33a0b3568abeac4790ab824ce8730e5">Link 蒲田店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|93|1064|<span class="rank-name-dl">うみ</span>|<a href="https://search.dartslive.com/jp/shop/4aef641e33c98f620d9b047a20a7ba1e">バグース-Bネット蒲田</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|93|1064|<span class="rank-name-dl">がぶのみ@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/171735f7a7a3e44b790ab824ce8730e5">Darts Bar T's</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|93|1064|<span class="rank-name-dl">さの かつとし</span>|<a href="https://search.dartslive.com/jp/shop/b9953c99b8ab51400d9b047a20a7ba1e">Unite</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|96|1063|<span class="rank-name-dl">ニライカナイ</span>|<a href="https://search.dartslive.com/jp/shop/de305711dbd68b240d9b047a20a7ba1e">JACK 大森店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|97|1062|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/e1703d9efc2be0deb21333aee1bd51e4">快活CLUB 大森駅前店</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|97|1062|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/3d49bce8d37182cc0d9b047a20a7ba1e">Whole 9</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|99|1061|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/bee23f0402b8a0f6790ab824ce8730e5">アミューズメントバー チャン!!</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
+|100|1060|<span class="rank-name-dl">ひで★ポタラ</span>|<a href="https://search.dartslive.com/jp/shop/53a514cecfa93c570d9b047a20a7ba1e">Darts Bar ポタラ</a>|<a href="/darts/rank/東京都/大田区">東京都大田区</a>|
 
 
 #### PHOENIXDARTS TOP 100

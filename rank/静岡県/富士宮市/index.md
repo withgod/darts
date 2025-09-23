@@ -26,103 +26,103 @@ ___
 |1|1104|<span class="rank-name-dl">〆TE2〆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 |2|1086|<span class="rank-name-dl">坪井徳洋</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 |3|1078|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|4|1075|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|5|1072|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 (°᷄൧°᷅  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|5|1072|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|7|1054|<span class="rank-name-dl">〆TE2〆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|8|1050|<span class="rank-name-pd">かたおか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|8|1050|<span class="rank-name-pd">なぎくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|10|1046|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|11|1044|<span class="rank-name-dl">Fe</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|12|1036|<span class="rank-name-pd"> ただし君@つどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|13|1021|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|14|1020|<span class="rank-name-pd">スポルタンＸ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|15|1018|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|15|1018|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|17|1009|<span class="rank-name-dl">TAKUMA ➶</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|18|1004|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|19|1002|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|20|996|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎F氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|21|981|<span class="rank-name-pd">モトイトウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|22|973|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 (°᷄൧°᷅  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|22|973|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|24|971|<span class="rank-name-dl">モトイトウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|25|969|<span class="rank-name-pd">あっき〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|26|968|<span class="rank-name-dl">NO NAME 1040</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|27|967|<span class="rank-name-dl">KYOHEI</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|28|966|<span class="rank-name-pd">あっきー？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|29|962|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|30|957|<span class="rank-name-pd">もっち〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|31|953|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|31|953|<span class="rank-name-dl">プチンチン？タク</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|33|952|<span class="rank-name-pd">きｨ-くソ　〜Newグリップ練習中〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|34|951|<span class="rank-name-pd">きｨ-くソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|35|950|<span class="rank-name-pd">あっきー？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|35|950|<span class="rank-name-dl">いのぶた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|37|948|<span class="rank-name-pd">CooLな狼=酒神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|37|948|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|39|947|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|40|942|<span class="rank-name-pd">あっき〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|41|941|<span class="rank-name-pd">中野 学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|42|930|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|42|930|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|44|927|<span class="rank-name-pd">Hayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|45|923|<span class="rank-name-pd">もっち〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|46|921|<span class="rank-name-dl">もっちー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|47|920|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|48|919|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|49|918|<span class="rank-name-dl">あっき〜？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|50|917|<span class="rank-name-pd">小林の旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|51|915|<span class="rank-name-pd">Satussy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|52|914|<span class="rank-name-pd">CooLな狼=酒神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|53|910|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|54|906|<span class="rank-name-pd">くろきりすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|55|903|<span class="rank-name-dl">ぼんくらGE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|56|902|<span class="rank-name-pd">がちゃぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|57|901|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|58|900|<span class="rank-name-dl">ガチワレ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|58|900|<span class="rank-name-dl">Ｙ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|60|896|<span class="rank-name-pd">UNKNOWN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|61|895|<span class="rank-name-pd">0133_9664</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|62|892|<span class="rank-name-pd">ロザリアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|63|891|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|64|888|<span class="rank-name-pd">HOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|65|887|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎B氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|65|887|<span class="rank-name-pd">もっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|67|885|<span class="rank-name-pd">Kyohei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|67|885|<span class="rank-name-dl">さんた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|69|884|<span class="rank-name-pd">小林の旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|69|884|<span class="rank-name-dl">番長₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|71|873|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|72|872|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎B氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|73|871|<span class="rank-name-pd">マッコイ爺さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|74|869|<span class="rank-name-pd">Sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|75|868|<span class="rank-name-dl">iB3rooooran</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|76|865|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|77|864|<span class="rank-name-dl">UNKNOWN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|78|861|<span class="rank-name-pd">マッちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|79|860|<span class="rank-name-pd">SEYのアニキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|80|859|<span class="rank-name-pd">MANABU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|81|858|<span class="rank-name-dl">トシボー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|82|851|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|82|851|<span class="rank-name-dl">シュウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|84|846|<span class="rank-name-pd">けんちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|84|846|<span class="rank-name-dl">＠←タービン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|86|844|<span class="rank-name-dl">きよかね</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|87|840|<span class="rank-name-pd">HOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|88|839|<span class="rank-name-pd">ツッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|89|838|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|90|832|<span class="rank-name-pd">とある〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|90|832|<span class="rank-name-pd">殺助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|92|831|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|92|831|<span class="rank-name-pd">ビッケかよ∵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|94|824|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|95|823|<span class="rank-name-dl">れなっち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|96|818|<span class="rank-name-pd">山猫亭ねこます</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|97|813|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|97|813|<span class="rank-name-dl">雅っｸﾏ(´(ｪ)｀)</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|99|812|<span class="rank-name-pd">Zerorx7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|99|812|<span class="rank-name-dl">ｱﾝﾄﾆｵ•ﾀｸやん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|4|1072|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 (°᷄൧°᷅  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|4|1072|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|6|1050|<span class="rank-name-pd">かたおか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|6|1050|<span class="rank-name-pd">なぎくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|8|1046|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|9|1044|<span class="rank-name-dl">Fe</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|10|1036|<span class="rank-name-pd"> ただし君@つどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|11|1021|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|12|1020|<span class="rank-name-pd">スポルタンＸ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|13|1018|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|13|1018|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|15|1009|<span class="rank-name-dl">TAKUMA ➶</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|16|1004|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|17|1002|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|18|996|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎F氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|19|981|<span class="rank-name-pd">モトイトウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|20|973|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 (°᷄൧°᷅  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|20|973|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|22|971|<span class="rank-name-dl">モトイトウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|23|969|<span class="rank-name-pd">あっき〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|24|968|<span class="rank-name-dl">NO NAME 1040</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|25|967|<span class="rank-name-dl">KYOHEI</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|26|966|<span class="rank-name-pd">あっきー？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|27|962|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|28|957|<span class="rank-name-pd">もっち〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|29|953|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|29|953|<span class="rank-name-dl">プチンチン？タク</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|31|952|<span class="rank-name-pd">きｨ-くソ　〜Newグリップ練習中〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|32|951|<span class="rank-name-pd">きｨ-くソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|33|950|<span class="rank-name-pd">あっきー？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|33|950|<span class="rank-name-dl">いのぶた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|35|948|<span class="rank-name-pd">CooLな狼=酒神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|36|947|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|37|942|<span class="rank-name-pd">あっき〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|38|941|<span class="rank-name-pd">中野 学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|39|930|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|39|930|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|41|927|<span class="rank-name-pd">Hayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|42|923|<span class="rank-name-pd">もっち〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|43|921|<span class="rank-name-dl">もっちー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|44|920|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|45|919|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|46|918|<span class="rank-name-dl">あっき〜？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|47|917|<span class="rank-name-pd">小林の旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|48|915|<span class="rank-name-pd">Satussy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|49|914|<span class="rank-name-pd">CooLな狼=酒神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|50|910|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|51|906|<span class="rank-name-pd">くろきりすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|52|903|<span class="rank-name-dl">ぼんくらGE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|53|902|<span class="rank-name-pd">がちゃぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|54|901|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|55|900|<span class="rank-name-dl">ガチワレ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|55|900|<span class="rank-name-dl">Ｙ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|57|896|<span class="rank-name-pd">UNKNOWN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|58|895|<span class="rank-name-pd">0133_9664</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|59|892|<span class="rank-name-pd">ロザリアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|60|891|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎番長 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|61|888|<span class="rank-name-pd">HOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|62|887|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎B氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|62|887|<span class="rank-name-pd">もっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|64|885|<span class="rank-name-pd">Kyohei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|64|885|<span class="rank-name-dl">さんた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|66|884|<span class="rank-name-pd">小林の旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|66|884|<span class="rank-name-dl">番長₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|68|873|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|69|872|<span class="rank-name-pd">₍ᐢ.ˬ.ᐢ₎B氏 ₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|70|871|<span class="rank-name-pd">マッコイ爺さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|71|869|<span class="rank-name-pd">Sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|72|868|<span class="rank-name-dl">iB3rooooran</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|73|865|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|74|864|<span class="rank-name-dl">UNKNOWN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|75|861|<span class="rank-name-pd">マッちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|76|860|<span class="rank-name-pd">SEYのアニキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|77|859|<span class="rank-name-pd">MANABU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|78|858|<span class="rank-name-dl">トシボー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|79|851|<span class="rank-name-dl">シュウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|80|846|<span class="rank-name-pd">けんちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|80|846|<span class="rank-name-dl">＠←タービン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|82|844|<span class="rank-name-dl">きよかね</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|83|840|<span class="rank-name-pd">HOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|84|839|<span class="rank-name-pd">ツッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|85|838|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|86|832|<span class="rank-name-pd">とある〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|86|832|<span class="rank-name-pd">殺助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|88|831|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|88|831|<span class="rank-name-pd">ビッケかよ∵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|90|823|<span class="rank-name-dl">れなっち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|91|818|<span class="rank-name-pd">山猫亭ねこます</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|92|813|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|92|813|<span class="rank-name-dl">雅っｸﾏ(´(ｪ)｀)</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|94|812|<span class="rank-name-pd">Zerorx7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|94|812|<span class="rank-name-dl">ｱﾝﾄﾆｵ•ﾀｸやん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|96|808|<span class="rank-name-pd">ﾐ～ﾀﾝ_小笠原會鮪団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50461?s_seq=50461">投げ矢本舗</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|97|806|<span class="rank-name-pd">まっすー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|98|804|<span class="rank-name-dl">らいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|99|801|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|99|801|<span class="rank-name-pd">ま。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8353?s_seq=8353">アプレシオ 富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,92 +135,86 @@ ___
 |1|1104|<span class="rank-name-dl">〆TE2〆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 |2|1086|<span class="rank-name-dl">坪井徳洋</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 |3|1078|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|4|1075|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|5|1072|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|6|1054|<span class="rank-name-dl">〆TE2〆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|7|1046|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|8|1044|<span class="rank-name-dl">Fe</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|9|1021|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|10|1018|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|10|1018|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|12|1009|<span class="rank-name-dl">TAKUMA ➶</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|13|1004|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|14|1002|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|15|973|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|16|971|<span class="rank-name-dl">モトイトウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|17|968|<span class="rank-name-dl">NO NAME 1040</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|18|967|<span class="rank-name-dl">KYOHEI</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|19|962|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|20|953|<span class="rank-name-dl">プチンチン？タク</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|21|950|<span class="rank-name-dl">いのぶた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|22|948|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|23|930|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|24|921|<span class="rank-name-dl">もっちー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|25|920|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|26|919|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|27|918|<span class="rank-name-dl">あっき〜？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|28|910|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|29|903|<span class="rank-name-dl">ぼんくらGE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|30|901|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|31|900|<span class="rank-name-dl">ガチワレ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|31|900|<span class="rank-name-dl">Ｙ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|33|885|<span class="rank-name-dl">さんた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|34|884|<span class="rank-name-dl">番長₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|35|868|<span class="rank-name-dl">iB3rooooran</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|36|865|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|37|864|<span class="rank-name-dl">UNKNOWN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|38|858|<span class="rank-name-dl">トシボー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|39|851|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|39|851|<span class="rank-name-dl">シュウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|41|846|<span class="rank-name-dl">＠←タービン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|42|844|<span class="rank-name-dl">きよかね</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|43|831|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|44|824|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|45|823|<span class="rank-name-dl">れなっち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|46|813|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|46|813|<span class="rank-name-dl">雅っｸﾏ(´(ｪ)｀)</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|48|812|<span class="rank-name-dl">ｱﾝﾄﾆｵ•ﾀｸやん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|49|804|<span class="rank-name-dl">らいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|50|794|<span class="rank-name-dl">しゅや</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|50|794|<span class="rank-name-dl">ぼんくらGE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|52|793|<span class="rank-name-dl">みっ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店 アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|53|790|<span class="rank-name-dl">けんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|54|782|<span class="rank-name-dl">Y</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|55|756|<span class="rank-name-dl">さとし</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|56|713|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|57|684|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|58|651|<span class="rank-name-dl">クリリン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|59|633|<span class="rank-name-dl">うさぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|60|625|<span class="rank-name-dl">クー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|61|619|<span class="rank-name-dl">友希那</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|62|606|<span class="rank-name-dl">はるやんぼー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|63|594|<span class="rank-name-dl">☆なぉ☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|64|580|<span class="rank-name-dl">yukari</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|65|574|<span class="rank-name-dl">VikI666</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|66|573|<span class="rank-name-dl">しぃちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|67|555|<span class="rank-name-dl">いおさんのかーど</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|68|551|<span class="rank-name-dl">モグリキャップ☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|69|539|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|70|536|<span class="rank-name-dl">るいるい@01特訓</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|71|527|<span class="rank-name-dl">きい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|72|524|<span class="rank-name-dl">さちこ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|73|523|<span class="rank-name-dl">Elias_17</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|74|518|<span class="rank-name-dl">Eri21☆.•*</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|75|513|<span class="rank-name-dl">あやめんま・ω・</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|76|508|<span class="rank-name-dl">まったく</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|77|507|<span class="rank-name-dl">カビゴン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|78|486|<span class="rank-name-dl">＊＊沙紅羅＊＊</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|79|477|<span class="rank-name-dl">無能</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|80|464|<span class="rank-name-dl">kyapo</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|81|453|<span class="rank-name-dl">Kana</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|82|449|<span class="rank-name-dl">はるまき</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|83|439|<span class="rank-name-dl">いのりん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|84|436|<span class="rank-name-dl">NO NAME 1975</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|85|418|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|86|416|<span class="rank-name-dl">MIHOKO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|87|400|<span class="rank-name-dl">ゆりかさん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|88|386|<span class="rank-name-dl">ぽん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
-|89|328|<span class="rank-name-dl">ぷし子</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|4|1072|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|5|1046|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|6|1044|<span class="rank-name-dl">Fe</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|7|1021|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|8|1018|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|8|1018|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|10|1009|<span class="rank-name-dl">TAKUMA ➶</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|11|1004|<span class="rank-name-dl">蒼星あさひ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|12|1002|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|13|973|<span class="rank-name-dl">シンクン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|14|971|<span class="rank-name-dl">モトイトウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|15|968|<span class="rank-name-dl">NO NAME 1040</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|16|967|<span class="rank-name-dl">KYOHEI</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|17|962|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|18|953|<span class="rank-name-dl">プチンチン？タク</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|19|950|<span class="rank-name-dl">いのぶた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|20|930|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|21|921|<span class="rank-name-dl">もっちー？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|22|920|<span class="rank-name-dl">チュウバチヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|23|919|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|24|918|<span class="rank-name-dl">あっき〜？</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|25|910|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|26|903|<span class="rank-name-dl">ぼんくらGE</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|27|901|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|28|900|<span class="rank-name-dl">ガチワレ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|28|900|<span class="rank-name-dl">Ｙ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|30|885|<span class="rank-name-dl">さんた</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|31|884|<span class="rank-name-dl">番長₍ᐢ.ˬ.ᐢ₎</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|32|868|<span class="rank-name-dl">iB3rooooran</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|33|865|<span class="rank-name-dl">UnknowN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|34|864|<span class="rank-name-dl">UNKNOWN</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|35|858|<span class="rank-name-dl">トシボー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|36|851|<span class="rank-name-dl">シュウ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|37|846|<span class="rank-name-dl">＠←タービン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|38|844|<span class="rank-name-dl">きよかね</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|39|831|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|40|823|<span class="rank-name-dl">れなっち</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|41|813|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|41|813|<span class="rank-name-dl">雅っｸﾏ(´(ｪ)｀)</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|43|812|<span class="rank-name-dl">ｱﾝﾄﾆｵ•ﾀｸやん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|44|804|<span class="rank-name-dl">らいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|45|794|<span class="rank-name-dl">しゅや</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|46|793|<span class="rank-name-dl">みっ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|47|790|<span class="rank-name-dl">けんちゃま</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|48|782|<span class="rank-name-dl">Y</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|49|756|<span class="rank-name-dl">さとし</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|50|713|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|51|684|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|52|651|<span class="rank-name-dl">クリリン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|53|633|<span class="rank-name-dl">うさぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|54|625|<span class="rank-name-dl">クー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|55|619|<span class="rank-name-dl">友希那</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|56|606|<span class="rank-name-dl">はるやんぼー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|57|594|<span class="rank-name-dl">☆なぉ☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|58|580|<span class="rank-name-dl">yukari</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|59|574|<span class="rank-name-dl">VikI666</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|60|573|<span class="rank-name-dl">しぃちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|61|555|<span class="rank-name-dl">いおさんのかーど</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|62|551|<span class="rank-name-dl">モグリキャップ☆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|63|539|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|64|536|<span class="rank-name-dl">るいるい@01特訓</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|65|527|<span class="rank-name-dl">きい</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|66|524|<span class="rank-name-dl">さちこ</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|67|523|<span class="rank-name-dl">Elias_17</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|68|518|<span class="rank-name-dl">Eri21☆.•*</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|69|513|<span class="rank-name-dl">あやめんま・ω・</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|70|508|<span class="rank-name-dl">まったく</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|71|507|<span class="rank-name-dl">カビゴン</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|72|486|<span class="rank-name-dl">＊＊沙紅羅＊＊</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|73|477|<span class="rank-name-dl">無能</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|74|464|<span class="rank-name-dl">kyapo</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|75|453|<span class="rank-name-dl">Kana</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|76|449|<span class="rank-name-dl">はるまき</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|77|439|<span class="rank-name-dl">いのりん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|78|436|<span class="rank-name-dl">NO NAME 1975</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|79|418|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|80|416|<span class="rank-name-dl">MIHOKO</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|81|400|<span class="rank-name-dl">ゆりかさん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|82|386|<span class="rank-name-dl">ぽん</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
+|83|328|<span class="rank-name-dl">ぷし子</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,8 +23,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1437|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|2|1210|<span class="rank-name-dl">きくまひろふみ</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|1|1437|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|2|1210|<span class="rank-name-dl">きくまひろふみ</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">菊間　博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
@@ -37,92 +37,92 @@ ___
 |11|1167|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/1d20941ebe50504f0d9b047a20a7ba1e">darts bar eight</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |13|1166|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |14|1164|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|14|1164|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店 自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|16|1163|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|17|1161|<span class="rank-name-dl">ﾁｰﾑ友達じゃ無い</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|18|1158|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|18|1158|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|20|1157|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店 BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|21|1155|<span class="rank-name-dl">(´・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|22|1154|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|22|1154|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">久保田 光雄</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店 BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|27|1151|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|28|1146|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|29|1143|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|30|1141|<span class="rank-name-dl">Domin@</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|31|1140|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|31|1140|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|33|1136|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|33|1136|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/d2e0d0da1893133a0d9b047a20a7ba1e">Hide Out 新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|35|1135|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|35|1135|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|40|1133|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|41|1132|<span class="rank-name-dl">小山内 涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|42|1131|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|43|1129|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/406ad43bad14817b0d9b047a20a7ba1e">ダーツハイブ新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|44|1128|<span class="rank-name-dl">たこ3ういんなー</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|44|1128|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店 アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|51|1126|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">まいける@I&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|55|1124|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|55|1124|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店 自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">吉田 文樹</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店 カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">Koyakoya</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">片島　尚希</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|63|1121|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|63|1121|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|63|1121|<span class="rank-name-pd">清水 嘉洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9669?s_seq=9669">自遊空間BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|66|1120|<span class="rank-name-dl">ｷｬﾌﾟﾃﾝ・ﾐｻﾄ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|67|1119|<span class="rank-name-dl">carlo van peer</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|67|1119|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|67|1119|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|70|1118|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|71|1117|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|72|1116|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|73|1114|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|74|1112|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|74|1112|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|76|1111|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|76|1111|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|78|1108|<span class="rank-name-dl">Asuka◢ ◤</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|78|1108|<span class="rank-name-dl">天/狐 よしだ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|80|1106|<span class="rank-name-dl">嫁32歳</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|81|1105|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|82|1104|<span class="rank-name-dl">Ja☆Mon</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|82|1104|<span class="rank-name-dl">羽田雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|84|1103|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|85|1102|<span class="rank-name-pd">SIBA[COSMO]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59098?s_seq=59098">the 7th chord LINE</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|85|1102|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館 サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|87|1101|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">aikoマン</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店 Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/5b861bc806a289e00d9b047a20a7ba1e">BAGUS-バグース-西武新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">坂本 寅泰</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">松本　元気</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|88|1100|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|94|1099|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|95|1098|<span class="rank-name-dl">ばばちゃん！！</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|96|1094|<span class="rank-name-dl">太田 朋也</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|97|1091|<span class="rank-name-pd"><span class="pro-icon-pd"></span>片島 尚希</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59098?s_seq=59098">the 7th chord LINE</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|98|1090|<span class="rank-name-dl">Jake Womack</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿 BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|99|1089|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|100|1088|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2ef5f1e9e89902b40d9b047a20a7ba1e">BAGUS-バグース-靖国通り BAGUS-バグース-靖国通り</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|15|1163|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|16|1161|<span class="rank-name-dl">ﾁｰﾑ友達じゃ無い</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|17|1158|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|17|1158|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|19|1157|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|20|1155|<span class="rank-name-dl">(´・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|21|1154|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|21|1154|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">久保田 光雄</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|26|1151|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|27|1146|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|28|1143|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|29|1141|<span class="rank-name-dl">Domin@</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|30|1140|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|30|1140|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|32|1136|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|32|1136|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/d2e0d0da1893133a0d9b047a20a7ba1e">Hide Out 新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|34|1135|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|34|1135|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|39|1133|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|40|1132|<span class="rank-name-dl">小山内 涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|41|1131|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|42|1129|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/406ad43bad14817b0d9b047a20a7ba1e">ダーツハイブ新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|43|1128|<span class="rank-name-dl">たこ3ういんなー</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|43|1128|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|50|1126|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|51|1125|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|51|1125|<span class="rank-name-dl">まいける@I&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|53|1124|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|53|1124|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|55|1123|<span class="rank-name-dl">吉田 文樹</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|55|1123|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">Koyakoya</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">片島　尚希</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|60|1121|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|60|1121|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|60|1121|<span class="rank-name-pd">清水 嘉洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9669?s_seq=9669">自遊空間BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|63|1120|<span class="rank-name-dl">ｷｬﾌﾟﾃﾝ・ﾐｻﾄ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|64|1119|<span class="rank-name-dl">carlo van peer</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|64|1119|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|64|1119|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|67|1118|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|68|1117|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|69|1116|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|70|1114|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|71|1112|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|71|1112|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|73|1111|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|73|1111|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|75|1108|<span class="rank-name-dl">Asuka◢ ◤</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|75|1108|<span class="rank-name-dl">天/狐 よしだ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|77|1106|<span class="rank-name-dl">嫁32歳</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|78|1105|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|79|1104|<span class="rank-name-dl">Ja☆Mon</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|79|1104|<span class="rank-name-dl">羽田雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|81|1103|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1102|<span class="rank-name-pd">SIBA[COSMO]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59098?s_seq=59098">the 7th chord LINE</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|83|1101|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">aikoマン</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/5b861bc806a289e00d9b047a20a7ba1e">BAGUS-バグース-西武新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">坂本 寅泰</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">松本　元気</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|84|1100|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|90|1099|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|91|1098|<span class="rank-name-dl">ばばちゃん！！</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|92|1094|<span class="rank-name-dl">太田 朋也</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|93|1091|<span class="rank-name-pd"><span class="pro-icon-pd"></span>片島 尚希</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59098?s_seq=59098">the 7th chord LINE</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|94|1090|<span class="rank-name-dl">Jake Womack</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|95|1089|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|96|1088|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2ef5f1e9e89902b40d9b047a20a7ba1e">BAGUS-バグース-靖国通り</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|97|1087|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1086|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1086|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1086|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェデルタ新宿店(DartsCafeDELTA新宿店)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,8 +132,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1437|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|2|1210|<span class="rank-name-dl">きくまひろふみ</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|1|1437|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|2|1210|<span class="rank-name-dl">きくまひろふみ</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">菊間　博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |3|1200|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
@@ -146,92 +146,92 @@ ___
 |11|1167|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/1d20941ebe50504f0d9b047a20a7ba1e">darts bar eight</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |13|1166|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 |14|1164|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|14|1164|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店 自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|16|1163|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|17|1161|<span class="rank-name-dl">ﾁｰﾑ友達じゃ無い</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|18|1158|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|18|1158|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|20|1157|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店 BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|21|1155|<span class="rank-name-dl">(´・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|22|1154|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|22|1154|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">久保田 光雄</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|24|1153|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店 BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|27|1151|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店 デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|28|1146|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|29|1143|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|30|1141|<span class="rank-name-dl">Domin@</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|31|1140|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|31|1140|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|33|1136|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|33|1136|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/d2e0d0da1893133a0d9b047a20a7ba1e">Hide Out 新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|35|1135|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|35|1135|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|37|1134|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|40|1133|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|41|1132|<span class="rank-name-dl">小山内 涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|42|1131|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|43|1129|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/406ad43bad14817b0d9b047a20a7ba1e">ダーツハイブ新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|44|1128|<span class="rank-name-dl">たこ3ういんなー</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|44|1128|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店 アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|46|1127|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|51|1126|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">まいける@I&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|52|1125|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|55|1124|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|55|1124|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店 自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">吉田 文樹</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店 カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|57|1123|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">Koyakoya</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|60|1122|<span class="rank-name-dl">片島　尚希</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|63|1121|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|63|1121|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|65|1120|<span class="rank-name-dl">ｷｬﾌﾟﾃﾝ・ﾐｻﾄ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|66|1119|<span class="rank-name-dl">carlo van peer</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|66|1119|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|66|1119|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|69|1118|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|70|1117|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|71|1116|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|72|1114|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|73|1112|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|73|1112|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|75|1111|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|75|1111|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|77|1108|<span class="rank-name-dl">Asuka◢ ◤</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|77|1108|<span class="rank-name-dl">天/狐 よしだ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|79|1106|<span class="rank-name-dl">嫁32歳</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|80|1105|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|81|1104|<span class="rank-name-dl">Ja☆Mon</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店 カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|81|1104|<span class="rank-name-dl">羽田雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|83|1103|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|84|1102|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館 サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|85|1101|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">aikoマン</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店 Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/5b861bc806a289e00d9b047a20a7ba1e">BAGUS-バグース-西武新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">坂本 寅泰</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">松本　元気</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|86|1100|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|92|1099|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|93|1098|<span class="rank-name-dl">ばばちゃん！！</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|94|1094|<span class="rank-name-dl">太田 朋也</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿 GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|95|1090|<span class="rank-name-dl">Jake Womack</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿 BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|96|1089|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|97|1088|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2ef5f1e9e89902b40d9b047a20a7ba1e">BAGUS-バグース-靖国通り BAGUS-バグース-靖国通り</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|98|1087|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|99|1086|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
-|99|1086|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|15|1163|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|16|1161|<span class="rank-name-dl">ﾁｰﾑ友達じゃ無い</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|17|1158|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|17|1158|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|19|1157|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|20|1155|<span class="rank-name-dl">(´・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|21|1154|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|21|1154|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">久保田 光雄</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|23|1153|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|26|1151|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|27|1146|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|28|1143|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|29|1141|<span class="rank-name-dl">Domin@</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|30|1140|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|30|1140|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|32|1136|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|32|1136|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/d2e0d0da1893133a0d9b047a20a7ba1e">Hide Out 新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|34|1135|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|34|1135|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">くぼた みつお</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|36|1134|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|39|1133|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|40|1132|<span class="rank-name-dl">小山内 涼</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|41|1131|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|42|1129|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/406ad43bad14817b0d9b047a20a7ba1e">ダーツハイブ新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|43|1128|<span class="rank-name-dl">たこ3ういんなー</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|43|1128|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|45|1127|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|50|1126|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|51|1125|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|51|1125|<span class="rank-name-dl">まいける@I&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|53|1124|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|53|1124|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|55|1123|<span class="rank-name-dl">吉田 文樹</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|55|1123|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">Koyakoya</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|57|1122|<span class="rank-name-dl">片島　尚希</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|60|1121|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|60|1121|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|62|1120|<span class="rank-name-dl">ｷｬﾌﾟﾃﾝ・ﾐｻﾄ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|63|1119|<span class="rank-name-dl">carlo van peer</span>|<a href="https://search.dartslive.com/jp/shop/41e690c49f8716a70d9b047a20a7ba1e">ダーツバーラグナロック新宿店(ConceptDartsCafeRagnaRok)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|63|1119|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/e5ff033d2df14f20b21333aee1bd51e4">REGALO 新宿東口店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|63|1119|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|66|1118|<span class="rank-name-dl">KOYAKOYA</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|67|1117|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|68|1116|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|69|1114|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|70|1112|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/9c3f289eb3787fd6f454cb89828a1cfe">カラオケ館　歌舞伎町本店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|70|1112|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|72|1111|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/a96521305018918b0d9b047a20a7ba1e">スクエア 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|72|1111|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|74|1108|<span class="rank-name-dl">Asuka◢ ◤</span>|<a href="https://search.dartslive.com/jp/shop/a697a5827e8fe9ce0d9b047a20a7ba1e">BAGUS-バグース-新宿西口</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|74|1108|<span class="rank-name-dl">天/狐 よしだ</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|76|1106|<span class="rank-name-dl">嫁32歳</span>|<a href="https://search.dartslive.com/jp/shop/b28f9fd330ab518b0d9b047a20a7ba1e">デリカシー 歌舞伎町店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|77|1105|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|78|1104|<span class="rank-name-dl">Ja☆Mon</span>|<a href="https://search.dartslive.com/jp/shop/0000f31f5ebdd71f5f9f3321c1147265">カラオケ館 高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|78|1104|<span class="rank-name-dl">羽田雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェ リング新宿店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|80|1103|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|81|1101|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">aikoマン</span>|<a href="https://search.dartslive.com/jp/shop/ed669e4ffceef7570d9b047a20a7ba1e">Darts Bar A's 神楽坂店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">けんさん☪️</span>|<a href="https://search.dartslive.com/jp/shop/5b861bc806a289e00d9b047a20a7ba1e">BAGUS-バグース-西武新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">坂本 寅泰</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">松本　元気</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|82|1100|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|88|1099|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/0c0f08fbae25e9c90d9b047a20a7ba1e">BUZZ Darts&Sports新宿靖国通り店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|89|1098|<span class="rank-name-dl">ばばちゃん！！</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|90|1094|<span class="rank-name-dl">太田 朋也</span>|<a href="https://search.dartslive.com/jp/shop/8d61f6957267d9d40d9b047a20a7ba1e">GiGO POKER新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|91|1090|<span class="rank-name-dl">Jake Womack</span>|<a href="https://search.dartslive.com/jp/shop/ac85362bc071359b0d9b047a20a7ba1e">BAGUS-バグース-新宿</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|92|1089|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|93|1088|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2ef5f1e9e89902b40d9b047a20a7ba1e">BAGUS-バグース-靖国通り</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|94|1087|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4302f5acfd0fa9c0d9b047a20a7ba1e">Darts & Dining I's</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|95|1086|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|95|1086|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/419aae979c4a9d400d9b047a20a7ba1e">サンパーク　ダーツ　本館</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|95|1086|<span class="rank-name-dl">ふたっち＠祐貴</span>|<a href="https://search.dartslive.com/jp/shop/c84f0e01c9985e380d9b047a20a7ba1e">ダーツカフェデルタ新宿店(DartsCafeDELTA新宿店)</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1085|<span class="rank-name-dl">NO NAME 3110</span>|<a href="https://search.dartslive.com/jp/shop/5ae64b40b138f6925f9f3321c1147265">自遊空間 BIGBOX高田馬場店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1085|<span class="rank-name-dl">つなまいるど</span>|<a href="https://search.dartslive.com/jp/shop/0d011aed4fb9ceb3fec1ae84bb28bd87">PLAT</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
+|98|1085|<span class="rank-name-dl">プリを</span>|<a href="https://search.dartslive.com/jp/shop/28f49a505743e1fb0d9b047a20a7ba1e">アプレシオ 新宿ハイジア店</a>|<a href="/darts/rank/東京都/新宿区">東京都新宿区</a>|
 
 
 #### PHOENIXDARTS TOP 100

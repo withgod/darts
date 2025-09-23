@@ -143,20 +143,15 @@ ___
 |9|696|<span class="rank-name-dl">Char専用Zaki</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
 |10|661|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
 |11|623|<span class="rank-name-dl">☆梅さん☆</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|11|623|<span class="rank-name-dl">☆梅さん☆</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80 Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|13|557|<span class="rank-name-dl">ぜっち</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|14|514|<span class="rank-name-dl">Char専用Zaki</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80 Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|15|488|<span class="rank-name-dl">リーチ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|15|488|<span class="rank-name-dl">リーチ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80 Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|17|455|<span class="rank-name-dl">アラちゃん</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|17|455|<span class="rank-name-dl">アラちゃん</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80 Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|19|454|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|20|450|<span class="rank-name-dl">Maple-Walk</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|21|444|<span class="rank-name-dl">NERVσ(≧ω≦*)</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|22|389|<span class="rank-name-dl">ホットボルト</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|23|255|<span class="rank-name-dl">アリクイのエサ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|23|255|<span class="rank-name-dl">アリクイのエサ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80 Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|25|239|<span class="rank-name-dl">NO NAME 1123</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|12|557|<span class="rank-name-dl">ぜっち</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|13|488|<span class="rank-name-dl">リーチ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|14|455|<span class="rank-name-dl">アラちゃん</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|15|454|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|16|450|<span class="rank-name-dl">Maple-Walk</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|17|444|<span class="rank-name-dl">NERVσ(≧ω≦*)</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|18|389|<span class="rank-name-dl">ホットボルト</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|19|255|<span class="rank-name-dl">アリクイのエサ</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|20|239|<span class="rank-name-dl">NO NAME 1123</span>|<a href="https://search.dartslive.com/jp/shop/194255eeb8a685e7f454cb89828a1cfe">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
 
 
 #### PHOENIXDARTS TOP 100

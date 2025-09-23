@@ -31,7 +31,7 @@ ___
 |6|1168|<span class="rank-name-dl">MOMO</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |7|1166|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |8|1157|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|9|1134|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|9|1134|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |10|1128|<span class="rank-name-pd">樋川 絢也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |11|1124|<span class="rank-name-dl">岡野　翔</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |12|1121|<span class="rank-name-dl">高橋 弘樹</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
@@ -39,90 +39,90 @@ ___
 |14|1116|<span class="rank-name-dl">なたを</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |15|1115|<span class="rank-name-pd">水星の魔女</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |16|1103|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|16|1103|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|18|1101|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|19|1100|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|20|1096|<span class="rank-name-dl">なたを</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|21|1092|<span class="rank-name-dl">やべ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|22|1090|<span class="rank-name-pd">たかっピ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80930?s_seq=80930">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|23|1089|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|24|1088|<span class="rank-name-dl">KING【T-R.I.P】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|25|1077|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|26|1074|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|27|1064|<span class="rank-name-dl">Aika Ohsugi</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|28|1062|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|29|1061|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|29|1061|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1060|<span class="rank-name-pd">0010_2342</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1060|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1060|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1060|<span class="rank-name-dl">ＳＩＮ．</span>|<a href="https://search.dartslive.com/jp/shop/b887ec3bb400e9450d9b047a20a7ba1e">ドヌオス 鶴間店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|35|1058|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|36|1057|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|36|1057|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|38|1052|<span class="rank-name-dl">大之</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|39|1050|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|40|1049|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|41|1048|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|42|1047|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|43|1045|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|43|1045|<span class="rank-name-dl">月 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1043|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1043|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1043|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1043|<span class="rank-name-dl">長谷川 晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|49|1042|<span class="rank-name-dl">Yuna Sumori</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|50|1040|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店- affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|50|1040|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|52|1038|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|53|1036|<span class="rank-name-dl">sol</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|53|1036|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|55|1033|<span class="rank-name-pd">◎すぎまる◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|55|1033|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|57|1031|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|57|1031|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|59|1027|<span class="rank-name-dl">森村 祐太</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|60|1026|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|61|1025|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|61|1025|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|61|1025|<span class="rank-name-pd">丸山 秀臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47732?s_seq=47732">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|64|1022|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|65|1020|<span class="rank-name-dl">だいち@AceClover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|66|1019|<span class="rank-name-dl">tsuyoshi</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|67|1017|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|67|1017|<span class="rank-name-dl">AYATO【T-RIP】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|67|1017|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|70|1012|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|71|1010|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|72|1009|<span class="rank-name-dl">Ko-爺@Ace Clover</span>|<a href="https://search.dartslive.com/jp/shop/dd0278d4cad4ed0328032249b44395af">三葉</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|72|1009|<span class="rank-name-dl">大杉 愛華</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|72|1009|<span class="rank-name-pd">晃司ROADSTER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|75|1008|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|76|1006|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69587?s_seq=69587">Angel Heart</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|77|1004|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店- affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|78|1003|<span class="rank-name-dl">ゆ→じゅん㌠</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|79|1002|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|79|1002|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|81|1001|<span class="rank-name-pd">tSuYoShi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73344?s_seq=73344">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|81|1001|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|83|999|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|83|999|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|85|997|<span class="rank-name-dl">Go→ちゃんゆい♂</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|85|997|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|87|996|<span class="rank-name-dl">唐崎　祐平</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|88|993|<span class="rank-name-dl">YUHEI・K</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|88|993|<span class="rank-name-dl">ノーパン1号</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|90|992|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/2159ba90117ce2800d9b047a20a7ba1e">MAAL</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|90|992|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|92|991|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|93|990|<span class="rank-name-dl">T.K.</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|93|990|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|95|989|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|95|989|<span class="rank-name-dl">ケンヂですぅ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|97|986|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|98|985|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|99|981|<span class="rank-name-dl">秘密…@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|100|979|<span class="rank-name-dl">SoleSoul Player</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|17|1101|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|18|1100|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|19|1092|<span class="rank-name-dl">やべ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|20|1090|<span class="rank-name-pd">たかっピ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80930?s_seq=80930">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|21|1089|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|22|1088|<span class="rank-name-dl">KING【T-R.I.P】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|23|1077|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|24|1074|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|25|1064|<span class="rank-name-dl">Aika Ohsugi</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|26|1062|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|27|1061|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|27|1061|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1060|<span class="rank-name-pd">0010_2342</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1060|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1060|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1060|<span class="rank-name-dl">ＳＩＮ．</span>|<a href="https://search.dartslive.com/jp/shop/b887ec3bb400e9450d9b047a20a7ba1e">ドヌオス 鶴間店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|33|1058|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|34|1057|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|34|1057|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|36|1052|<span class="rank-name-dl">大之</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|37|1050|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|38|1049|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|39|1045|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|39|1045|<span class="rank-name-dl">月 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|41|1043|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|41|1043|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|41|1043|<span class="rank-name-dl">長谷川 晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|44|1042|<span class="rank-name-dl">Yuna Sumori</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|45|1040|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|45|1040|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|47|1038|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|48|1036|<span class="rank-name-dl">sol</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|48|1036|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|50|1033|<span class="rank-name-pd">◎すぎまる◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|50|1033|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|52|1031|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|52|1031|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|54|1027|<span class="rank-name-dl">森村 祐太</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|55|1026|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|56|1025|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|56|1025|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|56|1025|<span class="rank-name-pd">丸山 秀臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47732?s_seq=47732">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|59|1022|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|60|1020|<span class="rank-name-dl">だいち@AceClover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|61|1019|<span class="rank-name-dl">tsuyoshi</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|62|1017|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|62|1017|<span class="rank-name-dl">AYATO【T-RIP】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|62|1017|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|65|1012|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|66|1010|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|67|1009|<span class="rank-name-dl">Ko-爺@Ace Clover</span>|<a href="https://search.dartslive.com/jp/shop/dd0278d4cad4ed0328032249b44395af">三葉</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|67|1009|<span class="rank-name-dl">大杉 愛華</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|67|1009|<span class="rank-name-pd">晃司ROADSTER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|70|1008|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|71|1006|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69587?s_seq=69587">Angel Heart</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|72|1003|<span class="rank-name-dl">ゆ→じゅん㌠</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|73|1002|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|73|1002|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|75|1001|<span class="rank-name-pd">tSuYoShi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73344?s_seq=73344">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|75|1001|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|77|999|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|78|997|<span class="rank-name-dl">Go→ちゃんゆい♂</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|79|996|<span class="rank-name-dl">唐崎　祐平</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|80|993|<span class="rank-name-dl">YUHEI・K</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|80|993|<span class="rank-name-dl">ノーパン1号</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|82|992|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/2159ba90117ce2800d9b047a20a7ba1e">MAAL</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|82|992|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|84|991|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|85|990|<span class="rank-name-dl">T.K.</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|85|990|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|87|989|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|87|989|<span class="rank-name-dl">ケンヂですぅ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|89|986|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|90|985|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|91|981|<span class="rank-name-dl">秘密…@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|92|979|<span class="rank-name-dl">SoleSoul Player</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|92|979|<span class="rank-name-pd">teeeetsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80930?s_seq=80930">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|92|979|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|92|979|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|96|977|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|96|977|<span class="rank-name-pd">森ちゃんROADSTER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90201?s_seq=90201">ペルルコルセーヤ号</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|98|976|<span class="rank-name-dl">小泉 智</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|99|975|<span class="rank-name-pd">森ちゃんROADSTER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52963?s_seq=52963">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|99|975|<span class="rank-name-pd">蜂楽 SoR@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47732?s_seq=47732">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,99 +139,99 @@ ___
 |5|1168|<span class="rank-name-dl">MOMO</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |6|1166|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |7|1157|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|8|1134|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|8|1134|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |9|1126|<span class="rank-name-dl">樋川 絢也</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |10|1124|<span class="rank-name-dl">岡野　翔</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |11|1121|<span class="rank-name-dl">高橋 弘樹</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |12|1120|<span class="rank-name-dl">岡野 翔</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |13|1116|<span class="rank-name-dl">なたを</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 |14|1103|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|14|1103|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|16|1100|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|17|1096|<span class="rank-name-dl">なたを</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|18|1092|<span class="rank-name-dl">やべ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|19|1089|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|20|1088|<span class="rank-name-dl">KING【T-R.I.P】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|21|1077|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|22|1074|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|23|1064|<span class="rank-name-dl">Aika Ohsugi</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|24|1062|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|25|1061|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|25|1061|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|27|1060|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|27|1060|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|27|1060|<span class="rank-name-dl">ＳＩＮ．</span>|<a href="https://search.dartslive.com/jp/shop/b887ec3bb400e9450d9b047a20a7ba1e">ドヌオス 鶴間店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|30|1058|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1057|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|31|1057|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|33|1052|<span class="rank-name-dl">大之</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|34|1050|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|35|1049|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|36|1048|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|37|1047|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|38|1045|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|38|1045|<span class="rank-name-dl">月 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|40|1043|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|40|1043|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|40|1043|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|40|1043|<span class="rank-name-dl">長谷川 晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|44|1042|<span class="rank-name-dl">Yuna Sumori</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1040|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店- affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|45|1040|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|47|1038|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|48|1036|<span class="rank-name-dl">sol</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|48|1036|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|50|1033|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|51|1031|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|51|1031|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|53|1027|<span class="rank-name-dl">森村 祐太</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|54|1026|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|55|1025|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|55|1025|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|57|1022|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|58|1020|<span class="rank-name-dl">だいち@AceClover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|59|1019|<span class="rank-name-dl">tsuyoshi</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|60|1017|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|60|1017|<span class="rank-name-dl">AYATO【T-RIP】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|60|1017|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|63|1012|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|64|1009|<span class="rank-name-dl">Ko-爺@Ace Clover</span>|<a href="https://search.dartslive.com/jp/shop/dd0278d4cad4ed0328032249b44395af">三葉</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|64|1009|<span class="rank-name-dl">大杉 愛華</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|66|1008|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|67|1004|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店- affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|68|1003|<span class="rank-name-dl">ゆ→じゅん㌠</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|69|1002|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|69|1002|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|71|1001|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|72|999|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|72|999|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|74|997|<span class="rank-name-dl">Go→ちゃんゆい♂</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|74|997|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|76|996|<span class="rank-name-dl">唐崎　祐平</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|77|993|<span class="rank-name-dl">YUHEI・K</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|77|993|<span class="rank-name-dl">ノーパン1号</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|79|992|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/2159ba90117ce2800d9b047a20a7ba1e">MAAL</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|79|992|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|81|991|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|82|990|<span class="rank-name-dl">T.K.</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|82|990|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|84|989|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|84|989|<span class="rank-name-dl">ケンヂですぅ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|86|986|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|87|985|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|88|981|<span class="rank-name-dl">秘密…@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|89|979|<span class="rank-name-dl">SoleSoul Player</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|89|979|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|89|979|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|92|977|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|93|976|<span class="rank-name-dl">小泉 智</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|94|972|<span class="rank-name-dl">シシ丸</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|94|972|<span class="rank-name-dl">ニシクボ　ユウト</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|96|971|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|97|969|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|98|968|<span class="rank-name-dl">ko-爺@Ace clover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|98|968|<span class="rank-name-dl">かず@RustyNail</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
-|98|968|<span class="rank-name-dl">山口　裕輝</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店 コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|15|1100|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|16|1092|<span class="rank-name-dl">やべ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|17|1089|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|18|1088|<span class="rank-name-dl">KING【T-R.I.P】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|19|1077|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|20|1074|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|21|1064|<span class="rank-name-dl">Aika Ohsugi</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|22|1062|<span class="rank-name-dl">無限神奈川【達】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|23|1061|<span class="rank-name-dl">前里 将馬《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|23|1061|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|25|1060|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|25|1060|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|25|1060|<span class="rank-name-dl">ＳＩＮ．</span>|<a href="https://search.dartslive.com/jp/shop/b887ec3bb400e9450d9b047a20a7ba1e">ドヌオス 鶴間店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|28|1058|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1057|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|29|1057|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|31|1052|<span class="rank-name-dl">大之</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|32|1050|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|33|1049|<span class="rank-name-dl">狼 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|34|1045|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|34|1045|<span class="rank-name-dl">月 @Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|36|1043|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|36|1043|<span class="rank-name-dl">烈矢【帝慄風】</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|36|1043|<span class="rank-name-dl">長谷川 晃司</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|39|1042|<span class="rank-name-dl">Yuna Sumori</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|40|1040|<span class="rank-name-dl">affect-屋 南林間</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|40|1040|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|42|1038|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|43|1036|<span class="rank-name-dl">sol</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|43|1036|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|45|1033|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|46|1031|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|46|1031|<span class="rank-name-dl">菊地 洋平</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|48|1027|<span class="rank-name-dl">森村 祐太</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|49|1026|<span class="rank-name-dl">ゆーきᐡᐧﻌᐧᐡ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|50|1025|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|50|1025|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|52|1022|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|53|1020|<span class="rank-name-dl">だいち@AceClover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|54|1019|<span class="rank-name-dl">tsuyoshi</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|55|1017|<span class="rank-name-dl">19時〜5時営業</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|55|1017|<span class="rank-name-dl">AYATO【T-RIP】</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|55|1017|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|58|1012|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|59|1009|<span class="rank-name-dl">Ko-爺@Ace Clover</span>|<a href="https://search.dartslive.com/jp/shop/dd0278d4cad4ed0328032249b44395af">三葉</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|59|1009|<span class="rank-name-dl">大杉 愛華</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|61|1008|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|62|1003|<span class="rank-name-dl">ゆ→じゅん㌠</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|63|1002|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|63|1002|<span class="rank-name-dl">小林 亮太</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|65|1001|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|66|999|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|67|997|<span class="rank-name-dl">Go→ちゃんゆい♂</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|68|996|<span class="rank-name-dl">唐崎　祐平</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|69|993|<span class="rank-name-dl">YUHEI・K</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|69|993|<span class="rank-name-dl">ノーパン1号</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|71|992|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/2159ba90117ce2800d9b047a20a7ba1e">MAAL</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|71|992|<span class="rank-name-dl">松永 亮太《絆》</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|73|991|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|74|990|<span class="rank-name-dl">T.K.</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|74|990|<span class="rank-name-dl">ゆきむら</span>|<a href="https://search.dartslive.com/jp/shop/35c5e50bf696aed00d9b047a20a7ba1e">居酒屋ハイブリッヂ</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|76|989|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|76|989|<span class="rank-name-dl">ケンヂですぅ</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|78|986|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|79|985|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/ac8415797955fb500d9b047a20a7ba1e">Tono'p Bar</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|80|981|<span class="rank-name-dl">秘密…@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|81|979|<span class="rank-name-dl">SoleSoul Player</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|81|979|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|81|979|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|84|977|<span class="rank-name-dl">三上 郷史</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|85|976|<span class="rank-name-dl">小泉 智</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|86|972|<span class="rank-name-dl">シシ丸</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|86|972|<span class="rank-name-dl">ニシクボ　ユウト</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|88|971|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|89|969|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|90|968|<span class="rank-name-dl">ko-爺@Ace clover</span>|<a href="https://search.dartslive.com/jp/shop/da6685425f1806d7fec1ae84bb28bd87">Darts & Dining Ace Clover</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|90|968|<span class="rank-name-dl">かず@RustyNail</span>|<a href="https://search.dartslive.com/jp/shop/a770982cbef752820d9b047a20a7ba1e">brook</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|90|968|<span class="rank-name-dl">山口　裕輝</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|90|968|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/ee91ba75c84e7112fec1ae84bb28bd87">Malibu Ocean</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|94|967|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|94|967|<span class="rank-name-dl">あらいさん</span>|<a href="https://search.dartslive.com/jp/shop/50da15a681e35050f454cb89828a1cfe">BAR ParDog</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|96|966|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/e060909437e97e140d9b047a20a7ba1e">affect屋-南林間店-</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|96|966|<span class="rank-name-dl">三ツ境のとも</span>|<a href="https://search.dartslive.com/jp/shop/ae1f6b607c498534a3f63593b5358cc4">コート・ダジュール 大和桜ヶ丘本店</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|98|964|<span class="rank-name-dl">KATU@Deep</span>|<a href="https://search.dartslive.com/jp/shop/dd0278d4cad4ed0328032249b44395af">三葉</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|99|963|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/a9332bf18549367bb21333aee1bd51e4">ROAD STER</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
+|99|963|<span class="rank-name-dl">聖闘士烈矢</span>|<a href="https://search.dartslive.com/jp/shop/ae168eac601291c90d9b047a20a7ba1e">T-R.I.P.</a>|<a href="/darts/rank/神奈川県/大和市">神奈川県大和市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -70,7 +70,7 @@ ___
 |44|905|<span class="rank-name-pd">兎のジーンズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |46|901|<span class="rank-name-pd">ししぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |46|901|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|46|901|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家 志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|46|901|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |49|900|<span class="rank-name-pd">とおるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |50|891|<span class="rank-name-dl">トミーBAR Dream</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |51|889|<span class="rank-name-pd">bzlo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90865?s_seq=90865">鴉巣-Karasu-</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
@@ -85,44 +85,44 @@ ___
 |60|860|<span class="rank-name-dl">志乃ぶ家　KOJI</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |61|857|<span class="rank-name-pd">ごりたん@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |62|856|<span class="rank-name-pd">こうじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|63|853|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|63|853|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |64|852|<span class="rank-name-pd">志乃ぶ家　kojikoji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |65|849|<span class="rank-name-pd">トミーD ream</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |66|848|<span class="rank-name-pd">^@^3250</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |67|847|<span class="rank-name-pd">悠＜究星会＞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |68|842|<span class="rank-name-dl">マヒロ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |68|842|<span class="rank-name-pd">浪速の亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|70|836|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|71|835|<span class="rank-name-pd">ayumu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|72|830|<span class="rank-name-pd">こ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|73|826|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|73|826|<span class="rank-name-pd">マキシマムザ翔君@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|75|825|<span class="rank-name-pd">[深瀬  直人]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|75|825|<span class="rank-name-pd">きらたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|77|824|<span class="rank-name-pd">にいに@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|78|823|<span class="rank-name-pd">mahi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|78|823|<span class="rank-name-pd">やむちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|80|822|<span class="rank-name-pd">Hiro【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|81|821|<span class="rank-name-pd">†てっつん†CB&#x27;cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|82|820|<span class="rank-name-pd">sakaryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|82|820|<span class="rank-name-pd">えんたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|84|819|<span class="rank-name-pd">74k3Яv</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|85|818|<span class="rank-name-pd">シンカリオンZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|86|816|<span class="rank-name-pd">74k3Яv</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|86|816|<span class="rank-name-pd">小針大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|88|810|<span class="rank-name-pd">いぶし銀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|88|810|<span class="rank-name-pd">佐々木  祐介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|90|808|<span class="rank-name-pd">しょーへい@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|90|808|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|92|802|<span class="rank-name-pd">DAISUKE［JAM］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|92|802|<span class="rank-name-dl">おかP-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|94|801|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|95|800|<span class="rank-name-pd"><span class="pro-icon-pd"></span>門馬 弘将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|96|798|<span class="rank-name-pd">天地返し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|97|797|<span class="rank-name-pd">8切り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|98|794|<span class="rank-name-pd">ノッコン寺田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|99|793|<span class="rank-name-dl">T.Miyamoto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|100|791|<span class="rank-name-pd">ko.ko_めろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|70|835|<span class="rank-name-pd">ayumu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|71|830|<span class="rank-name-pd">こ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|72|826|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|72|826|<span class="rank-name-pd">マキシマムザ翔君@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|74|825|<span class="rank-name-pd">[深瀬  直人]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|74|825|<span class="rank-name-pd">きらたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|76|824|<span class="rank-name-pd">にいに@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|77|823|<span class="rank-name-pd">mahi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|77|823|<span class="rank-name-pd">やむちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|79|822|<span class="rank-name-pd">Hiro【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|80|821|<span class="rank-name-pd">†てっつん†CB&#x27;cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|81|820|<span class="rank-name-pd">sakaryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|81|820|<span class="rank-name-pd">えんたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|83|819|<span class="rank-name-pd">74k3Яv</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|84|818|<span class="rank-name-pd">シンカリオンZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|85|816|<span class="rank-name-pd">74k3Яv</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|85|816|<span class="rank-name-pd">小針大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|87|810|<span class="rank-name-pd">いぶし銀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|87|810|<span class="rank-name-pd">佐々木  祐介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|89|808|<span class="rank-name-pd">しょーへい@ARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|89|808|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|91|802|<span class="rank-name-pd">DAISUKE［JAM］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|91|802|<span class="rank-name-dl">おかP-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|93|801|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|94|800|<span class="rank-name-pd"><span class="pro-icon-pd"></span>門馬 弘将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|95|798|<span class="rank-name-pd">天地返し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9215?s_seq=9215">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|96|797|<span class="rank-name-pd">8切り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|97|794|<span class="rank-name-pd">ノッコン寺田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10153?s_seq=10153">ビリヤード キュースター</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|98|793|<span class="rank-name-dl">T.Miyamoto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|99|791|<span class="rank-name-pd">ko.ko_めろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73787?s_seq=73787">やまとなでしこ</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|99|791|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -142,96 +142,96 @@ ___
 |8|941|<span class="rank-name-dl">志乃ぶ家　KOJI</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |9|933|<span class="rank-name-dl">Totti</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |10|918|<span class="rank-name-dl">びびっど@TIK</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|11|901|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家 志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|11|901|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |12|891|<span class="rank-name-dl">トミーBAR Dream</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |13|870|<span class="rank-name-dl">ko.ko_めろん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |14|861|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |15|860|<span class="rank-name-dl">志乃ぶ家　KOJI</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|16|853|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|16|853|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 |17|842|<span class="rank-name-dl">マヒロ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|18|836|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|19|826|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|20|808|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|21|803|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|22|802|<span class="rank-name-dl">おかP-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|23|801|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|24|793|<span class="rank-name-dl">T.Miyamoto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|25|791|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|26|789|<span class="rank-name-dl">志乃ぶ家いけべぇ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|27|778|<span class="rank-name-dl">KOUSEI</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|28|777|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|29|770|<span class="rank-name-dl">びびっど@TIK</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|30|768|<span class="rank-name-dl">ぽぬ_ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|31|764|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家 志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|32|763|<span class="rank-name-dl">ひろ©️</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|33|762|<span class="rank-name-dl">ドルチェ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|34|758|<span class="rank-name-dl">にぃに(ARk)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|35|756|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|36|752|<span class="rank-name-dl">Ts.pon</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|36|752|<span class="rank-name-dl">にぃに(ARK)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|38|751|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|39|744|<span class="rank-name-dl">Pちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|40|743|<span class="rank-name-dl">kyo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|41|740|<span class="rank-name-dl">葉っぱ[志乃ぶ家]</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|42|738|<span class="rank-name-dl">ko.ko_めろん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|42|738|<span class="rank-name-dl">えぃちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|44|733|<span class="rank-name-dl">志乃ぶ家いけべぇ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家 志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|45|726|<span class="rank-name-dl">ロック・リー</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|46|725|<span class="rank-name-dl">uchiko@il-luogo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|46|725|<span class="rank-name-dl">りすがくるみ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|48|723|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|49|722|<span class="rank-name-dl">志乃ぶ家　KOJI</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家 志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|50|720|<span class="rank-name-dl">Weapon</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|51|718|<span class="rank-name-dl">けんちゃん＠ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|52|716|<span class="rank-name-dl">NO NAME 5217</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|52|716|<span class="rank-name-dl">NO NAME 5281</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|52|716|<span class="rank-name-dl">志乃ぶ家　こぅじ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|55|714|<span class="rank-name-dl">けい(やまなで)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|56|712|<span class="rank-name-dl">けんちゃん＠ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|56|712|<span class="rank-name-dl">倉田英明</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|58|709|<span class="rank-name-dl">もっくん@ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|59|708|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|60|705|<span class="rank-name-dl">しょーへい</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|60|705|<span class="rank-name-dl">志乃ぶ家いけぺぇ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|62|703|<span class="rank-name-dl">真 なおki</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|63|696|<span class="rank-name-dl">やぎっち</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|64|695|<span class="rank-name-dl">あめちゃ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|65|694|<span class="rank-name-dl">志乃ぶ家なおKIぃ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|66|692|<span class="rank-name-dl">どんぐり</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|67|689|<span class="rank-name-dl">腎不全透析患者。</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|68|687|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|69|684|<span class="rank-name-dl">照健☆志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|70|683|<span class="rank-name-dl">トミーBAR Dream</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|70|683|<span class="rank-name-dl">木耳</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|72|677|<span class="rank-name-dl">Monchi</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|72|677|<span class="rank-name-dl">ラフメイカー</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|74|676|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|75|675|<span class="rank-name-dl">志乃ぶ家　フミ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|76|652|<span class="rank-name-dl">つじ@TIK</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|77|649|<span class="rank-name-dl">くりす@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|78|643|<span class="rank-name-dl">下弦の月　累</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|79|641|<span class="rank-name-dl">loco</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|80|626|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|80|626|<span class="rank-name-dl">ちゅぴん大統領</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|82|614|<span class="rank-name-dl">志乃ぶ家きくたつ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|83|613|<span class="rank-name-dl">TAIGA</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|84|609|<span class="rank-name-dl">ばむさん</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|85|607|<span class="rank-name-dl">74k3Яv</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|86|589|<span class="rank-name-dl">アル・ニャマク</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|87|583|<span class="rank-name-dl">TOMY☆Dream</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|88|580|<span class="rank-name-dl">ひろぱ</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|88|580|<span class="rank-name-dl">肘肩歳だぞー②</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|90|573|<span class="rank-name-dl">A-1@しのぶや</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|91|572|<span class="rank-name-dl">ARK(^▽^)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|92|571|<span class="rank-name-dl">abby</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|93|563|<span class="rank-name-dl">チビ☆志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|94|552|<span class="rank-name-dl">shin</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|95|550|<span class="rank-name-dl">74k3Яv</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|96|547|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|97|544|<span class="rank-name-dl">アユ(養殖)</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|98|536|<span class="rank-name-dl">MALT</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|99|524|<span class="rank-name-dl">りりな-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
-|100|518|<span class="rank-name-dl">natsu 志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|18|826|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|19|808|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|20|803|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|21|802|<span class="rank-name-dl">おかP-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|22|801|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|23|793|<span class="rank-name-dl">T.Miyamoto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|24|791|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|25|789|<span class="rank-name-dl">志乃ぶ家いけべぇ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|26|778|<span class="rank-name-dl">KOUSEI</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|27|777|<span class="rank-name-dl">志乃ぶ家 おかp</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|28|768|<span class="rank-name-dl">ぽぬ_ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|29|764|<span class="rank-name-dl">齋藤慎吾</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|30|763|<span class="rank-name-dl">ひろ©️</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|31|762|<span class="rank-name-dl">ドルチェ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|32|758|<span class="rank-name-dl">にぃに(ARk)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|33|756|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|34|752|<span class="rank-name-dl">Ts.pon</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|34|752|<span class="rank-name-dl">にぃに(ARK)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|36|744|<span class="rank-name-dl">Pちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|37|743|<span class="rank-name-dl">kyo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|38|740|<span class="rank-name-dl">葉っぱ[志乃ぶ家]</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|39|738|<span class="rank-name-dl">えぃちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|40|726|<span class="rank-name-dl">ロック・リー</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|41|725|<span class="rank-name-dl">uchiko@il-luogo</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|41|725|<span class="rank-name-dl">りすがくるみ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|43|723|<span class="rank-name-dl">HARUTO</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|44|720|<span class="rank-name-dl">Weapon</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|45|718|<span class="rank-name-dl">けんちゃん＠ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|46|716|<span class="rank-name-dl">NO NAME 5217</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|46|716|<span class="rank-name-dl">NO NAME 5281</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|46|716|<span class="rank-name-dl">志乃ぶ家　こぅじ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|49|714|<span class="rank-name-dl">けい(やまなで)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|50|712|<span class="rank-name-dl">倉田英明</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|51|709|<span class="rank-name-dl">もっくん@ARK</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|52|708|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|53|705|<span class="rank-name-dl">しょーへい</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|53|705|<span class="rank-name-dl">志乃ぶ家いけぺぇ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|55|703|<span class="rank-name-dl">真 なおki</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|56|696|<span class="rank-name-dl">やぎっち</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|57|695|<span class="rank-name-dl">あめちゃ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|58|694|<span class="rank-name-dl">志乃ぶ家なおKIぃ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|59|692|<span class="rank-name-dl">どんぐり</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|60|689|<span class="rank-name-dl">腎不全透析患者。</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|61|687|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|62|684|<span class="rank-name-dl">照健☆志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|63|683|<span class="rank-name-dl">トミーBAR Dream</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|63|683|<span class="rank-name-dl">木耳</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|65|677|<span class="rank-name-dl">Monchi</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|65|677|<span class="rank-name-dl">ラフメイカー</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|67|676|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|68|675|<span class="rank-name-dl">志乃ぶ家　フミ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|69|652|<span class="rank-name-dl">つじ@TIK</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|70|649|<span class="rank-name-dl">くりす@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|71|643|<span class="rank-name-dl">下弦の月　累</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|72|641|<span class="rank-name-dl">loco</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|73|626|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|73|626|<span class="rank-name-dl">ちゅぴん大統領</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|75|614|<span class="rank-name-dl">志乃ぶ家きくたつ</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|76|613|<span class="rank-name-dl">TAIGA</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|77|609|<span class="rank-name-dl">ばむさん</span>|<a href="https://search.dartslive.com/jp/shop/7aa955810b5153620d9b047a20a7ba1e">ダーツバー Vivid</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|78|607|<span class="rank-name-dl">74k3Яv</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|79|589|<span class="rank-name-dl">アル・ニャマク</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|80|583|<span class="rank-name-dl">TOMY☆Dream</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|81|580|<span class="rank-name-dl">ひろぱ</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|81|580|<span class="rank-name-dl">肘肩歳だぞー②</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|83|573|<span class="rank-name-dl">A-1@しのぶや</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|84|572|<span class="rank-name-dl">ARK(^▽^)</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|85|571|<span class="rank-name-dl">abby</span>|<a href="https://search.dartslive.com/jp/shop/742ebe9d71aecf730d9b047a20a7ba1e">YAMATONADESHIKO</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|86|563|<span class="rank-name-dl">チビ☆志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|87|552|<span class="rank-name-dl">shin</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|88|550|<span class="rank-name-dl">74k3Яv</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|89|547|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|90|544|<span class="rank-name-dl">アユ(養殖)</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|91|536|<span class="rank-name-dl">MALT</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|92|524|<span class="rank-name-dl">りりな-志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|93|518|<span class="rank-name-dl">natsu 志乃ぶ家</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|94|516|<span class="rank-name-dl">麓 ｸﾘｽﾃｨｰﾅ</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|95|509|<span class="rank-name-dl">青山大地G-Bro&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|96|503|<span class="rank-name-dl">志乃ぶ家☆晃二</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|97|494|<span class="rank-name-dl">Qoo</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|98|479|<span class="rank-name-dl">『 』</span>|<a href="https://search.dartslive.com/jp/shop/f406d94dd258ff720d9b047a20a7ba1e">ARK</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|98|479|<span class="rank-name-dl">る</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
+|100|477|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/0dc1f63c4b1c7c6d0d9b047a20a7ba1e">志乃ぶ家</a>|<a href="/darts/rank/福島県/白河市">福島県白河市</a>|
 
 
 #### PHOENIXDARTS TOP 100

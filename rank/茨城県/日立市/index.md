@@ -28,15 +28,15 @@ ___
 |2|1087|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |4|1071|<span class="rank-name-pd">ザーボン第2形態</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |5|1045|<span class="rank-name-dl">ȲMj</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|6|1044|<span class="rank-name-dl">✟✟✟魔惡✟✟✟</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|6|1044|<span class="rank-name-dl">✟✟✟魔惡✟✟✟</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |7|1043|<span class="rank-name-dl">つとむ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |8|1024|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|9|1015|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|10|1014|<span class="rank-name-dl">あぶりまるだい</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|9|1015|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|10|1014|<span class="rank-name-dl">あぶりまるだい</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |10|1014|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 和将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |10|1014|<span class="rank-name-pd">超 たけい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |13|1006|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|14|996|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|14|996|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |15|989|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |16|988|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |17|986|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
@@ -67,7 +67,7 @@ ___
 |41|949|<span class="rank-name-pd">re...まーしぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |43|948|<span class="rank-name-dl">つとむ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |44|946|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐久間 祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|45|945|<span class="rank-name-dl">MUGEN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|45|945|<span class="rank-name-dl">MUGEN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |45|945|<span class="rank-name-pd">T K - C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |47|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>三井 明美</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |48|939|<span class="rank-name-dl">yukio asakawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
@@ -79,50 +79,50 @@ ___
 |54|934|<span class="rank-name-dl">あーりー⊿</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |55|933|<span class="rank-name-pd">超 まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |56|927|<span class="rank-name-dl">kei.Ak</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|56|927|<span class="rank-name-dl">ȲMj</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |56|927|<span class="rank-name-pd"><span class="pro-icon-pd"></span>下川 真希</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|59|925|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|60|924|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|61|922|<span class="rank-name-pd">ヤジロベー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|62|920|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|63|919|<span class="rank-name-dl">もぐもぐ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|63|919|<span class="rank-name-pd">倉持 貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|65|913|<span class="rank-name-pd">山口 範大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|66|912|<span class="rank-name-dl">徹也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|67|911|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|68|910|<span class="rank-name-dl">Masaki Shimokawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|69|908|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|69|908|<span class="rank-name-dl">妄想ｷﾞﾀﾘｽﾄ竹千夜</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|71|907|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|72|905|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|72|905|<span class="rank-name-dl">倉持 貴</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|74|904|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBANBAN日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|74|904|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|76|903|<span class="rank-name-dl">DADA.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|76|903|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|76|903|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|79|902|<span class="rank-name-pd">【巌】ぶぅ【竜】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46144?s_seq=46144">Darts&Bar MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|80|897|<span class="rank-name-dl">ジュンシロ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|81|896|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|82|895|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|83|894|<span class="rank-name-dl">メンメン</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|84|892|<span class="rank-name-dl">♨温泉たまご♨</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|85|890|<span class="rank-name-pd">こいちょ【PAL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|86|889|<span class="rank-name-dl">だいたいハルジ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|87|888|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|87|888|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|89|887|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBanBan日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|90|886|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|90|886|<span class="rank-name-pd">豚次丸☆ラード</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|92|884|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|92|884|<span class="rank-name-pd">超 のぐち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|92|884|<span class="rank-name-pd">鈴木ユウト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|95|882|<span class="rank-name-dl">1600_3200</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|96|881|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|97|880|<span class="rank-name-dl">ぺぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|98|879|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|98|879|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|100|878|<span class="rank-name-pd">ryouma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|58|925|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|59|922|<span class="rank-name-pd">ヤジロベー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|60|920|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|61|919|<span class="rank-name-dl">もぐもぐ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|61|919|<span class="rank-name-pd">倉持 貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|63|913|<span class="rank-name-pd">山口 範大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|64|912|<span class="rank-name-dl">徹也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|65|911|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|66|910|<span class="rank-name-dl">Masaki Shimokawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|67|908|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|67|908|<span class="rank-name-dl">妄想ｷﾞﾀﾘｽﾄ竹千夜</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|69|907|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|70|905|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|70|905|<span class="rank-name-dl">倉持 貴</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|72|904|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBANBAN日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|72|904|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|74|903|<span class="rank-name-dl">DADA.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|74|903|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|74|903|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|77|902|<span class="rank-name-pd">【巌】ぶぅ【竜】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46144?s_seq=46144">Darts&Bar MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|78|897|<span class="rank-name-dl">ジュンシロ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|79|896|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|80|895|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|81|894|<span class="rank-name-dl">メンメン</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|82|892|<span class="rank-name-dl">♨温泉たまご♨</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|83|890|<span class="rank-name-pd">こいちょ【PAL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|84|889|<span class="rank-name-dl">だいたいハルジ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|85|888|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|85|888|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|87|887|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBanBan日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|88|886|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|88|886|<span class="rank-name-pd">豚次丸☆ラード</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|90|884|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|90|884|<span class="rank-name-pd">超 のぐち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|90|884|<span class="rank-name-pd">鈴木ユウト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|93|882|<span class="rank-name-dl">1600_3200</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|94|881|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|95|880|<span class="rank-name-dl">ぺぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|96|879|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|97|878|<span class="rank-name-pd">ryouma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75952?s_seq=75952">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|98|875|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|99|874|<span class="rank-name-pd">超 うかい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|99|874|<span class="rank-name-pd">鵜飼慎吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9674?s_seq=9674">O.R.B.（オーブ）</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,13 +135,13 @@ ___
 |1|1170|<span class="rank-name-dl">MADOKA</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |2|1087|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |3|1045|<span class="rank-name-dl">ȲMj</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|4|1044|<span class="rank-name-dl">✟✟✟魔惡✟✟✟</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|4|1044|<span class="rank-name-dl">✟✟✟魔惡✟✟✟</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |5|1043|<span class="rank-name-dl">つとむ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |6|1024|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|7|1015|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|8|1014|<span class="rank-name-dl">あぶりまるだい</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|7|1015|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|8|1014|<span class="rank-name-dl">あぶりまるだい</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |9|1006|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|10|996|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|10|996|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |11|989|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |12|988|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |13|986|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
@@ -163,75 +163,75 @@ ___
 |28|955|<span class="rank-name-dl">メンメン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |30|950|<span class="rank-name-dl">まーしぃ®️</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |31|948|<span class="rank-name-dl">つとむ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|32|945|<span class="rank-name-dl">MUGEN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|32|945|<span class="rank-name-dl">MUGEN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |33|939|<span class="rank-name-dl">yukio asakawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |34|937|<span class="rank-name-dl">ジュンシロ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |34|937|<span class="rank-name-dl">梵葉男</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |36|936|<span class="rank-name-dl">NO NAME 0451</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |37|934|<span class="rank-name-dl">あーりー⊿</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |38|927|<span class="rank-name-dl">kei.Ak</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|38|927|<span class="rank-name-dl">ȲMj</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|40|925|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|41|924|<span class="rank-name-dl">ﾏｰﾎﾞｸﾞﾐｶﾝﾊﾟﾆｰ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|42|920|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|43|919|<span class="rank-name-dl">もぐもぐ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|44|912|<span class="rank-name-dl">徹也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|45|911|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|46|910|<span class="rank-name-dl">Masaki Shimokawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|47|908|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|47|908|<span class="rank-name-dl">妄想ｷﾞﾀﾘｽﾄ竹千夜</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|49|907|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|50|905|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|50|905|<span class="rank-name-dl">倉持 貴</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|52|904|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBANBAN日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|52|904|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|54|903|<span class="rank-name-dl">DADA.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|54|903|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|54|903|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|57|897|<span class="rank-name-dl">ジュンシロ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|58|896|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|59|895|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|60|894|<span class="rank-name-dl">メンメン</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|61|892|<span class="rank-name-dl">♨温泉たまご♨</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|62|889|<span class="rank-name-dl">だいたいハルジ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|63|888|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|63|888|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|65|887|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBanBan日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|66|886|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|67|884|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|68|882|<span class="rank-name-dl">1600_3200</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|69|881|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|70|880|<span class="rank-name-dl">ぺぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|71|879|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|71|879|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|73|875|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|74|872|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|75|869|<span class="rank-name-dl">アコゴン☆</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|76|868|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|77|866|<span class="rank-name-dl">Root_ピョコ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|78|865|<span class="rank-name-dl">おじゅん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店 快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|79|864|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|80|862|<span class="rank-name-dl">梅宮辰夫</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|80|862|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|80|862|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|83|861|<span class="rank-name-dl">のぶ汁</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|84|860|<span class="rank-name-dl">まさかず</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|85|859|<span class="rank-name-dl">濃厚みそ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|86|858|<span class="rank-name-dl">らぱん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|87|857|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|88|853|<span class="rank-name-dl">一本石井</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|89|852|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|90|850|<span class="rank-name-dl">O-JIN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|91|849|<span class="rank-name-dl">沼ルネコ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|92|848|<span class="rank-name-dl">NO NAME 6055</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|92|848|<span class="rank-name-dl">Saya</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|94|846|<span class="rank-name-dl">TOMOYA WAKE</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|94|846|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|96|845|<span class="rank-name-dl">Dada.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|97|842|<span class="rank-name-dl">koke</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|97|842|<span class="rank-name-dl">ひがし丸</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|99|841|<span class="rank-name-dl">ただのぼっと</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|100|840|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|39|925|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|40|920|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|41|919|<span class="rank-name-dl">もぐもぐ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|42|912|<span class="rank-name-dl">徹也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|43|911|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|44|910|<span class="rank-name-dl">Masaki Shimokawa</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|45|908|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|45|908|<span class="rank-name-dl">妄想ｷﾞﾀﾘｽﾄ竹千夜</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|47|907|<span class="rank-name-dl">梶山 拓馬</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|48|905|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|48|905|<span class="rank-name-dl">倉持 貴</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|50|904|<span class="rank-name-dl">tk-c</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBANBAN日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|50|904|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|52|903|<span class="rank-name-dl">DADA.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|52|903|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|52|903|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|55|897|<span class="rank-name-dl">ジュンシロ</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|56|896|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|57|895|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|58|894|<span class="rank-name-dl">メンメン</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|59|892|<span class="rank-name-dl">♨温泉たまご♨</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|60|889|<span class="rank-name-dl">だいたいハルジ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|61|888|<span class="rank-name-dl">25</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|61|888|<span class="rank-name-dl">タカハシさん</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|63|887|<span class="rank-name-dl">321さん</span>|<a href="https://search.dartslive.com/jp/shop/3cc35228805f08d80d9b047a20a7ba1e">カラオケBanBan日立滑川店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|64|886|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|65|884|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|66|882|<span class="rank-name-dl">1600_3200</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|67|881|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|68|880|<span class="rank-name-dl">ぺぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|69|879|<span class="rank-name-dl">мα^су</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|70|875|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|71|872|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|72|869|<span class="rank-name-dl">アコゴン☆</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|73|868|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|74|866|<span class="rank-name-dl">Root_ピョコ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|75|862|<span class="rank-name-dl">梅宮辰夫</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|75|862|<span class="rank-name-dl">武藤　潤也</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|75|862|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|78|861|<span class="rank-name-dl">のぶ汁</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|79|860|<span class="rank-name-dl">まさかず</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|80|859|<span class="rank-name-dl">濃厚みそ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|81|858|<span class="rank-name-dl">らぱん</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|82|857|<span class="rank-name-dl">NoriMin</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|83|853|<span class="rank-name-dl">一本石井</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|84|852|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|85|850|<span class="rank-name-dl">O-JIN</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|86|849|<span class="rank-name-dl">沼ルネコ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|87|848|<span class="rank-name-dl">NO NAME 6055</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|87|848|<span class="rank-name-dl">Saya</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|89|846|<span class="rank-name-dl">TOMOYA WAKE</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|89|846|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|91|845|<span class="rank-name-dl">Dada.</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|92|842|<span class="rank-name-dl">koke</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|92|842|<span class="rank-name-dl">ひがし丸</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|94|841|<span class="rank-name-dl">ただのぼっと</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|95|840|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/de251c51b5b1ea5a0d9b047a20a7ba1e">MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|96|838|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|97|837|<span class="rank-name-dl">辛気臭男</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|98|836|<span class="rank-name-dl">まんぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/e0949f5850d5984e774c926eb736cb5a">快活CLUB 日立店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|98|836|<span class="rank-name-dl">漆陸漆Öv–•</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
+|100|835|<span class="rank-name-dl">ハルジ</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 
 
 #### PHOENIXDARTS TOP 100

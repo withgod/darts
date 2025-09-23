@@ -50,79 +50,79 @@ ___
 |25|1129|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |26|1127|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |27|1126|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|28|1125|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店 Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|28|1125|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |28|1125|<span class="rank-name-dl">jです。</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |28|1125|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/286319fb711eef43774c926eb736cb5a">HAT TRICK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |28|1125|<span class="rank-name-dl">椿 覇裸駄</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |32|1124|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |32|1124|<span class="rank-name-dl">やじ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|34|1123|<span class="rank-name-dl">れだお</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店 ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|34|1123|<span class="rank-name-dl">れだお</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |35|1122|<span class="rank-name-dl">のりとーーーん！</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|35|1122|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|37|1120|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|38|1118|<span class="rank-name-dl">町田立志</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|38|1118|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|40|1116|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|41|1115|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|42|1114|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|42|1114|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|44|1113|<span class="rank-name-dl">のりとーーーん！</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|45|1111|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e4a251949dc636090d9b047a20a7ba1e">BAGUS-バグース-大宮</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|45|1111|<span class="rank-name-dl">光ｯﾁ【渋】Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|47|1110|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/4cdd709668ae30960d9b047a20a7ba1e">ラウンドワン大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|48|1109|<span class="rank-name-dl">まいく</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|49|1108|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|49|1108|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|51|1106|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店 DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|52|1105|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|53|1104|<span class="rank-name-dl">いりえもん</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|54|1103|<span class="rank-name-dl">光ｯﾁShIBu_Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|55|1101|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|56|1100|<span class="rank-name-dl">SR★★★</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|56|1100|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中畑 直也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55444?s_seq=55444">ウエアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|58|1099|<span class="rank-name-dl">西尾 神威</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|59|1098|<span class="rank-name-dl">FIXER</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|60|1096|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|61|1095|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|61|1095|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|63|1094|<span class="rank-name-dl">MIYA_a</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|63|1094|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|65|1093|<span class="rank-name-pd">はる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94399?s_seq=94399">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|66|1092|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|67|1091|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|68|1089|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|69|1088|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|69|1088|<span class="rank-name-dl">椿 覇裸駄</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|69|1088|<span class="rank-name-dl">橋本一馬@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|69|1088|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|73|1085|<span class="rank-name-dl">合法ガンジゃ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|74|1084|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|74|1084|<span class="rank-name-dl">ゆっきー∋麻布Ζ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|74|1084|<span class="rank-name-dl">中畑直也@DPL</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|74|1084|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|78|1082|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|79|1081|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|80|1080|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|81|1079|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|81|1079|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|81|1079|<span class="rank-name-dl">杉山 亮太</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|84|1078|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店 ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|84|1078|<span class="rank-name-dl">あまおう。</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|86|1077|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店 ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|87|1076|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|87|1076|<span class="rank-name-dl">みずたろう</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|87|1076|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|90|1075|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|90|1075|<span class="rank-name-dl">光ｯﾁ【Jackus】</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|90|1075|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|93|1074|<span class="rank-name-dl">ふじまけんた。</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|94|1073|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|94|1073|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|94|1073|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|94|1073|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|94|1073|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|99|1072|<span class="rank-name-dl">@ちゃんつー</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|99|1072|<span class="rank-name-dl">kyon-kyon</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|36|1120|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|37|1118|<span class="rank-name-dl">町田立志</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|37|1118|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|39|1115|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|40|1114|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|40|1114|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|42|1111|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e4a251949dc636090d9b047a20a7ba1e">BAGUS-バグース-大宮</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|42|1111|<span class="rank-name-dl">光ｯﾁ【渋】Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|44|1110|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/4cdd709668ae30960d9b047a20a7ba1e">ラウンドワン大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|45|1109|<span class="rank-name-dl">まいく</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|46|1108|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|47|1106|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|48|1105|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|49|1104|<span class="rank-name-dl">いりえもん</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|50|1103|<span class="rank-name-dl">光ｯﾁShIBu_Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|51|1101|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|52|1100|<span class="rank-name-dl">SR★★★</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|52|1100|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中畑 直也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55444?s_seq=55444">ウエアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|54|1099|<span class="rank-name-dl">西尾 神威</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|55|1098|<span class="rank-name-dl">FIXER</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|56|1096|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|57|1095|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|57|1095|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|59|1094|<span class="rank-name-dl">MIYA_a</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|59|1094|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|61|1093|<span class="rank-name-pd">はる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94399?s_seq=94399">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|62|1092|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|63|1091|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|64|1089|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|65|1088|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|65|1088|<span class="rank-name-dl">橋本一馬@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|65|1088|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|68|1085|<span class="rank-name-dl">合法ガンジゃ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|69|1084|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|69|1084|<span class="rank-name-dl">ゆっきー∋麻布Ζ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|69|1084|<span class="rank-name-dl">中畑直也@DPL</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|69|1084|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|73|1082|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|74|1081|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|75|1080|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|76|1079|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|76|1079|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|76|1079|<span class="rank-name-dl">杉山 亮太</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|79|1078|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|79|1078|<span class="rank-name-dl">あまおう。</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|81|1077|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|82|1076|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|82|1076|<span class="rank-name-dl">みずたろう</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|82|1076|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|85|1075|<span class="rank-name-dl">光ｯﾁ【Jackus】</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|85|1075|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|87|1074|<span class="rank-name-dl">ふじまけんた。</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|88|1073|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|88|1073|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|88|1073|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|88|1073|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|88|1073|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|93|1072|<span class="rank-name-dl">@ちゃんつー</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|93|1072|<span class="rank-name-dl">kyon-kyon</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|93|1072|<span class="rank-name-dl">拳JIRO†CBC</span>|<a href="https://search.dartslive.com/jp/shop/286319fb711eef43774c926eb736cb5a">HAT TRICK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|93|1072|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|97|1071|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|98|1070|<span class="rank-name-pd">光ｯﾁ【Jackus】4843</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90727?s_seq=90727">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|99|1068|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|100|1067|<span class="rank-name-dl">Junpei Nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -158,80 +158,80 @@ ___
 |24|1129|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |25|1127|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |26|1126|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|27|1125|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店 Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|27|1125|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |27|1125|<span class="rank-name-dl">jです。</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |27|1125|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/286319fb711eef43774c926eb736cb5a">HAT TRICK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |27|1125|<span class="rank-name-dl">椿 覇裸駄</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |31|1124|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |31|1124|<span class="rank-name-dl">やじ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|33|1123|<span class="rank-name-dl">れだお</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店 ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|33|1123|<span class="rank-name-dl">れだお</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |34|1122|<span class="rank-name-dl">のりとーーーん！</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|34|1122|<span class="rank-name-dl">はや</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|36|1120|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|37|1118|<span class="rank-name-dl">町田立志</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|37|1118|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|39|1116|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|40|1115|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|41|1114|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|41|1114|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|43|1113|<span class="rank-name-dl">のりとーーーん！</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|44|1111|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e4a251949dc636090d9b047a20a7ba1e">BAGUS-バグース-大宮</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|44|1111|<span class="rank-name-dl">光ｯﾁ【渋】Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|46|1110|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/4cdd709668ae30960d9b047a20a7ba1e">ラウンドワン大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|47|1109|<span class="rank-name-dl">まいく</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|48|1108|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|48|1108|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|50|1106|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店 DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|51|1105|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|52|1104|<span class="rank-name-dl">いりえもん</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|53|1103|<span class="rank-name-dl">光ｯﾁShIBu_Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|54|1101|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|55|1100|<span class="rank-name-dl">SR★★★</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|56|1099|<span class="rank-name-dl">西尾 神威</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|57|1098|<span class="rank-name-dl">FIXER</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|58|1096|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|59|1095|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|59|1095|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|61|1094|<span class="rank-name-dl">MIYA_a</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|61|1094|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|63|1092|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|64|1091|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|65|1089|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|66|1088|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|66|1088|<span class="rank-name-dl">椿 覇裸駄</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|66|1088|<span class="rank-name-dl">橋本一馬@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|66|1088|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|70|1085|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|70|1085|<span class="rank-name-dl">合法ガンジゃ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|72|1084|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|72|1084|<span class="rank-name-dl">ゆっきー∋麻布Ζ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|72|1084|<span class="rank-name-dl">中畑直也@DPL</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|72|1084|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|76|1082|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|77|1081|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|78|1080|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|79|1079|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店 快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|79|1079|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|79|1079|<span class="rank-name-dl">杉山 亮太</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|82|1078|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店 ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|82|1078|<span class="rank-name-dl">あまおう。</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|84|1077|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店 ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|85|1076|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|85|1076|<span class="rank-name-dl">みずたろう</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|85|1076|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|88|1075|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|88|1075|<span class="rank-name-dl">光ｯﾁ【Jackus】</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|88|1075|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|91|1074|<span class="rank-name-dl">ふじまけんた。</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|92|1073|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|92|1073|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|92|1073|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|92|1073|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|92|1073|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|97|1072|<span class="rank-name-dl">@ちゃんつー</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|97|1072|<span class="rank-name-dl">kyon-kyon</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|97|1072|<span class="rank-name-dl">拳JIRO†CBC</span>|<a href="https://search.dartslive.com/jp/shop/286319fb711eef43774c926eb736cb5a">HAT TRICK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|97|1072|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|35|1120|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|36|1118|<span class="rank-name-dl">町田立志</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|36|1118|<span class="rank-name-dl">鈴木将太PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|38|1115|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|39|1114|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/f930d3921d0eeabd0d9b047a20a7ba1e">JIGEN</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|39|1114|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|41|1111|<span class="rank-name-dl">Asuka◢ ◤UPRE</span>|<a href="https://search.dartslive.com/jp/shop/e4a251949dc636090d9b047a20a7ba1e">BAGUS-バグース-大宮</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|41|1111|<span class="rank-name-dl">光ｯﾁ【渋】Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|43|1110|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/4cdd709668ae30960d9b047a20a7ba1e">ラウンドワン大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|44|1109|<span class="rank-name-dl">まいく</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|45|1108|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|46|1106|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|47|1105|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|48|1104|<span class="rank-name-dl">いりえもん</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|49|1103|<span class="rank-name-dl">光ｯﾁShIBu_Jackus</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|50|1101|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|51|1100|<span class="rank-name-dl">SR★★★</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|52|1099|<span class="rank-name-dl">西尾 神威</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|53|1098|<span class="rank-name-dl">FIXER</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|54|1096|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|55|1095|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|55|1095|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|57|1094|<span class="rank-name-dl">MIYA_a</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|57|1094|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|59|1092|<span class="rank-name-dl">S&amp;T</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|60|1091|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|61|1089|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|62|1088|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|62|1088|<span class="rank-name-dl">橋本一馬@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|62|1088|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|65|1085|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|65|1085|<span class="rank-name-dl">合法ガンジゃ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|67|1084|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|67|1084|<span class="rank-name-dl">ゆっきー∋麻布Ζ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|67|1084|<span class="rank-name-dl">中畑直也@DPL</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|67|1084|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|71|1082|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|72|1081|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|73|1080|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|74|1079|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|74|1079|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/aba10af047cd51bef454cb89828a1cfe">快活CLUB 東川口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|74|1079|<span class="rank-name-dl">杉山 亮太</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|77|1078|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|77|1078|<span class="rank-name-dl">あまおう。</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|79|1077|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">ダイニングダーツバーBee 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|80|1076|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/cdd57a5797be103f0d9b047a20a7ba1e">ダーツカフェデルタ大宮店(DartsCafeDELTA大宮店)</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|80|1076|<span class="rank-name-dl">みずたろう</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|80|1076|<span class="rank-name-dl">ヤングたかじん</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|83|1075|<span class="rank-name-dl">光ｯﾁ【Jackus】</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|83|1075|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|85|1074|<span class="rank-name-dl">ふじまけんた。</span>|<a href="https://search.dartslive.com/jp/shop/09317e700f806ba45f9f3321c1147265">Darts Bar halo</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|86|1073|<span class="rank-name-dl">CRケイゴミヨシ</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|86|1073|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/e9a5776228959adefec1ae84bb28bd87">DARTS-J 大宮西口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|86|1073|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/a7dc3dddbbf441e85f9f3321c1147265">カラオケ館 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|86|1073|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|86|1073|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/bc0cf5f8eddaa25c5f9f3321c1147265">REGALO 大宮東口店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|91|1072|<span class="rank-name-dl">@ちゃんつー</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|91|1072|<span class="rank-name-dl">kyon-kyon</span>|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|91|1072|<span class="rank-name-dl">拳JIRO†CBC</span>|<a href="https://search.dartslive.com/jp/shop/286319fb711eef43774c926eb736cb5a">HAT TRICK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|91|1072|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/773454cbeae525c30d9b047a20a7ba1e">cafe&bar LOCKSTOCK</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|95|1071|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/2a1a52b68625754925d56fb0e5c39bac">快活CLUB 岩槻店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|96|1068|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/ce216394484188440d9b047a20a7ba1e">Bully's 大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|97|1067|<span class="rank-name-dl">Junpei Nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|97|1067|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|97|1067|<span class="rank-name-dl">Shin⑤★豆腐ﾒﾝﾀﾙ</span>|<a href="https://search.dartslive.com/jp/shop/32a1262174fe17930d9b047a20a7ba1e">ウェアハウス三橋店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|100|1066|<span class="rank-name-dl">hiroyuki</span>|<a href="https://search.dartslive.com/jp/shop/fa735483caa3fb3e0d9b047a20a7ba1e">Bee OMIYA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 
 
 #### PHOENIXDARTS TOP 100

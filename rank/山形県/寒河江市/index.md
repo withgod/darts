@@ -36,7 +36,7 @@ ___
 |11|946|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |12|936|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |13|934|<span class="rank-name-dl">元気！！</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|14|905|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|14|905|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |15|884|<span class="rank-name-dl">はらくっつい</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |16|871|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |17|866|<span class="rank-name-dl">あう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
@@ -47,43 +47,39 @@ ___
 |21|823|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |23|820|<span class="rank-name-dl">To.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |24|817|<span class="rank-name-dl">issi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|25|807|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|26|805|<span class="rank-name-dl">あう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|27|801|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|28|794|<span class="rank-name-dl">ガチャ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|29|786|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|30|777|<span class="rank-name-dl">隆щ★щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|31|761|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|32|759|<span class="rank-name-dl">ポメ子@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|33|754|<span class="rank-name-dl">もーりー@零HL</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|34|748|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|35|729|<span class="rank-name-dl">Ryuto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|36|722|<span class="rank-name-dl">☆Йдηсу☆</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|37|717|<span class="rank-name-dl">えす</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|38|715|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|39|713|<span class="rank-name-dl">かたくらまさき</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|39|713|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|41|708|<span class="rank-name-dl">G G</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|42|700|<span class="rank-name-dl">issi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|43|695|<span class="rank-name-dl">みゃい@NDC</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|44|683|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|45|646|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|46|635|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|47|620|<span class="rank-name-dl">RIKA</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|48|614|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|49|609|<span class="rank-name-dl">たくにゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|50|588|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|51|567|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|52|546|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|53|544|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|54|543|<span class="rank-name-dl">T―★帝★vision</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|55|538|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|56|520|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|57|515|<span class="rank-name-dl">ぬん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|58|456|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|59|433|<span class="rank-name-dl">S.s(*´꒳`*)ｻﾌﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|60|375|<span class="rank-name-dl">うるぷ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|61|352|<span class="rank-name-dl">mars.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|25|807|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|26|794|<span class="rank-name-dl">ガチャ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|27|786|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|28|777|<span class="rank-name-dl">隆щ★щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|29|761|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|30|759|<span class="rank-name-dl">ポメ子@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|31|754|<span class="rank-name-dl">もーりー@零HL</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|32|748|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|33|729|<span class="rank-name-dl">Ryuto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|34|722|<span class="rank-name-dl">☆Йдηсу☆</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|35|717|<span class="rank-name-dl">えす</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|36|715|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|37|713|<span class="rank-name-dl">かたくらまさき</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|38|708|<span class="rank-name-dl">G G</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|39|695|<span class="rank-name-dl">みゃい@NDC</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|40|683|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|41|646|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|42|635|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|43|620|<span class="rank-name-dl">RIKA</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|44|614|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|45|609|<span class="rank-name-dl">たくにゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|46|588|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|47|567|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|48|546|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|49|544|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|50|543|<span class="rank-name-dl">T―★帝★vision</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|51|538|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|52|520|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|53|515|<span class="rank-name-dl">ぬん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|54|456|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|55|433|<span class="rank-name-dl">S.s(*´꒳`*)ｻﾌﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|56|375|<span class="rank-name-dl">うるぷ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|57|352|<span class="rank-name-dl">mars.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -106,7 +102,7 @@ ___
 |11|946|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |12|936|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |13|934|<span class="rank-name-dl">元気！！</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|14|905|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|14|905|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |15|884|<span class="rank-name-dl">はらくっつい</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |16|871|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |17|866|<span class="rank-name-dl">あう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
@@ -117,43 +113,39 @@ ___
 |21|823|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |23|820|<span class="rank-name-dl">To.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 |24|817|<span class="rank-name-dl">issi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|25|807|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|26|805|<span class="rank-name-dl">あう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|27|801|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|28|794|<span class="rank-name-dl">ガチャ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|29|786|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|30|777|<span class="rank-name-dl">隆щ★щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|31|761|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|32|759|<span class="rank-name-dl">ポメ子@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|33|754|<span class="rank-name-dl">もーりー@零HL</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|34|748|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|35|729|<span class="rank-name-dl">Ryuto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|36|722|<span class="rank-name-dl">☆Йдηсу☆</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|37|717|<span class="rank-name-dl">えす</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|38|715|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|39|713|<span class="rank-name-dl">かたくらまさき</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|39|713|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|41|708|<span class="rank-name-dl">G G</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|42|700|<span class="rank-name-dl">issi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|43|695|<span class="rank-name-dl">みゃい@NDC</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|44|683|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|45|646|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|46|635|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|47|620|<span class="rank-name-dl">RIKA</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|48|614|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|49|609|<span class="rank-name-dl">たくにゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|50|588|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|51|567|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|52|546|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|53|544|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|54|543|<span class="rank-name-dl">T―★帝★vision</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|55|538|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|56|520|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|57|515|<span class="rank-name-dl">ぬん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|58|456|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|59|433|<span class="rank-name-dl">S.s(*´꒳`*)ｻﾌﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|60|375|<span class="rank-name-dl">うるぷ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
-|61|352|<span class="rank-name-dl">mars.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|25|807|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|26|794|<span class="rank-name-dl">ガチャ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|27|786|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|28|777|<span class="rank-name-dl">隆щ★щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|29|761|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|30|759|<span class="rank-name-dl">ポメ子@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|31|754|<span class="rank-name-dl">もーりー@零HL</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|32|748|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|33|729|<span class="rank-name-dl">Ryuto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|34|722|<span class="rank-name-dl">☆Йдηсу☆</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|35|717|<span class="rank-name-dl">えす</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|36|715|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|37|713|<span class="rank-name-dl">かたくらまさき</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|38|708|<span class="rank-name-dl">G G</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|39|695|<span class="rank-name-dl">みゃい@NDC</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|40|683|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|41|646|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|42|635|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|43|620|<span class="rank-name-dl">RIKA</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|44|614|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|45|609|<span class="rank-name-dl">たくにゃん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|46|588|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|47|567|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|48|546|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|49|544|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|50|543|<span class="rank-name-dl">T―★帝★vision</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|51|538|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|52|520|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|53|515|<span class="rank-name-dl">ぬん</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|54|456|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|55|433|<span class="rank-name-dl">S.s(*´꒳`*)ｻﾌﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|56|375|<span class="rank-name-dl">うるぷ</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
+|57|352|<span class="rank-name-dl">mars.</span>|<a href="https://search.dartslive.com/jp/shop/1ec59c247cbf4f6d0d9b047a20a7ba1e">TAVERN</a>|<a href="/darts/rank/山形県/寒河江市">山形県寒河江市</a>|
 
 
 #### PHOENIXDARTS TOP 100

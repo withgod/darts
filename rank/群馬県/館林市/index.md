@@ -30,7 +30,7 @@ ___
 |5|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山根 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |6|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |7|1110|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|8|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|8|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |9|1088|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |10|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |11|1052|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤 貴寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
@@ -134,7 +134,7 @@ ___
 |---|---|---|---|---|
 |1|1134|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |2|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|3|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|3|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |4|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |5|1039|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |6|1017|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|

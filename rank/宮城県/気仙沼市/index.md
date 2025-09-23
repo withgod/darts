@@ -47,82 +47,82 @@ ___
 |22|861|<span class="rank-name-dl">【A】髙橋亮志</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |23|855|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |23|855|<span class="rank-name-dl">NO NAME 6310</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|23|855|<span class="rank-name-dl">腎不全透析患者。</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|26|842|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|27|840|<span class="rank-name-pd">しょこフィセント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|28|839|<span class="rank-name-dl">YMD☆Ｕｯﾁｲ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|29|835|<span class="rank-name-pd">髙橋亮志【A】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|30|830|<span class="rank-name-pd">JAM介さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|31|827|<span class="rank-name-pd">チバえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|32|826|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|33|825|<span class="rank-name-pd">アル中亮ちゃん【A.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|34|823|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|35|819|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|36|817|<span class="rank-name-dl">NO NAME 5824</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|37|816|<span class="rank-name-pd">R【A.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|38|815|<span class="rank-name-dl">koko</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|39|812|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|40|810|<span class="rank-name-pd">bo†ya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|41|803|<span class="rank-name-pd">0114_0828(^3^)-☆chu!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|42|799|<span class="rank-name-dl">ダメ人間turbo</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|43|795|<span class="rank-name-pd">KOKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|44|793|<span class="rank-name-pd">みうてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|44|793|<span class="rank-name-dl">タティスjr.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|46|792|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|47|788|<span class="rank-name-dl">だっ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|48|787|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|49|784|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|50|783|<span class="rank-name-pd">村上-baum-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|51|781|<span class="rank-name-pd">BARJAMてっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|51|781|<span class="rank-name-dl">ユーーーラ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|53|777|<span class="rank-name-pd">kazuki1091</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|53|777|<span class="rank-name-pd">ＡＳＨＩＴＡＫＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|55|776|<span class="rank-name-pd">ぱらぽん(｀・ω・´)【BRONX】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|56|772|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|57|770|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小野寺 夏姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|58|765|<span class="rank-name-pd">オッパラ【月光】-鬼-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|59|763|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|60|762|<span class="rank-name-dl">あんころモチ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|60|762|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|62|760|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|63|758|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|64|755|<span class="rank-name-pd">村上-baum-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|65|748|<span class="rank-name-dl">ZAKIs</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|66|742|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|67|741|<span class="rank-name-dl">えろ公爵@ED</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|67|741|<span class="rank-name-pd"><span class="pro-icon-pd"></span>吉田 龍騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|69|739|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|70|738|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|71|736|<span class="rank-name-dl">AC Japan</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|72|735|<span class="rank-name-pd">斉藤　和彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|73|733|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|74|731|<span class="rank-name-dl">おそら</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|75|728|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|76|726|<span class="rank-name-dl">独眼竜❤️スズキ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|76|726|<span class="rank-name-dl">ｵﾔﾏ大豆19稲穂22</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|78|725|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|79|723|<span class="rank-name-pd"> 齋藤 俊樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|80|722|<span class="rank-name-pd"><span class="pro-icon-pd"></span>畠山 亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|81|719|<span class="rank-name-dl">テツA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|82|717|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|83|712|<span class="rank-name-pd">おいかわ＠西興一家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|84|709|<span class="rank-name-dl">ﾄｳｶｲﾃｲｵｰA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|85|706|<span class="rank-name-pd">heavyスモーカー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|86|705|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|86|705|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|88|704|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|89|703|<span class="rank-name-pd">Kann0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|90|702|<span class="rank-name-pd">り³</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|91|701|<span class="rank-name-pd">ふくろうむすめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|91|701|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|93|698|<span class="rank-name-pd">吉田龍騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|94|697|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|95|695|<span class="rank-name-dl">ちぇき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|96|694|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|97|692|<span class="rank-name-pd">オッパラ【Bronx】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|98|691|<span class="rank-name-dl">竹藪伊織</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|99|690|<span class="rank-name-dl">HIDEKIN A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|100|684|<span class="rank-name-dl">海哉</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|25|842|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|26|840|<span class="rank-name-pd">しょこフィセント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|27|839|<span class="rank-name-dl">YMD☆Ｕｯﾁｲ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|28|835|<span class="rank-name-pd">髙橋亮志【A】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|29|830|<span class="rank-name-pd">JAM介さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|30|827|<span class="rank-name-pd">チバえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|31|826|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|32|825|<span class="rank-name-pd">アル中亮ちゃん【A.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|33|823|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|34|819|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|35|817|<span class="rank-name-dl">NO NAME 5824</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|36|816|<span class="rank-name-pd">R【A.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|37|815|<span class="rank-name-dl">koko</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|38|812|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|39|810|<span class="rank-name-pd">bo†ya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|40|803|<span class="rank-name-pd">0114_0828(^3^)-☆chu!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|41|799|<span class="rank-name-dl">ダメ人間turbo</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|42|795|<span class="rank-name-pd">KOKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|43|793|<span class="rank-name-pd">みうてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|43|793|<span class="rank-name-dl">タティスjr.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|45|792|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|46|788|<span class="rank-name-dl">だっ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|47|787|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|48|784|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|49|783|<span class="rank-name-pd">村上-baum-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|50|781|<span class="rank-name-pd">BARJAMてっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|50|781|<span class="rank-name-dl">ユーーーラ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|52|777|<span class="rank-name-pd">kazuki1091</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|52|777|<span class="rank-name-pd">ＡＳＨＩＴＡＫＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|54|776|<span class="rank-name-pd">ぱらぽん(｀・ω・´)【BRONX】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|55|772|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|56|770|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小野寺 夏姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|57|765|<span class="rank-name-pd">オッパラ【月光】-鬼-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|58|763|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|59|762|<span class="rank-name-dl">あんころモチ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|59|762|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|61|760|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|62|755|<span class="rank-name-pd">村上-baum-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|63|748|<span class="rank-name-dl">ZAKIs</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|64|742|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|65|741|<span class="rank-name-dl">えろ公爵@ED</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|65|741|<span class="rank-name-pd"><span class="pro-icon-pd"></span>吉田 龍騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|67|739|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 純平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88273?s_seq=88273">BAR JAM</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|68|738|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|69|736|<span class="rank-name-dl">AC Japan</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|70|735|<span class="rank-name-pd">斉藤　和彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|71|733|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|72|731|<span class="rank-name-dl">おそら</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|73|728|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|74|726|<span class="rank-name-dl">独眼竜❤️スズキ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|74|726|<span class="rank-name-dl">ｵﾔﾏ大豆19稲穂22</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|76|725|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|77|723|<span class="rank-name-pd"> 齋藤 俊樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|78|722|<span class="rank-name-pd"><span class="pro-icon-pd"></span>畠山 亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|79|719|<span class="rank-name-dl">テツA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|80|717|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|81|712|<span class="rank-name-pd">おいかわ＠西興一家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|82|709|<span class="rank-name-dl">ﾄｳｶｲﾃｲｵｰA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|83|706|<span class="rank-name-pd">heavyスモーカー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|84|705|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|84|705|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|86|704|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|87|703|<span class="rank-name-pd">Kann0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|88|702|<span class="rank-name-pd">り³</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|89|701|<span class="rank-name-pd">ふくろうむすめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|89|701|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|91|698|<span class="rank-name-pd">吉田龍騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85203?s_seq=85203">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|92|697|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|93|695|<span class="rank-name-dl">ちぇき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|94|694|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|95|692|<span class="rank-name-pd">オッパラ【Bronx】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95682?s_seq=95682">さくらアミューズ</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|96|691|<span class="rank-name-dl">竹藪伊織</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|97|690|<span class="rank-name-dl">HIDEKIN A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|98|684|<span class="rank-name-dl">海哉</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|99|681|<span class="rank-name-dl">池田 輝</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|100|680|<span class="rank-name-dl">NO NAME 9873</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -145,93 +145,93 @@ ___
 |11|861|<span class="rank-name-dl">【A】髙橋亮志</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |12|855|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |12|855|<span class="rank-name-dl">NO NAME 6310</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|12|855|<span class="rank-name-dl">腎不全透析患者。</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|15|842|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|16|840|<span class="rank-name-dl">bo†ya</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|17|839|<span class="rank-name-dl">YMD☆Ｕｯﾁｲ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|18|826|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|19|823|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|20|819|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|21|817|<span class="rank-name-dl">NO NAME 5824</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|22|815|<span class="rank-name-dl">koko</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|23|812|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|24|799|<span class="rank-name-dl">ダメ人間turbo</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|25|793|<span class="rank-name-dl">タティスjr.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|26|792|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|27|788|<span class="rank-name-dl">だっ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|28|784|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|29|781|<span class="rank-name-dl">ユーーーラ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|30|773|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|31|772|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|32|763|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|33|762|<span class="rank-name-dl">あんころモチ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|33|762|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|35|760|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|36|758|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|37|748|<span class="rank-name-dl">ZAKIs</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|38|741|<span class="rank-name-dl">えろ公爵@ED</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|39|738|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|40|736|<span class="rank-name-dl">AC Japan</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|41|733|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|42|731|<span class="rank-name-dl">おそら</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|43|728|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|44|726|<span class="rank-name-dl">独眼竜❤️スズキ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|44|726|<span class="rank-name-dl">ｵﾔﾏ大豆19稲穂22</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|46|725|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|47|719|<span class="rank-name-dl">テツA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|48|717|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|49|709|<span class="rank-name-dl">ﾄｳｶｲﾃｲｵｰA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|50|705|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|50|705|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|52|704|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|53|701|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|54|697|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|55|695|<span class="rank-name-dl">ちぇき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|56|694|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|57|691|<span class="rank-name-dl">竹藪伊織</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|58|690|<span class="rank-name-dl">HIDEKIN A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|59|689|<span class="rank-name-dl">斉藤　和彦</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|60|684|<span class="rank-name-dl">海哉</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|61|681|<span class="rank-name-dl">池田 輝</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|62|680|<span class="rank-name-dl">NO NAME 9873</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|63|672|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|64|670|<span class="rank-name-dl">アル中亮ちゃんA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|65|668|<span class="rank-name-dl">曉組　ハルコム</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|66|664|<span class="rank-name-dl">S.YMAMA.J-h</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|67|663|<span class="rank-name-dl">maRu a.k.a FO</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|67|663|<span class="rank-name-dl">。。。</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|69|659|<span class="rank-name-dl">ゆーた</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|69|659|<span class="rank-name-dl">ピエロ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|71|658|<span class="rank-name-dl">OKA</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|71|658|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|73|652|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|74|646|<span class="rank-name-dl">むらかみくん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|75|636|<span class="rank-name-dl">ﾏﾘﾘﾝﾓﾝﾛｰA.</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|76|631|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|77|626|<span class="rank-name-dl">AmeApremium</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|78|624|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|79|623|<span class="rank-name-dl">osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|80|622|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|81|621|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|82|619|<span class="rank-name-dl">FCUPてっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|83|616|<span class="rank-name-dl">A．green tea</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|84|614|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|85|611|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|85|611|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|87|610|<span class="rank-name-dl">HIDEKIN A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|87|610|<span class="rank-name-dl">しゅう</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|89|599|<span class="rank-name-dl">村神様</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|90|597|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|91|593|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|91|593|<span class="rank-name-dl">曉組 ばーつー</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|93|579|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|94|576|<span class="rank-name-dl">まっちょ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|94|576|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A. American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|96|567|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|97|561|<span class="rank-name-dl">海翔</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|98|556|<span class="rank-name-dl">kogepan</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|99|552|<span class="rank-name-dl">サヨノネイチヤ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|100|548|<span class="rank-name-dl">リクサスグッチA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|14|842|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|15|840|<span class="rank-name-dl">bo†ya</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|16|839|<span class="rank-name-dl">YMD☆Ｕｯﾁｲ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|17|826|<span class="rank-name-dl">JUNPEI</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|18|823|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|19|819|<span class="rank-name-dl">Kann0</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|20|817|<span class="rank-name-dl">NO NAME 5824</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|21|815|<span class="rank-name-dl">koko</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|22|812|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|23|799|<span class="rank-name-dl">ダメ人間turbo</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|24|793|<span class="rank-name-dl">タティスjr.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|25|792|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|26|788|<span class="rank-name-dl">だっ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|27|784|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|28|781|<span class="rank-name-dl">ユーーーラ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|29|773|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|30|772|<span class="rank-name-dl">ライジング小野寺</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|31|763|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|32|762|<span class="rank-name-dl">あんころモチ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|32|762|<span class="rank-name-dl">北斗なKEN</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|34|760|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|35|748|<span class="rank-name-dl">ZAKIs</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|36|741|<span class="rank-name-dl">えろ公爵@ED</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|37|738|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|38|736|<span class="rank-name-dl">AC Japan</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|39|733|<span class="rank-name-dl">俊@BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|40|731|<span class="rank-name-dl">おそら</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|41|728|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|42|726|<span class="rank-name-dl">独眼竜❤️スズキ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|42|726|<span class="rank-name-dl">ｵﾔﾏ大豆19稲穂22</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|44|725|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|45|719|<span class="rank-name-dl">テツA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|46|717|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|47|709|<span class="rank-name-dl">ﾄｳｶｲﾃｲｵｰA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|48|705|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|48|705|<span class="rank-name-dl">後藤（本物）</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|50|704|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|51|701|<span class="rank-name-dl">ライトニング後藤</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|52|697|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|53|695|<span class="rank-name-dl">ちぇき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|54|694|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|55|691|<span class="rank-name-dl">竹藪伊織</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|56|690|<span class="rank-name-dl">HIDEKIN A.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|57|689|<span class="rank-name-dl">斉藤　和彦</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|58|684|<span class="rank-name-dl">海哉</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|59|681|<span class="rank-name-dl">池田 輝</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|60|680|<span class="rank-name-dl">NO NAME 9873</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|61|672|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|62|668|<span class="rank-name-dl">曉組　ハルコム</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|63|664|<span class="rank-name-dl">S.YMAMA.J-h</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|64|663|<span class="rank-name-dl">maRu a.k.a FO</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|64|663|<span class="rank-name-dl">。。。</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|66|659|<span class="rank-name-dl">ゆーた</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|66|659|<span class="rank-name-dl">ピエロ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|68|658|<span class="rank-name-dl">OKA</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|68|658|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|70|652|<span class="rank-name-dl">ASHIKAGA</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|71|646|<span class="rank-name-dl">むらかみくん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|72|636|<span class="rank-name-dl">ﾏﾘﾘﾝﾓﾝﾛｰA.</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|73|631|<span class="rank-name-dl">HIDE【A.】</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|74|626|<span class="rank-name-dl">AmeApremium</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|75|624|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|76|623|<span class="rank-name-dl">osakeman</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|77|622|<span class="rank-name-dl">ポテトL@osakeman</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|78|621|<span class="rank-name-dl">リンダマン</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|79|619|<span class="rank-name-dl">FCUPてっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|80|616|<span class="rank-name-dl">A．green tea</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|81|614|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|82|611|<span class="rank-name-dl">ちーばくん</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|82|611|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|84|610|<span class="rank-name-dl">しゅう</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|85|599|<span class="rank-name-dl">村神様</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|86|597|<span class="rank-name-dl">Ryuki_B</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|87|593|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|87|593|<span class="rank-name-dl">曉組 ばーつー</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|89|579|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|90|576|<span class="rank-name-dl">まっちょ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|91|567|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|92|561|<span class="rank-name-dl">海翔</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|93|556|<span class="rank-name-dl">kogepan</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|94|552|<span class="rank-name-dl">サヨノネイチヤ</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|95|548|<span class="rank-name-dl">リクサスグッチA.</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|96|538|<span class="rank-name-dl">とと</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|97|537|<span class="rank-name-dl">山崎</span>|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|98|533|<span class="rank-name-dl">えと</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|99|532|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|100|525|<span class="rank-name-dl">りゅーちん</span>|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 
 
 #### PHOENIXDARTS TOP 100

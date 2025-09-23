@@ -28,7 +28,7 @@ ___
 |3|1043|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤 勇紀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |4|1014|<span class="rank-name-dl">目玉のサブ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |5|1003|<span class="rank-name-dl">NO NAME 7815</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|6|989|<span class="rank-name-dl">*cOara*ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|6|989|<span class="rank-name-dl">*cOara*ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |7|977|<span class="rank-name-dl">CAT Card</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |8|967|<span class="rank-name-pd">ZERO-HRS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |8|967|<span class="rank-name-dl">ぶーしー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
@@ -49,80 +49,80 @@ ___
 |24|888|<span class="rank-name-pd">[LINE] CHOCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |24|888|<span class="rank-name-dl">リヒター@=TSD=</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |26|886|<span class="rank-name-dl">まひ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|27|878|<span class="rank-name-dl">091</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|27|878|<span class="rank-name-dl">091</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |28|869|<span class="rank-name-dl">たっくん【POP】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |29|867|<span class="rank-name-pd">モリゾー2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|30|861|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|31|859|<span class="rank-name-dl">ナベ＠社長</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|32|857|<span class="rank-name-pd">Igarashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|32|857|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙橋 柊人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|34|856|<span class="rank-name-dl">みさお</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|34|856|<span class="rank-name-pd">五十嵐大和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|36|853|<span class="rank-name-dl">ごく∞Bamboo21th</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|37|846|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|38|844|<span class="rank-name-pd">ISHISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|39|837|<span class="rank-name-dl">りょつぺ-適投會</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|40|834|<span class="rank-name-pd">とっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|41|829|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|42|828|<span class="rank-name-dl">Sin</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|43|824|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|44|823|<span class="rank-name-pd">ささき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|45|820|<span class="rank-name-pd">かず坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|46|813|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|47|805|<span class="rank-name-dl">なっぽん</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|48|804|<span class="rank-name-pd">*coara*enjoydarts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|48|804|<span class="rank-name-pd">RE:I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|50|800|<span class="rank-name-dl">ポテ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|51|799|<span class="rank-name-pd">TKY55歳@ダーツ中級者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|51|799|<span class="rank-name-dl">佐藤 勇紀</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|53|796|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|54|795|<span class="rank-name-dl">てぃのらさうるす</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|55|782|<span class="rank-name-pd">7010@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|56|776|<span class="rank-name-dl">matobasysnn</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|57|773|<span class="rank-name-dl">ケン(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|58|772|<span class="rank-name-dl">D5sh</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|59|771|<span class="rank-name-pd">ＵＭＥ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|60|767|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|61|761|<span class="rank-name-dl">まょんぬ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|62|743|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|62|743|<span class="rank-name-pd">べろりんが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|64|739|<span class="rank-name-pd">ZERO@TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|65|736|<span class="rank-name-pd">*coara*zII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|66|735|<span class="rank-name-dl">Asriel</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|66|735|<span class="rank-name-dl">Rin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|68|733|<span class="rank-name-pd">美味なつぶ貝小野っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|69|731|<span class="rank-name-pd">そさね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|69|731|<span class="rank-name-dl">彗星</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|71|729|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|72|727|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|72|727|<span class="rank-name-pd">口だけモリゾー@36歳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|74|723|<span class="rank-name-dl">初心者</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|75|722|<span class="rank-name-dl">COARA@ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|76|721|<span class="rank-name-pd">キャンチョメ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|77|720|<span class="rank-name-dl">ささき</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|78|719|<span class="rank-name-dl">ｷｬﾝﾁｮﾒ★HI㌍’s</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|79|714|<span class="rank-name-pd">えむちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|79|714|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|81|712|<span class="rank-name-dl">こまチョメ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|82|710|<span class="rank-name-pd">だてちゃん【C.A.R.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|83|707|<span class="rank-name-pd">0267_5157</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|84|703|<span class="rank-name-pd">的場しゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|85|702|<span class="rank-name-pd">なりナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|86|699|<span class="rank-name-pd">HIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|87|697|<span class="rank-name-dl">秀鬼【ＪＡＭ】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|88|688|<span class="rank-name-dl">温井敦</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|89|683|<span class="rank-name-dl">OKAZ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|90|681|<span class="rank-name-pd">KOSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|91|680|<span class="rank-name-pd">0245_3603</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|92|679|<span class="rank-name-dl">バターコーン</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|93|678|<span class="rank-name-dl">noko</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|94|676|<span class="rank-name-pd">かい（× × ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|95|670|<span class="rank-name-dl">NO NAME 6566</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|95|670|<span class="rank-name-pd">アズサ♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|97|668|<span class="rank-name-pd">モリゾー1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|98|667|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|99|666|<span class="rank-name-dl">コアラ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|100|664|<span class="rank-name-pd">HRS-W</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|30|861|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|31|857|<span class="rank-name-pd">Igarashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|31|857|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙橋 柊人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|33|856|<span class="rank-name-dl">みさお</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|33|856|<span class="rank-name-pd">五十嵐大和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|35|853|<span class="rank-name-dl">ごく∞Bamboo21th</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|36|846|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|37|844|<span class="rank-name-pd">ISHISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|38|837|<span class="rank-name-dl">りょつぺ-適投會</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|39|834|<span class="rank-name-pd">とっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|40|829|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|41|828|<span class="rank-name-dl">Sin</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|42|823|<span class="rank-name-pd">ささき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|43|820|<span class="rank-name-pd">かず坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|44|813|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|45|805|<span class="rank-name-dl">なっぽん</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|46|804|<span class="rank-name-pd">*coara*enjoydarts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|46|804|<span class="rank-name-pd">RE:I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|48|800|<span class="rank-name-dl">ポテ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|49|799|<span class="rank-name-pd">TKY55歳@ダーツ中級者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|49|799|<span class="rank-name-dl">佐藤 勇紀</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|51|796|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|52|795|<span class="rank-name-dl">てぃのらさうるす</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|53|782|<span class="rank-name-pd">7010@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|54|776|<span class="rank-name-dl">matobasysnn</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|55|773|<span class="rank-name-dl">ケン(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|56|772|<span class="rank-name-dl">D5sh</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|57|771|<span class="rank-name-pd">ＵＭＥ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|58|767|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|59|761|<span class="rank-name-dl">まょんぬ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|60|743|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|60|743|<span class="rank-name-pd">べろりんが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|62|739|<span class="rank-name-pd">ZERO@TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|63|736|<span class="rank-name-pd">*coara*zII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|64|735|<span class="rank-name-dl">Asriel</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|64|735|<span class="rank-name-dl">Rin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|66|733|<span class="rank-name-pd">美味なつぶ貝小野っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|67|731|<span class="rank-name-pd">そさね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|67|731|<span class="rank-name-dl">彗星</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|69|729|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|70|727|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|70|727|<span class="rank-name-pd">口だけモリゾー@36歳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|72|723|<span class="rank-name-dl">初心者</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|73|722|<span class="rank-name-dl">COARA@ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|74|721|<span class="rank-name-pd">キャンチョメ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|75|720|<span class="rank-name-dl">ささき</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|76|719|<span class="rank-name-dl">ｷｬﾝﾁｮﾒ★HI㌍’s</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|77|714|<span class="rank-name-pd">えむちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|77|714|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|79|712|<span class="rank-name-dl">こまチョメ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|80|710|<span class="rank-name-pd">だてちゃん【C.A.R.】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|81|707|<span class="rank-name-pd">0267_5157</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|82|703|<span class="rank-name-pd">的場しゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|83|702|<span class="rank-name-pd">なりナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|84|699|<span class="rank-name-pd">HIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|85|697|<span class="rank-name-dl">秀鬼【ＪＡＭ】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|86|688|<span class="rank-name-dl">温井敦</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|87|683|<span class="rank-name-dl">OKAZ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|88|681|<span class="rank-name-pd">KOSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|89|680|<span class="rank-name-pd">0245_3603</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|90|679|<span class="rank-name-dl">バターコーン</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|91|678|<span class="rank-name-dl">noko</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|92|676|<span class="rank-name-pd">かい（× × ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|93|670|<span class="rank-name-dl">NO NAME 6566</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|93|670|<span class="rank-name-pd">アズサ♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|95|668|<span class="rank-name-pd">モリゾー1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|96|667|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|97|666|<span class="rank-name-dl">コアラ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|98|664|<span class="rank-name-pd">HRS-W</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|99|661|<span class="rank-name-pd">POP CORN【CLUB POP】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|99|661|<span class="rank-name-pd">らいきり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64728?s_seq=64728">アミューズメントバーZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1045|<span class="rank-name-dl">ず～みん(*･ω･)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |2|1014|<span class="rank-name-dl">目玉のサブ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |3|1003|<span class="rank-name-dl">NO NAME 7815</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|4|989|<span class="rank-name-dl">*cOara*ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|4|989|<span class="rank-name-dl">*cOara*ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |5|977|<span class="rank-name-dl">CAT Card</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |6|967|<span class="rank-name-dl">ぶーしー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |7|944|<span class="rank-name-dl">迷子プレイヤー</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
@@ -148,82 +148,73 @@ ___
 |14|902|<span class="rank-name-dl">ホリ氏≠G-SQ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |15|888|<span class="rank-name-dl">リヒター@=TSD=</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |16|886|<span class="rank-name-dl">まひ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|17|878|<span class="rank-name-dl">091</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|17|878|<span class="rank-name-dl">091</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 |18|869|<span class="rank-name-dl">たっくん【POP】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|19|861|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|20|859|<span class="rank-name-dl">ナベ＠社長</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|21|856|<span class="rank-name-dl">みさお</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|22|853|<span class="rank-name-dl">ごく∞Bamboo21th</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|23|846|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|24|837|<span class="rank-name-dl">りょつぺ-適投會</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|25|829|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|26|828|<span class="rank-name-dl">Sin</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|27|824|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|28|813|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|29|805|<span class="rank-name-dl">なっぽん</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|30|800|<span class="rank-name-dl">ポテ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|31|799|<span class="rank-name-dl">佐藤 勇紀</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|32|796|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|33|795|<span class="rank-name-dl">てぃのらさうるす</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|34|776|<span class="rank-name-dl">matobasysnn</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|35|773|<span class="rank-name-dl">ケン(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|36|772|<span class="rank-name-dl">D5sh</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|37|767|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店 コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|38|761|<span class="rank-name-dl">まょんぬ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|39|735|<span class="rank-name-dl">Asriel</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|39|735|<span class="rank-name-dl">Rin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|41|731|<span class="rank-name-dl">彗星</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|42|723|<span class="rank-name-dl">初心者</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|43|722|<span class="rank-name-dl">COARA@ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|44|720|<span class="rank-name-dl">ささき</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|45|719|<span class="rank-name-dl">ｷｬﾝﾁｮﾒ★HI㌍’s</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|46|714|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|47|712|<span class="rank-name-dl">こまチョメ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|48|697|<span class="rank-name-dl">秀鬼【ＪＡＭ】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|49|688|<span class="rank-name-dl">温井敦</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|50|683|<span class="rank-name-dl">OKAZ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|51|679|<span class="rank-name-dl">バターコーン</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|52|678|<span class="rank-name-dl">noko</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|53|670|<span class="rank-name-dl">NO NAME 6566</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|54|667|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|55|666|<span class="rank-name-dl">コアラ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|56|646|<span class="rank-name-dl">KAZUKICHI</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|57|644|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|58|643|<span class="rank-name-dl">たまごボーロ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|59|642|<span class="rank-name-dl">Mちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|60|639|<span class="rank-name-dl">OKAZ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|61|626|<span class="rank-name-dl">歯周病@尊師★</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|62|625|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|63|624|<span class="rank-name-dl">amaken</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|64|621|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|65|620|<span class="rank-name-dl">なりナリ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|66|614|<span class="rank-name-dl">Ring-kai</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|67|608|<span class="rank-name-dl">ASH</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|68|605|<span class="rank-name-dl">せな@Link本川越</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|69|603|<span class="rank-name-dl">えむちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|70|594|<span class="rank-name-dl">じょせふぃ～ぬ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|71|584|<span class="rank-name-dl">たまうぉ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|72|576|<span class="rank-name-dl">Y*ami</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|73|574|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|74|552|<span class="rank-name-dl">OMEGu</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|75|550|<span class="rank-name-dl">おーしょー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|76|544|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|77|541|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|78|539|<span class="rank-name-dl">CHANHARU</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|79|533|<span class="rank-name-dl">小野っち</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|80|523|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|81|522|<span class="rank-name-dl">バターコーン</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|82|520|<span class="rank-name-dl">miku</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|83|511|<span class="rank-name-dl">CHANHARU</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|84|504|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|85|444|<span class="rank-name-dl">TAK</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|86|441|<span class="rank-name-dl">NO NAME 6039</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|87|438|<span class="rank-name-dl">くるち</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|88|418|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|89|403|<span class="rank-name-dl">かなまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|90|384|<span class="rank-name-dl">STYLE×CRYSTAL</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|91|383|<span class="rank-name-dl">SUPER REGENT</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
-|92|282|<span class="rank-name-dl">迷える名人</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|19|861|<span class="rank-name-dl">鯵SAND.</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|20|856|<span class="rank-name-dl">みさお</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|21|853|<span class="rank-name-dl">ごく∞Bamboo21th</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|22|846|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|23|837|<span class="rank-name-dl">りょつぺ-適投會</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|24|829|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|25|828|<span class="rank-name-dl">Sin</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|26|813|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|27|805|<span class="rank-name-dl">なっぽん</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|28|800|<span class="rank-name-dl">ポテ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|29|799|<span class="rank-name-dl">佐藤 勇紀</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|30|796|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|31|795|<span class="rank-name-dl">てぃのらさうるす</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|32|776|<span class="rank-name-dl">matobasysnn</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|33|773|<span class="rank-name-dl">ケン(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|34|772|<span class="rank-name-dl">D5sh</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|35|767|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|36|761|<span class="rank-name-dl">まょんぬ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|37|735|<span class="rank-name-dl">Asriel</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|37|735|<span class="rank-name-dl">Rin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|39|731|<span class="rank-name-dl">彗星</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|40|723|<span class="rank-name-dl">初心者</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|41|722|<span class="rank-name-dl">COARA@ZⅡ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|42|720|<span class="rank-name-dl">ささき</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|43|719|<span class="rank-name-dl">ｷｬﾝﾁｮﾒ★HI㌍’s</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|44|714|<span class="rank-name-dl">なみ【K】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|45|712|<span class="rank-name-dl">こまチョメ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|46|697|<span class="rank-name-dl">秀鬼【ＪＡＭ】</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|47|688|<span class="rank-name-dl">温井敦</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|48|683|<span class="rank-name-dl">OKAZ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|49|679|<span class="rank-name-dl">バターコーン</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|50|678|<span class="rank-name-dl">noko</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|51|670|<span class="rank-name-dl">NO NAME 6566</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|52|667|<span class="rank-name-dl">7010@</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|53|666|<span class="rank-name-dl">コアラ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|54|644|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|55|643|<span class="rank-name-dl">たまごボーロ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|56|642|<span class="rank-name-dl">Mちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|57|626|<span class="rank-name-dl">歯周病@尊師★</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|58|625|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|59|624|<span class="rank-name-dl">amaken</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|60|621|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|61|620|<span class="rank-name-dl">なりナリ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|62|614|<span class="rank-name-dl">Ring-kai</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|63|608|<span class="rank-name-dl">ASH</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|64|605|<span class="rank-name-dl">せな@Link本川越</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|65|603|<span class="rank-name-dl">えむちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|66|594|<span class="rank-name-dl">じょせふぃ～ぬ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|67|584|<span class="rank-name-dl">たまうぉ</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|68|576|<span class="rank-name-dl">Y*ami</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|69|552|<span class="rank-name-dl">OMEGu</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|70|550|<span class="rank-name-dl">おーしょー</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|71|544|<span class="rank-name-dl">こうゆし</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|72|541|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|73|539|<span class="rank-name-dl">CHANHARU</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|74|533|<span class="rank-name-dl">小野っち</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|75|520|<span class="rank-name-dl">miku</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|76|444|<span class="rank-name-dl">TAK</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|77|441|<span class="rank-name-dl">NO NAME 6039</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|78|438|<span class="rank-name-dl">くるち</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|79|418|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|80|403|<span class="rank-name-dl">かなまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|81|384|<span class="rank-name-dl">STYLE×CRYSTAL</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|82|383|<span class="rank-name-dl">SUPER REGENT</span>|<a href="https://search.dartslive.com/jp/shop/fef7917c89d9ef7d0d9b047a20a7ba1e">Amusement bar ZERO</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
+|83|282|<span class="rank-name-dl">迷える名人</span>|<a href="https://search.dartslive.com/jp/shop/d2cd107416299c2fa3f63593b5358cc4">コミックバスター 酒田店</a>|<a href="/darts/rank/山形県/酒田市">山形県酒田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

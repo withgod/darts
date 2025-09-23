@@ -27,177 +27,68 @@ ___
 |2|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |3|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |4|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|5|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|5|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |6|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |7|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |8|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |9|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|10|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|10|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |11|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|12|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|12|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |13|1053|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |14|1052|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |14|1052|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|16|1045|<span class="rank-name-dl">HIIIRO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店 カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|16|1045|<span class="rank-name-dl">HIIIRO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |17|1043|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |18|1031|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |19|1020|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |20|1019|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|21|1015|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |21|1015|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|23|1009|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|24|1006|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|25|1004|<span class="rank-name-dl">最所ﾏﾝ@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|25|1004|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|27|1001|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|27|1001|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|29|1000|<span class="rank-name-dl">ぼすとん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|29|1000|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|31|980|<span class="rank-name-dl">高橋 芽生</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|32|976|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|33|975|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|34|970|<span class="rank-name-dl">R-KEY</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|35|968|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">すぎ。</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|39|966|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|39|966|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|41|965|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|42|964|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|43|962|<span class="rank-name-pd">くまださん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|43|962|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|45|959|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|45|959|<span class="rank-name-dl">Made in BR MASA</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|45|959|<span class="rank-name-dl">高橋 芽生【DMC】</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|48|958|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店 カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|48|958|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|50|955|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|50|955|<span class="rank-name-dl">安井 映良</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|52|952|<span class="rank-name-pd">ぼー_:(´ཀ`」 ∠):</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|52|952|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|54|951|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|55|949|<span class="rank-name-dl">くろまる</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|56|945|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|57|942|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|57|942|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|59|940|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|59|940|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|61|939|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|62|936|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|63|934|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|63|934|<span class="rank-name-dl">伶太</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|65|933|<span class="rank-name-dl">島袋　まさとし</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|66|930|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|66|930|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|68|928|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|68|928|<span class="rank-name-pd">くまださん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83818?s_seq=83818">PlayGarden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|70|926|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|70|926|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|70|926|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|73|924|<span class="rank-name-dl">to/to@SMILE-EYE-</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|74|923|<span class="rank-name-dl">かずまっち</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|74|923|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|76|922|<span class="rank-name-dl">しかﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|77|921|<span class="rank-name-dl">POPO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|78|920|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|79|919|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|80|917|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|81|915|<span class="rank-name-dl">Lewy</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|82|913|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|82|913|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|84|912|<span class="rank-name-dl">うのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|85|911|<span class="rank-name-pd">ヤンバル原人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|86|910|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|86|910|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|88|909|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|89|907|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|90|906|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|91|904|<span class="rank-name-dl">Nova Open!</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|91|904|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|93|900|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|899|<span class="rank-name-dl">KANEKO☆T</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|899|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|899|<span class="rank-name-pd">ｺｳｼﾞｮｳﾁｮｳ(^_^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76815?s_seq=76815">JOYJOY 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|97|892|<span class="rank-name-dl">江口栄作@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|98|889|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|99|888|<span class="rank-name-dl">Keiichi.</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|99|888|<span class="rank-name-dl">じゃがりコータ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-
-
-#### DARTSLIVE TOP 100
-
-
-
-{:.table-ranking}
-|#|スコア|名前|店名|所在地|
-|---|---|---|---|---|
-|1|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|2|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|3|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|4|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|5|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|6|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|7|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|8|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|9|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|10|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|11|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|12|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|13|1053|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|14|1052|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|14|1052|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|16|1045|<span class="rank-name-dl">HIIIRO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店 カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|17|1043|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|18|1031|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|19|1020|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|20|1019|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|21|1015|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|21|1015|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|23|1009|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|24|1006|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|25|1004|<span class="rank-name-dl">最所ﾏﾝ@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|25|1004|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|27|1001|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|27|1001|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|29|1000|<span class="rank-name-dl">ぼすとん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|29|1000|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|31|980|<span class="rank-name-dl">高橋 芽生</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|32|976|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|33|975|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|34|970|<span class="rank-name-dl">R-KEY</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|35|968|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">すぎ。</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|36|967|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|39|966|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|39|966|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|41|965|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|42|964|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|43|959|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|43|959|<span class="rank-name-dl">Made in BR MASA</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|43|959|<span class="rank-name-dl">高橋 芽生【DMC】</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|46|958|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店 カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|46|958|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|48|955|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|48|955|<span class="rank-name-dl">安井 映良</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|50|952|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|51|951|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|52|949|<span class="rank-name-dl">くろまる</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|53|945|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|54|942|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|54|942|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|56|941|<span class="rank-name-dl">くまださん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|57|940|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|57|940|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|59|939|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|60|936|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|61|934|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|61|934|<span class="rank-name-dl">伶太</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|63|933|<span class="rank-name-dl">島袋　まさとし</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|64|930|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|64|930|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|66|928|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|22|1009|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|23|1006|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|24|1004|<span class="rank-name-dl">最所ﾏﾝ@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|24|1004|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1001|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1001|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|28|1000|<span class="rank-name-dl">ぼすとん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|28|1000|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|30|980|<span class="rank-name-dl">高橋 芽生</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|31|976|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|32|975|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|33|970|<span class="rank-name-dl">R-KEY</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|34|968|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">すぎ。</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|38|966|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|38|966|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|40|965|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|41|964|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|42|962|<span class="rank-name-pd">くまださん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|42|962|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|44|959|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|44|959|<span class="rank-name-dl">Made in BR MASA</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|44|959|<span class="rank-name-dl">高橋 芽生【DMC】</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|47|958|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|47|958|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|49|955|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|49|955|<span class="rank-name-dl">安井 映良</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|51|952|<span class="rank-name-pd">ぼー_:(´ཀ`」 ∠):</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|51|952|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|53|951|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|54|949|<span class="rank-name-dl">くろまる</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|55|945|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|56|942|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|56|942|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|58|940|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|58|940|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|60|939|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|61|936|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|62|934|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|62|934|<span class="rank-name-dl">伶太</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|933|<span class="rank-name-dl">島袋　まさとし</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|65|928|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|65|928|<span class="rank-name-pd">くまださん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83818?s_seq=83818">PlayGarden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |67|926|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |67|926|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |67|926|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
@@ -211,27 +102,136 @@ ___
 |77|917|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |78|915|<span class="rank-name-dl">Lewy</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |79|913|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|79|913|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|81|912|<span class="rank-name-dl">うのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|80|912|<span class="rank-name-dl">うのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|81|911|<span class="rank-name-pd">ヤンバル原人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8682?s_seq=8682">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |82|910|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |82|910|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |84|909|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |85|907|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |86|906|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|87|904|<span class="rank-name-dl">Nova Open!</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|87|904|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|87|904|<span class="rank-name-dl">Nova Open!</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|87|904|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |89|900|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|90|899|<span class="rank-name-dl">KANEKO☆T</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|90|899|<span class="rank-name-dl">KANEKO☆T</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 |90|899|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|92|892|<span class="rank-name-dl">江口栄作@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|93|889|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|888|<span class="rank-name-dl">Keiichi.</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|888|<span class="rank-name-dl">じゃがりコータ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|888|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|888|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|94|888|<span class="rank-name-dl">誠</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店 快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|99|887|<span class="rank-name-dl">HIIIRO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|99|887|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|90|899|<span class="rank-name-pd">ｺｳｼﾞｮｳﾁｮｳ(^_^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76815?s_seq=76815">JOYJOY 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|93|892|<span class="rank-name-dl">江口栄作@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|94|889|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|95|888|<span class="rank-name-dl">Keiichi.</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|95|888|<span class="rank-name-dl">じゃがりコータ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|95|888|<span class="rank-name-dl">誠</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|98|887|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|99|886|<span class="rank-name-dl">伯符@社畜</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|100|884|<span class="rank-name-dl">我高橋。[NOVA]</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|2|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|3|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|4|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|5|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|6|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|7|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|8|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|9|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|10|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|11|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|12|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|13|1053|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|14|1052|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|14|1052|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|16|1045|<span class="rank-name-dl">HIIIRO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|17|1043|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|18|1031|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|19|1020|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|20|1019|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|21|1015|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|22|1009|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|23|1006|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|24|1004|<span class="rank-name-dl">最所ﾏﾝ@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|24|1004|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1001|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1001|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|28|1000|<span class="rank-name-dl">ぼすとん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|28|1000|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|30|980|<span class="rank-name-dl">高橋 芽生</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|31|976|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|32|975|<span class="rank-name-dl">カルゴウ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|33|970|<span class="rank-name-dl">R-KEY</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|34|968|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">すぎ。</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|35|967|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|38|966|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|38|966|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|40|965|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|41|964|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|42|959|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|42|959|<span class="rank-name-dl">Made in BR MASA</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|42|959|<span class="rank-name-dl">高橋 芽生【DMC】</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|45|958|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|45|958|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|47|955|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|47|955|<span class="rank-name-dl">安井 映良</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|49|952|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|50|951|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|51|949|<span class="rank-name-dl">くろまる</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|52|945|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|53|942|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|53|942|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|55|941|<span class="rank-name-dl">くまださん</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|56|940|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|56|940|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|58|939|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|59|936|<span class="rank-name-dl">舩渡 宏昌</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|60|934|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|60|934|<span class="rank-name-dl">伶太</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|62|933|<span class="rank-name-dl">島袋　まさとし</span>|<a href="https://search.dartslive.com/jp/shop/ea9ccf71e8743287774c926eb736cb5a">BUNNY</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|63|928|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|926|<span class="rank-name-dl">すい</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|926|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|926|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|67|924|<span class="rank-name-dl">to/to@SMILE-EYE-</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|68|923|<span class="rank-name-dl">かずまっち</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|68|923|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|70|922|<span class="rank-name-dl">しかﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|71|921|<span class="rank-name-dl">POPO</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|72|920|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|73|919|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|74|917|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|75|915|<span class="rank-name-dl">Lewy</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|76|913|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|77|912|<span class="rank-name-dl">うのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|78|910|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|78|910|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|80|909|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|81|907|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|82|906|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|83|904|<span class="rank-name-dl">Nova Open!</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|83|904|<span class="rank-name-dl">ハヤト</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|85|900|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/eda29848a6a2a9b7b21333aee1bd51e4">カラオケ ジョイジョイ 大垣バイパス店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|86|899|<span class="rank-name-dl">KANEKO☆T</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|86|899|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|88|892|<span class="rank-name-dl">江口栄作@N.C.U</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|89|889|<span class="rank-name-dl">ゆきゆき</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|90|888|<span class="rank-name-dl">Keiichi.</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|90|888|<span class="rank-name-dl">じゃがりコータ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|90|888|<span class="rank-name-dl">誠</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|93|887|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|94|886|<span class="rank-name-dl">伯符@社畜</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|95|884|<span class="rank-name-dl">我高橋。[NOVA]</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|96|883|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|97|878|<span class="rank-name-dl">せいた</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|98|877|<span class="rank-name-dl">やすにぃ</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|99|876|<span class="rank-name-dl">U10</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|100|875|<span class="rank-name-dl">しんいち</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -25,17 +25,17 @@ ___
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-pd"><span class="pro-icon-pd"></span>茅根 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |2|1193|<span class="rank-name-dl">Lylian Calvez</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|3|1168|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|3|1168|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |4|1160|<span class="rank-name-dl">戦闘員やすbloom</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |5|1136|<span class="rank-name-pd">kuma WHO ｲﾝｽﾄﾗｸﾀｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68430?s_seq=68430">Who…新所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |6|1133|<span class="rank-name-pd">くま@ULTRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |6|1133|<span class="rank-name-pd">桒原 康裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |8|1132|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|9|1130|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|10|1129|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|9|1130|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|10|1129|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |11|1127|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |12|1122|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|13|1118|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1 STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|13|1118|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |14|1112|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |15|1111|<span class="rank-name-dl">T҉A҉I҉K҉I҉</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |16|1109|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
@@ -50,79 +50,79 @@ ___
 |24|1077|<span class="rank-name-pd">武田大樹@Link所沢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |24|1077|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 将太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |27|1076|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|28|1073|<span class="rank-name-dl">偽物でした。</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|29|1072|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|28|1073|<span class="rank-name-dl">偽物でした。</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|29|1072|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |30|1071|<span class="rank-name-dl">櫛引 譲 TARGET</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |31|1069|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |32|1067|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |33|1065|<span class="rank-name-dl">田中 友</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |34|1064|<span class="rank-name-dl">Paul Lim</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|34|1064|<span class="rank-name-dl">銀牙と漆虎の凉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|36|1063|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|37|1062|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|37|1062|<span class="rank-name-dl">悠太</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|39|1058|<span class="rank-name-pd">YU-TA888</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|39|1058|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|41|1057|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|41|1057|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|43|1054|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|44|1053|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|45|1051|<span class="rank-name-dl">HALKIφ(._.)</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|45|1051|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|47|1050|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|48|1049|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|48|1049|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|50|1048|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|51|1044|<span class="rank-name-dl">AO</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|52|1043|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|53|1042|<span class="rank-name-dl">NO NAME 2407</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|54|1039|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|54|1039|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|56|1036|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|57|1035|<span class="rank-name-pd">0174_4265</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|57|1035|<span class="rank-name-pd">PINTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|57|1035|<span class="rank-name-pd">クマ助@漆虎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|60|1034|<span class="rank-name-dl">きゃん太@遊酔</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|61|1029|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|62|1028|<span class="rank-name-dl">NO NAME 8375</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|63|1024|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|64|1021|<span class="rank-name-dl">trick☆star-附柳</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|65|1020|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|66|1017|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M-GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|67|1015|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1 STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|68|1014|<span class="rank-name-dl">こーん#PYRO</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|68|1014|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大川 徹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|70|1012|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|71|1011|<span class="rank-name-dl">ゆう。マイペース</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|71|1011|<span class="rank-name-pd">森山 拓海</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|71|1011|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|74|1010|<span class="rank-name-dl">こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|75|1008|<span class="rank-name-dl">yaya ハムキチ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|76|1007|<span class="rank-name-dl">がんc</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|77|1006|<span class="rank-name-pd">MANDA[TARGET]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|77|1006|<span class="rank-name-pd">栗原　祥晃　青梅ダーツ協会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|77|1006|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|80|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|81|1004|<span class="rank-name-dl">賢獄</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|82|1003|<span class="rank-name-dl">さきょう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|83|1002|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|84|1001|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|84|1001|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|86|1000|<span class="rank-name-pd">中山 龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68430?s_seq=68430">Who…新所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|87|989|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|87|989|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|89|987|<span class="rank-name-dl">Gakky!!</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|90|981|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|91|980|<span class="rank-name-dl">激かなり田中</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|92|977|<span class="rank-name-dl">所沢のゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|93|975|<span class="rank-name-pd">くま@ULTRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|94|972|<span class="rank-name-dl">нао</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|95|971|<span class="rank-name-dl">R.D.S.×あきな</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|95|971|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|97|970|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|98|969|<span class="rank-name-dl">ゔぁれさん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|99|968|<span class="rank-name-pd">こーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|99|968|<span class="rank-name-pd">もーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|34|1064|<span class="rank-name-dl">銀牙と漆虎の凉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|36|1062|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|36|1062|<span class="rank-name-dl">悠太</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|38|1058|<span class="rank-name-pd">YU-TA888</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|38|1058|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|40|1057|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|40|1057|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|42|1054|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|43|1053|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|44|1051|<span class="rank-name-dl">HALKIφ(._.)</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|44|1051|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|46|1049|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|46|1049|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|48|1048|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|49|1044|<span class="rank-name-dl">AO</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|50|1043|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|51|1042|<span class="rank-name-dl">NO NAME 2407</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|52|1039|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|52|1039|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|54|1036|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|55|1035|<span class="rank-name-pd">0174_4265</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|55|1035|<span class="rank-name-pd">PINTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|55|1035|<span class="rank-name-pd">クマ助@漆虎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|58|1034|<span class="rank-name-dl">きゃん太@遊酔</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|59|1029|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|60|1028|<span class="rank-name-dl">NO NAME 8375</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|61|1024|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|62|1021|<span class="rank-name-dl">trick☆star-附柳</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|63|1020|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|64|1017|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M-GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|65|1015|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|66|1014|<span class="rank-name-dl">こーん#PYRO</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|66|1014|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大川 徹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|68|1011|<span class="rank-name-dl">ゆう。マイペース</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|68|1011|<span class="rank-name-pd">森山 拓海</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|70|1010|<span class="rank-name-dl">こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|71|1008|<span class="rank-name-dl">yaya ハムキチ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|72|1007|<span class="rank-name-dl">がんc</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|73|1006|<span class="rank-name-pd">MANDA[TARGET]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|73|1006|<span class="rank-name-pd">栗原　祥晃　青梅ダーツ協会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|73|1006|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|76|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|77|1004|<span class="rank-name-dl">賢獄</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|78|1003|<span class="rank-name-dl">さきょう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|79|1002|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|80|1001|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|80|1001|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|82|1000|<span class="rank-name-pd">中山 龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68430?s_seq=68430">Who…新所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|83|989|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|83|989|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|85|987|<span class="rank-name-dl">Gakky!!</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|86|980|<span class="rank-name-dl">激かなり田中</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|87|977|<span class="rank-name-dl">所沢のゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|88|975|<span class="rank-name-pd">くま@ULTRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|89|972|<span class="rank-name-dl">нао</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|90|971|<span class="rank-name-dl">R.D.S.×あきな</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|90|971|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|92|970|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|93|969|<span class="rank-name-dl">ゔぁれさん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|94|968|<span class="rank-name-pd">こーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8614?s_seq=8614">バグース 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|94|968|<span class="rank-name-pd">もーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|94|968|<span class="rank-name-pd">閃光のアサウェイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|97|967|<span class="rank-name-pd">がーちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49398?s_seq=49398">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|97|967|<span class="rank-name-dl">さとる@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|97|967|<span class="rank-name-dl">やまだ さとし</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|100|966|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 将太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68430?s_seq=68430">Who…新所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,14 +133,14 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1193|<span class="rank-name-dl">Lylian Calvez</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|2|1168|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|2|1168|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |3|1160|<span class="rank-name-dl">戦闘員やすbloom</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |4|1132|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|5|1130|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|6|1129|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|5|1130|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|6|1129|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |7|1127|<span class="rank-name-dl">音色</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |8|1122|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|9|1118|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1 STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|9|1118|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |10|1112|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |11|1111|<span class="rank-name-dl">T҉A҉I҉K҉I҉</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |12|1109|<span class="rank-name-dl">まーおー</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
@@ -150,88 +150,88 @@ ___
 |16|1088|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |17|1077|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |18|1076|<span class="rank-name-dl">白川 一彦</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|19|1073|<span class="rank-name-dl">偽物でした。</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|20|1072|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|19|1073|<span class="rank-name-dl">偽物でした。</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|20|1072|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |21|1071|<span class="rank-name-dl">櫛引 譲 TARGET</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |22|1069|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |23|1067|<span class="rank-name-dl">鈴木　将太</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |24|1065|<span class="rank-name-dl">田中 友</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 |25|1064|<span class="rank-name-dl">Paul Lim</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|25|1064|<span class="rank-name-dl">銀牙と漆虎の凉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|27|1063|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|28|1062|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|28|1062|<span class="rank-name-dl">悠太</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|30|1058|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|31|1057|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|31|1057|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|33|1054|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|34|1053|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|35|1051|<span class="rank-name-dl">HALKIφ(._.)</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|35|1051|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|37|1050|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|38|1049|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|38|1049|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|40|1048|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|41|1044|<span class="rank-name-dl">AO</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|42|1043|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|43|1042|<span class="rank-name-dl">NO NAME 2407</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|44|1039|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|44|1039|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|46|1036|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|47|1034|<span class="rank-name-dl">きゃん太@遊酔</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|48|1029|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|49|1028|<span class="rank-name-dl">NO NAME 8375</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|50|1024|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|51|1021|<span class="rank-name-dl">trick☆star-附柳</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|52|1020|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|53|1017|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M-GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|54|1015|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1 STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|55|1014|<span class="rank-name-dl">こーん#PYRO</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|56|1012|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|57|1011|<span class="rank-name-dl">ゆう。マイペース</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|57|1011|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|59|1010|<span class="rank-name-dl">こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|60|1008|<span class="rank-name-dl">yaya ハムキチ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|61|1007|<span class="rank-name-dl">がんc</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|62|1006|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|63|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|64|1004|<span class="rank-name-dl">賢獄</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|65|1003|<span class="rank-name-dl">さきょう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|66|1002|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|67|1001|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|67|1001|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|69|989|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|69|989|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|71|987|<span class="rank-name-dl">Gakky!!</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|72|981|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢 BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|73|980|<span class="rank-name-dl">激かなり田中</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|74|977|<span class="rank-name-dl">所沢のゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|75|972|<span class="rank-name-dl">нао</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|76|971|<span class="rank-name-dl">R.D.S.×あきな</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|77|970|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|78|969|<span class="rank-name-dl">ゔぁれさん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|79|967|<span class="rank-name-dl">さとる@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|79|967|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店 Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|79|967|<span class="rank-name-dl">やまだ さとし</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1 STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|82|966|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|83|965|<span class="rank-name-dl">きゃん太☆遊酔☆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|84|964|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|85|962|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|85|962|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|87|961|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|87|961|<span class="rank-name-dl">ニコラス・ジイジ</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|87|961|<span class="rank-name-dl">ｱﾄﾞﾘﾌﾞ玉子～漆虎</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|90|960|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|90|960|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|90|960|<span class="rank-name-dl">戦闘員やすbloom</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|93|959|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|94|958|<span class="rank-name-dl">ぐー</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|95|957|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|96|955|<span class="rank-name-dl">yuto●風琉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|96|955|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|98|951|<span class="rank-name-dl">kenサブ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|98|951|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
-|100|948|<span class="rank-name-dl">SAT</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|25|1064|<span class="rank-name-dl">銀牙と漆虎の凉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|27|1062|<span class="rank-name-dl">Re:I</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|27|1062|<span class="rank-name-dl">悠太</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|29|1058|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|30|1057|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|30|1057|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|32|1054|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|33|1053|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|34|1051|<span class="rank-name-dl">HALKIφ(._.)</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|34|1051|<span class="rank-name-dl">櫛引 譲</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|36|1049|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|36|1049|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|38|1048|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|39|1044|<span class="rank-name-dl">AO</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|40|1043|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|41|1042|<span class="rank-name-dl">NO NAME 2407</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|42|1039|<span class="rank-name-dl">うえぴー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|42|1039|<span class="rank-name-dl">ちのね</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|44|1036|<span class="rank-name-dl">武田 大樹</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|45|1034|<span class="rank-name-dl">きゃん太@遊酔</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|46|1029|<span class="rank-name-dl">長濱拉麺＠ねる</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|47|1028|<span class="rank-name-dl">NO NAME 8375</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|48|1024|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|49|1021|<span class="rank-name-dl">trick☆star-附柳</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|50|1020|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|51|1017|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M-GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|52|1015|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|53|1014|<span class="rank-name-dl">こーん#PYRO</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|54|1011|<span class="rank-name-dl">ゆう。マイペース</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|55|1010|<span class="rank-name-dl">こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|56|1008|<span class="rank-name-dl">yaya ハムキチ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|57|1007|<span class="rank-name-dl">がんc</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|58|1006|<span class="rank-name-dl">米田 有人</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|59|1005|<span class="rank-name-dl">田中 友@こーん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|60|1004|<span class="rank-name-dl">賢獄</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|61|1003|<span class="rank-name-dl">さきょう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|62|1002|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|63|1001|<span class="rank-name-dl">PINTA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|63|1001|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|65|989|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|65|989|<span class="rank-name-dl">岩本 凌空</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|67|987|<span class="rank-name-dl">Gakky!!</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|68|980|<span class="rank-name-dl">激かなり田中</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|69|977|<span class="rank-name-dl">所沢のゆう</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|70|972|<span class="rank-name-dl">нао</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|71|971|<span class="rank-name-dl">R.D.S.×あきな</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|72|970|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|73|969|<span class="rank-name-dl">ゔぁれさん</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|74|967|<span class="rank-name-dl">さとる@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|74|967|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|74|967|<span class="rank-name-dl">やまだ さとし</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|77|965|<span class="rank-name-dl">きゃん太☆遊酔☆</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|78|964|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|79|962|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|80|961|<span class="rank-name-dl">Do</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|80|961|<span class="rank-name-dl">ニコラス・ジイジ</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|80|961|<span class="rank-name-dl">ｱﾄﾞﾘﾌﾞ玉子～漆虎</span>|<a href="https://search.dartslive.com/jp/shop/27bb85586af0652f0d9b047a20a7ba1e">Bar Jinbei</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|83|960|<span class="rank-name-dl">けん弍</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|83|960|<span class="rank-name-dl">ちゃそULTRA</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|85|959|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M‐GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|86|958|<span class="rank-name-dl">ぐー</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|87|957|<span class="rank-name-dl">J（隼）</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|88|955|<span class="rank-name-dl">yuto●風琉</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|88|955|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|90|951|<span class="rank-name-dl">kenサブ</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|90|951|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|92|948|<span class="rank-name-dl">SAT</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">カラオケマック所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|93|945|<span class="rank-name-dl">akito#風琉#</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|93|945|<span class="rank-name-dl">ponでKAKU&quot;RA</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|95|943|<span class="rank-name-dl">あーく</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|95|943|<span class="rank-name-dl">えりえり</span>|<a href="https://search.dartslive.com/jp/shop/6841c7ae76dd46f40d9b047a20a7ba1e">Link 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|97|938|<span class="rank-name-dl">こがんぬ所沢遊酔</span>|<a href="https://search.dartslive.com/jp/shop/7aa1eebc5e00bbc128032249b44395af">M-GARAGE 所沢店</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|98|937|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/36c7902c2e1072d60d9b047a20a7ba1e">BAGUS-バグース-所沢</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|99|936|<span class="rank-name-dl">アマリ</span>|<a href="https://search.dartslive.com/jp/shop/9fe49ac33fa237730d9b047a20a7ba1e">STARROW 1</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
+|100|935|<span class="rank-name-dl">fu3</span>|<a href="https://search.dartslive.com/jp/shop/f4ea5409104f0b900d9b047a20a7ba1e">bloom</a>|<a href="/darts/rank/埼玉県/所沢市">埼玉県所沢市</a>|
 
 
 #### PHOENIXDARTS TOP 100

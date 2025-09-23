@@ -32,97 +32,97 @@ ___
 |7|1089|<span class="rank-name-dl">中澤 海吏</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |8|1088|<span class="rank-name-pd">nori(o･ω･)v-~☆Dart恭友會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |9|1055|<span class="rank-name-pd">JIGEN6515</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|10|1051|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|11|1049|<span class="rank-name-dl">Yu→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|11|1049|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|11|1049|<span class="rank-name-dl">Υаsu×up&#x27;s∮</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|14|1043|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|14|1043|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|16|1040|<span class="rank-name-dl">nori(o･ω･)v-~</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|16|1040|<span class="rank-name-dl">コージ@ﾌﾟﾚｲｼｬｽ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|18|1032|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|18|1032|<span class="rank-name-dl">ライム</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|20|1022|<span class="rank-name-pd">こーちん☆Indies69cafe☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|21|1021|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|22|1014|<span class="rank-name-pd">ヤマD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|23|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>金井 智史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|24|1011|<span class="rank-name-dl">おーしま</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|24|1011|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|26|1008|<span class="rank-name-pd">☆☆☆☆☆☆★rsk</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|27|1006|<span class="rank-name-dl">T3rry.</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|27|1006|<span class="rank-name-pd">Yu→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|27|1006|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|30|1004|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|31|1000|<span class="rank-name-pd">永井 信也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|32|990|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|33|986|<span class="rank-name-dl">こーいっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|34|983|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|35|976|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|36|971|<span class="rank-name-pd">wata</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|37|970|<span class="rank-name-dl">飛翔</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|38|969|<span class="rank-name-pd">PINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|38|969|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|40|967|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|41|965|<span class="rank-name-pd">J助@Up,s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|41|965|<span class="rank-name-dl">怪獣9号</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|43|963|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|44|962|<span class="rank-name-dl">山本 准平</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|45|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>篠原 輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|46|960|<span class="rank-name-pd">T3rry.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|46|960|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|48|959|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|49|958|<span class="rank-name-pd">KON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|49|958|<span class="rank-name-dl">WOLVERINE</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|49|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 大祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|52|957|<span class="rank-name-dl">さやねUP&#x27;sおぢや</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|53|955|<span class="rank-name-dl">Og@柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|53|955|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|53|955|<span class="rank-name-pd">小山 晃司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|56|954|<span class="rank-name-dl">髙橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|57|952|<span class="rank-name-pd">こーちん☆Indies69cafe☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|58|950|<span class="rank-name-dl">kzm</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|59|946|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|59|946|<span class="rank-name-dl">sut</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|61|945|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|62|944|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|62|944|<span class="rank-name-pd">武藤 留美</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|64|943|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|65|942|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山田 響生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|66|941|<span class="rank-name-dl">☆☆☆☆☆★rsk</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|67|938|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|68|936|<span class="rank-name-dl">おち</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|69|935|<span class="rank-name-dl">M∀go$hi¢hI</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|69|935|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|71|932|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|71|932|<span class="rank-name-pd">コウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|73|929|<span class="rank-name-dl">ヤマD</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|74|928|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今 稔樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|75|924|<span class="rank-name-pd">TAKE 14</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|76|923|<span class="rank-name-dl">木公♯氵羊—</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|77|921|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|77|921|<span class="rank-name-dl">よーじろーⅠ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|77|921|<span class="rank-name-pd"><span class="pro-icon-pd"></span>五十嵐 翔馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|80|918|<span class="rank-name-pd">JIGEN6515</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|81|917|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|81|917|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|81|917|<span class="rank-name-pd">タカハシ ツバサ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|84|915|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91716?s_seq=91716">CRAZY PIERROT</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|85|914|<span class="rank-name-dl">つっちー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|85|914|<span class="rank-name-dl">無職37歳男性</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|87|911|<span class="rank-name-pd">まんまる@REVEL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|88|910|<span class="rank-name-dl">坂井　コージ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|89|909|<span class="rank-name-pd">カエルらっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|90|908|<span class="rank-name-dl">高橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|91|906|<span class="rank-name-dl">しげ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|91|906|<span class="rank-name-dl">スケキヨ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|93|905|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|94|903|<span class="rank-name-dl">♂のギア=4.33</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|95|902|<span class="rank-name-pd">Mickey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|95|902|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|97|901|<span class="rank-name-dl">Hitman&#x27;s Rodeo充</span>|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|98|895|<span class="rank-name-dl">ゆ759</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|99|893|<span class="rank-name-dl">☆ITS&#x27;KING☆</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|100|891|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|10|1049|<span class="rank-name-dl">Yu→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|10|1049|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|10|1049|<span class="rank-name-dl">Υаsu×up&#x27;s∮</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|13|1043|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|13|1043|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|15|1040|<span class="rank-name-dl">nori(o･ω･)v-~</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|15|1040|<span class="rank-name-dl">コージ@ﾌﾟﾚｲｼｬｽ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|17|1032|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|17|1032|<span class="rank-name-dl">ライム</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|19|1022|<span class="rank-name-pd">こーちん☆Indies69cafe☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|20|1021|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|21|1014|<span class="rank-name-pd">ヤマD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|22|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>金井 智史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|23|1011|<span class="rank-name-dl">おーしま</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|23|1011|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|25|1008|<span class="rank-name-pd">☆☆☆☆☆☆★rsk</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|26|1006|<span class="rank-name-dl">T3rry.</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|26|1006|<span class="rank-name-pd">Yu→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|26|1006|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|29|1004|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|30|1000|<span class="rank-name-pd">永井 信也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|31|990|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|32|986|<span class="rank-name-dl">こーいっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|33|983|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|34|976|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|35|971|<span class="rank-name-pd">wata</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|36|970|<span class="rank-name-dl">飛翔</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|37|969|<span class="rank-name-pd">PINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|38|967|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|39|965|<span class="rank-name-pd">J助@Up,s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|39|965|<span class="rank-name-dl">怪獣9号</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|41|963|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|42|962|<span class="rank-name-dl">山本 准平</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|43|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>篠原 輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|44|960|<span class="rank-name-pd">T3rry.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|45|959|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|46|958|<span class="rank-name-pd">KON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|46|958|<span class="rank-name-dl">WOLVERINE</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|46|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 大祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|49|957|<span class="rank-name-dl">さやねUP&#x27;sおぢや</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|50|955|<span class="rank-name-dl">Og@柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|50|955|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|50|955|<span class="rank-name-pd">小山 晃司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|53|954|<span class="rank-name-dl">髙橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|54|952|<span class="rank-name-pd">こーちん☆Indies69cafe☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|55|950|<span class="rank-name-dl">kzm</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|56|946|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|56|946|<span class="rank-name-dl">sut</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|58|945|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|59|944|<span class="rank-name-pd">武藤 留美</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|60|942|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山田 響生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|61|941|<span class="rank-name-dl">☆☆☆☆☆★rsk</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|62|938|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|63|936|<span class="rank-name-dl">おち</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|64|935|<span class="rank-name-dl">M∀go$hi¢hI</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|64|935|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|66|932|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|66|932|<span class="rank-name-pd">コウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|68|929|<span class="rank-name-dl">ヤマD</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|69|928|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今 稔樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|70|924|<span class="rank-name-pd">TAKE 14</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|71|923|<span class="rank-name-dl">木公♯氵羊—</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|72|921|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|72|921|<span class="rank-name-dl">よーじろーⅠ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|72|921|<span class="rank-name-pd"><span class="pro-icon-pd"></span>五十嵐 翔馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|75|918|<span class="rank-name-pd">JIGEN6515</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|76|917|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|76|917|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|76|917|<span class="rank-name-pd">タカハシ ツバサ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96193?s_seq=96193">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|79|915|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91716?s_seq=91716">CRAZY PIERROT</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|80|914|<span class="rank-name-dl">つっちー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|80|914|<span class="rank-name-dl">無職37歳男性</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|82|911|<span class="rank-name-pd">まんまる@REVEL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|83|910|<span class="rank-name-dl">坂井　コージ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|84|909|<span class="rank-name-pd">カエルらっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|85|908|<span class="rank-name-dl">高橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|86|906|<span class="rank-name-dl">しげ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|86|906|<span class="rank-name-dl">スケキヨ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|88|905|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|89|903|<span class="rank-name-dl">♂のギア=4.33</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|90|902|<span class="rank-name-pd">Mickey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|90|902|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|92|901|<span class="rank-name-dl">Hitman&#x27;s Rodeo充</span>|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|93|895|<span class="rank-name-dl">ゆ759</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|94|893|<span class="rank-name-dl">☆ITS&#x27;KING☆</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|891|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|891|<span class="rank-name-pd">ヤマD (セパ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|97|890|<span class="rank-name-pd">GOGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|97|890|<span class="rank-name-dl">kissui@310</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|99|887|<span class="rank-name-dl">渡辺ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|100|883|<span class="rank-name-pd">おかか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8960?s_seq=8960">スペースクリエイト自遊空間燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1129|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |2|1125|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |3|1089|<span class="rank-name-dl">中澤 海吏</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|4|1051|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|5|1049|<span class="rank-name-dl">Yu→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|5|1049|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|5|1049|<span class="rank-name-dl">Υаsu×up&#x27;s∮</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|8|1043|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|8|1043|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|10|1040|<span class="rank-name-dl">nori(o･ω･)v-~</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|10|1040|<span class="rank-name-dl">コージ@ﾌﾟﾚｲｼｬｽ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|12|1032|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|12|1032|<span class="rank-name-dl">ライム</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|14|1011|<span class="rank-name-dl">おーしま</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|14|1011|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|16|1006|<span class="rank-name-dl">T3rry.</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|16|1006|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|18|1004|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|19|990|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|20|986|<span class="rank-name-dl">こーいっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|21|983|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|22|976|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|23|970|<span class="rank-name-dl">飛翔</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|24|969|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|25|967|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|26|965|<span class="rank-name-dl">怪獣9号</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|27|963|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|28|962|<span class="rank-name-dl">山本 准平</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|29|960|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|30|959|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|31|958|<span class="rank-name-dl">WOLVERINE</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|32|957|<span class="rank-name-dl">さやねUP&#x27;sおぢや</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|33|955|<span class="rank-name-dl">Og@柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|33|955|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|35|954|<span class="rank-name-dl">髙橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|36|950|<span class="rank-name-dl">kzm</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|37|946|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|37|946|<span class="rank-name-dl">sut</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|39|945|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|40|944|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|41|943|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|42|941|<span class="rank-name-dl">☆☆☆☆☆★rsk</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|43|938|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|44|936|<span class="rank-name-dl">おち</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|45|935|<span class="rank-name-dl">M∀go$hi¢hI</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|45|935|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|47|932|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|48|929|<span class="rank-name-dl">ヤマD</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|49|923|<span class="rank-name-dl">木公♯氵羊—</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|50|921|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|50|921|<span class="rank-name-dl">よーじろーⅠ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|52|917|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|52|917|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|54|914|<span class="rank-name-dl">つっちー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|54|914|<span class="rank-name-dl">無職37歳男性</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|56|910|<span class="rank-name-dl">坂井　コージ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|57|908|<span class="rank-name-dl">高橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|58|906|<span class="rank-name-dl">しげ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|58|906|<span class="rank-name-dl">スケキヨ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|60|905|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|61|903|<span class="rank-name-dl">♂のギア=4.33</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|62|902|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|63|901|<span class="rank-name-dl">Hitman&#x27;s Rodeo充</span>|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|64|895|<span class="rank-name-dl">ゆ759</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|65|893|<span class="rank-name-dl">☆ITS&#x27;KING☆</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|66|891|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店 自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|67|890|<span class="rank-name-dl">kissui@310</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|68|887|<span class="rank-name-dl">渡辺ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|69|879|<span class="rank-name-dl">酒雑魚こうた</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|70|878|<span class="rank-name-dl">減圧症陰キャ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|71|875|<span class="rank-name-dl">fumi!?</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|72|873|<span class="rank-name-dl">柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|73|869|<span class="rank-name-dl">てつBAR Precious</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|74|862|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|74|862|<span class="rank-name-dl">純冶</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|76|861|<span class="rank-name-dl">kissui@310</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|77|859|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|78|858|<span class="rank-name-dl">西郷</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|79|854|<span class="rank-name-dl">どばお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|80|853|<span class="rank-name-dl">湯沢 司</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|81|849|<span class="rank-name-dl">あんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|82|848|<span class="rank-name-dl">翼だよん。</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|83|847|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|84|845|<span class="rank-name-dl">ちゅーや</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|85|844|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|86|843|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|87|841|<span class="rank-name-dl">-BAN-</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|88|839|<span class="rank-name-dl">神条紫杏</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|89|836|<span class="rank-name-dl">EG2</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|90|831|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|91|828|<span class="rank-name-dl">S.YAMADA</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|91|828|<span class="rank-name-dl">てにこ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|93|825|<span class="rank-name-dl">fumi!?</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|93|825|<span class="rank-name-dl">土田 史弥</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|95|824|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|96|821|<span class="rank-name-dl">ちかる</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|97|820|<span class="rank-name-dl">まさ狐丸或帝滅斗</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|98|814|<span class="rank-name-dl">如月 左投げ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|99|810|<span class="rank-name-dl">sout</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|99|810|<span class="rank-name-dl">ばんない</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|4|1049|<span class="rank-name-dl">Yu→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|4|1049|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|4|1049|<span class="rank-name-dl">Υаsu×up&#x27;s∮</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|7|1043|<span class="rank-name-dl">JIGEN</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|7|1043|<span class="rank-name-dl">wata</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|9|1040|<span class="rank-name-dl">nori(o･ω･)v-~</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|9|1040|<span class="rank-name-dl">コージ@ﾌﾟﾚｲｼｬｽ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|11|1032|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|11|1032|<span class="rank-name-dl">ライム</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|13|1011|<span class="rank-name-dl">おーしま</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|13|1011|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|15|1006|<span class="rank-name-dl">T3rry.</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|15|1006|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|17|1004|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|18|990|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|19|986|<span class="rank-name-dl">こーいっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|20|983|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|21|976|<span class="rank-name-dl">わ た な べ さん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|22|970|<span class="rank-name-dl">飛翔</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|23|967|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|24|965|<span class="rank-name-dl">怪獣9号</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|25|963|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|26|962|<span class="rank-name-dl">山本 准平</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|27|959|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|28|958|<span class="rank-name-dl">WOLVERINE</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|29|957|<span class="rank-name-dl">さやねUP&#x27;sおぢや</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|30|955|<span class="rank-name-dl">Og@柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|30|955|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|32|954|<span class="rank-name-dl">髙橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|33|950|<span class="rank-name-dl">kzm</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|34|946|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|34|946|<span class="rank-name-dl">sut</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|36|945|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|37|941|<span class="rank-name-dl">☆☆☆☆☆★rsk</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|38|938|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|39|936|<span class="rank-name-dl">おち</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|40|935|<span class="rank-name-dl">M∀go$hi¢hI</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|40|935|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|42|932|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|43|929|<span class="rank-name-dl">ヤマD</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|44|923|<span class="rank-name-dl">木公♯氵羊—</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|45|921|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|45|921|<span class="rank-name-dl">よーじろーⅠ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|47|917|<span class="rank-name-dl">Og@布施 来夢</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|47|917|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|49|914|<span class="rank-name-dl">つっちー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|49|914|<span class="rank-name-dl">無職37歳男性</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|51|910|<span class="rank-name-dl">坂井　コージ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|52|908|<span class="rank-name-dl">高橋 翼</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|53|906|<span class="rank-name-dl">しげ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|53|906|<span class="rank-name-dl">スケキヨ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|55|905|<span class="rank-name-dl">こーちん</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|56|903|<span class="rank-name-dl">♂のギア=4.33</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|57|902|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|58|901|<span class="rank-name-dl">Hitman&#x27;s Rodeo充</span>|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|59|895|<span class="rank-name-dl">ゆ759</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|60|893|<span class="rank-name-dl">☆ITS&#x27;KING☆</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|61|891|<span class="rank-name-dl">みゃー</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|62|890|<span class="rank-name-dl">kissui@310</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|63|887|<span class="rank-name-dl">渡辺ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|64|879|<span class="rank-name-dl">酒雑魚こうた</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|65|878|<span class="rank-name-dl">減圧症陰キャ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|66|875|<span class="rank-name-dl">fumi!?</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|67|873|<span class="rank-name-dl">柳沼 凌大</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|68|869|<span class="rank-name-dl">てつBAR Precious</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|69|862|<span class="rank-name-dl">純冶</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|70|861|<span class="rank-name-dl">kissui@310</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|71|859|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|72|858|<span class="rank-name-dl">西郷</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|73|854|<span class="rank-name-dl">どばお</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|74|853|<span class="rank-name-dl">湯沢 司</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|75|849|<span class="rank-name-dl">あんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|76|848|<span class="rank-name-dl">翼だよん。</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|77|845|<span class="rank-name-dl">ちゅーや</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|78|844|<span class="rank-name-dl">僕は、敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|79|843|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|80|841|<span class="rank-name-dl">-BAN-</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|81|839|<span class="rank-name-dl">神条紫杏</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|82|836|<span class="rank-name-dl">EG2</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|83|831|<span class="rank-name-dl">Ru→</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|84|828|<span class="rank-name-dl">S.YAMADA</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|84|828|<span class="rank-name-dl">てにこ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|86|825|<span class="rank-name-dl">fumi!?</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|86|825|<span class="rank-name-dl">土田 史弥</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|88|824|<span class="rank-name-dl">たけ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|89|821|<span class="rank-name-dl">ちかる</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|90|820|<span class="rank-name-dl">まさ狐丸或帝滅斗</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|91|814|<span class="rank-name-dl">如月 左投げ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|92|810|<span class="rank-name-dl">sout</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|92|810|<span class="rank-name-dl">ばんない</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|92|810|<span class="rank-name-dl">ライム</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|809|<span class="rank-name-dl">taku</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|809|<span class="rank-name-dl">tetsu KMZ</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|809|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|95|809|<span class="rank-name-dl">梅しそ冷麺</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|99|807|<span class="rank-name-dl">TAKE 14</span>|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|100|800|<span class="rank-name-dl">エイじ</span>|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 
 
 #### PHOENIXDARTS TOP 100

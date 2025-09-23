@@ -26,103 +26,103 @@ ___
 |1|1163|<span class="rank-name-dl">Crayon 小真え介</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |1|1163|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |3|1159|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|4|1157|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|4|1157|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |5|1127|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |6|1126|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |6|1126|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|8|1125|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|9|1124|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|10|1123|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-pd">AICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8205?s_seq=8205">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|15|1120|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|16|1115|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|17|1111|<span class="rank-name-dl">あさみ ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店 ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|18|1107|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|18|1107|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|20|1106|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|21|1105|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|22|1104|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|23|1103|<span class="rank-name-dl">NO NAME 1719</span>|<a href="https://search.dartslive.com/jp/shop/ed82a4e36d60d3190d9b047a20a7ba1e">C.STAND上野御徒町店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|24|1100|<span class="rank-name-dl">ニキ亭★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|25|1091|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|26|1089|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|27|1086|<span class="rank-name-dl">たっぴ@swamp</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店 ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|28|1085|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|29|1080|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|29|1080|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|31|1079|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|32|1077|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|32|1077|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|32|1077|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|35|1076|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|36|1068|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店 ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|37|1067|<span class="rank-name-pd">zxcvcxz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|38|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>名越 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|39|1065|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|39|1065|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|39|1065|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8205?s_seq=8205">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|42|1063|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|43|1062|<span class="rank-name-dl">ス、スンスンです</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|43|1062|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|45|1061|<span class="rank-name-pd">KEY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|45|1061|<span class="rank-name-dl">＠ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|47|1060|<span class="rank-name-dl">TAKU@イワオ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|47|1060|<span class="rank-name-dl">寿司食べたい</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|49|1059|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|50|1058|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|51|1053|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野 BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|51|1053|<span class="rank-name-dl">たいせいくん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|53|1052|<span class="rank-name-dl">291</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|53|1052|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|53|1052|<span class="rank-name-dl">たーけーし</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|53|1052|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1051|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1051|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1051|<span class="rank-name-dl">反復亭勃っちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1051|<span class="rank-name-pd"><span class="pro-icon-pd"></span>稫富 裕麻</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1050|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1050|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1050|<span class="rank-name-pd">ヒュウガ@Grove御徒町</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93623?s_seq=93623">ビアポンバー GROVE 上野3号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|64|1049|<span class="rank-name-dl">YUKING</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|64|1049|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|66|1047|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|66|1047|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|68|1046|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|68|1046|<span class="rank-name-dl">PJ王子</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|68|1046|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|71|1045|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/da63881fe9cb39de5f9f3321c1147265">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|71|1045|<span class="rank-name-dl">猫の下僕</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|73|1044|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|73|1044|<span class="rank-name-dl">KZ@BABSTA</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|73|1044|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|76|1043|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|77|1042|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/f6b87e64c1169eb1fec1ae84bb28bd87">ダーツワン 上野駅前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|77|1042|<span class="rank-name-pd">みう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87695?s_seq=87695">ビアポンバー GROVE上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|77|1042|<span class="rank-name-dl">大人のツヨシ</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|80|1041|<span class="rank-name-pd">KIYAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|81|1040|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|81|1040|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|83|1039|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|84|1038|<span class="rank-name-dl">中村 陽晴</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|85|1037|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|85|1037|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|87|1036|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden 浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|87|1036|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|87|1036|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|90|1035|<span class="rank-name-dl">ニキティ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|91|1034|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|92|1031|<span class="rank-name-dl">★とりぞぉ★</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|92|1031|<span class="rank-name-dl">平間 一成</span>|<a href="https://search.dartslive.com/jp/shop/61a7bd20910f5ed30d9b047a20a7ba1e">AIMS</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|94|1030|<span class="rank-name-dl">No name</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|95|1028|<span class="rank-name-dl">ニキニキ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|96|1026|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|96|1026|<span class="rank-name-dl">†たちゃ†</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|96|1026|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|99|1025|<span class="rank-name-pd">木山幸彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|100|1024|<span class="rank-name-dl">おｯきく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|8|1124|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|9|1123|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-pd">AICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8205?s_seq=8205">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|14|1120|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|15|1115|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|16|1111|<span class="rank-name-dl">あさみ ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|17|1107|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|17|1107|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|19|1106|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|20|1105|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|21|1104|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|22|1103|<span class="rank-name-dl">NO NAME 1719</span>|<a href="https://search.dartslive.com/jp/shop/ed82a4e36d60d3190d9b047a20a7ba1e">C.STAND上野御徒町店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|23|1100|<span class="rank-name-dl">ニキ亭★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|24|1091|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|25|1089|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|26|1086|<span class="rank-name-dl">たっぴ@swamp</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|27|1085|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|28|1080|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|28|1080|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|30|1079|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|31|1077|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|31|1077|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|31|1077|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|34|1076|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|35|1068|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|36|1067|<span class="rank-name-pd">zxcvcxz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|37|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>名越 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|38|1065|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|38|1065|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|38|1065|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8205?s_seq=8205">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|41|1063|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|42|1062|<span class="rank-name-dl">ス、スンスンです</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|42|1062|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|44|1061|<span class="rank-name-pd">KEY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86659?s_seq=86659">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|44|1061|<span class="rank-name-dl">＠ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|46|1060|<span class="rank-name-dl">TAKU@イワオ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|46|1060|<span class="rank-name-dl">寿司食べたい</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|48|1059|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|49|1058|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|50|1053|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|50|1053|<span class="rank-name-dl">たいせいくん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|52|1052|<span class="rank-name-dl">291</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|52|1052|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|52|1052|<span class="rank-name-dl">たーけーし</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|52|1052|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1051|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1051|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1051|<span class="rank-name-dl">反復亭勃っちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1051|<span class="rank-name-pd"><span class="pro-icon-pd"></span>稫富 裕麻</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|60|1050|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|60|1050|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|60|1050|<span class="rank-name-pd">ヒュウガ@Grove御徒町</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93623?s_seq=93623">ビアポンバー GROVE 上野3号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|63|1049|<span class="rank-name-dl">YUKING</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|63|1049|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|65|1047|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|66|1046|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|66|1046|<span class="rank-name-dl">PJ王子</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|66|1046|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|69|1045|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/da63881fe9cb39de5f9f3321c1147265">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|69|1045|<span class="rank-name-dl">猫の下僕</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|71|1044|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|71|1044|<span class="rank-name-dl">KZ@BABSTA</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|71|1044|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|74|1043|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|75|1042|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/f6b87e64c1169eb1fec1ae84bb28bd87">ダーツワン 上野駅前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|75|1042|<span class="rank-name-pd">みう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87695?s_seq=87695">ビアポンバー GROVE上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|75|1042|<span class="rank-name-dl">大人のツヨシ</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|78|1041|<span class="rank-name-pd">KIYAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|79|1040|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|79|1040|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|81|1039|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|82|1038|<span class="rank-name-dl">中村 陽晴</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|83|1037|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|83|1037|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|85|1036|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden 浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|85|1036|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|85|1036|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|88|1035|<span class="rank-name-dl">ニキティ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|89|1034|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|90|1031|<span class="rank-name-dl">★とりぞぉ★</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|90|1031|<span class="rank-name-dl">平間 一成</span>|<a href="https://search.dartslive.com/jp/shop/61a7bd20910f5ed30d9b047a20a7ba1e">AIMS</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|92|1030|<span class="rank-name-dl">No name</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|93|1028|<span class="rank-name-dl">ニキニキ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|94|1026|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|94|1026|<span class="rank-name-dl">†たちゃ†</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|94|1026|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|97|1025|<span class="rank-name-pd">木山幸彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60272?s_seq=60272">Deepit Labo.Tokyo</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|98|1024|<span class="rank-name-dl">おｯきく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|98|1024|<span class="rank-name-dl">ﾔｻ愚連隊接待部長</span>|<a href="https://search.dartslive.com/jp/shop/be5352bc07bdc4d00d9b047a20a7ba1e">チャビーズ</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|100|1023|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1163|<span class="rank-name-dl">Crayon 小真え介</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |1|1163|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |3|1159|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|4|1157|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|4|1157|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |5|1127|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |6|1126|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 |6|1126|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|8|1125|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|9|1124|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|10|1123|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|11|1121|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|14|1120|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|15|1115|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|16|1111|<span class="rank-name-dl">あさみ ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店 ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|17|1107|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|17|1107|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|19|1106|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|20|1105|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|21|1104|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|22|1103|<span class="rank-name-dl">NO NAME 1719</span>|<a href="https://search.dartslive.com/jp/shop/ed82a4e36d60d3190d9b047a20a7ba1e">C.STAND上野御徒町店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|23|1100|<span class="rank-name-dl">ニキ亭★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|24|1091|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|25|1089|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|26|1086|<span class="rank-name-dl">たっぴ@swamp</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店 ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|27|1085|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|28|1080|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|28|1080|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|30|1079|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|31|1077|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|31|1077|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|31|1077|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|34|1076|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|35|1068|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店 ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|36|1065|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|36|1065|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|38|1063|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|39|1062|<span class="rank-name-dl">ス、スンスンです</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|39|1062|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|41|1061|<span class="rank-name-dl">＠ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|42|1060|<span class="rank-name-dl">TAKU@イワオ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|42|1060|<span class="rank-name-dl">寿司食べたい</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|44|1059|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|45|1058|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|46|1053|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野 BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|46|1053|<span class="rank-name-dl">たいせいくん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|48|1052|<span class="rank-name-dl">291</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|48|1052|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|48|1052|<span class="rank-name-dl">たーけーし</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|48|1052|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|52|1051|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|52|1051|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|52|1051|<span class="rank-name-dl">反復亭勃っちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|55|1050|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|55|1050|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1049|<span class="rank-name-dl">YUKING</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|57|1049|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|59|1047|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|59|1047|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1046|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1046|<span class="rank-name-dl">PJ王子</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|61|1046|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|64|1045|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/da63881fe9cb39de5f9f3321c1147265">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|64|1045|<span class="rank-name-dl">猫の下僕</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|66|1044|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|66|1044|<span class="rank-name-dl">KZ@BABSTA</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|66|1044|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|69|1043|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|70|1042|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|70|1042|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/f6b87e64c1169eb1fec1ae84bb28bd87">ダーツワン 上野駅前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|70|1042|<span class="rank-name-dl">大人のツヨシ</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|73|1040|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|73|1040|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|75|1039|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|76|1038|<span class="rank-name-dl">中村 陽晴</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|77|1037|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|77|1037|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|79|1036|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden 浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|79|1036|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|79|1036|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|82|1035|<span class="rank-name-dl">ニキティ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|83|1034|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|84|1031|<span class="rank-name-dl">★とりぞぉ★</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|84|1031|<span class="rank-name-dl">平間 一成</span>|<a href="https://search.dartslive.com/jp/shop/61a7bd20910f5ed30d9b047a20a7ba1e">AIMS</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|86|1030|<span class="rank-name-dl">No name</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|87|1028|<span class="rank-name-dl">ニキニキ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|88|1026|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店 カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|88|1026|<span class="rank-name-dl">†たちゃ†</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|88|1026|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|91|1024|<span class="rank-name-dl">おｯきく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|91|1024|<span class="rank-name-dl">ﾔｻ愚連隊接待部長</span>|<a href="https://search.dartslive.com/jp/shop/be5352bc07bdc4d00d9b047a20a7ba1e">チャビーズ</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|93|1023|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|94|1022|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|94|1022|<span class="rank-name-dl">涼☆Zenrer&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式 ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|94|1022|<span class="rank-name-dl">ＧＴＯ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|97|1020|<span class="rank-name-dl">Gendy</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|97|1020|<span class="rank-name-dl">太陽@Burst</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野 BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|99|1018|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
-|100|1017|<span class="rank-name-dl">Tの2ndステージ</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|8|1124|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|9|1123|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|10|1121|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|13|1120|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|14|1115|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|15|1111|<span class="rank-name-dl">あさみ ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|16|1107|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|16|1107|<span class="rank-name-dl">名越 圭祐 A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|18|1106|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|19|1105|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|20|1104|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|21|1103|<span class="rank-name-dl">NO NAME 1719</span>|<a href="https://search.dartslive.com/jp/shop/ed82a4e36d60d3190d9b047a20a7ba1e">C.STAND上野御徒町店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|22|1100|<span class="rank-name-dl">ニキ亭★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|23|1091|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|24|1089|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|25|1086|<span class="rank-name-dl">たっぴ@swamp</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|26|1085|<span class="rank-name-dl">社畜さん</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|27|1080|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|27|1080|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|29|1079|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|30|1077|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|30|1077|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|30|1077|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|33|1076|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|34|1068|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|35|1065|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|35|1065|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|37|1063|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|38|1062|<span class="rank-name-dl">ス、スンスンです</span>|<a href="https://search.dartslive.com/jp/shop/46dce87727d4d5ee0d9b047a20a7ba1e">スポーツカフェ　B&D</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|38|1062|<span class="rank-name-dl">名越 圭祐　AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|40|1061|<span class="rank-name-dl">＠ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|41|1060|<span class="rank-name-dl">TAKU@イワオ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|41|1060|<span class="rank-name-dl">寿司食べたい</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|43|1059|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|44|1058|<span class="rank-name-dl">加藤　和孝</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|45|1053|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|45|1053|<span class="rank-name-dl">たいせいくん</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|47|1052|<span class="rank-name-dl">291</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|47|1052|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|47|1052|<span class="rank-name-dl">たーけーし</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|47|1052|<span class="rank-name-dl">腹黒眼鏡(右</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|51|1051|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|51|1051|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|51|1051|<span class="rank-name-dl">反復亭勃っちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|54|1050|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|54|1050|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1049|<span class="rank-name-dl">YUKING</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|56|1049|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|58|1047|<span class="rank-name-dl">ちｯさく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|59|1046|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|59|1046|<span class="rank-name-dl">PJ王子</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|59|1046|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|62|1045|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/da63881fe9cb39de5f9f3321c1147265">遊びBAR べろ～家 上野広小路店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|62|1045|<span class="rank-name-dl">猫の下僕</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|64|1044|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|64|1044|<span class="rank-name-dl">KZ@BABSTA</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|64|1044|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|67|1043|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/06ce7d6da09b6cdc5f9f3321c1147265">UP上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|68|1042|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|68|1042|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/f6b87e64c1169eb1fec1ae84bb28bd87">ダーツワン 上野駅前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|68|1042|<span class="rank-name-dl">大人のツヨシ</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|71|1040|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/6a548cb7df8634300d9b047a20a7ba1e">AMERICAN GORILLA'S</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|71|1040|<span class="rank-name-dl">メイラ★24周年!</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|73|1039|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/0279d32cb494dd0a0d9b047a20a7ba1e">ダーツ&スポーツバー スリーモンキーズカフェ上野公園前店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|74|1038|<span class="rank-name-dl">中村 陽晴</span>|<a href="https://search.dartslive.com/jp/shop/7d1b697f0885a6450d9b047a20a7ba1e">Fabsta</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|75|1037|<span class="rank-name-dl">Rin.N☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|75|1037|<span class="rank-name-dl">腹黒眼鏡</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|77|1036|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden 浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|77|1036|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|77|1036|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|80|1035|<span class="rank-name-dl">ニキティ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|81|1034|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/17a8f8f90c46c9150d9b047a20a7ba1e">ダーツカフェデルタ浅草橋店(DartsCafeDELTA浅草橋店)</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|82|1031|<span class="rank-name-dl">★とりぞぉ★</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|82|1031|<span class="rank-name-dl">平間 一成</span>|<a href="https://search.dartslive.com/jp/shop/61a7bd20910f5ed30d9b047a20a7ba1e">AIMS</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|84|1030|<span class="rank-name-dl">No name</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|85|1028|<span class="rank-name-dl">ニキニキ★華矢式</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|86|1026|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|86|1026|<span class="rank-name-dl">†たちゃ†</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|86|1026|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|89|1024|<span class="rank-name-dl">おｯきく★つかだ</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|89|1024|<span class="rank-name-dl">ﾔｻ愚連隊接待部長</span>|<a href="https://search.dartslive.com/jp/shop/be5352bc07bdc4d00d9b047a20a7ba1e">チャビーズ</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|91|1023|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/ac5be316943858f0fec1ae84bb28bd87">Pool&Darts REST</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|92|1022|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/7a4fd1ced7681f77fec1ae84bb28bd87">Play Garden浅草橋東口店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|92|1022|<span class="rank-name-dl">涼☆Zenrer&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|92|1022|<span class="rank-name-dl">ＧＴＯ</span>|<a href="https://search.dartslive.com/jp/shop/fb0e2f406925476e0d9b047a20a7ba1e">ダーツ処 華矢式</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|95|1020|<span class="rank-name-dl">Gendy</span>|<a href="https://search.dartslive.com/jp/shop/4f2f159a9bcf43e90d9b047a20a7ba1e">ﾀﾞｰﾂﾊﾞｰ SWAMP 浅草橋店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|95|1020|<span class="rank-name-dl">太陽@Burst</span>|<a href="https://search.dartslive.com/jp/shop/dcab1e700d345d2b0d9b047a20a7ba1e">BAGUS-バグース-上野</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|97|1018|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/e841321c5e950d28a3f63593b5358cc4">カラオケ館 上野2号店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|98|1017|<span class="rank-name-dl">Tの2ndステージ</span>|<a href="https://search.dartslive.com/jp/shop/650a80cac9ac90b80d9b047a20a7ba1e">JACK 上野店</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|99|1016|<span class="rank-name-dl">Cyrus fun</span>|<a href="https://search.dartslive.com/jp/shop/e88c144fe26051c30d9b047a20a7ba1e">TIP-TOP DINER</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
+|99|1016|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/ef356dfb67766f850d9b047a20a7ba1e">AIMS at B</a>|<a href="/darts/rank/東京都/台東区">東京都台東区</a>|
 
 
 #### PHOENIXDARTS TOP 100

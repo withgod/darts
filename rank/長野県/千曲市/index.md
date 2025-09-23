@@ -53,76 +53,76 @@ ___
 |28|956|<span class="rank-name-dl">結城 明日花</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |29|937|<span class="rank-name-dl">すず</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |30|928|<span class="rank-name-pd">ちゃんはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|31|925|<span class="rank-name-dl">すず</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |31|925|<span class="rank-name-dl">南澤一明</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|33|924|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|33|924|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|35|923|<span class="rank-name-pd">KEIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|35|923|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|37|921|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|37|921|<span class="rank-name-dl">りょーごsun</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|39|914|<span class="rank-name-pd">よかろうざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|40|913|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|41|903|<span class="rank-name-pd">オオシロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|42|900|<span class="rank-name-pd">Q・P</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|43|899|<span class="rank-name-pd">Suzu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|43|899|<span class="rank-name-pd">瀬下   誠    Mush ＆ Room Cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|45|896|<span class="rank-name-dl">ワッシー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|46|895|<span class="rank-name-dl">怒ったクマ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|47|891|<span class="rank-name-pd">Ri…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|48|887|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|48|887|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|50|886|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|51|883|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|52|880|<span class="rank-name-dl">柊</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|53|877|<span class="rank-name-pd">BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|54|871|<span class="rank-name-pd">ラーメンゆーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|55|867|<span class="rank-name-dl">Jun-３</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|55|867|<span class="rank-name-dl">SAKURAI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|57|865|<span class="rank-name-pd">김채원</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|58|864|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|59|863|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|60|861|<span class="rank-name-pd">す～ず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|61|859|<span class="rank-name-dl">yy</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|62|857|<span class="rank-name-dl">神津 照汰</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|63|855|<span class="rank-name-dl">ラーメンゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|64|854|<span class="rank-name-dl">ns</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|64|854|<span class="rank-name-dl">南澤華帆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|64|854|<span class="rank-name-pd">古川栄貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|64|854|<span class="rank-name-dl">雪村 茉莉</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|68|853|<span class="rank-name-dl">ﾖｼｷ全然違う@YZC</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|69|852|<span class="rank-name-dl">u-1</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|70|844|<span class="rank-name-dl">らいちょう@G.S.M</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|71|842|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|72|840|<span class="rank-name-pd">NISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|73|839|<span class="rank-name-pd">ひろ◆EPISWORD－E</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|74|837|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|75|836|<span class="rank-name-dl">ひろ○○</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|76|835|<span class="rank-name-pd">古川栄貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|77|833|<span class="rank-name-dl">早川 龍稀</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|78|832|<span class="rank-name-dl">古川栄貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|78|832|<span class="rank-name-pd">早川 嶺也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|80|831|<span class="rank-name-pd">Nakamura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|81|827|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|82|826|<span class="rank-name-pd">裂 山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|83|825|<span class="rank-name-dl">ぼくです</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|84|822|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|85|821|<span class="rank-name-pd">NISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|86|817|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|87|815|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|88|814|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|89|813|<span class="rank-name-pd">KAZUKI-REVOLT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|90|811|<span class="rank-name-pd"><span class="pro-icon-pd"></span>増田 紘平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|91|806|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|92|805|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|93|799|<span class="rank-name-dl">ちゃぱ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|94|798|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|95|794|<span class="rank-name-dl">KURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|95|794|<span class="rank-name-pd">うっtinまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|97|793|<span class="rank-name-pd">早川 嶺也 lll</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|98|785|<span class="rank-name-dl">PLAYER０</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|99|784|<span class="rank-name-pd">サブカード『悠爺』</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|100|780|<span class="rank-name-pd">SAKURAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|32|924|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|32|924|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|34|923|<span class="rank-name-pd">KEIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|34|923|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|36|921|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|36|921|<span class="rank-name-dl">りょーごsun</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|38|914|<span class="rank-name-pd">よかろうざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|39|913|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|40|903|<span class="rank-name-pd">オオシロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|41|900|<span class="rank-name-pd">Q・P</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|42|899|<span class="rank-name-pd">Suzu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|42|899|<span class="rank-name-pd">瀬下   誠    Mush ＆ Room Cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|44|896|<span class="rank-name-dl">ワッシー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|45|895|<span class="rank-name-dl">怒ったクマ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|46|891|<span class="rank-name-pd">Ri…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|47|887|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|47|887|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|49|886|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|50|883|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|51|880|<span class="rank-name-dl">柊</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|52|877|<span class="rank-name-pd">BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|53|871|<span class="rank-name-pd">ラーメンゆーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|54|867|<span class="rank-name-dl">Jun-３</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|54|867|<span class="rank-name-dl">SAKURAI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|56|865|<span class="rank-name-pd">김채원</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|57|864|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|58|861|<span class="rank-name-pd">す～ず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|59|859|<span class="rank-name-dl">yy</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|60|857|<span class="rank-name-dl">神津 照汰</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|61|855|<span class="rank-name-dl">ラーメンゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|62|854|<span class="rank-name-dl">ns</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|62|854|<span class="rank-name-dl">南澤華帆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|62|854|<span class="rank-name-pd">古川栄貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|62|854|<span class="rank-name-dl">雪村 茉莉</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|66|853|<span class="rank-name-dl">ﾖｼｷ全然違う@YZC</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|67|852|<span class="rank-name-dl">u-1</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|68|844|<span class="rank-name-dl">らいちょう@G.S.M</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|69|842|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|70|840|<span class="rank-name-pd">NISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|71|839|<span class="rank-name-pd">ひろ◆EPISWORD－E</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|72|837|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|73|836|<span class="rank-name-dl">ひろ○○</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|74|835|<span class="rank-name-pd">古川栄貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|75|833|<span class="rank-name-dl">早川 龍稀</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|76|832|<span class="rank-name-pd">早川 嶺也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|77|831|<span class="rank-name-pd">Nakamura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|78|827|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|79|826|<span class="rank-name-pd">裂 山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|80|825|<span class="rank-name-dl">ぼくです</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|81|822|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|82|821|<span class="rank-name-pd">NISHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|83|817|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|84|815|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|85|814|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|86|813|<span class="rank-name-pd">KAZUKI-REVOLT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|87|811|<span class="rank-name-pd"><span class="pro-icon-pd"></span>増田 紘平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|88|806|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|89|805|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|90|799|<span class="rank-name-dl">ちゃぱ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|91|794|<span class="rank-name-dl">KURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|91|794|<span class="rank-name-pd">うっtinまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|93|793|<span class="rank-name-pd">早川 嶺也 lll</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|94|785|<span class="rank-name-dl">PLAYER０</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|95|784|<span class="rank-name-pd">サブカード『悠爺』</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|96|780|<span class="rank-name-pd">SAKURAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|97|777|<span class="rank-name-pd">UCCHI---Hooligan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|98|770|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|99|768|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|100|767|<span class="rank-name-pd">Ns</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91165?s_seq=91165">JOYJOY 千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -146,92 +146,92 @@ ___
 |12|959|<span class="rank-name-dl">竹花 侑秀</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |13|956|<span class="rank-name-dl">結城 明日花</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |14|937|<span class="rank-name-dl">すず</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|15|925|<span class="rank-name-dl">すず</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |15|925|<span class="rank-name-dl">南澤一明</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|17|924|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|18|923|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|19|921|<span class="rank-name-dl">りょーごsun</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|20|896|<span class="rank-name-dl">ワッシー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|21|895|<span class="rank-name-dl">怒ったクマ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|22|887|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|23|886|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|24|883|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|25|880|<span class="rank-name-dl">柊</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|26|867|<span class="rank-name-dl">Jun-３</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|26|867|<span class="rank-name-dl">SAKURAI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|28|864|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|29|863|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|30|859|<span class="rank-name-dl">yy</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|31|857|<span class="rank-name-dl">神津 照汰</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|32|855|<span class="rank-name-dl">ラーメンゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|33|854|<span class="rank-name-dl">ns</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|33|854|<span class="rank-name-dl">南澤華帆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|33|854|<span class="rank-name-dl">雪村 茉莉</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|36|853|<span class="rank-name-dl">ﾖｼｷ全然違う@YZC</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|37|852|<span class="rank-name-dl">u-1</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|38|844|<span class="rank-name-dl">らいちょう@G.S.M</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|39|837|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|40|836|<span class="rank-name-dl">ひろ○○</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|41|833|<span class="rank-name-dl">早川 龍稀</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|42|832|<span class="rank-name-dl">古川栄貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|43|827|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|44|825|<span class="rank-name-dl">ぼくです</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|45|822|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|46|817|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|47|814|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|48|805|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|49|799|<span class="rank-name-dl">ちゃぱ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|50|798|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|51|794|<span class="rank-name-dl">KURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|52|785|<span class="rank-name-dl">PLAYER０</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|52|785|<span class="rank-name-dl">TKYAN</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|54|771|<span class="rank-name-dl">NISHI</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|55|768|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|56|764|<span class="rank-name-dl">やさぐれたバツ丸</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|57|759|<span class="rank-name-dl">YOKO陳</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|58|749|<span class="rank-name-dl">TKYAN</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|59|746|<span class="rank-name-dl">NO NAME 8643</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|59|746|<span class="rank-name-dl">たぐ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|61|742|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|62|734|<span class="rank-name-dl">早川 嶺也 ll</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|63|729|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|63|729|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|65|727|<span class="rank-name-dl">BOSS.</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|66|726|<span class="rank-name-dl">タカシ@D2・K・R</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|67|725|<span class="rank-name-dl">NO NAME 361039²</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|68|724|<span class="rank-name-dl">つるちん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|69|712|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|70|711|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|71|710|<span class="rank-name-dl">ひろ○○</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|72|703|<span class="rank-name-dl">かーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|73|700|<span class="rank-name-dl">古川栄貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|74|699|<span class="rank-name-dl">（＾ω＾）</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|75|692|<span class="rank-name-dl">おだ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|76|686|<span class="rank-name-dl">Dice</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|77|684|<span class="rank-name-dl">ペロ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|78|679|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|79|677|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|80|672|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|81|662|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|82|658|<span class="rank-name-dl">PLAYER 1</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|83|657|<span class="rank-name-dl">だい@D-Revo</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|84|650|<span class="rank-name-dl">ｲﾊﾞﾝ・ｻﾓﾗﾉ～☆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|85|647|<span class="rank-name-dl">blue☆mountain</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|86|637|<span class="rank-name-dl">けんぴー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|87|630|<span class="rank-name-dl">ぱふぱふ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|88|627|<span class="rank-name-dl">カズ☆REVOLT</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|88|627|<span class="rank-name-dl">柴田洋行</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|90|626|<span class="rank-name-dl">Tomo.(￣∀￣)</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|91|625|<span class="rank-name-dl">マース</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|92|624|<span class="rank-name-dl">Keiz</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|92|624|<span class="rank-name-dl">NISHI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|94|622|<span class="rank-name-dl">LEXUS☠</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|95|616|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|96|610|<span class="rank-name-dl">ギョドン</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店 JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|97|600|<span class="rank-name-dl">とき</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|98|594|<span class="rank-name-dl">NO NAME 2742</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|99|585|<span class="rank-name-dl">Revo@紫炎</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|100|579|<span class="rank-name-dl">TERA</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|16|924|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|17|923|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|18|921|<span class="rank-name-dl">りょーごsun</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|19|896|<span class="rank-name-dl">ワッシー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|20|895|<span class="rank-name-dl">怒ったクマ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|21|887|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|22|886|<span class="rank-name-dl">BULL</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|23|883|<span class="rank-name-dl">KUWA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|24|880|<span class="rank-name-dl">柊</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|25|867|<span class="rank-name-dl">Jun-３</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|25|867|<span class="rank-name-dl">SAKURAI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|27|864|<span class="rank-name-dl">島谷友基</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|28|859|<span class="rank-name-dl">yy</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|29|857|<span class="rank-name-dl">神津 照汰</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|30|855|<span class="rank-name-dl">ラーメンゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|31|854|<span class="rank-name-dl">ns</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|31|854|<span class="rank-name-dl">南澤華帆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|31|854|<span class="rank-name-dl">雪村 茉莉</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|34|853|<span class="rank-name-dl">ﾖｼｷ全然違う@YZC</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|35|852|<span class="rank-name-dl">u-1</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|36|844|<span class="rank-name-dl">らいちょう@G.S.M</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|37|837|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|38|836|<span class="rank-name-dl">ひろ○○</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|39|833|<span class="rank-name-dl">早川 龍稀</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|40|827|<span class="rank-name-dl">斎藤 大貴</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|41|825|<span class="rank-name-dl">ぼくです</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|42|822|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|43|817|<span class="rank-name-dl">aska</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|44|814|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|45|805|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|46|799|<span class="rank-name-dl">ちゃぱ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|47|794|<span class="rank-name-dl">KURA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|48|785|<span class="rank-name-dl">PLAYER０</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|48|785|<span class="rank-name-dl">TKYAN</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|50|771|<span class="rank-name-dl">NISHI</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|51|768|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|52|764|<span class="rank-name-dl">やさぐれたバツ丸</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|53|759|<span class="rank-name-dl">YOKO陳</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|54|746|<span class="rank-name-dl">NO NAME 8643</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|54|746|<span class="rank-name-dl">たぐ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|56|742|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|57|734|<span class="rank-name-dl">早川 嶺也 ll</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|58|729|<span class="rank-name-dl">BOSS</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|58|729|<span class="rank-name-dl">NAKAMURA</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|60|727|<span class="rank-name-dl">BOSS.</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|61|726|<span class="rank-name-dl">タカシ@D2・K・R</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|62|725|<span class="rank-name-dl">NO NAME 361039²</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|63|724|<span class="rank-name-dl">つるちん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|64|712|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|65|711|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|66|703|<span class="rank-name-dl">かーくん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|67|700|<span class="rank-name-dl">古川栄貴</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|68|699|<span class="rank-name-dl">（＾ω＾）</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|69|692|<span class="rank-name-dl">おだ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|70|686|<span class="rank-name-dl">Dice</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|71|684|<span class="rank-name-dl">ペロ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|72|679|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|73|677|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|74|672|<span class="rank-name-dl">早川 嶺也</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|75|662|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|76|658|<span class="rank-name-dl">PLAYER 1</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|77|657|<span class="rank-name-dl">だい@D-Revo</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|78|650|<span class="rank-name-dl">ｲﾊﾞﾝ・ｻﾓﾗﾉ～☆</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|79|647|<span class="rank-name-dl">blue☆mountain</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|80|637|<span class="rank-name-dl">けんぴー</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|81|630|<span class="rank-name-dl">ぱふぱふ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|82|627|<span class="rank-name-dl">カズ☆REVOLT</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|82|627|<span class="rank-name-dl">柴田洋行</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|84|626|<span class="rank-name-dl">Tomo.(￣∀￣)</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|85|625|<span class="rank-name-dl">マース</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|86|624|<span class="rank-name-dl">Keiz</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|86|624|<span class="rank-name-dl">NISHI</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|88|622|<span class="rank-name-dl">LEXUS☠</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|89|616|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|90|610|<span class="rank-name-dl">ギョドン</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|91|600|<span class="rank-name-dl">とき</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|92|594|<span class="rank-name-dl">NO NAME 2742</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|93|585|<span class="rank-name-dl">Revo@紫炎</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|94|579|<span class="rank-name-dl">TERA</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|95|574|<span class="rank-name-dl">サンタ</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|96|572|<span class="rank-name-dl">れんれん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|97|569|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|98|566|<span class="rank-name-dl">___TAKUMI___</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|99|565|<span class="rank-name-dl">NO NAME 1234</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|99|565|<span class="rank-name-dl">ちゃんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/574e4728aeb49d6d5f9f3321c1147265">JOYJOY千曲屋代店</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 
 
 #### PHOENIXDARTS TOP 100

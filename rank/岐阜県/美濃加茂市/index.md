@@ -27,7 +27,7 @@ ___
 |2|482|<span class="rank-name-dl">NO NAME 9958</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |3|452|<span class="rank-name-dl">夏王工事中</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |4|444|<span class="rank-name-dl">♡mimi♡</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
-|5|437|<span class="rank-name-dl">ヒデ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
+|5|437|<span class="rank-name-dl">ヒデ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |6|367|<span class="rank-name-dl">モコ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |7|362|<span class="rank-name-dl">せいすいくん</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |8|344|<span class="rank-name-dl">NEXT</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
@@ -48,7 +48,7 @@ ___
 |2|482|<span class="rank-name-dl">NO NAME 9958</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |3|452|<span class="rank-name-dl">夏王工事中</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |4|444|<span class="rank-name-dl">♡mimi♡</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
-|5|437|<span class="rank-name-dl">ヒデ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
+|5|437|<span class="rank-name-dl">ヒデ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |6|367|<span class="rank-name-dl">モコ</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |7|362|<span class="rank-name-dl">せいすいくん</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|
 |8|344|<span class="rank-name-dl">NEXT</span>|<a href="https://search.dartslive.com/jp/shop/52480fe0f973f2fa58d385ea46352d8f">Fairy tail</a>|<a href="/darts/rank/岐阜県/美濃加茂市">岐阜県美濃加茂市</a>|

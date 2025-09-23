@@ -28,101 +28,101 @@ ___
 |3|1160|<span class="rank-name-dl">高田 雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |4|1151|<span class="rank-name-dl">YOSHI☆</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |5|1127|<span class="rank-name-dl">高田　雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|6|1120|<span class="rank-name-dl">Minseok Choi</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|6|1120|<span class="rank-name-dl">Minseok Choi</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |7|1113|<span class="rank-name-dl">しゅーた</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |8|1111|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|9|1102|<span class="rank-name-dl">TANG KA FAI</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座 Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|10|1100|<span class="rank-name-dl">高田 雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|11|1089|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|12|1088|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|13|1087|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|14|1084|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|15|1082|<span class="rank-name-dl">なかがわひろき</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|16|1074|<span class="rank-name-dl">マグロ(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|17|1067|<span class="rank-name-dl">yαmαshц⊿GC</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|18|1063|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|19|1058|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/fbaf8e8cecb257b5790ab824ce8730e5">ビッグエコー 八重洲本店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|19|1058|<span class="rank-name-dl">やまださとし</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|21|1056|<span class="rank-name-dl">和₍ᐢ._. ᐢ₎也</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|22|1053|<span class="rank-name-dl">福田海斗PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|23|1051|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|24|1050|<span class="rank-name-dl">つぽんぬ…。</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|25|1048|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|26|1045|<span class="rank-name-dl">やぎぬー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|27|1044|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座 Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">原田 誠和</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|31|1037|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店 B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">近代鮪(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|35|1030|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|36|1027|<span class="rank-name-dl">やちゃーん€</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|37|1022|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|38|1020|<span class="rank-name-dl">練習用</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|39|1019|<span class="rank-name-dl">Happy</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|39|1019|<span class="rank-name-dl">徐　聖博</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|41|1016|<span class="rank-name-dl">パイセン@西乃組</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|42|1015|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|43|1014|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店 ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|44|1011|<span class="rank-name-dl">Moo</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|44|1011|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|46|1010|<span class="rank-name-dl">Marky</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|47|1008|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店 Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|48|1005|<span class="rank-name-dl">PUG@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|49|1004|<span class="rank-name-dl">はD55</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店 ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">Isaac</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">ウエシマ テツヤ</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">リ ン@901-QLAY-</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|53|1002|<span class="rank-name-dl">羽田 雄心</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|53|1002|<span class="rank-name-dl">羽田 雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|55|1001|<span class="rank-name-dl">ミミンズク(鮪)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|56|1000|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|57|999|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|58|992|<span class="rank-name-dl">テッ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|59|988|<span class="rank-name-dl">だーぃ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|60|985|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|61|984|<span class="rank-name-dl">豆腐</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|62|983|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|63|982|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|64|980|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|64|980|<span class="rank-name-dl">RRR3</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|66|979|<span class="rank-name-dl">た爺</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|67|978|<span class="rank-name-dl">鈴木　隆之</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|68|976|<span class="rank-name-dl">noda</span>|<a href="https://search.dartslive.com/jp/shop/271b6cfe12bebf030d9b047a20a7ba1e">THE DAY Cafe Resort 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|69|975|<span class="rank-name-dl">ケニー林</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|70|974|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|71|973|<span class="rank-name-dl">Mr. MARVEL</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|72|972|<span class="rank-name-dl">なおきんぐ〜</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|73|971|<span class="rank-name-dl">小孟MENG</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|74|970|<span class="rank-name-dl">おめぐ</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|75|969|<span class="rank-name-dl">Pug@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|75|969|<span class="rank-name-dl">さば</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|77|968|<span class="rank-name-dl">NO NAME 0048</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|78|966|<span class="rank-name-dl">ぽんたろす</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|78|966|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|80|965|<span class="rank-name-dl">MAHI</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店 Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">まぴのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">ジーニー(Genie)</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">テテン</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">Ｐｕｇ@Ｂ.Ｇ.Ｓ</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|85|963|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|86|962|<span class="rank-name-dl">ᴅɪᴄᴇ ᴋ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|86|962|<span class="rank-name-dl">こや</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|88|961|<span class="rank-name-dl">Issy21</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|89|960|<span class="rank-name-dl">牡羊座のシオン</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-pd">ⓀⒺⓃⓃⓎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68640?s_seq=68640">THE DAY Cafe 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/87711095eab5d2230d9b047a20a7ba1e">BAR Polaris</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|94|957|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|95|956|<span class="rank-name-dl">Vega</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|95|956|<span class="rank-name-dl">サイヤ人</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|97|955|<span class="rank-name-dl">ソメヤ リョウ</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|98|954|<span class="rank-name-dl">DICE-K Lv.43</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|98|954|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/d4d1cb346d718a010d9b047a20a7ba1e">Sing & Darts Bar Garuda</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|100|953|<span class="rank-name-dl">BLACKBOY</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|9|1102|<span class="rank-name-dl">TANG KA FAI</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|10|1089|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|11|1088|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|12|1087|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|13|1084|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|14|1082|<span class="rank-name-dl">なかがわひろき</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|15|1074|<span class="rank-name-dl">マグロ(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|16|1067|<span class="rank-name-dl">yαmαshц⊿GC</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|17|1063|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|18|1058|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/fbaf8e8cecb257b5790ab824ce8730e5">ビッグエコー 八重洲本店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|18|1058|<span class="rank-name-dl">やまださとし</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|20|1056|<span class="rank-name-dl">和₍ᐢ._. ᐢ₎也</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|21|1053|<span class="rank-name-dl">福田海斗PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|22|1051|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|23|1050|<span class="rank-name-dl">つぽんぬ…。</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|24|1048|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|25|1045|<span class="rank-name-dl">やぎぬー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|26|1044|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">原田 誠和</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|30|1037|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">近代鮪(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|34|1030|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|35|1027|<span class="rank-name-dl">やちゃーん€</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|36|1022|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|37|1020|<span class="rank-name-dl">練習用</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|38|1019|<span class="rank-name-dl">Happy</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|38|1019|<span class="rank-name-dl">徐　聖博</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|40|1016|<span class="rank-name-dl">パイセン@西乃組</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|41|1015|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|42|1014|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|43|1011|<span class="rank-name-dl">Moo</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|43|1011|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|45|1010|<span class="rank-name-dl">Marky</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|46|1008|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|47|1005|<span class="rank-name-dl">PUG@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|48|1004|<span class="rank-name-dl">はD55</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">Isaac</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">ウエシマ テツヤ</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">リ ン@901-QLAY-</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|52|1002|<span class="rank-name-dl">羽田 雄心</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|52|1002|<span class="rank-name-dl">羽田 雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|54|1001|<span class="rank-name-dl">ミミンズク(鮪)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|55|1000|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|56|999|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|57|992|<span class="rank-name-dl">テッ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|58|988|<span class="rank-name-dl">だーぃ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|59|985|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|60|984|<span class="rank-name-dl">豆腐</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|61|983|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|62|982|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|63|980|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|63|980|<span class="rank-name-dl">RRR3</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|65|979|<span class="rank-name-dl">た爺</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|66|978|<span class="rank-name-dl">鈴木　隆之</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|67|976|<span class="rank-name-dl">noda</span>|<a href="https://search.dartslive.com/jp/shop/271b6cfe12bebf030d9b047a20a7ba1e">THE DAY Cafe Resort 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|68|975|<span class="rank-name-dl">ケニー林</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|69|974|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|70|973|<span class="rank-name-dl">Mr. MARVEL</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|71|972|<span class="rank-name-dl">なおきんぐ〜</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|72|971|<span class="rank-name-dl">小孟MENG</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|73|970|<span class="rank-name-dl">おめぐ</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|74|969|<span class="rank-name-dl">Pug@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|74|969|<span class="rank-name-dl">さば</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|76|968|<span class="rank-name-dl">NO NAME 0048</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|77|966|<span class="rank-name-dl">ぽんたろす</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|77|966|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|79|965|<span class="rank-name-dl">MAHI</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">まぴのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">ジーニー(Genie)</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">テテン</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">Ｐｕｇ@Ｂ.Ｇ.Ｓ</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|84|963|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|85|962|<span class="rank-name-dl">ᴅɪᴄᴇ ᴋ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|85|962|<span class="rank-name-dl">こや</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|87|961|<span class="rank-name-dl">Issy21</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|88|960|<span class="rank-name-dl">牡羊座のシオン</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-pd">ⓀⒺⓃⓃⓎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68640?s_seq=68640">THE DAY Cafe 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/87711095eab5d2230d9b047a20a7ba1e">BAR Polaris</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|93|957|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|94|956|<span class="rank-name-dl">Vega</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|94|956|<span class="rank-name-dl">サイヤ人</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|96|955|<span class="rank-name-dl">ソメヤ リョウ</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|97|954|<span class="rank-name-dl">DICE-K Lv.43</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|97|954|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/d4d1cb346d718a010d9b047a20a7ba1e">Sing & Darts Bar Garuda</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|99|953|<span class="rank-name-dl">BLACKBOY</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|99|953|<span class="rank-name-dl">蘭 大志</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,101 +137,101 @@ ___
 |3|1160|<span class="rank-name-dl">高田 雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |4|1151|<span class="rank-name-dl">YOSHI☆</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |5|1127|<span class="rank-name-dl">高田　雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|6|1120|<span class="rank-name-dl">Minseok Choi</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|6|1120|<span class="rank-name-dl">Minseok Choi</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |7|1113|<span class="rank-name-dl">しゅーた</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 |8|1111|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|9|1102|<span class="rank-name-dl">TANG KA FAI</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座 Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|10|1100|<span class="rank-name-dl">高田 雄介</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|11|1089|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|12|1088|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|13|1087|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|14|1084|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|15|1082|<span class="rank-name-dl">なかがわひろき</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|16|1074|<span class="rank-name-dl">マグロ(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|17|1067|<span class="rank-name-dl">yαmαshц⊿GC</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|18|1063|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|19|1058|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/fbaf8e8cecb257b5790ab824ce8730e5">ビッグエコー 八重洲本店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|19|1058|<span class="rank-name-dl">やまださとし</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|21|1056|<span class="rank-name-dl">和₍ᐢ._. ᐢ₎也</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|22|1053|<span class="rank-name-dl">福田海斗PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|23|1051|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|24|1050|<span class="rank-name-dl">つぽんぬ…。</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|25|1048|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|26|1045|<span class="rank-name-dl">やぎぬー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|27|1044|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座 Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|28|1038|<span class="rank-name-dl">原田 誠和</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|31|1037|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店 B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|32|1035|<span class="rank-name-dl">近代鮪(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|35|1030|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|36|1027|<span class="rank-name-dl">やちゃーん€</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|37|1022|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|38|1020|<span class="rank-name-dl">練習用</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|39|1019|<span class="rank-name-dl">Happy</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|39|1019|<span class="rank-name-dl">徐　聖博</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|41|1016|<span class="rank-name-dl">パイセン@西乃組</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|42|1015|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|43|1014|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店 ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|44|1011|<span class="rank-name-dl">Moo</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|44|1011|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|46|1010|<span class="rank-name-dl">Marky</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|47|1008|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店 Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|48|1005|<span class="rank-name-dl">PUG@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|49|1004|<span class="rank-name-dl">はD55</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店 ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">Isaac</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">ウエシマ テツヤ</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|50|1003|<span class="rank-name-dl">リ ン@901-QLAY-</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|53|1002|<span class="rank-name-dl">羽田 雄心</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|53|1002|<span class="rank-name-dl">羽田 雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|55|1001|<span class="rank-name-dl">ミミンズク(鮪)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|56|1000|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|57|999|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|58|992|<span class="rank-name-dl">テッ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|59|988|<span class="rank-name-dl">だーぃ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|60|985|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|61|984|<span class="rank-name-dl">豆腐</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|62|983|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|63|982|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|64|980|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|64|980|<span class="rank-name-dl">RRR3</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|66|979|<span class="rank-name-dl">た爺</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|67|978|<span class="rank-name-dl">鈴木　隆之</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|68|976|<span class="rank-name-dl">noda</span>|<a href="https://search.dartslive.com/jp/shop/271b6cfe12bebf030d9b047a20a7ba1e">THE DAY Cafe Resort 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|69|975|<span class="rank-name-dl">ケニー林</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|70|974|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|71|973|<span class="rank-name-dl">Mr. MARVEL</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|72|972|<span class="rank-name-dl">なおきんぐ〜</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|73|971|<span class="rank-name-dl">小孟MENG</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|74|970|<span class="rank-name-dl">おめぐ</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|75|969|<span class="rank-name-dl">Pug@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|75|969|<span class="rank-name-dl">さば</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|77|968|<span class="rank-name-dl">NO NAME 0048</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|78|966|<span class="rank-name-dl">ぽんたろす</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|78|966|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|80|965|<span class="rank-name-dl">MAHI</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店 Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">まぴのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">ジーニー(Genie)</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">テテン</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|81|964|<span class="rank-name-dl">Ｐｕｇ@Ｂ.Ｇ.Ｓ</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|85|963|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|86|962|<span class="rank-name-dl">ᴅɪᴄᴇ ᴋ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|86|962|<span class="rank-name-dl">こや</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|88|961|<span class="rank-name-dl">Issy21</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|89|960|<span class="rank-name-dl">牡羊座のシオン</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|90|959|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/87711095eab5d2230d9b047a20a7ba1e">BAR Polaris</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|93|957|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|94|956|<span class="rank-name-dl">Vega</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|94|956|<span class="rank-name-dl">サイヤ人</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|96|955|<span class="rank-name-dl">ソメヤ リョウ</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|97|954|<span class="rank-name-dl">DICE-K Lv.43</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|97|954|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/d4d1cb346d718a010d9b047a20a7ba1e">Sing & Darts Bar Garuda</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|99|953|<span class="rank-name-dl">BLACKBOY</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
-|99|953|<span class="rank-name-dl">蘭 大志</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|9|1102|<span class="rank-name-dl">TANG KA FAI</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|10|1089|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|11|1088|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|12|1087|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|13|1084|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|14|1082|<span class="rank-name-dl">なかがわひろき</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|15|1074|<span class="rank-name-dl">マグロ(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|16|1067|<span class="rank-name-dl">yαmαshц⊿GC</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|17|1063|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|18|1058|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/fbaf8e8cecb257b5790ab824ce8730e5">ビッグエコー 八重洲本店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|18|1058|<span class="rank-name-dl">やまださとし</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|20|1056|<span class="rank-name-dl">和₍ᐢ._. ᐢ₎也</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|21|1053|<span class="rank-name-dl">福田海斗PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|22|1051|<span class="rank-name-dl">しゅーた@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|23|1050|<span class="rank-name-dl">つぽんぬ…。</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|24|1048|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|25|1045|<span class="rank-name-dl">やぎぬー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|26|1044|<span class="rank-name-dl">45619_劉恆佑</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|27|1038|<span class="rank-name-dl">原田 誠和</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|30|1037|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|31|1035|<span class="rank-name-dl">近代鮪(亀戸産)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|34|1030|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|35|1027|<span class="rank-name-dl">やちゃーん€</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|36|1022|<span class="rank-name-dl">GBKゆうじん5XL</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|37|1020|<span class="rank-name-dl">練習用</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|38|1019|<span class="rank-name-dl">Happy</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|38|1019|<span class="rank-name-dl">徐　聖博</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|40|1016|<span class="rank-name-dl">パイセン@西乃組</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|41|1015|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|42|1014|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|43|1011|<span class="rank-name-dl">Moo</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|43|1011|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|45|1010|<span class="rank-name-dl">Marky</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|46|1008|<span class="rank-name-dl">RRR_for_ryo</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|47|1005|<span class="rank-name-dl">PUG@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|48|1004|<span class="rank-name-dl">はD55</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">ダイニングダーツバーBee 銀座店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">Isaac</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">ウエシマ テツヤ</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|49|1003|<span class="rank-name-dl">リ ン@901-QLAY-</span>|<a href="https://search.dartslive.com/jp/shop/937faa6191356de65f9f3321c1147265">REGALO 東京八重洲店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|52|1002|<span class="rank-name-dl">羽田 雄心</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|52|1002|<span class="rank-name-dl">羽田 雄心(沼)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|54|1001|<span class="rank-name-dl">ミミンズク(鮪)</span>|<a href="https://search.dartslive.com/jp/shop/2cb44615769abee80d9b047a20a7ba1e">OASIS BAR 八丁堀店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|55|1000|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|56|999|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|57|992|<span class="rank-name-dl">テッ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|58|988|<span class="rank-name-dl">だーぃ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|59|985|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|60|984|<span class="rank-name-dl">豆腐</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|61|983|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|62|982|<span class="rank-name-dl">まーきー</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|63|980|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|63|980|<span class="rank-name-dl">RRR3</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|65|979|<span class="rank-name-dl">た爺</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|66|978|<span class="rank-name-dl">鈴木　隆之</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|67|976|<span class="rank-name-dl">noda</span>|<a href="https://search.dartslive.com/jp/shop/271b6cfe12bebf030d9b047a20a7ba1e">THE DAY Cafe Resort 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|68|975|<span class="rank-name-dl">ケニー林</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|69|974|<span class="rank-name-dl">つな</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|70|973|<span class="rank-name-dl">Mr. MARVEL</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|71|972|<span class="rank-name-dl">なおきんぐ〜</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|72|971|<span class="rank-name-dl">小孟MENG</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|73|970|<span class="rank-name-dl">おめぐ</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|74|969|<span class="rank-name-dl">Pug@THE銀</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|74|969|<span class="rank-name-dl">さば</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|76|968|<span class="rank-name-dl">NO NAME 0048</span>|<a href="https://search.dartslive.com/jp/shop/d06e27af5624836f0d9b047a20a7ba1e">BAGUS-バグース-銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|77|966|<span class="rank-name-dl">ぽんたろす</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|77|966|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|79|965|<span class="rank-name-dl">MAHI</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">まぴのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">ジーニー(Genie)</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">テテン</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|80|964|<span class="rank-name-dl">Ｐｕｇ@Ｂ.Ｇ.Ｓ</span>|<a href="https://search.dartslive.com/jp/shop/ca24f5221ef4f7bf0d9b047a20a7ba1e">Bee GINZA</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|84|963|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|85|962|<span class="rank-name-dl">ᴅɪᴄᴇ ᴋ</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|85|962|<span class="rank-name-dl">こや</span>|<a href="https://search.dartslive.com/jp/shop/6fb231bbccf6142c774c926eb736cb5a">B-GARAGE 銀座数寄屋橋店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|87|961|<span class="rank-name-dl">Issy21</span>|<a href="https://search.dartslive.com/jp/shop/2033dbdc99b582e70d9b047a20a7ba1e">Bane BAGUS-バネバグース- 銀座</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|88|960|<span class="rank-name-dl">牡羊座のシオン</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">シフ</span>|<a href="https://search.dartslive.com/jp/shop/502ef57a7991049025d56fb0e5c39bac">UP銀座コリドー</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|89|959|<span class="rank-name-dl">養殖ミミンズク</span>|<a href="https://search.dartslive.com/jp/shop/87711095eab5d2230d9b047a20a7ba1e">BAR Polaris</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|92|957|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|93|956|<span class="rank-name-dl">Vega</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|93|956|<span class="rank-name-dl">サイヤ人</span>|<a href="https://search.dartslive.com/jp/shop/3a8c6d5dd406355e0d9b047a20a7ba1e">OASIS BAR 人形町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|95|955|<span class="rank-name-dl">ソメヤ リョウ</span>|<a href="https://search.dartslive.com/jp/shop/1b84f7e9345663520d9b047a20a7ba1e">OASIS BAR 茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|96|954|<span class="rank-name-dl">DICE-K Lv.43</span>|<a href="https://search.dartslive.com/jp/shop/43c4348ed95f84d40d9b047a20a7ba1e">BARREL</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|96|954|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/d4d1cb346d718a010d9b047a20a7ba1e">Sing & Darts Bar Garuda</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|98|953|<span class="rank-name-dl">BLACKBOY</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|98|953|<span class="rank-name-dl">蘭 大志</span>|<a href="https://search.dartslive.com/jp/shop/6dc119cf04e52bde0d9b047a20a7ba1e">Darts Bar A's 日本橋茅場町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
+|100|952|<span class="rank-name-dl">せんとくん</span>|<a href="https://search.dartslive.com/jp/shop/271b6cfe12bebf030d9b047a20a7ba1e">THE DAY Cafe Resort 小伝馬町店</a>|<a href="/darts/rank/東京都/中央区">東京都中央区</a>|
 
 
 #### PHOENIXDARTS TOP 100

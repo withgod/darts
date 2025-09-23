@@ -30,99 +30,99 @@ ___
 |5|1204|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">YKD✴︎hebo</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|6|1200|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥 DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|6|1200|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|12|1175|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|13|1170|<span class="rank-name-dl">PRAYER 2</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|14|1168|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|18|1166|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|18|1166|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|20|1165|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|21|1164|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|22|1162|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|23|1160|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店 スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|24|1157|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd90e5d8af277c550d9b047a20a7ba1e">Bar「虹」-NIJI-</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|25|1156|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBanBan蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|29|1152|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|30|1151|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|31|1149|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|32|1147|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|33|1146|<span class="rank-name-dl">ひろむ</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|33|1146|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|35|1140|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|36|1138|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|36|1138|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|38|1137|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|38|1137|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|40|1136|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|41|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">マッスルダーツ CrossFive マッスルダーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|41|1135|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/9576dfb2d55dcbc00d9b047a20a7ba1e">Cross Road</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|43|1134|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/33942a19d84e7fad0d9b047a20a7ba1e">Barts HAT</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3a4820a246d1ef5558d385ea46352d8f">UP千葉</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|47|1131|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|48|1130|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|48|1130|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|50|1128|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|51|1127|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|51|1127|<span class="rank-name-dl">む〜COSMO</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">リょーーー帽子屋</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0a22e57bc0fb51d60d9b047a20a7ba1e">Happy cafe Green</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">Uくん⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/eba6db1722c4d091f454cb89828a1cfe">Stage Stage</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">島津 光紘</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|62|1123|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|62|1123|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|64|1122|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">へろへろ～(-_-;)</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-pd">Maikka@Bulls eye千葉駅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82024?s_seq=82024">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-pd">Since Mar2022</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82024?s_seq=82024">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店 快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|72|1119|<span class="rank-name-dl">BOSS@要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|73|1118|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|74|1117|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|75|1116|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店 快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|75|1116|<span class="rank-name-dl">五十嵐正幸前嶋組</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|77|1115|<span class="rank-name-dl">siesta</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|77|1115|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|79|1114|<span class="rank-name-dl">小川 義浩</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|80|1113|<span class="rank-name-dl">伊橋 澄人</span>|<a href="https://search.dartslive.com/jp/shop/09377d019821273b5f9f3321c1147265">Sports Bar GATE</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|81|1112|<span class="rank-name-dl">やまやま@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店 Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|81|1112|<span class="rank-name-dl">月見バーガー P</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|83|1111|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|83|1111|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|85|1110|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店 快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|85|1110|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|85|1110|<span class="rank-name-dl">ﾀﾞｲﾁｬﾘﾆｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|88|1109|<span class="rank-name-dl">♂漫☆画太郎♀</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|89|1108|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|90|1107|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|90|1107|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|92|1106|<span class="rank-name-dl">ずま</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|92|1106|<span class="rank-name-dl">小林 雄輝</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|92|1106|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|95|1105|<span class="rank-name-dl">NO NAME 2144</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|95|1105|<span class="rank-name-dl">ハヤシ モモカ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|95|1105|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/294adea72142dbee0d9b047a20a7ba1e">ダーツ&カラオケ BAR Chateau</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|95|1105|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91515?s_seq=91515">ビアポンバー GROVE 千葉中央店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|99|1104|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/4b0ad37148841371a3f63593b5358cc4">UP海浜幕張</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|99|1104|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|12|1170|<span class="rank-name-dl">PRAYER 2</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|13|1168|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|17|1166|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|17|1166|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|19|1165|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|20|1164|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|21|1162|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|22|1160|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|23|1157|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd90e5d8af277c550d9b047a20a7ba1e">Bar「虹」-NIJI-</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|24|1156|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBanBan蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|28|1152|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|29|1151|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|30|1149|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|31|1147|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|32|1146|<span class="rank-name-dl">ひろむ</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|33|1140|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|34|1138|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|34|1138|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|36|1137|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|36|1137|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|38|1136|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|39|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">マッスルダーツ CrossFive マッスルダーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|39|1135|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/9576dfb2d55dcbc00d9b047a20a7ba1e">Cross Road</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|41|1134|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/33942a19d84e7fad0d9b047a20a7ba1e">Barts HAT</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3a4820a246d1ef5558d385ea46352d8f">UP千葉</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|45|1131|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|46|1130|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|46|1130|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|48|1128|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|49|1127|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|49|1127|<span class="rank-name-dl">む〜COSMO</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">リょーーー帽子屋</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0a22e57bc0fb51d60d9b047a20a7ba1e">Happy cafe Green</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">Uくん⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/eba6db1722c4d091f454cb89828a1cfe">Stage Stage</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">島津 光紘</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|60|1123|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|60|1123|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|62|1122|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">へろへろ～(-_-;)</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-pd">Maikka@Bulls eye千葉駅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82024?s_seq=82024">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-pd">Since Mar2022</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82024?s_seq=82024">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|70|1119|<span class="rank-name-dl">BOSS@要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|71|1118|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|72|1117|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|73|1116|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|73|1116|<span class="rank-name-dl">五十嵐正幸前嶋組</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|75|1115|<span class="rank-name-dl">siesta</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|75|1115|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|77|1114|<span class="rank-name-dl">小川 義浩</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|78|1113|<span class="rank-name-dl">伊橋 澄人</span>|<a href="https://search.dartslive.com/jp/shop/09377d019821273b5f9f3321c1147265">Sports Bar GATE</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|79|1112|<span class="rank-name-dl">やまやま@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|79|1112|<span class="rank-name-dl">月見バーガー P</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|81|1111|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|81|1111|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|83|1110|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|83|1110|<span class="rank-name-dl">ﾀﾞｲﾁｬﾘﾆｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|85|1109|<span class="rank-name-dl">♂漫☆画太郎♀</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|86|1108|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|87|1107|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|87|1107|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|89|1106|<span class="rank-name-dl">ずま</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|89|1106|<span class="rank-name-dl">小林 雄輝</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|89|1106|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|92|1105|<span class="rank-name-dl">NO NAME 2144</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|92|1105|<span class="rank-name-dl">ハヤシ モモカ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|92|1105|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/294adea72142dbee0d9b047a20a7ba1e">ダーツ&カラオケ BAR Chateau</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|92|1105|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91515?s_seq=91515">ビアポンバー GROVE 千葉中央店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|96|1104|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/4b0ad37148841371a3f63593b5358cc4">UP海浜幕張</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|96|1104|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|98|1103|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|99|1102|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|99|1102|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,99 +139,99 @@ ___
 |5|1204|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">YKD✴︎hebo</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|6|1200|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥 DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|6|1200|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 |6|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|12|1175|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|13|1170|<span class="rank-name-dl">PRAYER 2</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|14|1168|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|15|1167|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|18|1166|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|18|1166|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|20|1165|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|21|1164|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|22|1162|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|23|1160|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店 スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|24|1157|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd90e5d8af277c550d9b047a20a7ba1e">Bar「虹」-NIJI-</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|25|1156|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBanBan蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|26|1155|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|29|1152|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|30|1151|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|31|1149|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|32|1147|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|33|1146|<span class="rank-name-dl">ひろむ</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|33|1146|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|35|1140|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|36|1138|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|36|1138|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|38|1137|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|38|1137|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|40|1136|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|41|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">マッスルダーツ CrossFive マッスルダーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|41|1135|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/9576dfb2d55dcbc00d9b047a20a7ba1e">Cross Road</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|43|1134|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/33942a19d84e7fad0d9b047a20a7ba1e">Barts HAT</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|44|1133|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3a4820a246d1ef5558d385ea46352d8f">UP千葉</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|47|1131|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|48|1130|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|48|1130|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|50|1128|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|51|1127|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|51|1127|<span class="rank-name-dl">む〜COSMO</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">リょーーー帽子屋</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|53|1126|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0a22e57bc0fb51d60d9b047a20a7ba1e">Happy cafe Green</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">Uくん⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/eba6db1722c4d091f454cb89828a1cfe">Stage Stage</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">島津 光紘</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|59|1125|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|62|1123|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|62|1123|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|64|1122|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">へろへろ～(-_-;)</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|65|1121|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店 快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|68|1120|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|70|1119|<span class="rank-name-dl">BOSS@要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|71|1118|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|72|1117|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|73|1116|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店 快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|73|1116|<span class="rank-name-dl">五十嵐正幸前嶋組</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|75|1115|<span class="rank-name-dl">siesta</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|75|1115|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|77|1114|<span class="rank-name-dl">小川 義浩</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|78|1113|<span class="rank-name-dl">伊橋 澄人</span>|<a href="https://search.dartslive.com/jp/shop/09377d019821273b5f9f3321c1147265">Sports Bar GATE</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|79|1112|<span class="rank-name-dl">やまやま@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店 Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|79|1112|<span class="rank-name-dl">月見バーガー P</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|81|1111|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|81|1111|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|83|1110|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店 快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|83|1110|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|83|1110|<span class="rank-name-dl">ﾀﾞｲﾁｬﾘﾆｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|86|1109|<span class="rank-name-dl">♂漫☆画太郎♀</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|87|1108|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|88|1107|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|88|1107|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|90|1106|<span class="rank-name-dl">ずま</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|90|1106|<span class="rank-name-dl">小林 雄輝</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|90|1106|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|93|1105|<span class="rank-name-dl">NO NAME 2144</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|93|1105|<span class="rank-name-dl">ハヤシ モモカ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|93|1105|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/294adea72142dbee0d9b047a20a7ba1e">ダーツ&カラオケ BAR Chateau</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|96|1104|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/4b0ad37148841371a3f63593b5358cc4">UP海浜幕張</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|96|1104|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|98|1103|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|99|1102|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
-|99|1102|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|12|1170|<span class="rank-name-dl">PRAYER 2</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|13|1168|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|14|1167|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|17|1166|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|17|1166|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|19|1165|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|20|1164|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|21|1162|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|22|1160|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|23|1157|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd90e5d8af277c550d9b047a20a7ba1e">Bar「虹」-NIJI-</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|24|1156|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBanBan蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|25|1155|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|28|1152|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|29|1151|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|30|1149|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|31|1147|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|32|1146|<span class="rank-name-dl">ひろむ</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|33|1140|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|34|1138|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|34|1138|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|36|1137|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/9bf306e47eeaab430d9b047a20a7ba1e">スポーツカフェ MJ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|36|1137|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|38|1136|<span class="rank-name-dl">Maikka@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|39|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">マッスルダーツ CrossFive マッスルダーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|39|1135|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/9576dfb2d55dcbc00d9b047a20a7ba1e">Cross Road</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|41|1134|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/33942a19d84e7fad0d9b047a20a7ba1e">Barts HAT</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|42|1133|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/3a4820a246d1ef5558d385ea46352d8f">UP千葉</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|45|1131|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|46|1130|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|46|1130|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/3c70e6ab990f79b20d9b047a20a7ba1e">カラオケBANBAN蘇我駅前店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|48|1128|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|49|1127|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|49|1127|<span class="rank-name-dl">む〜COSMO</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">リょーーー帽子屋</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|51|1126|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0a22e57bc0fb51d60d9b047a20a7ba1e">Happy cafe Green</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">Uくん⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/eba6db1722c4d091f454cb89828a1cfe">Stage Stage</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">島津 光紘</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|57|1125|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|60|1123|<span class="rank-name-dl">フ・ブーケ・ミマ</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|60|1123|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|62|1122|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">へろへろ～(-_-;)</span>|<a href="https://search.dartslive.com/jp/shop/c7fc337da6fe47a3f454cb89828a1cfe">快活CLUB 稲毛駅東口店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">瑠依@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|63|1121|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|66|1120|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|68|1119|<span class="rank-name-dl">BOSS@要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|69|1118|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|70|1117|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|71|1116|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|71|1116|<span class="rank-name-dl">五十嵐正幸前嶋組</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|73|1115|<span class="rank-name-dl">siesta</span>|<a href="https://search.dartslive.com/jp/shop/6634703fd8c07c7b0d9b047a20a7ba1e">スポーツウェーブ鉄腕24稲毛長沼店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|73|1115|<span class="rank-name-dl">ちゃんまる</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|75|1114|<span class="rank-name-dl">小川 義浩</span>|<a href="https://search.dartslive.com/jp/shop/647a92ca9e2298e80d9b047a20a7ba1e">DARTS&YAKITORI 要ノ鳥</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|76|1113|<span class="rank-name-dl">伊橋 澄人</span>|<a href="https://search.dartslive.com/jp/shop/09377d019821273b5f9f3321c1147265">Sports Bar GATE</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|77|1112|<span class="rank-name-dl">やまやま@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|77|1112|<span class="rank-name-dl">月見バーガー P</span>|<a href="https://search.dartslive.com/jp/shop/6e004babd7024cdc0d9b047a20a7ba1e">イーアールスポーツ</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|79|1111|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|79|1111|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|81|1110|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|81|1110|<span class="rank-name-dl">ﾀﾞｲﾁｬﾘﾆｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/9fdd87ed487eea100d9b047a20a7ba1e">Darts&Bar Bouquet</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|83|1109|<span class="rank-name-dl">♂漫☆画太郎♀</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|84|1108|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|85|1107|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|85|1107|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|87|1106|<span class="rank-name-dl">ずま</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|87|1106|<span class="rank-name-dl">小林 雄輝</span>|<a href="https://search.dartslive.com/jp/shop/ffbe924bf97d20b4a3f63593b5358cc4">Amusement Bar Emirates</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|87|1106|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/08fa569a1bcb6abba3f63593b5358cc4">快活CLUB 16号浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|90|1105|<span class="rank-name-dl">NO NAME 2144</span>|<a href="https://search.dartslive.com/jp/shop/bd3ff5acde8bd4e6fec1ae84bb28bd87">快活CLUB 千葉都賀店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|90|1105|<span class="rank-name-dl">ハヤシ モモカ</span>|<a href="https://search.dartslive.com/jp/shop/b5b90037bdfacbd058d385ea46352d8f">REGALO 海浜幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|90|1105|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/294adea72142dbee0d9b047a20a7ba1e">ダーツ&カラオケ BAR Chateau</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|93|1104|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/4b0ad37148841371a3f63593b5358cc4">UP海浜幕張</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|93|1104|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/65bbd9f6bf632bc8f454cb89828a1cfe">DAKOKO</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|95|1103|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/3f55d43810ce7d130d9b047a20a7ba1e">Bully's千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|96|1102|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/8ed2aa6e991429195f9f3321c1147265">アプレシオ幕張店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|96|1102|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/fae6958c12241d580d9b047a20a7ba1e">ダーツ＆スポーツ CrossFive</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|98|1101|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/b2dd3d9ae1aa00c225d56fb0e5c39bac">快活CLUB 16号千葉北店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|98|1101|<span class="rank-name-dl">Takuya Aiko</span>|<a href="https://search.dartslive.com/jp/shop/82e39953281bf2d20d9b047a20a7ba1e">ポイント千葉店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
+|98|1101|<span class="rank-name-dl">つっつん</span>|<a href="https://search.dartslive.com/jp/shop/287b4b553a9164cc0d9b047a20a7ba1e">スポーツウェーブ鉄腕24浜野店</a>|<a href="/darts/rank/千葉県/千葉市">千葉県千葉市</a>|
 
 
 #### PHOENIXDARTS TOP 100

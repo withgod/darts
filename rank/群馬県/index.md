@@ -44,7 +44,7 @@ ___
 |2|1222|<span class="rank-name-dl">新藤瑠斗</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
 |3|1176|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
 |4|1169|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|4|1169|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|4|1169|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
 |6|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |7|1162|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
 |8|1160|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
@@ -58,88 +58,88 @@ ___
 |16|1134|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |16|1134|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |18|1133|<span class="rank-name-dl">野﨑 祐史</span>|<a href="https://search.dartslive.com/jp/shop/f338db03640241d70d9b047a20a7ba1e">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|19|1131|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|20|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>金山 恭平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|21|1128|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|21|1128|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|21|1128|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|24|1127|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|24|1127|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|26|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山根 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|27|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|28|1120|<span class="rank-name-pd">KAMISORI豆腐@ One</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|28|1120|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|30|1119|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|31|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|31|1118|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|33|1116|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|34|1113|<span class="rank-name-dl">こうき</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店 快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|34|1113|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|34|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|37|1111|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|37|1111|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|39|1110|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|40|1109|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|40|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|42|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|43|1100|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店 快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|43|1100|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|45|1093|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|46|1092|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|46|1092|<span class="rank-name-pd">凛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|48|1090|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|49|1089|<span class="rank-name-dl">^^零1兄さん平</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|50|1088|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|50|1088|<span class="rank-name-pd"><span class="pro-icon-pd"></span>島田 泰行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|50|1088|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|53|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|53|1087|<span class="rank-name-pd">ﾀﾞｰｷﾁ 壱号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|55|1086|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|56|1083|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|57|1082|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|57|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|59|1081|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|60|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|61|1077|<span class="rank-name-pd">TSTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|62|1076|<span class="rank-name-dl">こうだいくん</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|63|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|64|1074|<span class="rank-name-pd">うさぎ@fullHOUSE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|64|1074|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|66|1070|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10045?s_seq=10045">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|67|1069|<span class="rank-name-dl">木黄田氵京セパ</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|68|1067|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店 ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|68|1067|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|68|1067|<span class="rank-name-pd">野﨑ゆーし COSMO DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90152?s_seq=90152">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|71|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|72|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|72|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|72|1064|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|75|1063|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|76|1061|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|76|1061|<span class="rank-name-pd">若山 真弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90152?s_seq=90152">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|78|1060|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|79|1059|<span class="rank-name-pd">〜雛hina鶴duru〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9981?s_seq=9981">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|80|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|80|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|82|1057|<span class="rank-name-pd">- K -</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10045?s_seq=10045">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|82|1057|<span class="rank-name-dl">まひろ@感染者</span>|<a href="https://search.dartslive.com/jp/shop/4aa8d40650beb85fb21333aee1bd51e4">群馬レジャーランド太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|82|1057|<span class="rank-name-pd"><span class="pro-icon-pd"></span>太田 朋也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|82|1057|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/e87d22b287be9a5ca3f63593b5358cc4">群馬レジャーランド高崎駅東口店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|86|1056|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|86|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|86|1056|<span class="rank-name-dl">ﾓﾘｼﾀ ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|89|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|89|1055|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|89|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|92|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|93|1053|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|93|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|95|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|95|1052|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤 貴寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|95|1052|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森下 和幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|95|1052|<span class="rank-name-dl">艸ｲｸﾞﾀｳｪｲ艸</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|95|1052|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|100|1050|<span class="rank-name-pd">ひかるるるる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|19|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>金山 恭平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|20|1128|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|20|1128|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|20|1128|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|23|1127|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|23|1127|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|25|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山根 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|26|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|27|1120|<span class="rank-name-pd">KAMISORI豆腐@ One</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|27|1120|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|29|1119|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|30|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|30|1118|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|32|1116|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|33|1113|<span class="rank-name-dl">こうき</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|33|1113|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|33|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|36|1111|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|36|1111|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|38|1110|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|39|1109|<span class="rank-name-pd">TRIPLEIGHT豆腐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|39|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|41|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|42|1100|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|42|1100|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|44|1093|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|45|1092|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|45|1092|<span class="rank-name-pd">凛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|47|1089|<span class="rank-name-dl">^^零1兄さん平</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|48|1088|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|48|1088|<span class="rank-name-pd"><span class="pro-icon-pd"></span>島田 泰行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|48|1088|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|51|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|1087|<span class="rank-name-pd">ﾀﾞｰｷﾁ 壱号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|53|1086|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|54|1083|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|55|1082|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|55|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|57|1081|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|58|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|59|1077|<span class="rank-name-pd">TSTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|60|1076|<span class="rank-name-dl">こうだいくん</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|61|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|62|1074|<span class="rank-name-pd">うさぎ@fullHOUSE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|62|1074|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|64|1070|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10045?s_seq=10045">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|65|1069|<span class="rank-name-dl">木黄田氵京セパ</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|66|1067|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|66|1067|<span class="rank-name-pd">野﨑ゆーし COSMO DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90152?s_seq=90152">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|68|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|69|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|69|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|71|1063|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|72|1061|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|72|1061|<span class="rank-name-pd">若山 真弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90152?s_seq=90152">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|74|1060|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|75|1059|<span class="rank-name-pd">〜雛hina鶴duru〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9981?s_seq=9981">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|76|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|76|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|1057|<span class="rank-name-pd">- K -</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10045?s_seq=10045">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|78|1057|<span class="rank-name-dl">まひろ@感染者</span>|<a href="https://search.dartslive.com/jp/shop/4aa8d40650beb85fb21333aee1bd51e4">群馬レジャーランド太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|78|1057|<span class="rank-name-pd"><span class="pro-icon-pd"></span>太田 朋也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|78|1057|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/e87d22b287be9a5ca3f63593b5358cc4">群馬レジャーランド高崎駅東口店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|82|1056|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|82|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|82|1056|<span class="rank-name-dl">ﾓﾘｼﾀ ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|85|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|85|1055|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|85|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|88|1053|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|88|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|90|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|90|1052|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤 貴寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88748?s_seq=88748">meat dinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|90|1052|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森下 和幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6339?s_seq=6339">Darts&Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|90|1052|<span class="rank-name-dl">艸ｲｸﾞﾀｳｪｲ艸</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|90|1052|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|95|1050|<span class="rank-name-pd">ひかるるるる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9549?s_seq=9549">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|95|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|95|1050|<span class="rank-name-dl">カネキン</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|95|1050|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|95|1050|<span class="rank-name-dl">野島 大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|100|1049|<span class="rank-name-dl">ほしだ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -152,7 +152,7 @@ ___
 |1|1440|<span class="rank-name-dl">Razoa</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |2|1222|<span class="rank-name-dl">新藤瑠斗</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
 |3|1176|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|4|1169|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|4|1169|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
 |5|1162|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
 |6|1158|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
 |7|1157|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
@@ -163,92 +163,92 @@ ___
 |12|1134|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |12|1134|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
 |14|1133|<span class="rank-name-dl">野﨑 祐史</span>|<a href="https://search.dartslive.com/jp/shop/f338db03640241d70d9b047a20a7ba1e">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|15|1131|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|16|1128|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|16|1128|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|18|1127|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|18|1127|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|20|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|21|1120|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|22|1119|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|23|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|23|1118|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|25|1116|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|26|1113|<span class="rank-name-dl">こうき</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店 快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|26|1113|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|28|1111|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|28|1111|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|30|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|31|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|32|1100|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店 快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|32|1100|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|34|1093|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|35|1092|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|36|1090|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|37|1089|<span class="rank-name-dl">^^零1兄さん平</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|38|1088|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|39|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|40|1086|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|41|1083|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|42|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|43|1081|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|44|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|45|1076|<span class="rank-name-dl">こうだいくん</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|46|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|47|1074|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|48|1073|<span class="rank-name-dl">凛</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|49|1069|<span class="rank-name-dl">木黄田氵京セパ</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|50|1067|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店 ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|50|1067|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|52|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|53|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|53|1064|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|55|1061|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|56|1060|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|57|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|57|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|59|1057|<span class="rank-name-dl">まひろ@感染者</span>|<a href="https://search.dartslive.com/jp/shop/4aa8d40650beb85fb21333aee1bd51e4">群馬レジャーランド太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|59|1057|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/e87d22b287be9a5ca3f63593b5358cc4">群馬レジャーランド高崎駅東口店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|61|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|61|1056|<span class="rank-name-dl">ﾓﾘｼﾀ ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|63|1055|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|64|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|65|1053|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|65|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|67|1052|<span class="rank-name-dl">艸ｲｸﾞﾀｳｪｲ艸</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|67|1052|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|69|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|1050|<span class="rank-name-dl">カネキン</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|69|1050|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|69|1050|<span class="rank-name-dl">野島 大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|73|1049|<span class="rank-name-dl">ほしだ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|74|1048|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|75|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|75|1047|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|77|1046|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|78|1045|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|78|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|78|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|81|1044|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|81|1044|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|81|1044|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|84|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|85|1042|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|85|1042|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|85|1042|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|88|1041|<span class="rank-name-dl">野﨑 祐史</span>|<a href="https://search.dartslive.com/jp/shop/f338db03640241d70d9b047a20a7ba1e">Shrimp Dining Ebi Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|88|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|90|1039|<span class="rank-name-dl">Heppoko☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|90|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|90|1039|<span class="rank-name-dl">うえちゃん180</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|90|1039|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
-|90|1039|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|95|1038|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|95|1038|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|97|1036|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|97|1036|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
-|99|1035|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
-|99|1035|<span class="rank-name-dl">ゆう☆Kokopelli</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|15|1128|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|15|1128|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|17|1127|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|17|1127|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|19|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|20|1120|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|21|1119|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|22|1118|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|22|1118|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|24|1116|<span class="rank-name-dl">yoichi0408</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|25|1113|<span class="rank-name-dl">こうき</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|25|1113|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|27|1111|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|27|1111|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|29|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|30|1104|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|31|1100|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|31|1100|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|33|1093|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|34|1092|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|35|1090|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|36|1089|<span class="rank-name-dl">^^零1兄さん平</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|37|1088|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|38|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|39|1086|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|40|1083|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|41|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|42|1081|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|43|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|44|1076|<span class="rank-name-dl">こうだいくん</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|45|1075|<span class="rank-name-dl">NO NAME 6918</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|46|1074|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|47|1073|<span class="rank-name-dl">凛</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|48|1069|<span class="rank-name-dl">木黄田氵京セパ</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|49|1067|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|50|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|51|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|52|1061|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|53|1060|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|54|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|54|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|56|1057|<span class="rank-name-dl">まひろ@感染者</span>|<a href="https://search.dartslive.com/jp/shop/4aa8d40650beb85fb21333aee1bd51e4">群馬レジャーランド太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|56|1057|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/e87d22b287be9a5ca3f63593b5358cc4">群馬レジャーランド高崎駅東口店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|58|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|58|1056|<span class="rank-name-dl">ﾓﾘｼﾀ ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|60|1055|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|61|1053|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|61|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|63|1052|<span class="rank-name-dl">艸ｲｸﾞﾀｳｪｲ艸</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|63|1052|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|65|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|1050|<span class="rank-name-dl">カネキン</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|65|1050|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|65|1050|<span class="rank-name-dl">野島 大輔</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|69|1049|<span class="rank-name-dl">ほしだ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|70|1048|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|71|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|71|1047|<span class="rank-name-dl">久保田 將裕</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|73|1046|<span class="rank-name-dl">井艸 祐一郎</span>|<a href="https://search.dartslive.com/jp/shop/ebc5ebddc06c98480d9b047a20a7ba1e">DARTS＋BAR BOND</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|74|1045|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|74|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|74|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|77|1044|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/cdfd822d6132493358d385ea46352d8f">快活CLUB 高崎高関店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|77|1044|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|79|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|80|1042|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|80|1042|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|80|1042|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|83|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|1039|<span class="rank-name-dl">Heppoko☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|84|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|84|1039|<span class="rank-name-dl">うえちゃん180</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|84|1039|<span class="rank-name-dl">ひろたか</span>|<a href="https://search.dartslive.com/jp/shop/84d1656c9a74377d0d9b047a20a7ba1e">meatdinning TABUKIYA</a>|<a href="/darts/rank/群馬県/館林市">群馬県館林市</a>|
+|84|1039|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|89|1038|<span class="rank-name-dl">こ〜しゃん</span>|<a href="https://search.dartslive.com/jp/shop/a3e2be1c7fd0542f0d9b047a20a7ba1e">Darts & Dining DOUBLE</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|89|1038|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|91|1036|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|92|1035|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|92|1035|<span class="rank-name-dl">ゆう☆Kokopelli</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|94|1033|<span class="rank-name-dl">TJ</span>|<a href="https://search.dartslive.com/jp/shop/0a2d5991cbe7e8bd774c926eb736cb5a">快活CLUB 407号太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|95|1032|<span class="rank-name-dl">^^01兄さん平</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|96|1031|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/3c9eda80afef0dd30d9b047a20a7ba1e">Darts Dining ensembull</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|97|1030|<span class="rank-name-dl">KOHEI</span>|<a href="https://search.dartslive.com/jp/shop/f338db03640241d70d9b047a20a7ba1e">Shrimp Dining Ebi</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
+|97|1030|<span class="rank-name-dl">MIYABI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|1029|<span class="rank-name-dl">ピノ</span>|<a href="https://search.dartslive.com/jp/shop/95d66b434778fb720d9b047a20a7ba1e">ZIMA 太田店</a>|<a href="/darts/rank/群馬県/太田市">群馬県太田市</a>|
+|100|1028|<span class="rank-name-dl">★緑のたぬき★</span>|<a href="https://search.dartslive.com/jp/shop/8229a31da93f637c28032249b44395af">快活CLUB 17号高崎倉賀野店</a>|<a href="/darts/rank/群馬県/高崎市">群馬県高崎市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -35,7 +35,7 @@ ___
 |9|927|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |11|916|<span class="rank-name-dl">(ixi) Keita</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |12|908|<span class="rank-name-pd">(ixi) WaKaMe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|12|908|<span class="rank-name-dl">フレグラン酢</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|12|908|<span class="rank-name-dl">フレグラン酢</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |14|905|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |15|902|<span class="rank-name-dl">しょたまろ^.ˬ.^</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |16|889|<span class="rank-name-pd"><span class="pro-icon-pd"></span>秋葉 太智</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
@@ -52,77 +52,77 @@ ___
 |27|835|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |28|830|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |29|829|<span class="rank-name-pd">Alice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|30|821|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|30|821|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |31|820|<span class="rank-name-pd">naoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |32|813|<span class="rank-name-dl">中村</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |33|812|<span class="rank-name-pd">裕矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |34|809|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |35|800|<span class="rank-name-pd">ねおに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|36|799|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |36|799|<span class="rank-name-dl">そうる</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|38|787|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|38|787|<span class="rank-name-dl">（ixi）HIKARU</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|40|768|<span class="rank-name-pd">らくだ隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|41|762|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|42|761|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|43|760|<span class="rank-name-pd">(ixi)せいや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|44|751|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|45|748|<span class="rank-name-pd">(ixi)Yutaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|45|748|<span class="rank-name-pd">flowrist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|47|744|<span class="rank-name-dl">漁師(海賊王)</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|48|739|<span class="rank-name-dl">Yasu</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|49|738|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|50|735|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|51|734|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|51|734|<span class="rank-name-dl">STYLE×漁師</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|51|734|<span class="rank-name-dl">らい</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|54|730|<span class="rank-name-pd">(ixi)優里亜[本物]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|55|729|<span class="rank-name-pd">KAMATA1980@04&amp;04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|55|729|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|57|718|<span class="rank-name-pd">kaito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|58|716|<span class="rank-name-dl">ｎａｏｙａ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|59|711|<span class="rank-name-dl">あまとう</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|60|710|<span class="rank-name-dl">(ixi)bouchonee&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|61|708|<span class="rank-name-pd">とむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|62|698|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|63|694|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|63|694|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|65|693|<span class="rank-name-pd">ジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|66|690|<span class="rank-name-dl">(ixi)flowrist</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|67|687|<span class="rank-name-pd">オギっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|68|684|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|69|677|<span class="rank-name-dl">(ixi)優里亜</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|70|671|<span class="rank-name-dl">中丸雄二股</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|71|669|<span class="rank-name-dl">ﾄﾞﾝﾏｲ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|72|668|<span class="rank-name-pd">ユウタ@死の外科医</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|73|667|<span class="rank-name-dl">武井 一也</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|74|665|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|75|660|<span class="rank-name-dl">MISONO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|75|660|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|77|650|<span class="rank-name-pd">りおっち＠ダーツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|78|649|<span class="rank-name-dl">Riotti@Dart Live</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|78|649|<span class="rank-name-pd">や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|80|640|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|81|638|<span class="rank-name-pd">ひろふみもどき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|82|634|<span class="rank-name-pd">じめ@Vintage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|83|628|<span class="rank-name-dl">かじちょ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|84|619|<span class="rank-name-dl">ねおに@YS</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|85|618|<span class="rank-name-pd">(ixi)junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|86|602|<span class="rank-name-pd">🕶️海坊主🕶️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|87|594|<span class="rank-name-pd">Masa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|87|594|<span class="rank-name-dl">ドンマイ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|89|593|<span class="rank-name-dl">白雪 乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|90|592|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|91|589|<span class="rank-name-dl">nao-</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|92|588|<span class="rank-name-dl">(ixi)ゆう☆*:.</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|93|576|<span class="rank-name-pd">∞ぷれーん∞自分のdartをやる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|94|571|<span class="rank-name-pd">(ixi)ゆう☆*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|94|571|<span class="rank-name-pd">Rん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|96|566|<span class="rank-name-pd">りおっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|97|556|<span class="rank-name-pd">＠zaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|98|550|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|99|540|<span class="rank-name-pd">⭐︎ぽっつん⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|100|539|<span class="rank-name-pd">たかし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|37|787|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|38|768|<span class="rank-name-pd">らくだ隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|39|762|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|40|761|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|41|760|<span class="rank-name-pd">(ixi)せいや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|42|751|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|43|748|<span class="rank-name-pd">(ixi)Yutaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|43|748|<span class="rank-name-pd">flowrist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|45|744|<span class="rank-name-dl">漁師(海賊王)</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|46|739|<span class="rank-name-dl">Yasu</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|47|738|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|48|735|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|49|734|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|49|734|<span class="rank-name-dl">STYLE×漁師</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|49|734|<span class="rank-name-dl">らい</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|52|730|<span class="rank-name-pd">(ixi)優里亜[本物]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|53|729|<span class="rank-name-pd">KAMATA1980@04&amp;04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|53|729|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|55|718|<span class="rank-name-pd">kaito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|56|716|<span class="rank-name-dl">ｎａｏｙａ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|57|711|<span class="rank-name-dl">あまとう</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|58|710|<span class="rank-name-dl">(ixi)bouchonee&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|59|708|<span class="rank-name-pd">とむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|60|694|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|61|693|<span class="rank-name-pd">ジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|62|687|<span class="rank-name-pd">オギっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|63|684|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|64|677|<span class="rank-name-dl">(ixi)優里亜</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|65|671|<span class="rank-name-dl">中丸雄二股</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|66|669|<span class="rank-name-dl">ﾄﾞﾝﾏｲ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|67|668|<span class="rank-name-pd">ユウタ@死の外科医</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|68|667|<span class="rank-name-dl">武井 一也</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|69|665|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|70|660|<span class="rank-name-dl">MISONO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|70|660|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|72|650|<span class="rank-name-pd">りおっち＠ダーツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|73|649|<span class="rank-name-dl">Riotti@Dart Live</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|73|649|<span class="rank-name-pd">や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|75|640|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|76|638|<span class="rank-name-pd">ひろふみもどき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|77|634|<span class="rank-name-pd">じめ@Vintage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|78|628|<span class="rank-name-dl">かじちょ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|79|619|<span class="rank-name-dl">ねおに@YS</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|80|618|<span class="rank-name-pd">(ixi)junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|81|602|<span class="rank-name-pd">🕶️海坊主🕶️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|82|594|<span class="rank-name-pd">Masa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|82|594|<span class="rank-name-dl">ドンマイ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|84|593|<span class="rank-name-dl">白雪 乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|85|592|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|86|589|<span class="rank-name-dl">nao-</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|87|588|<span class="rank-name-dl">(ixi)ゆう☆*:.</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|88|576|<span class="rank-name-pd">∞ぷれーん∞自分のdartをやる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|89|571|<span class="rank-name-pd">(ixi)ゆう☆*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|89|571|<span class="rank-name-pd">Rん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|91|566|<span class="rank-name-pd">りおっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|92|556|<span class="rank-name-pd">＠zaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|93|550|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|94|540|<span class="rank-name-pd">⭐︎ぽっつん⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|95|539|<span class="rank-name-pd">たかし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|96|536|<span class="rank-name-pd">MSR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|96|536|<span class="rank-name-pd">ごまどうふ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|98|529|<span class="rank-name-pd">りゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|99|524|<span class="rank-name-pd">∞ixi∞鈴木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|99|524|<span class="rank-name-pd">北川 貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63222?s_seq=63222">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -138,7 +138,7 @@ ___
 |4|931|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |5|927|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |6|916|<span class="rank-name-dl">(ixi) Keita</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|7|908|<span class="rank-name-dl">フレグラン酢</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|7|908|<span class="rank-name-dl">フレグラン酢</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |8|905|<span class="rank-name-dl">大谷 健瑠</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |9|902|<span class="rank-name-dl">しょたまろ^.ˬ.^</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |10|887|<span class="rank-name-dl">(IXI)C.yu-ta</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
@@ -150,56 +150,51 @@ ___
 |16|835|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |17|830|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |17|830|<span class="rank-name-dl">（ixi）HIKARU</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|19|821|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|19|821|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |20|813|<span class="rank-name-dl">中村</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |21|809|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|22|799|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 |22|799|<span class="rank-name-dl">そうる</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|24|787|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|24|787|<span class="rank-name-dl">（ixi）HIKARU</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|26|762|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|27|761|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|28|757|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|29|751|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|30|750|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|31|744|<span class="rank-name-dl">漁師(海賊王)</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|32|739|<span class="rank-name-dl">Yasu</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|33|738|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|34|735|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|35|734|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|35|734|<span class="rank-name-dl">STYLE×漁師</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|35|734|<span class="rank-name-dl">らい</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|38|729|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|39|716|<span class="rank-name-dl">ｎａｏｙａ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|40|711|<span class="rank-name-dl">あまとう</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|41|710|<span class="rank-name-dl">(ixi)bouchonee&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|42|698|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|43|694|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|43|694|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|45|690|<span class="rank-name-dl">(ixi)flowrist</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|46|677|<span class="rank-name-dl">(ixi)優里亜</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|47|671|<span class="rank-name-dl">中丸雄二股</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|48|669|<span class="rank-name-dl">ﾄﾞﾝﾏｲ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|49|667|<span class="rank-name-dl">武井 一也</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|50|665|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|51|660|<span class="rank-name-dl">MISONO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|52|649|<span class="rank-name-dl">Riotti@Dart Live</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|53|640|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|54|629|<span class="rank-name-dl">らくだ隊長</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|55|628|<span class="rank-name-dl">かじちょ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|56|619|<span class="rank-name-dl">ねおに@YS</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|57|594|<span class="rank-name-dl">ドンマイ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|58|593|<span class="rank-name-dl">白雪 乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|59|592|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|60|589|<span class="rank-name-dl">nao-</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|61|588|<span class="rank-name-dl">(ixi)ゆう☆*:.</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|62|507|<span class="rank-name-dl">Ai.s</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|63|421|<span class="rank-name-dl">白雪乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|64|412|<span class="rank-name-dl">(ixi)Hazuki</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|65|407|<span class="rank-name-dl">(ixi)MAKO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|66|366|<span class="rank-name-dl">さぇちん</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|67|365|<span class="rank-name-dl">＠Zaki</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
-|68|355|<span class="rank-name-dl">ゆいまーる</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|23|787|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|24|762|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|25|761|<span class="rank-name-dl">(ixi)にき</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|26|757|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|27|751|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|28|750|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|29|744|<span class="rank-name-dl">漁師(海賊王)</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|30|739|<span class="rank-name-dl">Yasu</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|31|738|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|32|735|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|33|734|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|33|734|<span class="rank-name-dl">STYLE×漁師</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|33|734|<span class="rank-name-dl">らい</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|36|729|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|37|716|<span class="rank-name-dl">ｎａｏｙａ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|38|711|<span class="rank-name-dl">あまとう</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|39|710|<span class="rank-name-dl">(ixi)bouchonee&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|40|694|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|41|677|<span class="rank-name-dl">(ixi)優里亜</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|42|671|<span class="rank-name-dl">中丸雄二股</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|43|669|<span class="rank-name-dl">ﾄﾞﾝﾏｲ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|44|667|<span class="rank-name-dl">武井 一也</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|45|665|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|46|660|<span class="rank-name-dl">MISONO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|47|649|<span class="rank-name-dl">Riotti@Dart Live</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|48|640|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|49|629|<span class="rank-name-dl">らくだ隊長</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|50|628|<span class="rank-name-dl">かじちょ</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|51|619|<span class="rank-name-dl">ねおに@YS</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|52|594|<span class="rank-name-dl">ドンマイ日暮</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|53|593|<span class="rank-name-dl">白雪 乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|54|592|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|55|589|<span class="rank-name-dl">nao-</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|56|588|<span class="rank-name-dl">(ixi)ゆう☆*:.</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|57|507|<span class="rank-name-dl">Ai.s</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|58|421|<span class="rank-name-dl">白雪乃愛</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|59|412|<span class="rank-name-dl">(ixi)Hazuki</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|60|407|<span class="rank-name-dl">(ixi)MAKO</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|61|366|<span class="rank-name-dl">さぇちん</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|62|365|<span class="rank-name-dl">＠Zaki</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
+|63|355|<span class="rank-name-dl">ゆいまーる</span>|<a href="https://search.dartslive.com/jp/shop/ede8b2cece6d2af40d9b047a20a7ba1e">DARTS&DINING ixi</a>|<a href="/darts/rank/千葉県/匝瑳市">千葉県匝瑳市</a>|
 
 
 #### PHOENIXDARTS TOP 100

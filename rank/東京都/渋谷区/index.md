@@ -32,97 +32,97 @@ ___
 |3|1200|<span class="rank-name-dl">淳@BREMEN</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |3|1200|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |9|1197|<span class="rank-name-dl">///ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|10|1183|<span class="rank-name-dl">Natu</span>|<a href="https://search.dartslive.com/jp/shop/08a72be9db4f3f780d9b047a20a7ba1e">Bane BAGUS-バネバグース-渋谷宮益坂 Bane BAGUS-バネバグース-渋谷宮益坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|10|1183|<span class="rank-name-dl">Natu</span>|<a href="https://search.dartslive.com/jp/shop/08a72be9db4f3f780d9b047a20a7ba1e">Bane BAGUS-バネバグース-渋谷宮益坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |11|1169|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |12|1168|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|13|1165|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|14|1164|<span class="rank-name-dl">NO NEME 320</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|15|1161|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|16|1160|<span class="rank-name-dl">後藤智弥@S-DARTS</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|17|1159|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|18|1158|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|19|1157|<span class="rank-name-dl">RF</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|20|1156|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|21|1152|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|22|1138|<span class="rank-name-dl">だだだだ</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|23|1136|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|24|1132|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|25|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/405eb633b169baaf25d56fb0e5c39bac">UP渋谷センター街</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|26|1129|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|27|1127|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|27|1127|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|29|1126|<span class="rank-name-dl">2018</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|29|1126|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|31|1125|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|32|1124|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">博多ﾗｰﾒﾝとんきち</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">大木 慎也</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|36|1122|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|37|1121|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70570?s_seq=70570">バグース 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|38|1120|<span class="rank-name-dl">まっつんばっと</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|39|1119|<span class="rank-name-dl">長ねぎ教徒</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|40|1117|<span class="rank-name-dl">わか-Anpiece-</span>|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|41|1116|<span class="rank-name-dl">淳@BREMEN</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿 BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|42|1114|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|42|1114|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|42|1114|<span class="rank-name-dl">泳げたい焼きくん</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|45|1112|<span class="rank-name-dl">ERWAN APPERRY</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|46|1111|<span class="rank-name-dl">0:00</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|46|1111|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|48|1109|<span class="rank-name-dl">ばさし</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|49|1108|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|49|1108|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|51|1107|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|52|1106|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|53|1105|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|54|1104|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店 Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|54|1104|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|54|1104|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|57|1103|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|58|1102|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/de80ac82a4668153b21333aee1bd51e4">UP渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1101|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店) ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">RErumu×ｼｭﾝｼｭﾝ</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">Royden Lam</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂 BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/82ec8446f9a48ebd0d9b047a20a7ba1e">Darts collection 渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|60|1100|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|67|1099|<span class="rank-name-dl">ん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|68|1098|<span class="rank-name-dl">/&#124;&#124;ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|69|1092|<span class="rank-name-dl">ハネマン@09</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店 C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|69|1092|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|71|1091|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|72|1089|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|72|1089|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|72|1089|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|72|1089|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|76|1088|<span class="rank-name-dl">N..</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|76|1088|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|76|1088|<span class="rank-name-dl">若松 和輝</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|79|1087|<span class="rank-name-dl">ごまふあざらし</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店 JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|80|1086|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|81|1084|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/5cf04f12499c3d250d9b047a20a7ba1e">CROSS POINT TODOME</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|81|1084|<span class="rank-name-dl">徐 聖博</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|83|1083|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|83|1083|<span class="rank-name-dl">東雲</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店 C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|85|1082|<span class="rank-name-dl">全日本小林代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|86|1081|<span class="rank-name-dl">Edison Phung</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|87|1079|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|87|1079|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|89|1074|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店 ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|90|1073|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|90|1073|<span class="rank-name-dl">りちゅーん君</span>|<a href="https://search.dartslive.com/jp/shop/346adc4e6ba0be150d9b047a20a7ba1e">カラオケダーツバーReTune.</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|92|1072|<span class="rank-name-dl">pig king</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|93|1071|<span class="rank-name-dl">Dai@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|94|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|94|1070|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|96|1069|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|97|1068|<span class="rank-name-dl">竹内俊之BREMEN19</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|97|1068|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|99|1067|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|99|1067|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/63dddcb2e6383d050d9b047a20a7ba1e">BAR EGG</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|13|1164|<span class="rank-name-dl">NO NEME 320</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|14|1161|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|15|1160|<span class="rank-name-dl">後藤智弥@S-DARTS</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|16|1159|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|17|1158|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|18|1157|<span class="rank-name-dl">RF</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|19|1156|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|20|1152|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|21|1138|<span class="rank-name-dl">だだだだ</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|22|1136|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|23|1132|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|24|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/405eb633b169baaf25d56fb0e5c39bac">UP渋谷センター街</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|25|1129|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|26|1127|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|27|1126|<span class="rank-name-dl">2018</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|27|1126|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|29|1125|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|30|1124|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">博多ﾗｰﾒﾝとんきち</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">大木 慎也</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|34|1122|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|35|1121|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70570?s_seq=70570">バグース 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|36|1120|<span class="rank-name-dl">まっつんばっと</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|37|1119|<span class="rank-name-dl">長ねぎ教徒</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|38|1117|<span class="rank-name-dl">わか-Anpiece-</span>|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|39|1114|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|39|1114|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|39|1114|<span class="rank-name-dl">泳げたい焼きくん</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|42|1112|<span class="rank-name-dl">ERWAN APPERRY</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|43|1111|<span class="rank-name-dl">0:00</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|44|1109|<span class="rank-name-dl">ばさし</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|45|1108|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|45|1108|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|47|1107|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|48|1106|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|49|1105|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|50|1104|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|50|1104|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|50|1104|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|53|1103|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|54|1102|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/de80ac82a4668153b21333aee1bd51e4">UP渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1101|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">RErumu×ｼｭﾝｼｭﾝ</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">Royden Lam</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/82ec8446f9a48ebd0d9b047a20a7ba1e">Darts collection 渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|56|1100|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|63|1099|<span class="rank-name-dl">ん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|64|1098|<span class="rank-name-dl">/&#124;&#124;ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|65|1092|<span class="rank-name-dl">ハネマン@09</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|65|1092|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|67|1091|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|68|1089|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|68|1089|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|68|1089|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|68|1089|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|72|1088|<span class="rank-name-dl">N..</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|72|1088|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|72|1088|<span class="rank-name-dl">若松 和輝</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|75|1087|<span class="rank-name-dl">ごまふあざらし</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|76|1086|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|77|1084|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/5cf04f12499c3d250d9b047a20a7ba1e">CROSS POINT TODOME</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|77|1084|<span class="rank-name-dl">徐 聖博</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|79|1083|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|79|1083|<span class="rank-name-dl">東雲</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|81|1082|<span class="rank-name-dl">全日本小林代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|82|1081|<span class="rank-name-dl">Edison Phung</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|83|1079|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|84|1074|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|85|1073|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|85|1073|<span class="rank-name-dl">りちゅーん君</span>|<a href="https://search.dartslive.com/jp/shop/346adc4e6ba0be150d9b047a20a7ba1e">カラオケダーツバーReTune.</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|87|1072|<span class="rank-name-dl">pig king</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|88|1071|<span class="rank-name-dl">Dai@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|89|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|89|1070|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|91|1069|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|92|1068|<span class="rank-name-dl">竹内俊之BREMEN19</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|92|1068|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|94|1067|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|94|1067|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/63dddcb2e6383d050d9b047a20a7ba1e">BAR EGG</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|96|1066|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|96|1066|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|98|1065|<span class="rank-name-dl">どっこい</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|98|1065|<span class="rank-name-dl">蜂楽 廻</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|100|1064|<span class="rank-name-dl">Kosk</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -141,97 +141,97 @@ ___
 |3|1200|<span class="rank-name-dl">淳@BREMEN</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |3|1200|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |9|1197|<span class="rank-name-dl">///ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|10|1183|<span class="rank-name-dl">Natu</span>|<a href="https://search.dartslive.com/jp/shop/08a72be9db4f3f780d9b047a20a7ba1e">Bane BAGUS-バネバグース-渋谷宮益坂 Bane BAGUS-バネバグース-渋谷宮益坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|10|1183|<span class="rank-name-dl">Natu</span>|<a href="https://search.dartslive.com/jp/shop/08a72be9db4f3f780d9b047a20a7ba1e">Bane BAGUS-バネバグース-渋谷宮益坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |11|1169|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |12|1168|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|13|1165|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|14|1164|<span class="rank-name-dl">NO NEME 320</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|15|1161|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|16|1160|<span class="rank-name-dl">後藤智弥@S-DARTS</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|17|1159|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|18|1158|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|19|1157|<span class="rank-name-dl">RF</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|20|1156|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|21|1152|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|22|1138|<span class="rank-name-dl">だだだだ</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|23|1136|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|24|1132|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|25|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/405eb633b169baaf25d56fb0e5c39bac">UP渋谷センター街</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|26|1129|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|27|1127|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|27|1127|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|29|1126|<span class="rank-name-dl">2018</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|29|1126|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|31|1125|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|32|1124|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">博多ﾗｰﾒﾝとんきち</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|33|1123|<span class="rank-name-dl">大木 慎也</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|36|1122|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|37|1120|<span class="rank-name-dl">まっつんばっと</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|38|1119|<span class="rank-name-dl">長ねぎ教徒</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|39|1117|<span class="rank-name-dl">わか-Anpiece-</span>|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|40|1116|<span class="rank-name-dl">淳@BREMEN</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿 BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|41|1114|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|41|1114|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|41|1114|<span class="rank-name-dl">泳げたい焼きくん</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|44|1112|<span class="rank-name-dl">ERWAN APPERRY</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|45|1111|<span class="rank-name-dl">0:00</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|45|1111|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|47|1109|<span class="rank-name-dl">ばさし</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|48|1108|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|48|1108|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|50|1107|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|51|1106|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|52|1105|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|53|1104|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店 Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|53|1104|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|53|1104|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|56|1103|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|57|1102|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/de80ac82a4668153b21333aee1bd51e4">UP渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|58|1101|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店) ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">RErumu×ｼｭﾝｼｭﾝ</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">Royden Lam</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂 BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/82ec8446f9a48ebd0d9b047a20a7ba1e">Darts collection 渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|59|1100|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|66|1099|<span class="rank-name-dl">ん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|67|1098|<span class="rank-name-dl">/&#124;&#124;ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|68|1092|<span class="rank-name-dl">ハネマン@09</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店 C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|68|1092|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|70|1091|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|71|1089|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|71|1089|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|71|1089|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|71|1089|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|75|1088|<span class="rank-name-dl">N..</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|75|1088|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|75|1088|<span class="rank-name-dl">若松 和輝</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|78|1087|<span class="rank-name-dl">ごまふあざらし</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店 JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|79|1086|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|80|1084|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/5cf04f12499c3d250d9b047a20a7ba1e">CROSS POINT TODOME</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|80|1084|<span class="rank-name-dl">徐 聖博</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|82|1083|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|82|1083|<span class="rank-name-dl">東雲</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店 C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|84|1082|<span class="rank-name-dl">全日本小林代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|85|1081|<span class="rank-name-dl">Edison Phung</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|86|1079|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|86|1079|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|88|1074|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店 ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|89|1073|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部 渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|89|1073|<span class="rank-name-dl">りちゅーん君</span>|<a href="https://search.dartslive.com/jp/shop/346adc4e6ba0be150d9b047a20a7ba1e">カラオケダーツバーReTune.</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|91|1072|<span class="rank-name-dl">pig king</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|92|1071|<span class="rank-name-dl">Dai@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|93|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|93|1070|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|95|1069|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|96|1068|<span class="rank-name-dl">竹内俊之BREMEN19</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|96|1068|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|98|1067|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|98|1067|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/63dddcb2e6383d050d9b047a20a7ba1e">BAR EGG</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|100|1066|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|13|1164|<span class="rank-name-dl">NO NEME 320</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|14|1161|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|15|1160|<span class="rank-name-dl">後藤智弥@S-DARTS</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|16|1159|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|17|1158|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|18|1157|<span class="rank-name-dl">RF</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|19|1156|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|20|1152|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|21|1138|<span class="rank-name-dl">だだだだ</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|22|1136|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|23|1132|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|24|1130|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/405eb633b169baaf25d56fb0e5c39bac">UP渋谷センター街</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|25|1129|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|26|1127|<span class="rank-name-dl">及川 守</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|27|1126|<span class="rank-name-dl">2018</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|27|1126|<span class="rank-name-dl">katchin&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|29|1125|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|30|1124|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">博多ﾗｰﾒﾝとんきち</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|31|1123|<span class="rank-name-dl">大木 慎也</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|34|1122|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|35|1120|<span class="rank-name-dl">まっつんばっと</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|36|1119|<span class="rank-name-dl">長ねぎ教徒</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|37|1117|<span class="rank-name-dl">わか-Anpiece-</span>|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|38|1114|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|38|1114|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|38|1114|<span class="rank-name-dl">泳げたい焼きくん</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|41|1112|<span class="rank-name-dl">ERWAN APPERRY</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|42|1111|<span class="rank-name-dl">0:00</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|43|1109|<span class="rank-name-dl">ばさし</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|44|1108|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|44|1108|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|46|1107|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|47|1106|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|48|1105|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|49|1104|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|49|1104|<span class="rank-name-dl">hirose</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|49|1104|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|52|1103|<span class="rank-name-dl">PREMIUM</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|53|1102|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/de80ac82a4668153b21333aee1bd51e4">UP渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|54|1101|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/cb80b7e5455d4df40d9b047a20a7ba1e">ダーツカフェデルタ渋谷店(DartsCafeDELTA渋谷店)</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">Jose Justicia</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">RErumu×ｼｭﾝｼｭﾝ</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">Royden Lam</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">ざきやま</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/82ec8446f9a48ebd0d9b047a20a7ba1e">Darts collection 渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|55|1100|<span class="rank-name-dl">釼持さん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|62|1099|<span class="rank-name-dl">ん</span>|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|63|1098|<span class="rank-name-dl">/&#124;&#124;ロ</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|64|1092|<span class="rank-name-dl">ハネマン@09</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|64|1092|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|66|1091|<span class="rank-name-dl">kido</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|67|1089|<span class="rank-name-dl">NO NAME 6887</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|67|1089|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|67|1089|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|67|1089|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/29499acc3651eed20d9b047a20a7ba1e">RErumu</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|71|1088|<span class="rank-name-dl">N..</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|71|1088|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|71|1088|<span class="rank-name-dl">若松 和輝</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|74|1087|<span class="rank-name-dl">ごまふあざらし</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|75|1086|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|76|1084|<span class="rank-name-dl">ノリンゲリオン</span>|<a href="https://search.dartslive.com/jp/shop/5cf04f12499c3d250d9b047a20a7ba1e">CROSS POINT TODOME</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|76|1084|<span class="rank-name-dl">徐 聖博</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|78|1083|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|78|1083|<span class="rank-name-dl">東雲</span>|<a href="https://search.dartslive.com/jp/shop/b3302eb031decd990d9b047a20a7ba1e">C.STAND渋谷センター街2号店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|80|1082|<span class="rank-name-dl">全日本小林代表</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|81|1081|<span class="rank-name-dl">Edison Phung</span>|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|82|1079|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|83|1074|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">ダイニングダーツバーBee 渋谷店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|84|1073|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|84|1073|<span class="rank-name-dl">りちゅーん君</span>|<a href="https://search.dartslive.com/jp/shop/346adc4e6ba0be150d9b047a20a7ba1e">カラオケダーツバーReTune.</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|86|1072|<span class="rank-name-dl">pig king</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|87|1071|<span class="rank-name-dl">Dai@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|88|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/434b38cbfc4bcd480d9b047a20a7ba1e">トリプレッタ</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|88|1070|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|90|1069|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|91|1068|<span class="rank-name-dl">竹内俊之BREMEN19</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|91|1068|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|93|1067|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/51bf4f19532a495f0d9b047a20a7ba1e">FUN 笹塚店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|93|1067|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/63dddcb2e6383d050d9b047a20a7ba1e">BAR EGG</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|95|1066|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|95|1066|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|97|1065|<span class="rank-name-dl">どっこい</span>|<a href="https://search.dartslive.com/jp/shop/cb4c8a81dee21575a3f63593b5358cc4">BATDARTS シブケイ裏</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|97|1065|<span class="rank-name-dl">蜂楽 廻</span>|<a href="https://search.dartslive.com/jp/shop/dc8a86481375284c0d9b047a20a7ba1e">Bee SHIBUYA</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|99|1064|<span class="rank-name-dl">Kosk</span>|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|99|1064|<span class="rank-name-dl">虎トラ</span>|<a href="https://search.dartslive.com/jp/shop/0394e96df95fd6eca3f63593b5358cc4">420S</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 
 
 #### PHOENIXDARTS TOP 100

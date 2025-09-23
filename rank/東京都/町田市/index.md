@@ -26,7 +26,7 @@ ___
 |1|1242|<span class="rank-name-dl">なお@ZINO</span>|<a href="https://search.dartslive.com/jp/shop/b15ebae2b6670c4f0d9b047a20a7ba1e">ZINO 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |2|1208|<span class="rank-name-dl">yuta@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |3|1200|<span class="rank-name-dl">村松ハート</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|4|1170|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/7efaac389f15b0fd0d9b047a20a7ba1e">ダーツハイブ町田店 ダーツハイブ町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|4|1170|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/7efaac389f15b0fd0d9b047a20a7ba1e">ダーツハイブ町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |4|1170|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |6|1169|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |6|1169|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
@@ -34,13 +34,13 @@ ___
 |9|1161|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |9|1161|<span class="rank-name-dl">なお@ZINO町田</span>|<a href="https://search.dartslive.com/jp/shop/b15ebae2b6670c4f0d9b047a20a7ba1e">ZINO 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |11|1160|<span class="rank-name-dl">しゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|12|1159|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店 ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|12|1159|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |13|1153|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |14|1150|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |15|1134|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |16|1128|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |17|1126|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|18|1125|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|18|1125|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">к-⑤*SevenS*G-L</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">アデリー</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
@@ -66,63 +66,63 @@ ___
 |41|1099|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |41|1099|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |43|1097|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|44|1092|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |44|1092|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|46|1089|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|46|1089|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|48|1088|<span class="rank-name-dl">すもも</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|49|1087|<span class="rank-name-dl">SPONGEBOBs@福BON</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|49|1087|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/ec9a69b1fc81d6c70d9b047a20a7ba1e">リスキーショット</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|51|1085|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|51|1085|<span class="rank-name-dl">Ryosuke@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|53|1084|<span class="rank-name-dl">NO NAME 7799</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|53|1084|<span class="rank-name-dl">さんそん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|55|1083|<span class="rank-name-dl">U.Px</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|56|1082|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店 ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|56|1082|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|56|1082|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|56|1082|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|60|1080|<span class="rank-name-dl">AJK</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|61|1079|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|62|1078|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|62|1078|<span class="rank-name-dl">橋口 拓海</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|64|1076|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|64|1076|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩浪 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89025?s_seq=89025">ビアポンバー GROVE 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|66|1075|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|67|1072|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|67|1072|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|69|1071|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|70|1069|<span class="rank-name-dl">なおき@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1068|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1068|<span class="rank-name-dl">森田 亮</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口 BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|73|1067|<span class="rank-name-dl">SHO☆</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|74|1065|<span class="rank-name-dl">たちゅ丸(* &#x27;ω&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|74|1065|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/7792de5d71e008450d9b047a20a7ba1e">HERMES</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|74|1065|<span class="rank-name-dl">蜂楽　SoR@</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|74|1065|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|78|1064|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7873e360a94119c4f454cb89828a1cfe">快活CLUB 町田忠生店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|79|1063|<span class="rank-name-dl">アンソニー</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|79|1063|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|81|1062|<span class="rank-name-dl">Junpei Nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店 RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|81|1062|<span class="rank-name-dl">佐藤健亮</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|83|1061|<span class="rank-name-dl">健＊.hdn＊</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|84|1060|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店 快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|84|1060|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|86|1059|<span class="rank-name-dl">おばら</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|87|1058|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|88|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|89|1056|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|89|1056|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|91|1055|<span class="rank-name-dl">名取 隼(本物)</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|91|1055|<span class="rank-name-dl">自動車クリス</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店 ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|91|1055|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|94|1053|<span class="rank-name-dl">PLAYER1</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|94|1053|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店 JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1052|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1052|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店 ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1052|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田 グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|99|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|99|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|45|1089|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|45|1089|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|47|1088|<span class="rank-name-dl">すもも</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|48|1087|<span class="rank-name-dl">SPONGEBOBs@福BON</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|48|1087|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/ec9a69b1fc81d6c70d9b047a20a7ba1e">リスキーショット</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|50|1085|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|50|1085|<span class="rank-name-dl">Ryosuke@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|52|1084|<span class="rank-name-dl">NO NAME 7799</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|52|1084|<span class="rank-name-dl">さんそん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|54|1083|<span class="rank-name-dl">U.Px</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|55|1082|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|55|1082|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|55|1082|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|55|1082|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|59|1080|<span class="rank-name-dl">AJK</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|60|1079|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|61|1078|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|61|1078|<span class="rank-name-dl">橋口 拓海</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|63|1076|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|63|1076|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩浪 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89025?s_seq=89025">ビアポンバー GROVE 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|65|1075|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|66|1072|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|66|1072|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|68|1071|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|69|1069|<span class="rank-name-dl">なおき@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|70|1068|<span class="rank-name-dl">森田 亮</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|71|1067|<span class="rank-name-dl">SHO☆</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|72|1065|<span class="rank-name-dl">たちゅ丸(* &#x27;ω&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|72|1065|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/7792de5d71e008450d9b047a20a7ba1e">HERMES</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|72|1065|<span class="rank-name-dl">蜂楽　SoR@</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|72|1065|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|76|1064|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7873e360a94119c4f454cb89828a1cfe">快活CLUB 町田忠生店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|77|1063|<span class="rank-name-dl">アンソニー</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|77|1063|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|79|1062|<span class="rank-name-dl">佐藤健亮</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|80|1061|<span class="rank-name-dl">健＊.hdn＊</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|81|1060|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|81|1060|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|83|1059|<span class="rank-name-dl">おばら</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|84|1058|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|85|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|86|1056|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|86|1056|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|88|1055|<span class="rank-name-dl">名取 隼(本物)</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|88|1055|<span class="rank-name-dl">自動車クリス</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|88|1055|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|91|1053|<span class="rank-name-dl">PLAYER1</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|92|1052|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|92|1052|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1051|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|97|1050|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|97|1050|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|97|1050|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|97|1050|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f84ad5228d4c13d60d9b047a20a7ba1e">プリィモア 鶴川店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1242|<span class="rank-name-dl">なお@ZINO</span>|<a href="https://search.dartslive.com/jp/shop/b15ebae2b6670c4f0d9b047a20a7ba1e">ZINO 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |2|1208|<span class="rank-name-dl">yuta@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |3|1200|<span class="rank-name-dl">村松ハート</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|4|1170|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/7efaac389f15b0fd0d9b047a20a7ba1e">ダーツハイブ町田店 ダーツハイブ町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|4|1170|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/7efaac389f15b0fd0d9b047a20a7ba1e">ダーツハイブ町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |4|1170|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |6|1169|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |6|1169|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
@@ -143,13 +143,13 @@ ___
 |9|1161|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |9|1161|<span class="rank-name-dl">なお@ZINO町田</span>|<a href="https://search.dartslive.com/jp/shop/b15ebae2b6670c4f0d9b047a20a7ba1e">ZINO 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |11|1160|<span class="rank-name-dl">しゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|12|1159|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店 ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|12|1159|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |13|1153|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |14|1150|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |15|1134|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |16|1128|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |17|1126|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|18|1125|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|18|1125|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">к-⑤*SevenS*G-L</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">アデリー</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |19|1123|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
@@ -173,65 +173,65 @@ ___
 |39|1099|<span class="rank-name-dl">おおや</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |39|1099|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |41|1097|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|42|1092|<span class="rank-name-dl">カトーケーゾー</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 |42|1092|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|44|1089|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|44|1089|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|46|1088|<span class="rank-name-dl">すもも</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|47|1087|<span class="rank-name-dl">SPONGEBOBs@福BON</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|47|1087|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/ec9a69b1fc81d6c70d9b047a20a7ba1e">リスキーショット</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|49|1085|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|49|1085|<span class="rank-name-dl">Ryosuke@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|51|1084|<span class="rank-name-dl">NO NAME 7799</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|51|1084|<span class="rank-name-dl">さんそん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|53|1083|<span class="rank-name-dl">U.Px</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|54|1082|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店 ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|54|1082|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|54|1082|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|54|1082|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|58|1080|<span class="rank-name-dl">AJK</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|59|1079|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|60|1078|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|60|1078|<span class="rank-name-dl">橋口 拓海</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|62|1076|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|63|1075|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|64|1072|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|64|1072|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|66|1071|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|67|1069|<span class="rank-name-dl">なおき@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|68|1068|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|68|1068|<span class="rank-name-dl">森田 亮</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口 BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|70|1067|<span class="rank-name-dl">SHO☆</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1065|<span class="rank-name-dl">たちゅ丸(* &#x27;ω&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1065|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/7792de5d71e008450d9b047a20a7ba1e">HERMES</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1065|<span class="rank-name-dl">蜂楽　SoR@</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|71|1065|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|75|1064|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7873e360a94119c4f454cb89828a1cfe">快活CLUB 町田忠生店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|76|1063|<span class="rank-name-dl">アンソニー</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|76|1063|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|78|1062|<span class="rank-name-dl">Junpei Nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店 RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|78|1062|<span class="rank-name-dl">佐藤健亮</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|80|1061|<span class="rank-name-dl">健＊.hdn＊</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|81|1060|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店 快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|81|1060|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|83|1059|<span class="rank-name-dl">おばら</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|84|1058|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|85|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|86|1056|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|86|1056|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|88|1055|<span class="rank-name-dl">名取 隼(本物)</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|88|1055|<span class="rank-name-dl">自動車クリス</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店 ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|88|1055|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|91|1053|<span class="rank-name-dl">PLAYER1</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|91|1053|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店 JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|93|1052|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|93|1052|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店 ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|93|1052|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田 グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|96|1051|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|99|1050|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
-|99|1050|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|43|1089|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|43|1089|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|45|1088|<span class="rank-name-dl">すもも</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|46|1087|<span class="rank-name-dl">SPONGEBOBs@福BON</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|46|1087|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/ec9a69b1fc81d6c70d9b047a20a7ba1e">リスキーショット</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|48|1085|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|48|1085|<span class="rank-name-dl">Ryosuke@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|50|1084|<span class="rank-name-dl">NO NAME 7799</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|50|1084|<span class="rank-name-dl">さんそん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|52|1083|<span class="rank-name-dl">U.Px</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|53|1082|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|53|1082|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|53|1082|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|53|1082|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|57|1080|<span class="rank-name-dl">AJK</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|58|1079|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|59|1078|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|59|1078|<span class="rank-name-dl">橋口 拓海</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|61|1076|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|62|1075|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|63|1072|<span class="rank-name-dl">きんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|63|1072|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|65|1071|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|66|1069|<span class="rank-name-dl">なおき@RALLY</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|67|1068|<span class="rank-name-dl">森田 亮</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|68|1067|<span class="rank-name-dl">SHO☆</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|69|1065|<span class="rank-name-dl">たちゅ丸(* &#x27;ω&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|69|1065|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/7792de5d71e008450d9b047a20a7ba1e">HERMES</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|69|1065|<span class="rank-name-dl">蜂楽　SoR@</span>|<a href="https://search.dartslive.com/jp/shop/45661e0aa1324b580d9b047a20a7ba1e">JACK 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|69|1065|<span class="rank-name-dl">近藤 浩二</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|73|1064|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7873e360a94119c4f454cb89828a1cfe">快活CLUB 町田忠生店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|74|1063|<span class="rank-name-dl">アンソニー</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|74|1063|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|76|1062|<span class="rank-name-dl">佐藤健亮</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|77|1061|<span class="rank-name-dl">健＊.hdn＊</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|78|1060|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|78|1060|<span class="rank-name-dl">콘도 코우지</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|80|1059|<span class="rank-name-dl">おばら</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|81|1058|<span class="rank-name-dl">Kazuki Fuse</span>|<a href="https://search.dartslive.com/jp/shop/310d66936e00a60c0d9b047a20a7ba1e">ダーツショップ RE+LUX</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|82|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|83|1056|<span class="rank-name-dl">佐藤謙佑@CRML</span>|<a href="https://search.dartslive.com/jp/shop/0df250fa3989d05d0d9b047a20a7ba1e">BAGUS-バグース-町田東口</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|83|1056|<span class="rank-name-dl">岸 宗太</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|85|1055|<span class="rank-name-dl">名取 隼(本物)</span>|<a href="https://search.dartslive.com/jp/shop/4ffc63d1b5c77d580d9b047a20a7ba1e">BAA@SE町田店 BAA@SE町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|85|1055|<span class="rank-name-dl">自動車クリス</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|85|1055|<span class="rank-name-dl">호리 히데토</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|88|1053|<span class="rank-name-dl">PLAYER1</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|89|1052|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|89|1052|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|91|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|91|1051|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/cd311e274a01b04c25d56fb0e5c39bac">快活CLUB 小田急町田駅前店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|91|1051|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/7c50dff345e414fa0d9b047a20a7ba1e">グランサイバーカフェ バグース 町田</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1050|<span class="rank-name-dl">Mahomes_yasu</span>|<a href="https://search.dartslive.com/jp/shop/2904db24109a17da0d9b047a20a7ba1e">DARTS & BAR OZ</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1050|<span class="rank-name-dl">Riku Tokudo</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1050|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">ダイニングダーツバーBee 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|94|1050|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f84ad5228d4c13d60d9b047a20a7ba1e">プリィモア 鶴川店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|98|1049|<span class="rank-name-dl">弔</span>|<a href="https://search.dartslive.com/jp/shop/e632dad3994429f40d9b047a20a7ba1e">ラウンドワン町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|99|1048|<span class="rank-name-dl">くまの下僕奴隷</span>|<a href="https://search.dartslive.com/jp/shop/027575e88685f5730d9b047a20a7ba1e">RALLY 町田店</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
+|100|1047|<span class="rank-name-dl">石塚 寛人</span>|<a href="https://search.dartslive.com/jp/shop/9b1903e753938f860d9b047a20a7ba1e">Bee MACHIDA</a>|<a href="/darts/rank/東京都/町田市">東京都町田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

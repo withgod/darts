@@ -43,86 +43,86 @@ ___
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/114a158ebc6347f00d9b047a20a7ba1e">akafoo STADIUM</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|12|1200|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/f84a16904ca7addb0d9b047a20a7ba1e">イーグルA青葉台店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">安食賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">林 周一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">饗場克也DMC</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|27|1195|<span class="rank-name-dl">しだっち</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|28|1190|<span class="rank-name-dl">徳坊 vape</span>|<a href="https://search.dartslive.com/jp/shop/453a199d76aa064a790ab824ce8730e5">サープラ横浜あそびタウン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|29|1186|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|30|1181|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59960?s_seq=59960">darts&bar Canal</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|31|1180|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|32|1179|<span class="rank-name-pd">0072_1649</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90192?s_seq=90192">BAR PALAISO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|33|1178|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|33|1178|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|35|1170|<span class="rank-name-pd">TACHI@Owl&#x27;s Nest</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77970?s_seq=77970">Owl's nest</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|35|1170|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|37|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/114a158ebc6347f00d9b047a20a7ba1e">akafoo STADIUM akafoo STADIUM</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|37|1169|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/5c26d0cda1f2ccd00d9b047a20a7ba1e">花鳥風月 YOKOHAMA 花鳥風月 YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|37|1169|<span class="rank-name-dl">深井 友翔</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|40|1168|<span class="rank-name-pd">Casino Drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8531?s_seq=8531">CASINO DRIVE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|40|1168|<span class="rank-name-pd">ナベベ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78124?s_seq=78124">人来夢</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">Choi minseok</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">こうた@Ｐプロ</span>|<a href="https://search.dartslive.com/jp/shop/13593f65dac75eae0d9b047a20a7ba1e">Darts&Bar MEBIUS</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">とりっぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/7809b5bc986b94db0d9b047a20a7ba1e">Darts Cafe Che Bello</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/f8c26185991b2daf0d9b047a20a7ba1e">アロウズビリヤード</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">菅原 一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|42|1167|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|50|1166|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店 カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|50|1166|<span class="rank-name-dl">伊東　健史</span>|<a href="https://search.dartslive.com/jp/shop/cc12f2212ae660e05f9f3321c1147265">FRONT LINE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|50|1166|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|50|1166|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|54|1165|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|55|1164|<span class="rank-name-dl">mst</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|55|1164|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|55|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伊藤 將康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10122?s_seq=10122">ダーツバー SMILE'S</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|58|1163|<span class="rank-name-dl">masa@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|58|1163|<span class="rank-name-dl">五十嵐　大悟</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|58|1163|<span class="rank-name-dl">加藤弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|61|1162|<span class="rank-name-dl">hide</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|61|1162|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店 ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|63|1161|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|64|1160|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|64|1160|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/e85b7120d1ee8f470d9b047a20a7ba1e">BAR01横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|64|1160|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|67|1159|<span class="rank-name-dl">加藤　弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|68|1157|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|68|1157|<span class="rank-name-dl">淳neXusFieldcafe</span>|<a href="https://search.dartslive.com/jp/shop/a6e2dc445f9e22450d9b047a20a7ba1e">neXus Field cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|70|1156|<span class="rank-name-dl">✯ひろキング✯</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|70|1156|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|72|1155|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|72|1155|<span class="rank-name-dl">はっしー</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|72|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/be5a66f658f994400d9b047a20a7ba1e">Billiard&Darts Bar POOL LABO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|72|1155|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|72|1155|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鹿島 俊介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88891?s_seq=88891">ダーツフレックス 横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|77|1153|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|77|1153|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|77|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|77|1153|<span class="rank-name-dl">関タスクゼイアン</span>|<a href="https://search.dartslive.com/jp/shop/f0e0eb72a41dcc990d9b047a20a7ba1e">BRATZ</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|81|1152|<span class="rank-name-dl">新田 大晃</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|82|1150|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|83|1147|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/ad7760242baa939d0d9b047a20a7ba1e">ラウンドワン横浜綱島店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|84|1146|<span class="rank-name-dl">京屋</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|85|1145|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|86|1143|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店 JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|86|1143|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1140|<span class="rank-name-dl">おじごん</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店 JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1140|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1140|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/fcdac20be353e0920d9b047a20a7ba1e">Bar UNION</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1139|<span class="rank-name-dl">Takuya@82&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/77fa41a1565e825c0d9b047a20a7ba1e">yokohama Honey's Cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|92|1138|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|92|1138|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|94|1137|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|95|1136|<span class="rank-name-pd">小沼 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10139?s_seq=10139">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|95|1136|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1135|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1135|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1135|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/ae46c94e170e76dc790ab824ce8730e5">Bee YOKOHAMA WEST</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|100|1134|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店 JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|26|1195|<span class="rank-name-dl">しだっち</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|27|1190|<span class="rank-name-dl">徳坊 vape</span>|<a href="https://search.dartslive.com/jp/shop/453a199d76aa064a790ab824ce8730e5">サープラ横浜あそびタウン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|28|1186|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|29|1181|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59960?s_seq=59960">darts&bar Canal</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|30|1180|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|31|1179|<span class="rank-name-pd">0072_1649</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90192?s_seq=90192">BAR PALAISO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|32|1178|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|32|1178|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1170|<span class="rank-name-pd">TACHI@Owl&#x27;s Nest</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77970?s_seq=77970">Owl's nest</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1170|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|36|1169|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/5c26d0cda1f2ccd00d9b047a20a7ba1e">花鳥風月 YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|36|1169|<span class="rank-name-dl">深井 友翔</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|38|1168|<span class="rank-name-pd">Casino Drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8531?s_seq=8531">CASINO DRIVE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|38|1168|<span class="rank-name-pd">ナベベ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78124?s_seq=78124">人来夢</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">Choi minseok</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">こうた@Ｐプロ</span>|<a href="https://search.dartslive.com/jp/shop/13593f65dac75eae0d9b047a20a7ba1e">Darts&Bar MEBIUS</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">とりっぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/7809b5bc986b94db0d9b047a20a7ba1e">Darts Cafe Che Bello</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/f8c26185991b2daf0d9b047a20a7ba1e">アロウズビリヤード</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">菅原 一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|40|1167|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1166|<span class="rank-name-dl">伊東　健史</span>|<a href="https://search.dartslive.com/jp/shop/cc12f2212ae660e05f9f3321c1147265">FRONT LINE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1166|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1166|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|51|1165|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|52|1164|<span class="rank-name-dl">mst</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|52|1164|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|52|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伊藤 將康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10122?s_seq=10122">ダーツバー SMILE'S</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|55|1163|<span class="rank-name-dl">masa@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|55|1163|<span class="rank-name-dl">五十嵐　大悟</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|55|1163|<span class="rank-name-dl">加藤弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|58|1162|<span class="rank-name-dl">hide</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|59|1161|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|60|1160|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|60|1160|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/e85b7120d1ee8f470d9b047a20a7ba1e">BAR01横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|60|1160|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|63|1159|<span class="rank-name-dl">加藤　弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|64|1157|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|64|1157|<span class="rank-name-dl">淳neXusFieldcafe</span>|<a href="https://search.dartslive.com/jp/shop/a6e2dc445f9e22450d9b047a20a7ba1e">neXus Field cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|66|1156|<span class="rank-name-dl">✯ひろキング✯</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|66|1156|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|68|1155|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|68|1155|<span class="rank-name-dl">はっしー</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|68|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/be5a66f658f994400d9b047a20a7ba1e">Billiard&Darts Bar POOL LABO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|68|1155|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|68|1155|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鹿島 俊介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88891?s_seq=88891">ダーツフレックス 横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|73|1153|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|73|1153|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|73|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|73|1153|<span class="rank-name-dl">関タスクゼイアン</span>|<a href="https://search.dartslive.com/jp/shop/f0e0eb72a41dcc990d9b047a20a7ba1e">BRATZ</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|77|1152|<span class="rank-name-dl">新田 大晃</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|78|1150|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|79|1147|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/ad7760242baa939d0d9b047a20a7ba1e">ラウンドワン横浜綱島店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|80|1146|<span class="rank-name-dl">京屋</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|81|1145|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|82|1143|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|83|1140|<span class="rank-name-dl">おじごん</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|83|1140|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|83|1140|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/fcdac20be353e0920d9b047a20a7ba1e">Bar UNION</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|86|1139|<span class="rank-name-dl">Takuya@82&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/77fa41a1565e825c0d9b047a20a7ba1e">yokohama Honey's Cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|87|1138|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|87|1138|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|89|1137|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|90|1136|<span class="rank-name-pd">小沼 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10139?s_seq=10139">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|90|1136|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|92|1135|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|92|1135|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/ae46c94e170e76dc790ab824ce8730e5">Bee YOKOHAMA WEST</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|94|1134|<span class="rank-name-dl">こーぼぉ@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|94|1134|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|94|1134|<span class="rank-name-dl">東 優貴</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|94|1134|<span class="rank-name-dl">松井 貫</span>|<a href="https://search.dartslive.com/jp/shop/369c0a42f4fde6d90d9b047a20a7ba1e">ダーツハイブ横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|94|1134|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|99|1133|<span class="rank-name-dl">†ミヤ†</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|99|1133|<span class="rank-name-dl">きー</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -151,87 +151,87 @@ ___
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/114a158ebc6347f00d9b047a20a7ba1e">akafoo STADIUM</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|12|1200|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">坂口奨太郎PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/f84a16904ca7addb0d9b047a20a7ba1e">イーグルA青葉台店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">安食賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">林 周一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 |12|1200|<span class="rank-name-dl">饗場克也DMC</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|26|1195|<span class="rank-name-dl">しだっち</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|27|1190|<span class="rank-name-dl">徳坊 vape</span>|<a href="https://search.dartslive.com/jp/shop/453a199d76aa064a790ab824ce8730e5">サープラ横浜あそびタウン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|28|1186|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|29|1180|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|30|1178|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|30|1178|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|32|1170|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|33|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/114a158ebc6347f00d9b047a20a7ba1e">akafoo STADIUM akafoo STADIUM</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|33|1169|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/5c26d0cda1f2ccd00d9b047a20a7ba1e">花鳥風月 YOKOHAMA 花鳥風月 YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|33|1169|<span class="rank-name-dl">深井 友翔</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">Choi minseok</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">こうた@Ｐプロ</span>|<a href="https://search.dartslive.com/jp/shop/13593f65dac75eae0d9b047a20a7ba1e">Darts&Bar MEBIUS</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">とりっぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/7809b5bc986b94db0d9b047a20a7ba1e">Darts Cafe Che Bello</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/f8c26185991b2daf0d9b047a20a7ba1e">アロウズビリヤード</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">菅原 一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|36|1167|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|44|1166|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店 カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|44|1166|<span class="rank-name-dl">伊東　健史</span>|<a href="https://search.dartslive.com/jp/shop/cc12f2212ae660e05f9f3321c1147265">FRONT LINE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|44|1166|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|44|1166|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|48|1165|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|49|1164|<span class="rank-name-dl">mst</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|49|1164|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|51|1163|<span class="rank-name-dl">masa@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|51|1163|<span class="rank-name-dl">五十嵐　大悟</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|51|1163|<span class="rank-name-dl">加藤弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|54|1162|<span class="rank-name-dl">hide</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|54|1162|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店 ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|56|1161|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|57|1160|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|57|1160|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/e85b7120d1ee8f470d9b047a20a7ba1e">BAR01横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|57|1160|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|60|1159|<span class="rank-name-dl">加藤　弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|61|1157|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|61|1157|<span class="rank-name-dl">淳neXusFieldcafe</span>|<a href="https://search.dartslive.com/jp/shop/a6e2dc445f9e22450d9b047a20a7ba1e">neXus Field cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|63|1156|<span class="rank-name-dl">✯ひろキング✯</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|63|1156|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|65|1155|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|65|1155|<span class="rank-name-dl">はっしー</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|65|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/be5a66f658f994400d9b047a20a7ba1e">Billiard&Darts Bar POOL LABO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|65|1155|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|69|1153|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|69|1153|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|69|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|69|1153|<span class="rank-name-dl">関タスクゼイアン</span>|<a href="https://search.dartslive.com/jp/shop/f0e0eb72a41dcc990d9b047a20a7ba1e">BRATZ</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|73|1152|<span class="rank-name-dl">新田 大晃</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|74|1150|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|75|1147|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/ad7760242baa939d0d9b047a20a7ba1e">ラウンドワン横浜綱島店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|76|1146|<span class="rank-name-dl">京屋</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|77|1145|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|78|1143|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店 JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|78|1143|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|80|1140|<span class="rank-name-dl">おじごん</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店 JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|80|1140|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|80|1140|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/fcdac20be353e0920d9b047a20a7ba1e">Bar UNION</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|83|1139|<span class="rank-name-dl">Takuya@82&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/77fa41a1565e825c0d9b047a20a7ba1e">yokohama Honey's Cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|84|1138|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|84|1138|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|86|1137|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|87|1136|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1135|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1135|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|88|1135|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/ae46c94e170e76dc790ab824ce8730e5">Bee YOKOHAMA WEST</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店 JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">こーぼぉ@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">東 優貴</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店 JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">松井 貫</span>|<a href="https://search.dartslive.com/jp/shop/369c0a42f4fde6d90d9b047a20a7ba1e">ダーツハイブ横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|91|1134|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1133|<span class="rank-name-dl">†ミヤ†</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1133|<span class="rank-name-dl">きー</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|97|1133|<span class="rank-name-dl">もとむー</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
-|100|1132|<span class="rank-name-dl">♚tofu✯prince♚</span>|<a href="https://search.dartslive.com/jp/shop/8640f5369d4ef9120d9b047a20a7ba1e">アストロ 鶴ヶ峰店 アストロ 鶴ヶ峰店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|25|1195|<span class="rank-name-dl">しだっち</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|26|1190|<span class="rank-name-dl">徳坊 vape</span>|<a href="https://search.dartslive.com/jp/shop/453a199d76aa064a790ab824ce8730e5">サープラ横浜あそびタウン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|27|1186|<span class="rank-name-dl">安食 賢一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|28|1180|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|29|1178|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|29|1178|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|31|1170|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|32|1169|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/5c26d0cda1f2ccd00d9b047a20a7ba1e">花鳥風月 YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|32|1169|<span class="rank-name-dl">深井 友翔</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">Choi minseok</span>|<a href="https://search.dartslive.com/jp/shop/ddc4532b1cb8f87c0d9b047a20a7ba1e">バグース横浜西口</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">☆K☆</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">こうた@Ｐプロ</span>|<a href="https://search.dartslive.com/jp/shop/13593f65dac75eae0d9b047a20a7ba1e">Darts&Bar MEBIUS</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/a0ed75e561e2d0adf454cb89828a1cfe">カラオケ館 鶴見駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">とりっぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/7809b5bc986b94db0d9b047a20a7ba1e">Darts Cafe Che Bello</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/f8c26185991b2daf0d9b047a20a7ba1e">アロウズビリヤード</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">菅原 一</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|34|1167|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|42|1166|<span class="rank-name-dl">伊東　健史</span>|<a href="https://search.dartslive.com/jp/shop/cc12f2212ae660e05f9f3321c1147265">FRONT LINE</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|42|1166|<span class="rank-name-dl">船元次郎</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|42|1166|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|45|1165|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|46|1164|<span class="rank-name-dl">mst</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|46|1164|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1163|<span class="rank-name-dl">masa@兎夢男</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1163|<span class="rank-name-dl">五十嵐　大悟</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|48|1163|<span class="rank-name-dl">加藤弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|51|1162|<span class="rank-name-dl">hide</span>|<a href="https://search.dartslive.com/jp/shop/df8f42fa1df393e10d9b047a20a7ba1e">メディアカフェポパイ 横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|52|1161|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|53|1160|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|53|1160|<span class="rank-name-dl">佐藤 健亮</span>|<a href="https://search.dartslive.com/jp/shop/e85b7120d1ee8f470d9b047a20a7ba1e">BAR01横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|53|1160|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/9502e96f939b065925d56fb0e5c39bac">カラオケ館 横浜関内店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|56|1159|<span class="rank-name-dl">加藤　弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar matsuken</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|57|1157|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|57|1157|<span class="rank-name-dl">淳neXusFieldcafe</span>|<a href="https://search.dartslive.com/jp/shop/a6e2dc445f9e22450d9b047a20a7ba1e">neXus Field cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|59|1156|<span class="rank-name-dl">✯ひろキング✯</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|59|1156|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|61|1155|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/9ece6bedbdcb2ffb0d9b047a20a7ba1e">NATURAL NINE YOKOHAMA</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|61|1155|<span class="rank-name-dl">はっしー</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|61|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/be5a66f658f994400d9b047a20a7ba1e">Billiard&Darts Bar POOL LABO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|61|1155|<span class="rank-name-dl">ノライーブイ</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|65|1153|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|65|1153|<span class="rank-name-dl">加藤 弘章</span>|<a href="https://search.dartslive.com/jp/shop/0fb861eea7025b590d9b047a20a7ba1e">Phantom Bar マツケン</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|65|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|65|1153|<span class="rank-name-dl">関タスクゼイアン</span>|<a href="https://search.dartslive.com/jp/shop/f0e0eb72a41dcc990d9b047a20a7ba1e">BRATZ</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|69|1152|<span class="rank-name-dl">新田 大晃</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|70|1150|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|71|1147|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/ad7760242baa939d0d9b047a20a7ba1e">ラウンドワン横浜綱島店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|72|1146|<span class="rank-name-dl">京屋</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|73|1145|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|74|1143|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/81752f6480c4ad980d9b047a20a7ba1e">自遊空間 伊勢佐木長者町店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|75|1140|<span class="rank-name-dl">おじごん</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|75|1140|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|75|1140|<span class="rank-name-dl">拾い屋@矢的會</span>|<a href="https://search.dartslive.com/jp/shop/fcdac20be353e0920d9b047a20a7ba1e">Bar UNION</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|78|1139|<span class="rank-name-dl">Takuya@82&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/77fa41a1565e825c0d9b047a20a7ba1e">yokohama Honey's Cafe</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|79|1138|<span class="rank-name-dl">.</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|79|1138|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/fd9d337653df42b125d56fb0e5c39bac">自遊空間 新横浜駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|81|1137|<span class="rank-name-dl">ツバサ⌒∇⌒です</span>|<a href="https://search.dartslive.com/jp/shop/293a7d0f769cf4850d9b047a20a7ba1e">JACK 新横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|82|1136|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/d4c96368669691aa0d9b047a20a7ba1e">Bar Take's</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|83|1135|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|83|1135|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/ae46c94e170e76dc790ab824ce8730e5">Bee YOKOHAMA WEST</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|85|1134|<span class="rank-name-dl">こーぼぉ@松龍會</span>|<a href="https://search.dartslive.com/jp/shop/ea910931ace55ecd0d9b047a20a7ba1e">Pine</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|85|1134|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/b4d667355207f7f60d9b047a20a7ba1e">ラウンドワン横浜駅西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|85|1134|<span class="rank-name-dl">東 優貴</span>|<a href="https://search.dartslive.com/jp/shop/331901bbc68518760d9b047a20a7ba1e">JACK 横浜店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|85|1134|<span class="rank-name-dl">松井 貫</span>|<a href="https://search.dartslive.com/jp/shop/369c0a42f4fde6d90d9b047a20a7ba1e">ダーツハイブ横浜西口店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|85|1134|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/49bd0cb3376671c9a3f63593b5358cc4">快活CLUB 磯子駅前店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|90|1133|<span class="rank-name-dl">†ミヤ†</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|90|1133|<span class="rank-name-dl">きー</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|90|1133|<span class="rank-name-dl">もとむー</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|93|1132|<span class="rank-name-dl">♚tofu✯prince♚</span>|<a href="https://search.dartslive.com/jp/shop/8640f5369d4ef9120d9b047a20a7ba1e">アストロ 鶴ヶ峰店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|93|1132|<span class="rank-name-dl">ポチLv0.5</span>|<a href="https://search.dartslive.com/jp/shop/8640f5369d4ef9120d9b047a20a7ba1e">アストロ 鶴ヶ峰店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|93|1132|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/be5a66f658f994400d9b047a20a7ba1e">Billiard&Darts Bar POOL LABO</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|96|1131|<span class="rank-name-dl">AJK</span>|<a href="https://search.dartslive.com/jp/shop/4a2b8496334d08d458d385ea46352d8f">快活CLUB 横浜北山田店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|96|1131|<span class="rank-name-dl">♚tofu✯prince♚</span>|<a href="https://search.dartslive.com/jp/shop/cc9c1e84a00d957425d56fb0e5c39bac">快活CLUB 横浜芹が谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|96|1131|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/f8c26185991b2daf0d9b047a20a7ba1e">アロウズビリヤード</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|96|1131|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/6cd771878d8b7f91a3f63593b5358cc4">palace</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
+|96|1131|<span class="rank-name-dl">鈴木 松司</span>|<a href="https://search.dartslive.com/jp/shop/22feb6f3b5ea48f025d56fb0e5c39bac">自遊空間 井土ヶ谷店</a>|<a href="/darts/rank/神奈川県/横浜市">神奈川県横浜市</a>|
 
 
 #### PHOENIXDARTS TOP 100

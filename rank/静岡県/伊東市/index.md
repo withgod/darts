@@ -28,7 +28,7 @@ ___
 |3|1100|<span class="rank-name-pd">DMC木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |4|1027|<span class="rank-name-pd">DMC 木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |5|1016|<span class="rank-name-pd">さっちゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|6|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|6|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |7|976|<span class="rank-name-pd">BAR Glanzen</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |8|962|<span class="rank-name-pd">三間 紀之@カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |9|946|<span class="rank-name-pd">三間 紀之＠カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
@@ -40,89 +40,89 @@ ___
 |15|918|<span class="rank-name-dl">NYU-1</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |16|917|<span class="rank-name-pd">YyYy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |17|914|<span class="rank-name-pd">Glanzen</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|18|906|<span class="rank-name-dl">@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|19|886|<span class="rank-name-pd">ジェットに向けて練習中！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|20|884|<span class="rank-name-dl">マイケル・商談</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|21|876|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|22|874|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|23|871|<span class="rank-name-dl">ゆぅき@ Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|24|865|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|25|860|<span class="rank-name-pd">もう少し考えて投げてみよう！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|26|857|<span class="rank-name-pd">Glanzen</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96694?s_seq=96694">BAR GLANZ</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|27|854|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|28|852|<span class="rank-name-pd">たまには練習中　ナウ！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|29|848|<span class="rank-name-pd">ICH!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|30|844|<span class="rank-name-pd">HIKARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|31|839|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|32|818|<span class="rank-name-dl">NYU-1</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|33|815|<span class="rank-name-pd">引けない！出せない！入らない！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|34|814|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|35|813|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|36|807|<span class="rank-name-pd">(｣･ω･)｣うー!(/･ω･)/にゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|37|803|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|38|801|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|39|800|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|40|789|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|41|788|<span class="rank-name-pd">RYU-1@SLL-41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|41|788|<span class="rank-name-pd">小春</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|43|787|<span class="rank-name-pd">ダーツ上向きかけゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|44|782|<span class="rank-name-pd">ICH!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|45|780|<span class="rank-name-pd">ささくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|46|778|<span class="rank-name-pd">Donchan@カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|46|778|<span class="rank-name-dl">JAM@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|48|774|<span class="rank-name-pd">えーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|49|764|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|50|762|<span class="rank-name-pd">sato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|51|758|<span class="rank-name-pd">無免ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|52|749|<span class="rank-name-pd">0177-3668</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|53|744|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|54|738|<span class="rank-name-dl">Tackie.@CRANE</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|55|737|<span class="rank-name-dl">トラ馬(∵`)</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|56|731|<span class="rank-name-pd">スグル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|57|725|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|58|721|<span class="rank-name-pd">みゆきち。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|59|718|<span class="rank-name-pd">かとれあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|60|711|<span class="rank-name-pd">やる気スイッチ押してみよう！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|61|710|<span class="rank-name-dl">巣雲山＠Five0One</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|62|703|<span class="rank-name-pd">★EIKI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|63|695|<span class="rank-name-pd">( ﾟдﾟ)ﾊｯ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|64|692|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|65|689|<span class="rank-name-pd">★E.T★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|66|686|<span class="rank-name-pd">ｶﾞﾋﾞー(´°ω°`)ーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|67|685|<span class="rank-name-pd">かとれあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|68|684|<span class="rank-name-pd">YyYy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|69|678|<span class="rank-name-pd">スグル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|70|676|<span class="rank-name-dl">たらう</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|71|673|<span class="rank-name-pd">ヨネ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|72|668|<span class="rank-name-dl">むねむねむねにく</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|73|628|<span class="rank-name-pd">初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|74|614|<span class="rank-name-pd">かい ひさみつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|75|609|<span class="rank-name-pd">( ﾟдﾟ)ﾊｯ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|76|605|<span class="rank-name-pd">♂SHINO♂投矢會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|77|601|<span class="rank-name-pd">0103 2175</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|78|591|<span class="rank-name-pd">JAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|79|588|<span class="rank-name-pd">ＬＡＮＣＥＲ・Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|80|580|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|81|577|<span class="rank-name-pd">ｼﾞｭﾝﾅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|82|576|<span class="rank-name-pd">ぷれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|83|566|<span class="rank-name-pd">免許受かりましたニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|84|565|<span class="rank-name-pd">YSM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|85|564|<span class="rank-name-pd">れいあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|86|562|<span class="rank-name-pd">仮免ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|87|553|<span class="rank-name-pd">NYU-1@SLL-41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|88|551|<span class="rank-name-pd">(｣･ω･)｣うー!(/･ω･)/にゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|88|551|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|90|547|<span class="rank-name-pd">ひょっこりはん Edition</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|91|540|<span class="rank-name-pd">免許受かりましたニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|92|533|<span class="rank-name-pd">ダメだこりゃ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|93|532|<span class="rank-name-pd">ここに入力</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|94|516|<span class="rank-name-pd">破壊神(チップ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|95|510|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|96|508|<span class="rank-name-pd">Yuika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|97|497|<span class="rank-name-pd">玲音@Trident</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|98|494|<span class="rank-name-pd">Junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|98|494|<span class="rank-name-pd">ヒーロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|100|471|<span class="rank-name-pd">Aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|18|886|<span class="rank-name-pd">ジェットに向けて練習中！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|19|884|<span class="rank-name-dl">マイケル・商談</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|20|876|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|21|874|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|22|871|<span class="rank-name-dl">ゆぅき@ Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|23|865|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|24|860|<span class="rank-name-pd">もう少し考えて投げてみよう！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|25|857|<span class="rank-name-pd">Glanzen</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96694?s_seq=96694">BAR GLANZ</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|26|854|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|27|852|<span class="rank-name-pd">たまには練習中　ナウ！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|28|848|<span class="rank-name-pd">ICH!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|29|844|<span class="rank-name-pd">HIKARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|30|839|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|31|815|<span class="rank-name-pd">引けない！出せない！入らない！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|32|807|<span class="rank-name-pd">(｣･ω･)｣うー!(/･ω･)/にゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|33|801|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|34|800|<span class="rank-name-pd">遊˶⚈₃⚈˵騎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|35|788|<span class="rank-name-pd">RYU-1@SLL-41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|35|788|<span class="rank-name-pd">小春</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|37|787|<span class="rank-name-pd">ダーツ上向きかけゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|38|782|<span class="rank-name-pd">ICH!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|39|780|<span class="rank-name-pd">ささくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|40|778|<span class="rank-name-pd">Donchan@カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|40|778|<span class="rank-name-dl">JAM@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|42|774|<span class="rank-name-pd">えーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|43|764|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|44|762|<span class="rank-name-pd">sato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|45|758|<span class="rank-name-pd">無免ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|46|749|<span class="rank-name-pd">0177-3668</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|47|744|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|48|738|<span class="rank-name-dl">Tackie.@CRANE</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|49|737|<span class="rank-name-dl">トラ馬(∵`)</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|50|731|<span class="rank-name-pd">スグル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|51|721|<span class="rank-name-pd">みゆきち。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|52|718|<span class="rank-name-pd">かとれあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|53|711|<span class="rank-name-pd">やる気スイッチ押してみよう！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|54|710|<span class="rank-name-dl">巣雲山＠Five0One</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|55|703|<span class="rank-name-pd">★EIKI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|56|695|<span class="rank-name-pd">( ﾟдﾟ)ﾊｯ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|57|692|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|58|689|<span class="rank-name-pd">★E.T★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|59|686|<span class="rank-name-pd">ｶﾞﾋﾞー(´°ω°`)ーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|60|685|<span class="rank-name-pd">かとれあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|61|684|<span class="rank-name-pd">YyYy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|62|678|<span class="rank-name-pd">スグル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|63|676|<span class="rank-name-dl">たらう</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|64|673|<span class="rank-name-pd">ヨネ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|65|668|<span class="rank-name-dl">むねむねむねにく</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|66|628|<span class="rank-name-pd">初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|67|614|<span class="rank-name-pd">かい ひさみつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|68|609|<span class="rank-name-pd">( ﾟдﾟ)ﾊｯ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|69|605|<span class="rank-name-pd">♂SHINO♂投矢會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|70|601|<span class="rank-name-pd">0103 2175</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|71|591|<span class="rank-name-pd">JAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|72|588|<span class="rank-name-pd">ＬＡＮＣＥＲ・Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|73|580|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|74|577|<span class="rank-name-pd">ｼﾞｭﾝﾅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|75|576|<span class="rank-name-pd">ぷれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|76|566|<span class="rank-name-pd">免許受かりましたニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|77|565|<span class="rank-name-pd">YSM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|78|564|<span class="rank-name-pd">れいあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|79|562|<span class="rank-name-pd">仮免ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|80|553|<span class="rank-name-pd">NYU-1@SLL-41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|81|551|<span class="rank-name-pd">(｣･ω･)｣うー!(/･ω･)/にゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|81|551|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|83|547|<span class="rank-name-pd">ひょっこりはん Edition</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|84|540|<span class="rank-name-pd">免許受かりましたニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|85|533|<span class="rank-name-pd">ダメだこりゃ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|86|532|<span class="rank-name-pd">ここに入力</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|87|516|<span class="rank-name-pd">破壊神(チップ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|88|510|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|89|508|<span class="rank-name-pd">Yuika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|90|497|<span class="rank-name-pd">玲音@Trident</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|91|494|<span class="rank-name-pd">Junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|91|494|<span class="rank-name-pd">ヒーロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|93|471|<span class="rank-name-pd">Aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|94|463|<span class="rank-name-pd">鉄枝( v^-゜)♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|95|461|<span class="rank-name-pd">ブリトニー・ジーン・スピアーズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|96|452|<span class="rank-name-pd">こりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|97|447|<span class="rank-name-pd">おーりゃーー！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|98|438|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|98|438|<span class="rank-name-pd">ろくでなし。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|100|436|<span class="rank-name-pd">laula</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85808?s_seq=85808">Bar Glanzen</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,29 +133,22 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1107|<span class="rank-name-dl">@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|2|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|2|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |3|918|<span class="rank-name-dl">NYU-1</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|4|906|<span class="rank-name-dl">@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|5|884|<span class="rank-name-dl">マイケル・商談</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|6|874|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|7|871|<span class="rank-name-dl">ゆぅき@ Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|8|865|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|9|854|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|10|839|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|11|818|<span class="rank-name-dl">NYU-1</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|12|814|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|13|813|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|14|803|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|15|789|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|16|778|<span class="rank-name-dl">JAM@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|17|744|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|18|738|<span class="rank-name-dl">Tackie.@CRANE</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|19|737|<span class="rank-name-dl">トラ馬(∵`)</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|20|725|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|21|710|<span class="rank-name-dl">巣雲山＠Five0One</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|22|692|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|23|676|<span class="rank-name-dl">たらう</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|24|668|<span class="rank-name-dl">むねむねむねにく</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|4|884|<span class="rank-name-dl">マイケル・商談</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|5|874|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|6|871|<span class="rank-name-dl">ゆぅき@ Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|7|865|<span class="rank-name-dl">y.s@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|8|854|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|9|839|<span class="rank-name-dl">ゆーた@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|10|778|<span class="rank-name-dl">JAM@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|11|744|<span class="rank-name-dl">[ MINO × BULL ]</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|12|738|<span class="rank-name-dl">Tackie.@CRANE</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|13|737|<span class="rank-name-dl">トラ馬(∵`)</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|14|710|<span class="rank-name-dl">巣雲山＠Five0One</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|15|692|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|16|676|<span class="rank-name-dl">たらう</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|17|668|<span class="rank-name-dl">むねむねむねにく</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 
 
 #### PHOENIXDARTS TOP 100

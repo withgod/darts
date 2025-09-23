@@ -30,99 +30,99 @@ ___
 |5|1200|<span class="rank-name-dl">きむらゆまです</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 |5|1200|<span class="rank-name-dl">ケニー</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 |5|1200|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|5|1200|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|9|1197|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|10|1195|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|11|1167|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|12|1165|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|13|1129|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|14|1126|<span class="rank-name-pd">DMC 木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|15|1124|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|16|1123|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|17|1121|<span class="rank-name-dl">DMC木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|18|1104|<span class="rank-name-dl">kenny</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|18|1104|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|20|1101|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|21|1100|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|22|1089|<span class="rank-name-pd">TRiNiDAD木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|23|1081|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|24|1079|<span class="rank-name-dl">すがいみくと</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|25|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|25|1065|<span class="rank-name-dl">雄大選手</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|27|1048|<span class="rank-name-pd">あらた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|28|1046|<span class="rank-name-pd">z0rd35bdf3712f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|29|1042|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|30|1041|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|31|1040|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|32|1038|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|33|1036|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|34|1026|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大塚 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|35|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩浪 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|36|1006|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|37|1005|<span class="rank-name-dl">HIROKI@AT.</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|38|983|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|39|978|<span class="rank-name-dl">きよ❀˚.*✿F&amp;D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|40|969|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|41|968|<span class="rank-name-dl">づね@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|42|965|<span class="rank-name-dl">吉田 翔太</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|42|965|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|44|960|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|44|960|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|46|959|<span class="rank-name-pd">Kaito4480</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|46|959|<span class="rank-name-pd">きむねぇ(F＆D)ヽ(*´▽)ノ♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|48|958|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|49|953|<span class="rank-name-dl">酒井新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|49|953|<span class="rank-name-pd">ｺｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|51|950|<span class="rank-name-pd">三宅　恭平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|51|950|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|53|948|<span class="rank-name-dl">タカトシMAD</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|54|942|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|55|938|<span class="rank-name-pd"><span class="pro-icon-pd"></span>曽我 一真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|56|934|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|57|932|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|58|928|<span class="rank-name-dl">さとぽん@祓い中</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|59|923|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|60|921|<span class="rank-name-dl">さっちっち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|61|920|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|62|917|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|63|908|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|64|905|<span class="rank-name-pd">ちゃんきょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|65|904|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|66|898|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|67|888|<span class="rank-name-pd">HARU.F&amp;D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|67|888|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|67|888|<span class="rank-name-dl">岩瀬剛士@Take☆s</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|70|881|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|71|877|<span class="rank-name-dl">酒井 新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|72|876|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|73|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野村 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|74|868|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|75|865|<span class="rank-name-dl">まも㌠爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|76|863|<span class="rank-name-dl">τ‐ι【矢射神】</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|77|859|<span class="rank-name-pd">tk-c☆_56sk☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|78|858|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|79|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小澤 一幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|80|851|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|81|850|<span class="rank-name-pd">zkfj3a66962d73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|82|846|<span class="rank-name-pd">KNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|83|844|<span class="rank-name-pd">さっちゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|84|836|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|85|835|<span class="rank-name-dl">Mimi</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|86|832|<span class="rank-name-pd">近衞　宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|87|831|<span class="rank-name-dl">しゅっく〜ん</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|88|829|<span class="rank-name-dl">☆ KAORU ☆</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|88|829|<span class="rank-name-pd">づねa.k.aお竹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|90|827|<span class="rank-name-pd">たきり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|91|823|<span class="rank-name-dl">‎( ꒪⌓꒪)ぴー</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|91|823|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|93|821|<span class="rank-name-pd">YyYy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|94|818|<span class="rank-name-dl">もやしんご</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|95|816|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|96|815|<span class="rank-name-pd"><span class="pro-icon-pd"></span>染谷 肇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|97|814|<span class="rank-name-pd">たけうち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|98|812|<span class="rank-name-dl">YA-MAN</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|99|811|<span class="rank-name-pd">マルヤマ　ユウスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|100|806|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|8|1197|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|9|1195|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|10|1167|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|11|1165|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|12|1129|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|13|1126|<span class="rank-name-pd">DMC 木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|14|1124|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|15|1123|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|16|1121|<span class="rank-name-dl">DMC木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|17|1104|<span class="rank-name-dl">kenny</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|17|1104|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|19|1101|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|20|1100|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|21|1089|<span class="rank-name-pd">TRiNiDAD木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|22|1081|<span class="rank-name-pd">爆音☆飛鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|23|1079|<span class="rank-name-dl">すがいみくと</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|24|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|24|1065|<span class="rank-name-dl">雄大選手</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|26|1048|<span class="rank-name-pd">あらた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|27|1046|<span class="rank-name-pd">z0rd35bdf3712f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|28|1042|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|29|1041|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|30|1040|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|31|1038|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|32|1036|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|33|1026|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大塚 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|34|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩浪 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|35|1005|<span class="rank-name-dl">HIROKI@AT.</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|36|983|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|37|978|<span class="rank-name-dl">きよ❀˚.*✿F&amp;D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|38|969|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|39|968|<span class="rank-name-dl">づね@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|40|965|<span class="rank-name-dl">吉田 翔太</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|40|965|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|42|960|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|42|960|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|44|959|<span class="rank-name-pd">Kaito4480</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|44|959|<span class="rank-name-pd">きむねぇ(F＆D)ヽ(*´▽)ノ♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|46|958|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|47|953|<span class="rank-name-dl">酒井新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|47|953|<span class="rank-name-pd">ｺｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|49|950|<span class="rank-name-pd">三宅　恭平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|50|948|<span class="rank-name-dl">タカトシMAD</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|51|942|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|52|938|<span class="rank-name-pd"><span class="pro-icon-pd"></span>曽我 一真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|53|934|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|54|932|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|55|928|<span class="rank-name-dl">さとぽん@祓い中</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|56|923|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|57|921|<span class="rank-name-dl">さっちっち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|58|920|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|59|908|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|60|905|<span class="rank-name-pd">ちゃんきょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|61|904|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|62|898|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|63|888|<span class="rank-name-pd">HARU.F&amp;D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|63|888|<span class="rank-name-dl">岩瀬剛士@Take☆s</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|65|881|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|66|877|<span class="rank-name-dl">酒井 新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|67|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野村 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|68|865|<span class="rank-name-dl">まも㌠爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|69|863|<span class="rank-name-dl">τ‐ι【矢射神】</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|70|859|<span class="rank-name-pd">tk-c☆_56sk☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|71|858|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|72|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小澤 一幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|73|851|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|74|850|<span class="rank-name-pd">zkfj3a66962d73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|75|846|<span class="rank-name-pd">KNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|76|844|<span class="rank-name-pd">さっちゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|77|836|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|78|835|<span class="rank-name-dl">Mimi</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|79|832|<span class="rank-name-pd">近衞　宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|80|831|<span class="rank-name-dl">しゅっく〜ん</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|81|829|<span class="rank-name-dl">☆ KAORU ☆</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|81|829|<span class="rank-name-pd">づねa.k.aお竹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|83|827|<span class="rank-name-pd">たきり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|84|823|<span class="rank-name-dl">‎( ꒪⌓꒪)ぴー</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|84|823|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|86|821|<span class="rank-name-pd">YyYy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|87|818|<span class="rank-name-dl">もやしんご</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|88|816|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|89|815|<span class="rank-name-pd"><span class="pro-icon-pd"></span>染谷 肇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|90|814|<span class="rank-name-pd">たけうち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|91|812|<span class="rank-name-dl">YA-MAN</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|92|811|<span class="rank-name-pd">マルヤマ　ユウスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|93|806|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|94|805|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|95|803|<span class="rank-name-dl">もっこり★ﾌｼﾞﾓﾝ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|96|790|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|96|790|<span class="rank-name-pd">小池　紀之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|98|786|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|99|785|<span class="rank-name-pd">☆雄大選手☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59963?s_seq=59963">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|99|785|<span class="rank-name-dl">はると《修行中》</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -138,100 +138,100 @@ ___
 |4|1200|<span class="rank-name-dl">きむらゆまです</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 |4|1200|<span class="rank-name-dl">ケニー</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 |4|1200|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|4|1200|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|8|1197|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|9|1195|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|10|1167|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|11|1165|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|12|1129|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|13|1124|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|14|1123|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|15|1121|<span class="rank-name-dl">DMC木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|16|1104|<span class="rank-name-dl">kenny</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|16|1104|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|18|1101|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|19|1100|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|20|1079|<span class="rank-name-dl">すがいみくと</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|21|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|21|1065|<span class="rank-name-dl">雄大選手</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|23|1042|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|24|1041|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|25|1040|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|26|1038|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|27|1036|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|28|1006|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|29|1005|<span class="rank-name-dl">HIROKI@AT.</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|30|983|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|31|978|<span class="rank-name-dl">きよ❀˚.*✿F&amp;D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|32|969|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|33|968|<span class="rank-name-dl">づね@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|34|965|<span class="rank-name-dl">吉田 翔太</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|34|965|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|36|960|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|36|960|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|38|958|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|39|953|<span class="rank-name-dl">酒井新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|40|950|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|41|948|<span class="rank-name-dl">タカトシMAD</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|42|934|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|43|932|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|44|928|<span class="rank-name-dl">さとぽん@祓い中</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|45|923|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|46|921|<span class="rank-name-dl">さっちっち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|47|920|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|48|917|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|49|908|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|49|908|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|51|904|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|52|898|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|53|888|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|53|888|<span class="rank-name-dl">岩瀬剛士@Take☆s</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|55|881|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|56|877|<span class="rank-name-dl">酒井 新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|57|876|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|58|868|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|59|867|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|60|865|<span class="rank-name-dl">まも㌠爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|61|863|<span class="rank-name-dl">τ‐ι【矢射神】</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|62|858|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|63|851|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|64|835|<span class="rank-name-dl">Mimi</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|65|831|<span class="rank-name-dl">しゅっく〜ん</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|66|829|<span class="rank-name-dl">☆ KAORU ☆</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|67|823|<span class="rank-name-dl">‎( ꒪⌓꒪)ぴー</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|67|823|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|69|818|<span class="rank-name-dl">もやしんご</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|70|816|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|71|812|<span class="rank-name-dl">YA-MAN</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|72|806|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|73|805|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|74|803|<span class="rank-name-dl">もっこり★ﾌｼﾞﾓﾝ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|75|800|<span class="rank-name-dl">たきり</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|76|790|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|77|789|<span class="rank-name-dl">たけうち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|78|786|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|79|785|<span class="rank-name-dl">はると《修行中》</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|80|777|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|80|777|<span class="rank-name-dl">ゆすけ★ASTRA</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|82|775|<span class="rank-name-dl">たか爺 ༺A-1༻</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|83|772|<span class="rank-name-dl">Atsushi【投屋】</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|83|772|<span class="rank-name-dl">すけゆ。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|85|762|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|86|758|<span class="rank-name-dl">ねむねむ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|87|757|<span class="rank-name-dl">てる</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|88|746|<span class="rank-name-dl">Tackie.@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|89|744|<span class="rank-name-dl">PP星川</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|90|718|<span class="rank-name-dl">NO NAME 1430</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|91|705|<span class="rank-name-dl">MIHA.F＆D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|92|704|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|93|700|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|94|697|<span class="rank-name-dl">あーちゃん☻♨️</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|95|689|<span class="rank-name-dl">ののてぃん@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|96|685|<span class="rank-name-dl">Taka ༺投屋༻</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|97|682|<span class="rank-name-dl">shootのあやや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|98|679|<span class="rank-name-dl">もち蔵</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|99|672|<span class="rank-name-dl">Blue</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
-|100|663|<span class="rank-name-dl">Nari555</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|7|1197|<span class="rank-name-dl">須貝 未久翔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|8|1195|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|9|1167|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|10|1165|<span class="rank-name-dl">Hikawa Kenya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|11|1129|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|12|1124|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|13|1123|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|14|1121|<span class="rank-name-dl">DMC木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|15|1104|<span class="rank-name-dl">kenny</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|15|1104|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|17|1101|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|18|1100|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|19|1079|<span class="rank-name-dl">すがいみくと</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|20|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|20|1065|<span class="rank-name-dl">雄大選手</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|22|1042|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|23|1041|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|24|1040|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|25|1038|<span class="rank-name-dl">Jansaaaan</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|26|1036|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|27|1005|<span class="rank-name-dl">HIROKI@AT.</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|28|983|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|29|978|<span class="rank-name-dl">きよ❀˚.*✿F&amp;D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|30|969|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|31|968|<span class="rank-name-dl">づね@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|32|965|<span class="rank-name-dl">吉田 翔太</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|32|965|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|34|960|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|34|960|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|36|958|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|37|953|<span class="rank-name-dl">酒井新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|38|948|<span class="rank-name-dl">タカトシMAD</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|39|934|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|40|932|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|41|928|<span class="rank-name-dl">さとぽん@祓い中</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|42|923|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|43|921|<span class="rank-name-dl">さっちっち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|44|920|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|45|908|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|45|908|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|47|904|<span class="rank-name-dl">向井 研介</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|48|898|<span class="rank-name-dl">つーー@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|49|888|<span class="rank-name-dl">岩瀬剛士@Take☆s</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|50|881|<span class="rank-name-dl">ひかる@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|51|877|<span class="rank-name-dl">酒井 新大</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|52|867|<span class="rank-name-dl">Kaito4480</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|53|865|<span class="rank-name-dl">まも㌠爆音</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|54|863|<span class="rank-name-dl">τ‐ι【矢射神】</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|55|858|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|56|851|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|57|835|<span class="rank-name-dl">Mimi</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|58|831|<span class="rank-name-dl">しゅっく〜ん</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|59|829|<span class="rank-name-dl">☆ KAORU ☆</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|60|823|<span class="rank-name-dl">‎( ꒪⌓꒪)ぴー</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|60|823|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|62|818|<span class="rank-name-dl">もやしんご</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|63|816|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|64|812|<span class="rank-name-dl">YA-MAN</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|65|806|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|66|805|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|67|803|<span class="rank-name-dl">もっこり★ﾌｼﾞﾓﾝ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|68|800|<span class="rank-name-dl">たきり</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|69|790|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|70|789|<span class="rank-name-dl">たけうち</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|71|786|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|72|785|<span class="rank-name-dl">はると《修行中》</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|73|777|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|73|777|<span class="rank-name-dl">ゆすけ★ASTRA</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|75|775|<span class="rank-name-dl">たか爺 ༺A-1༻</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|76|772|<span class="rank-name-dl">Atsushi【投屋】</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|76|772|<span class="rank-name-dl">すけゆ。</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|78|762|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|79|758|<span class="rank-name-dl">ねむねむ</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|80|757|<span class="rank-name-dl">てる</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|81|746|<span class="rank-name-dl">Tackie.@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|82|744|<span class="rank-name-dl">PP星川</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|83|718|<span class="rank-name-dl">NO NAME 1430</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|84|705|<span class="rank-name-dl">MIHA.F＆D</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|85|704|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|86|700|<span class="rank-name-dl">kanaKO</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|87|697|<span class="rank-name-dl">あーちゃん☻♨️</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|88|689|<span class="rank-name-dl">ののてぃん@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|89|685|<span class="rank-name-dl">Taka ༺投屋༻</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|90|682|<span class="rank-name-dl">shootのあやや</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|91|679|<span class="rank-name-dl">もち蔵</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|92|672|<span class="rank-name-dl">Blue</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|93|663|<span class="rank-name-dl">Nari555</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|94|662|<span class="rank-name-dl">∞ VIN ∞</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|95|638|<span class="rank-name-dl">♪Matsuri♪</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|96|636|<span class="rank-name-dl">しのぶ♪SAD</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|97|635|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|98|628|<span class="rank-name-dl">☆みゆき☆</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|99|625|<span class="rank-name-dl">Souu@奥さん</span>|<a href="https://search.dartslive.com/jp/shop/896a9ecbdfc59e740d9b047a20a7ba1e">F&D</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
+|100|605|<span class="rank-name-dl">ひっくん☻♨️</span>|<a href="https://search.dartslive.com/jp/shop/23529ea88f03a59a0d9b047a20a7ba1e">真鶴ピザ食堂KENNY</a>|<a href="/darts/rank/神奈川県/足柄下郡">神奈川県足柄下郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

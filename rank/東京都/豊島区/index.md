@@ -31,7 +31,7 @@ ___
 |5|1200|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/f41fe9d28395fd190d9b047a20a7ba1e">Bee IKEBUKURO WEST</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |5|1200|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |5|1200|<span class="rank-name-dl">少年A</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|5|1200|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店 MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|5|1200|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |10|1172|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |11|1170|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/1d85478fab5ca485fec1ae84bb28bd87">自遊空間 池袋西口ROSA店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |12|1169|<span class="rank-name-dl">MASA+ﾓｯﾄﾓ/BBQ</span>|<a href="https://search.dartslive.com/jp/shop/4718ccffebd285a60d9b047a20a7ba1e">Billiard&Darts Hide Out 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -39,7 +39,7 @@ ___
 |14|1168|<span class="rank-name-dl">ひぐひぐTARGET</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |15|1167|<span class="rank-name-pd">David Dada</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10210?s_seq=10210">ダーツスタジアム 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |16|1166|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|17|1165|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9 NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|17|1165|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |18|1164|<span class="rank-name-dl">㍻の☆ナオペン☆</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |19|1163|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |20|1161|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -58,7 +58,7 @@ ___
 |32|1146|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |34|1144|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |35|1141|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|35|1141|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店 Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|35|1141|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |37|1140|<span class="rank-name-pd">大和久明彦TRIPLEIGHT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92975?s_seq=92975">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |37|1140|<span class="rank-name-dl">ＭＡИ@S-Darts</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |39|1139|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -77,7 +77,7 @@ ___
 |52|1132|<span class="rank-name-dl">うりぼし</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |52|1132|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |54|1131|<span class="rank-name-dl">ゆうや</span>|<a href="https://search.dartslive.com/jp/shop/e8a42605200897f00d9b047a20a7ba1e">NORTH. T DARTS</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|55|1130|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店 NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|55|1130|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |55|1130|<span class="rank-name-dl">岩村 明奈</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |57|1129|<span class="rank-name-dl">K-TA☆aobozu</span>|<a href="https://search.dartslive.com/jp/shop/e86812d441783ab00d9b047a20a7ba1e">ラウンドワン池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |57|1129|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -96,7 +96,7 @@ ___
 |70|1125|<span class="rank-name-dl">いる2@ICЁ</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |70|1125|<span class="rank-name-dl">松山 哲士</span>|<a href="https://search.dartslive.com/jp/shop/41f63fa5db1ed72258d385ea46352d8f">B2</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |70|1125|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/3a1825974d0b92eb">Bee IKEBUKURO</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|74|1124|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店 べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|74|1124|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |74|1124|<span class="rank-name-dl">ｷﾞｬﾗﾄﾞｽ@ｺﾙｺﾐﾅﾗｲ</span>|<a href="https://search.dartslive.com/jp/shop/9e50e2f80ce4f57f0d9b047a20a7ba1e">大塚 Sports&Darts BlueBlack</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |76|1123|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |76|1123|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/e86812d441783ab00d9b047a20a7ba1e">ラウンドワン池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -104,7 +104,7 @@ ___
 |76|1123|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/ccb1e6c6835a16af0d9b047a20a7ba1e">Darts&SportsBar O-bit</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |76|1123|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/3a1825974d0b92eb">Bee IKEBUKURO</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |76|1123|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/ccb1e6c6835a16af0d9b047a20a7ba1e">Darts&SportsBar O-bit</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|76|1123|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店 DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|76|1123|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |83|1122|<span class="rank-name-pd">MYK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10210?s_seq=10210">ダーツスタジアム 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |84|1121|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |84|1121|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -120,7 +120,7 @@ ___
 |93|1118|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 伸大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10210?s_seq=10210">ダーツスタジアム 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |96|1117|<span class="rank-name-dl">L-style 2023 sp</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |96|1117|<span class="rank-name-pd">あかみそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10210?s_seq=10210">ダーツスタジアム 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|96|1117|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店 べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|96|1117|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |99|1116|<span class="rank-name-pd">たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10210?s_seq=10210">ダーツスタジアム 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |100|1115|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/48b9bb0566c5970a25d56fb0e5c39bac">UP巣鴨</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 
@@ -139,14 +139,14 @@ ___
 |4|1200|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/f41fe9d28395fd190d9b047a20a7ba1e">Bee IKEBUKURO WEST</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |4|1200|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |4|1200|<span class="rank-name-dl">少年A</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|4|1200|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店 MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|4|1200|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |9|1172|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |10|1170|<span class="rank-name-dl">kawa</span>|<a href="https://search.dartslive.com/jp/shop/1d85478fab5ca485fec1ae84bb28bd87">自遊空間 池袋西口ROSA店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |11|1169|<span class="rank-name-dl">MASA+ﾓｯﾄﾓ/BBQ</span>|<a href="https://search.dartslive.com/jp/shop/4718ccffebd285a60d9b047a20a7ba1e">Billiard&Darts Hide Out 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |11|1169|<span class="rank-name-dl">ギン×FAITH</span>|<a href="https://search.dartslive.com/jp/shop/9e50e2f80ce4f57f0d9b047a20a7ba1e">大塚 Sports&Darts BlueBlack</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |13|1168|<span class="rank-name-dl">ひぐひぐTARGET</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |14|1166|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|15|1165|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9 NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|15|1165|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |16|1164|<span class="rank-name-dl">㍻の☆ナオペン☆</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |17|1163|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |18|1161|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -163,7 +163,7 @@ ___
 |28|1146|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |30|1144|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |31|1141|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/7699478e9e21d3840d9b047a20a7ba1e">NATURAL 9</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|31|1141|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店 Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|31|1141|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |33|1140|<span class="rank-name-dl">ＭＡИ@S-Darts</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |34|1139|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |35|1138|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -179,7 +179,7 @@ ___
 |45|1132|<span class="rank-name-dl">うりぼし</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |45|1132|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |47|1131|<span class="rank-name-dl">ゆうや</span>|<a href="https://search.dartslive.com/jp/shop/e8a42605200897f00d9b047a20a7ba1e">NORTH. T DARTS</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|48|1130|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店 NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|48|1130|<span class="rank-name-dl">きーくん :)</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |48|1130|<span class="rank-name-dl">岩村 明奈</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |50|1129|<span class="rank-name-dl">K-TA☆aobozu</span>|<a href="https://search.dartslive.com/jp/shop/e86812d441783ab00d9b047a20a7ba1e">ラウンドワン池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |50|1129|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -196,7 +196,7 @@ ___
 |61|1125|<span class="rank-name-dl">いる2@ICЁ</span>|<a href="https://search.dartslive.com/jp/shop/33fd33943b479d090d9b047a20a7ba1e">TOKYO DARTS STADIUM 池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |61|1125|<span class="rank-name-dl">松山 哲士</span>|<a href="https://search.dartslive.com/jp/shop/41f63fa5db1ed72258d385ea46352d8f">B2</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |61|1125|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/3a1825974d0b92eb">Bee IKEBUKURO</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|65|1124|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店 べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|65|1124|<span class="rank-name-dl">aryystk</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |65|1124|<span class="rank-name-dl">ｷﾞｬﾗﾄﾞｽ@ｺﾙｺﾐﾅﾗｲ</span>|<a href="https://search.dartslive.com/jp/shop/9e50e2f80ce4f57f0d9b047a20a7ba1e">大塚 Sports&Darts BlueBlack</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |67|1123|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |67|1123|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/e86812d441783ab00d9b047a20a7ba1e">ラウンドワン池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -204,7 +204,7 @@ ___
 |67|1123|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/ccb1e6c6835a16af0d9b047a20a7ba1e">Darts&SportsBar O-bit</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |67|1123|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/3a1825974d0b92eb">Bee IKEBUKURO</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |67|1123|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/ccb1e6c6835a16af0d9b047a20a7ba1e">Darts&SportsBar O-bit</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|67|1123|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店 DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|67|1123|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |74|1121|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |74|1121|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |74|1121|<span class="rank-name-dl">佐藤 謙佑</span>|<a href="https://search.dartslive.com/jp/shop/0c83039c50b7212a0d9b047a20a7ba1e">BAGUS-バグース-池袋</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -214,7 +214,7 @@ ___
 |80|1118|<span class="rank-name-dl">F.F.R.</span>|<a href="https://search.dartslive.com/jp/shop/7140e814756376980d9b047a20a7ba1e">MineSpace池袋北口店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |80|1118|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/3a1825974d0b92eb">Bee IKEBUKURO</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |82|1117|<span class="rank-name-dl">L-style 2023 sp</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|82|1117|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店 べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|82|1117|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |84|1115|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/48b9bb0566c5970a25d56fb0e5c39bac">UP巣鴨</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |85|1114|<span class="rank-name-dl">Junpei Nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/2aa3a4f55ec0be5f0d9b047a20a7ba1e">LeaD</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |85|1114|<span class="rank-name-dl">K-TA☆藍坊主</span>|<a href="https://search.dartslive.com/jp/shop/e86812d441783ab00d9b047a20a7ba1e">ラウンドワン池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
@@ -223,14 +223,14 @@ ___
 |88|1113|<span class="rank-name-dl">ばさし</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |88|1113|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/f41fe9d28395fd190d9b047a20a7ba1e">Bee IKEBUKURO WEST</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |91|1111|<span class="rank-name-dl">MYK</span>|<a href="https://search.dartslive.com/jp/shop/b64d4d0adf4851cf790ab824ce8730e5">DiCE池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|91|1111|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/5f128a3dece28813790ab824ce8730e5">B-GARAGE 池袋西口駅前店 B-GARAGE 池袋西口駅前店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|91|1111|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/5f128a3dece28813790ab824ce8730e5">B-GARAGE 池袋西口駅前店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |91|1111|<span class="rank-name-dl">ふ〜が 36㌶ 男性</span>|<a href="https://search.dartslive.com/jp/shop/9910fa0e86803b9b0d9b047a20a7ba1e">べろ～家 巣鴨店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |91|1111|<span class="rank-name-dl">植草 竜也</span>|<a href="https://search.dartslive.com/jp/shop/4718ccffebd285a60d9b047a20a7ba1e">Billiard&Darts Hide Out 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |95|1110|<span class="rank-name-dl">はっとり❤️CH</span>|<a href="https://search.dartslive.com/jp/shop/f41fe9d28395fd190d9b047a20a7ba1e">Bee IKEBUKURO WEST</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |96|1109|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/16bea65440fad0730d9b047a20a7ba1e">NATURAL NINE立教通り店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |96|1109|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/5f128a3dece28813790ab824ce8730e5">B-GARAGE 池袋西口駅前店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |96|1109|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/1678831bf8dbab330d9b047a20a7ba1e">Bully's 池袋店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
-|99|1108|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1d85478fab5ca485fec1ae84bb28bd87">自遊空間 池袋西口ROSA店 自遊空間 池袋西口ROSA店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
+|99|1108|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1d85478fab5ca485fec1ae84bb28bd87">自遊空間 池袋西口ROSA店</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 |99|1108|<span class="rank-name-dl">けーた BlueBlack</span>|<a href="https://search.dartslive.com/jp/shop/9e50e2f80ce4f57f0d9b047a20a7ba1e">大塚 Sports&Darts BlueBlack</a>|<a href="/darts/rank/東京都/豊島区">東京都豊島区</a>|
 
 

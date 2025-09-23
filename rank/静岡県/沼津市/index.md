@@ -28,101 +28,101 @@ ___
 |3|1129|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |3|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |5|1122|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|6|1120|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|7|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|8|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|9|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|10|1094|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|11|1087|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|12|1083|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|13|1076|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|14|1073|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|15|1071|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|16|1067|<span class="rank-name-pd">玄ちゃん  abaca.*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|17|1064|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|18|1063|<span class="rank-name-dl">YTR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|19|1057|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|19|1057|<span class="rank-name-pd">一般人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|21|1048|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|22|1041|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|23|1038|<span class="rank-name-dl">その辺の一般人</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|24|1037|<span class="rank-name-pd">Kø-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|24|1037|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|26|1023|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|27|1017|<span class="rank-name-dl">キャッチ安太郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|28|1016|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|29|1010|<span class="rank-name-pd">髙橋 亮【ぶる】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|30|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|31|1008|<span class="rank-name-pd">DMC木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|32|1005|<span class="rank-name-pd">オノレット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|33|1002|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|34|1001|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|35|988|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|36|987|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|37|986|<span class="rank-name-pd">ちゃんきょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|38|985|<span class="rank-name-dl">４Ｎ１(TENGO)</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|39|983|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|40|979|<span class="rank-name-pd">HAY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|40|979|<span class="rank-name-pd">颷床　 malm</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|42|975|<span class="rank-name-pd">杉山裕規！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|43|973|<span class="rank-name-dl">U-t@34</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|44|972|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|44|972|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|46|970|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|47|969|<span class="rank-name-pd">杉山裕規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|47|969|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|49|968|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|50|965|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|50|965|<span class="rank-name-pd">静岡ウサビッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|52|962|<span class="rank-name-pd">たけうちっちきちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|53|961|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|53|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|55|960|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|56|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|57|958|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|58|956|<span class="rank-name-pd">KNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|59|954|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|60|953|<span class="rank-name-dl">あ～る</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|61|950|<span class="rank-name-pd">河上 凌弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|62|949|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|63|948|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|64|947|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|65|942|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|65|942|<span class="rank-name-pd">三間 紀之＠カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|67|939|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|68|935|<span class="rank-name-dl">Riku ごごてぃー</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|69|934|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|69|934|<span class="rank-name-dl">I☆uninc@㌧㌧㌍</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|71|933|<span class="rank-name-dl">TIL</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|72|928|<span class="rank-name-pd">HkR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|72|928|<span class="rank-name-dl">あんどー、</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|72|928|<span class="rank-name-dl">ピストン江上??</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|75|927|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|76|924|<span class="rank-name-pd">☆Tor@☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|77|923|<span class="rank-name-dl">KiWA</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|77|923|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|79|921|<span class="rank-name-pd">ゆーきっ！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|80|920|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|80|920|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|82|918|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|83|916|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|84|912|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|85|909|<span class="rank-name-pd">赤福</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|85|909|<span class="rank-name-dl">ＢＧ</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|87|908|<span class="rank-name-pd">I☆uninc@㌧㌧㌍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|88|907|<span class="rank-name-pd">しんやです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|89|906|<span class="rank-name-dl">LR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|90|905|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|91|904|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|91|904|<span class="rank-name-dl">しょ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|93|903|<span class="rank-name-dl">かくろう@PStradY</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|94|902|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|95|901|<span class="rank-name-dl">000</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|95|901|<span class="rank-name-dl">кепт♧</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|97|896|<span class="rank-name-dl">ｴﾉﾑﾄｻｸｲﾏｷ＠天鱗</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|98|891|<span class="rank-name-dl">Masaya”La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|99|890|<span class="rank-name-dl">せーはっち</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|100|889|<span class="rank-name-dl">NO NAME 6671</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|6|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|7|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|8|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|9|1094|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|10|1087|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|11|1083|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|12|1076|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|13|1073|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|14|1071|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|15|1067|<span class="rank-name-pd">玄ちゃん  abaca.*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|16|1064|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|17|1063|<span class="rank-name-dl">YTR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|18|1057|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|18|1057|<span class="rank-name-pd">一般人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|20|1048|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|21|1041|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|22|1038|<span class="rank-name-dl">その辺の一般人</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|23|1037|<span class="rank-name-pd">Kø-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|23|1037|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|25|1023|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|26|1017|<span class="rank-name-dl">キャッチ安太郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|27|1016|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|28|1010|<span class="rank-name-pd">髙橋 亮【ぶる】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|29|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|30|1008|<span class="rank-name-pd">DMC木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|31|1005|<span class="rank-name-pd">オノレット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|32|1002|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|33|1001|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|34|988|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|35|986|<span class="rank-name-pd">ちゃんきょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|36|985|<span class="rank-name-dl">４Ｎ１(TENGO)</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|37|983|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|38|979|<span class="rank-name-pd">HAY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|38|979|<span class="rank-name-pd">颷床　 malm</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|40|975|<span class="rank-name-pd">杉山裕規！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|41|973|<span class="rank-name-dl">U-t@34</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|42|972|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|43|970|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|44|969|<span class="rank-name-pd">杉山裕規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|44|969|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|46|968|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|47|965|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|47|965|<span class="rank-name-pd">静岡ウサビッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|49|962|<span class="rank-name-pd">たけうちっちきちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|50|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|51|960|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|52|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|53|958|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|54|956|<span class="rank-name-pd">KNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|55|954|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|56|953|<span class="rank-name-dl">あ～る</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|57|950|<span class="rank-name-pd">河上 凌弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|58|949|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|59|948|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|60|947|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|61|942|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|61|942|<span class="rank-name-pd">三間 紀之＠カエル団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|63|939|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|64|935|<span class="rank-name-dl">Riku ごごてぃー</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|65|934|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|65|934|<span class="rank-name-dl">I☆uninc@㌧㌧㌍</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|67|933|<span class="rank-name-dl">TIL</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|68|928|<span class="rank-name-pd">HkR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|68|928|<span class="rank-name-dl">あんどー、</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|68|928|<span class="rank-name-dl">ピストン江上??</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|71|927|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|72|924|<span class="rank-name-pd">☆Tor@☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|73|923|<span class="rank-name-dl">KiWA</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|73|923|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|75|921|<span class="rank-name-pd">ゆーきっ！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|76|920|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|76|920|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|78|918|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|79|916|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|80|912|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|81|909|<span class="rank-name-pd">赤福</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|81|909|<span class="rank-name-dl">ＢＧ</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|83|908|<span class="rank-name-pd">I☆uninc@㌧㌧㌍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|84|907|<span class="rank-name-pd">しんやです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|85|906|<span class="rank-name-dl">LR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|86|905|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|87|904|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|87|904|<span class="rank-name-dl">しょ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|89|903|<span class="rank-name-dl">かくろう@PStradY</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|90|902|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|91|901|<span class="rank-name-dl">000</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|91|901|<span class="rank-name-dl">кепт♧</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|93|896|<span class="rank-name-dl">ｴﾉﾑﾄｻｸｲﾏｷ＠天鱗</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|94|891|<span class="rank-name-dl">Masaya”La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|95|890|<span class="rank-name-dl">せーはっち</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|96|889|<span class="rank-name-dl">NO NAME 6671</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|97|888|<span class="rank-name-pd">シンクン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95696?s_seq=95696">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|98|884|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|99|883|<span class="rank-name-pd">味浜(´Д`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|99|883|<span class="rank-name-pd">麻婆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,104 +134,104 @@ ___
 |---|---|---|---|---|
 |1|1129|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |2|1122|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|3|1120|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|4|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|5|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|6|1094|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|7|1083|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|8|1073|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|9|1071|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|10|1064|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|11|1063|<span class="rank-name-dl">YTR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|12|1057|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|13|1048|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|14|1041|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|15|1038|<span class="rank-name-dl">その辺の一般人</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|16|1037|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|17|1023|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|18|1017|<span class="rank-name-dl">キャッチ安太郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|19|1016|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|20|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|21|1001|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|22|988|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|23|987|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|24|985|<span class="rank-name-dl">４Ｎ１(TENGO)</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|25|983|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|26|973|<span class="rank-name-dl">U-t@34</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|27|972|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|27|972|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|29|970|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|30|969|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|31|961|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|32|960|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|33|958|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|34|954|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|35|953|<span class="rank-name-dl">あ～る</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|36|948|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|37|947|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|38|942|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|39|939|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|40|935|<span class="rank-name-dl">Riku ごごてぃー</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|41|934|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|41|934|<span class="rank-name-dl">I☆uninc@㌧㌧㌍</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|43|933|<span class="rank-name-dl">TIL</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|44|928|<span class="rank-name-dl">あんどー、</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|44|928|<span class="rank-name-dl">ピストン江上??</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|46|927|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|47|923|<span class="rank-name-dl">KiWA</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|47|923|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|49|920|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|49|920|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|51|916|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|52|912|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|53|909|<span class="rank-name-dl">ＢＧ</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|54|906|<span class="rank-name-dl">LR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|55|905|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|56|904|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|56|904|<span class="rank-name-dl">しょ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|58|903|<span class="rank-name-dl">かくろう@PStradY</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|59|902|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|60|901|<span class="rank-name-dl">000</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|60|901|<span class="rank-name-dl">кепт♧</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|62|896|<span class="rank-name-dl">ｴﾉﾑﾄｻｸｲﾏｷ＠天鱗</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|63|891|<span class="rank-name-dl">Masaya”La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|64|890|<span class="rank-name-dl">せーはっち</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|65|889|<span class="rank-name-dl">NO NAME 6671</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|66|884|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|66|884|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|68|881|<span class="rank-name-dl">赤福</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|69|871|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|70|868|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|70|868|<span class="rank-name-dl">【頷】中沢 圭吾</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|72|867|<span class="rank-name-dl">KZY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|72|867|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|74|866|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|75|864|<span class="rank-name-dl">きつね</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|76|863|<span class="rank-name-dl">ゆーご</span>|<a href="https://search.dartslive.com/jp/shop/bb5eaf3fcc02e7500d9b047a20a7ba1e">カラオケ&ダーツバー Owl カラオケ&ダーツバー Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|77|860|<span class="rank-name-dl">きわー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|77|860|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/bb5eaf3fcc02e7500d9b047a20a7ba1e">カラオケ&ダーツバー Owl カラオケ&ダーツバー Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|79|857|<span class="rank-name-dl">じゃがいも！</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|80|854|<span class="rank-name-dl">颷床　 malm</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|81|852|<span class="rank-name-dl">NO NAME 2167</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|82|851|<span class="rank-name-dl">I☆uninc@㌧㌧㌍</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|82|851|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|84|845|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|84|845|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|84|845|<span class="rank-name-dl">髙槻燿太 La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|87|843|<span class="rank-name-dl">sen</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|88|842|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|89|841|<span class="rank-name-dl">NO NAME 6671</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店 メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|90|833|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|91|825|<span class="rank-name-dl">赤福</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|92|824|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|93|822|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|94|821|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|94|821|<span class="rank-name-dl">じゃがいも！</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|96|818|<span class="rank-name-dl">ケイ OTA 社畜</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|97|816|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/f81e935bafb2cd8b0d9b047a20a7ba1e">アイ・カフェ沼津ラクーン店 アイ・カフェ沼津ラクーン店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|98|815|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店 メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|99|814|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|100|813|<span class="rank-name-dl">♪Weljenic※S♪</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|3|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|4|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|5|1094|<span class="rank-name-dl">HAY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|6|1083|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|7|1073|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|8|1071|<span class="rank-name-dl">Nukky【abaca.*】</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|9|1064|<span class="rank-name-dl">山梨　裕介</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|10|1063|<span class="rank-name-dl">YTR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|11|1057|<span class="rank-name-dl">こー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|12|1048|<span class="rank-name-dl">俺、拓馬</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|13|1041|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|14|1038|<span class="rank-name-dl">その辺の一般人</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|15|1037|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|16|1023|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|17|1017|<span class="rank-name-dl">キャッチ安太郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|18|1016|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|19|1009|<span class="rank-name-dl">味浜</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|20|1001|<span class="rank-name-dl">HKR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|21|988|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|22|985|<span class="rank-name-dl">４Ｎ１(TENGO)</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|23|983|<span class="rank-name-dl">ちゃんきょう</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|24|973|<span class="rank-name-dl">U-t@34</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|25|972|<span class="rank-name-dl">自虐的敗北者</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|26|970|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|27|969|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|28|960|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|29|958|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|30|954|<span class="rank-name-dl">☆TOR@☆</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|31|953|<span class="rank-name-dl">あ～る</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|32|948|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|33|947|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|34|942|<span class="rank-name-dl">三間 紀之@ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|35|939|<span class="rank-name-dl">朔-saku-</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|36|935|<span class="rank-name-dl">Riku ごごてぃー</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|37|934|<span class="rank-name-dl">Donchan@カエル団</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|37|934|<span class="rank-name-dl">I☆uninc@㌧㌧㌍</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|39|933|<span class="rank-name-dl">TIL</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|40|928|<span class="rank-name-dl">あんどー、</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|40|928|<span class="rank-name-dl">ピストン江上??</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|42|927|<span class="rank-name-dl">きはら</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|43|923|<span class="rank-name-dl">KiWA</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|43|923|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|45|920|<span class="rank-name-dl">たまごん</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|45|920|<span class="rank-name-dl">アルレッキーノ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|47|916|<span class="rank-name-dl">俺、秀康</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|48|912|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|49|909|<span class="rank-name-dl">ＢＧ</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|50|906|<span class="rank-name-dl">LR</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|51|905|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|52|904|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|52|904|<span class="rank-name-dl">しょ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|54|903|<span class="rank-name-dl">かくろう@PStradY</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|55|902|<span class="rank-name-dl">三宅 恭平</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|56|901|<span class="rank-name-dl">000</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|56|901|<span class="rank-name-dl">кепт♧</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|58|896|<span class="rank-name-dl">ｴﾉﾑﾄｻｸｲﾏｷ＠天鱗</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|59|891|<span class="rank-name-dl">Masaya”La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|60|890|<span class="rank-name-dl">せーはっち</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|61|889|<span class="rank-name-dl">NO NAME 6671</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|62|884|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|63|881|<span class="rank-name-dl">赤福</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|64|871|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|65|868|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|65|868|<span class="rank-name-dl">【頷】中沢 圭吾</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|67|867|<span class="rank-name-dl">KZY</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|67|867|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|69|866|<span class="rank-name-dl">よーたらしーど</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|70|864|<span class="rank-name-dl">きつね</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|71|863|<span class="rank-name-dl">ゆーご</span>|<a href="https://search.dartslive.com/jp/shop/bb5eaf3fcc02e7500d9b047a20a7ba1e">カラオケ&ダーツバー Owl カラオケ&ダーツバー Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|72|860|<span class="rank-name-dl">きわー</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|72|860|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/bb5eaf3fcc02e7500d9b047a20a7ba1e">カラオケ&ダーツバー Owl カラオケ&ダーツバー Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|74|857|<span class="rank-name-dl">じゃがいも！</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|75|854|<span class="rank-name-dl">颷床　 malm</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|76|852|<span class="rank-name-dl">NO NAME 2167</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|77|851|<span class="rank-name-dl">あっきー？</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|78|845|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|78|845|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|78|845|<span class="rank-name-dl">髙槻燿太 La.Seed</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|81|843|<span class="rank-name-dl">sen</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|82|842|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|83|833|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|84|824|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|85|822|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|86|821|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|86|821|<span class="rank-name-dl">じゃがいも！</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|88|818|<span class="rank-name-dl">ケイ OTA 社畜</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|89|816|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/f81e935bafb2cd8b0d9b047a20a7ba1e">アイ・カフェ沼津ラクーン店 アイ・カフェ沼津ラクーン店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|90|815|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|91|814|<span class="rank-name-dl">Masuda Kazuya</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|92|813|<span class="rank-name-dl">♪Weljenic※S♪</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|93|811|<span class="rank-name-dl">AK29</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|94|805|<span class="rank-name-dl">山本山本山本山本</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|95|797|<span class="rank-name-dl">Mappon</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|96|796|<span class="rank-name-dl">クロ</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|97|794|<span class="rank-name-dl">アール</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|98|790|<span class="rank-name-dl">河上 凌弥</span>|<a href="https://search.dartslive.com/jp/shop/bb5eaf3fcc02e7500d9b047a20a7ba1e">カラオケ&ダーツバー Owl カラオケ&ダーツバー Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|99|784|<span class="rank-name-dl">MOTO</span>|<a href="https://search.dartslive.com/jp/shop/0ee387e6a0507db828032249b44395af">Sports＆Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|100|780|<span class="rank-name-dl">ぽるぽる</span>|<a href="https://search.dartslive.com/jp/shop/1721d2245892a9e40d9b047a20a7ba1e">メディアカフェポパイ 沼津駅南口店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 
 
 #### PHOENIXDARTS TOP 100

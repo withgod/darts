@@ -27,7 +27,7 @@ ___
 |2|878|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |3|869|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |4|794|<span class="rank-name-dl">ニャッキ（ll ）</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|5|788|<span class="rank-name-dl">#Hash</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|5|788|<span class="rank-name-dl">#Hash</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |6|776|<span class="rank-name-dl">All is vanity.</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |7|775|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |8|753|<span class="rank-name-dl">NO NAME 5873</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
@@ -46,11 +46,11 @@ ___
 |21|644|<span class="rank-name-dl">私がゴマキ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |22|642|<span class="rank-name-dl">Tsubame@joker</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |23|636|<span class="rank-name-dl">ナメクジ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|24|630|<span class="rank-name-dl">Tsubame@Glanz</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|24|630|<span class="rank-name-dl">Tsubame@Glanz</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |25|627|<span class="rank-name-dl">ひびきち</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|26|621|<span class="rank-name-dl">Ruka</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|26|621|<span class="rank-name-dl">Ruka</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |27|617|<span class="rank-name-dl">NO NAME 7665</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|27|617|<span class="rank-name-dl">chousogabe</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|27|617|<span class="rank-name-dl">chousogabe</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |29|616|<span class="rank-name-dl">いぬっころ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |30|614|<span class="rank-name-dl">ゆうさく</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |31|611|<span class="rank-name-dl">NO NAME 3729</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
@@ -69,32 +69,29 @@ ___
 |43|573|<span class="rank-name-dl">Armamenter</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |43|573|<span class="rank-name-dl">Ns.Y</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |46|569|<span class="rank-name-dl">ruu</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|47|563|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|47|563|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |48|562|<span class="rank-name-dl">きょうすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |49|556|<span class="rank-name-dl">kussy</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |50|555|<span class="rank-name-dl">NO NAME 3575</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |51|546|<span class="rank-name-dl">なでしこ♡</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|52|539|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|52|539|<span class="rank-name-dl">NO NAME 5016</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|54|531|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|55|525|<span class="rank-name-dl">なでしこ♡</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|56|507|<span class="rank-name-dl">UR</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|56|507|<span class="rank-name-dl">翔吾☆チョロ塚</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|58|502|<span class="rank-name-dl">☆　夜空.Ｍ　☆</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|59|500|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|60|498|<span class="rank-name-dl">Anmi717</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|60|498|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|62|478|<span class="rank-name-dl">HINANO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|63|474|<span class="rank-name-dl">towa</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|64|456|<span class="rank-name-dl">MASATO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|65|453|<span class="rank-name-dl">めるぽん</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|66|452|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|67|444|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|68|430|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|69|427|<span class="rank-name-dl">えらー</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|70|365|<span class="rank-name-dl">ATLAS</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|71|330|<span class="rank-name-dl">NO NAME 3758</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|72|306|<span class="rank-name-dl">あまちゃん@hide</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|52|531|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|53|507|<span class="rank-name-dl">UR</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|53|507|<span class="rank-name-dl">翔吾☆チョロ塚</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|55|502|<span class="rank-name-dl">☆　夜空.Ｍ　☆</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|56|500|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|57|498|<span class="rank-name-dl">Anmi717</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|57|498|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|59|478|<span class="rank-name-dl">HINANO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|60|474|<span class="rank-name-dl">towa</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|61|456|<span class="rank-name-dl">MASATO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|62|453|<span class="rank-name-dl">めるぽん</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|63|452|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|64|444|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|65|430|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|66|427|<span class="rank-name-dl">えらー</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|67|365|<span class="rank-name-dl">ATLAS</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|68|330|<span class="rank-name-dl">NO NAME 3758</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|69|306|<span class="rank-name-dl">あまちゃん@hide</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -108,7 +105,7 @@ ___
 |2|878|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |3|869|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |4|794|<span class="rank-name-dl">ニャッキ（ll ）</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|5|788|<span class="rank-name-dl">#Hash</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|5|788|<span class="rank-name-dl">#Hash</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |6|776|<span class="rank-name-dl">All is vanity.</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |7|775|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |8|753|<span class="rank-name-dl">NO NAME 5873</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
@@ -127,11 +124,11 @@ ___
 |21|644|<span class="rank-name-dl">私がゴマキ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |22|642|<span class="rank-name-dl">Tsubame@joker</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |23|636|<span class="rank-name-dl">ナメクジ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|24|630|<span class="rank-name-dl">Tsubame@Glanz</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|24|630|<span class="rank-name-dl">Tsubame@Glanz</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |25|627|<span class="rank-name-dl">ひびきち</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|26|621|<span class="rank-name-dl">Ruka</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|26|621|<span class="rank-name-dl">Ruka</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |27|617|<span class="rank-name-dl">NO NAME 7665</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|27|617|<span class="rank-name-dl">chousogabe</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|27|617|<span class="rank-name-dl">chousogabe</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |29|616|<span class="rank-name-dl">いぬっころ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |30|614|<span class="rank-name-dl">ゆうさく</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |31|611|<span class="rank-name-dl">NO NAME 3729</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
@@ -150,32 +147,29 @@ ___
 |43|573|<span class="rank-name-dl">Armamenter</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |43|573|<span class="rank-name-dl">Ns.Y</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |46|569|<span class="rank-name-dl">ruu</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|47|563|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|47|563|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |48|562|<span class="rank-name-dl">きょうすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |49|556|<span class="rank-name-dl">kussy</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |50|555|<span class="rank-name-dl">NO NAME 3575</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 |51|546|<span class="rank-name-dl">なでしこ♡</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|52|539|<span class="rank-name-dl">3214</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|52|539|<span class="rank-name-dl">NO NAME 5016</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|54|531|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|55|525|<span class="rank-name-dl">なでしこ♡</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ 大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|56|507|<span class="rank-name-dl">UR</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|56|507|<span class="rank-name-dl">翔吾☆チョロ塚</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|58|502|<span class="rank-name-dl">☆　夜空.Ｍ　☆</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|59|500|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|60|498|<span class="rank-name-dl">Anmi717</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|60|498|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|62|478|<span class="rank-name-dl">HINANO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|63|474|<span class="rank-name-dl">towa</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|64|456|<span class="rank-name-dl">MASATO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|65|453|<span class="rank-name-dl">めるぽん</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|66|452|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|67|444|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|68|430|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|69|427|<span class="rank-name-dl">えらー</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|70|365|<span class="rank-name-dl">ATLAS</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|71|330|<span class="rank-name-dl">NO NAME 3758</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
-|72|306|<span class="rank-name-dl">あまちゃん@hide</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|52|531|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|53|507|<span class="rank-name-dl">UR</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|53|507|<span class="rank-name-dl">翔吾☆チョロ塚</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|55|502|<span class="rank-name-dl">☆　夜空.Ｍ　☆</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|56|500|<span class="rank-name-dl">のすけ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|57|498|<span class="rank-name-dl">Anmi717</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|57|498|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|59|478|<span class="rank-name-dl">HINANO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|60|474|<span class="rank-name-dl">towa</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|61|456|<span class="rank-name-dl">MASATO</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|62|453|<span class="rank-name-dl">めるぽん</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|63|452|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|64|444|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|65|430|<span class="rank-name-dl">kyuum</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|66|427|<span class="rank-name-dl">えらー</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|67|365|<span class="rank-name-dl">ATLAS</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|68|330|<span class="rank-name-dl">NO NAME 3758</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
+|69|306|<span class="rank-name-dl">あまちゃん@hide</span>|<a href="https://search.dartslive.com/jp/shop/bbb134de57f7a8d8a3f63593b5358cc4">大丸パークレーンズ</a>|<a href="/darts/rank/山梨県/中央市">山梨県中央市</a>|
 
 
 #### PHOENIXDARTS TOP 100

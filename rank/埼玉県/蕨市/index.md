@@ -25,7 +25,7 @@ ___
 |---|---|---|---|---|
 |1|1223|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 源一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |2|1200|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|3|1183|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|3|1183|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |4|1167|<span class="rank-name-dl">あじゃ@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |5|1166|<span class="rank-name-dl">hiroyuki</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |6|1165|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
@@ -36,93 +36,93 @@ ___
 |11|1152|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |12|1142|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |13|1138|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|14|1133|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|15|1132|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|16|1131|<span class="rank-name-dl">小川 暁士</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|17|1124|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|18|1123|<span class="rank-name-dl">AJ4@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|19|1122|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|20|1118|<span class="rank-name-dl">KEN@KFC{副会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|21|1116|<span class="rank-name-dl">かつ@KFC{教祖}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|22|1115|<span class="rank-name-dl">Aja25ts@遊</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|22|1115|<span class="rank-name-dl">KEN@KFC{総裁}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|24|1111|<span class="rank-name-dl">CRAZY-K@野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|25|1108|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|26|1103|<span class="rank-name-dl">hiroyuki</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|27|1101|<span class="rank-name-dl">ミスターＡ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|28|1099|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|29|1091|<span class="rank-name-dl">Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|30|1089|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|30|1089|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|32|1088|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|33|1085|<span class="rank-name-pd">Aj25</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|33|1085|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|33|1085|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|36|1083|<span class="rank-name-dl">♛T-STYLE♛</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|37|1082|<span class="rank-name-dl">テスラ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|37|1082|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|39|1081|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|40|1075|<span class="rank-name-dl">CRAZY-K野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|40|1075|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|42|1074|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|43|1072|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|44|1071|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|45|1070|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|46|1069|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|47|1067|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|47|1067|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|49|1065|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|50|1064|<span class="rank-name-dl">ごんたω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|51|1063|<span class="rank-name-dl">きくぢ君</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|52|1061|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|52|1061|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|54|1059|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|55|1058|<span class="rank-name-dl">まっかちん</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|55|1058|<span class="rank-name-dl">上谷 真生</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|57|1056|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店 ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|58|1052|<span class="rank-name-pd">rev.shoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|58|1052|<span class="rank-name-dl">鷹文♛武流祭會</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|60|1050|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|61|1047|<span class="rank-name-dl">ああああ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|61|1047|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|63|1046|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|63|1046|<span class="rank-name-dl">虎仁龍會@CRAZY-K</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|65|1045|<span class="rank-name-dl">R・F</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|65|1045|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|65|1045|<span class="rank-name-dl">女帝</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|68|1044|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|69|1043|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|70|1042|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|71|1041|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|72|1040|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|73|1039|<span class="rank-name-dl">勇者しゅんめる</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|74|1029|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|75|1028|<span class="rank-name-dl">兄者</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|76|1024|<span class="rank-name-pd">CRAZY-K野良犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|77|1022|<span class="rank-name-pd">0177_8375</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|78|1019|<span class="rank-name-dl">K@KFC[叔父貴]</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|79|1017|<span class="rank-name-dl">Capybara</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|80|1016|<span class="rank-name-dl">百万石饅頭</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|81|1015|<span class="rank-name-dl">まりも</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|82|1014|<span class="rank-name-dl">chemineko</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|82|1014|<span class="rank-name-dl">g</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|84|1012|<span class="rank-name-pd">Trippy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9998?s_seq=9998">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|84|1012|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|86|1011|<span class="rank-name-dl">Are言えばForYou</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|86|1011|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店 ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|88|1008|<span class="rank-name-dl">NO NAME 0918</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|88|1008|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|88|1008|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|91|1007|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|92|1006|<span class="rank-name-dl">☆かど★</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|93|1003|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|94|1002|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|95|1001|<span class="rank-name-dl">K@KFC{叔父貴}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|96|1000|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|97|997|<span class="rank-name-pd">Ka-zoo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|97|997|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|97|997|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|100|995|<span class="rank-name-dl">女帝卍カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|14|1132|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|15|1131|<span class="rank-name-dl">小川 暁士</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|16|1124|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|17|1123|<span class="rank-name-dl">AJ4@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|18|1122|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|19|1118|<span class="rank-name-dl">KEN@KFC{副会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|20|1116|<span class="rank-name-dl">かつ@KFC{教祖}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|21|1115|<span class="rank-name-dl">Aja25ts@遊</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|21|1115|<span class="rank-name-dl">KEN@KFC{総裁}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|23|1111|<span class="rank-name-dl">CRAZY-K@野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|24|1108|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|25|1101|<span class="rank-name-dl">ミスターＡ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|26|1099|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|27|1091|<span class="rank-name-dl">Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|28|1089|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|28|1089|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|30|1088|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|31|1085|<span class="rank-name-pd">Aj25</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|31|1085|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|31|1085|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|34|1083|<span class="rank-name-dl">♛T-STYLE♛</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|35|1082|<span class="rank-name-dl">テスラ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|35|1082|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|37|1081|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|38|1075|<span class="rank-name-dl">CRAZY-K野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|38|1075|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|40|1074|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|41|1072|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|42|1070|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|43|1069|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|44|1067|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|44|1067|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|46|1064|<span class="rank-name-dl">ごんたω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|47|1063|<span class="rank-name-dl">きくぢ君</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|48|1061|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|48|1061|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|50|1058|<span class="rank-name-dl">まっかちん</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|50|1058|<span class="rank-name-dl">上谷 真生</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|52|1056|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|53|1052|<span class="rank-name-pd">rev.shoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|53|1052|<span class="rank-name-dl">鷹文♛武流祭會</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|55|1050|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|56|1047|<span class="rank-name-dl">ああああ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|56|1047|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|58|1046|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|58|1046|<span class="rank-name-dl">虎仁龍會@CRAZY-K</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|60|1045|<span class="rank-name-dl">R・F</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|60|1045|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|60|1045|<span class="rank-name-dl">女帝</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|63|1043|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|64|1041|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|65|1040|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|66|1039|<span class="rank-name-dl">勇者しゅんめる</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|67|1029|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|68|1028|<span class="rank-name-dl">兄者</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|69|1024|<span class="rank-name-pd">CRAZY-K野良犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|70|1022|<span class="rank-name-pd">0177_8375</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|71|1019|<span class="rank-name-dl">K@KFC[叔父貴]</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|72|1017|<span class="rank-name-dl">Capybara</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|73|1016|<span class="rank-name-dl">百万石饅頭</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|74|1015|<span class="rank-name-dl">まりも</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|75|1014|<span class="rank-name-dl">chemineko</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|75|1014|<span class="rank-name-dl">g</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|77|1012|<span class="rank-name-pd">Trippy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9998?s_seq=9998">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|77|1012|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|79|1011|<span class="rank-name-dl">Are言えばForYou</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|80|1008|<span class="rank-name-dl">NO NAME 0918</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|80|1008|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|80|1008|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|83|1007|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|84|1006|<span class="rank-name-dl">☆かど★</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|85|1003|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|86|1002|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|87|1001|<span class="rank-name-dl">K@KFC{叔父貴}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|88|1000|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|89|997|<span class="rank-name-pd">Ka-zoo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|89|997|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|91|995|<span class="rank-name-dl">女帝卍カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|92|991|<span class="rank-name-dl">マロン</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|93|989|<span class="rank-name-dl">TKC八　CHAPO1981</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|93|989|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74916?s_seq=74916">ヘッドロック</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|95|984|<span class="rank-name-dl">Ayato</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|96|980|<span class="rank-name-dl">んぽちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|97|977|<span class="rank-name-dl">Nag</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|98|975|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|99|973|<span class="rank-name-pd">YUU-DR30</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9998?s_seq=9998">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|99|973|<span class="rank-name-dl">キンケドゥ・ナウ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,7 +133,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|2|1183|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|2|1183|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |3|1167|<span class="rank-name-dl">あじゃ@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |4|1166|<span class="rank-name-dl">hiroyuki</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |5|1165|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
@@ -143,95 +143,95 @@ ___
 |9|1152|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |10|1142|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 |11|1138|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|12|1133|<span class="rank-name-dl">Gen@ﾍｯﾄﾞﾛｯｸ&amp;ｽﾍﾟﾕ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|13|1132|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|14|1131|<span class="rank-name-dl">小川 暁士</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|15|1124|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|16|1123|<span class="rank-name-dl">AJ4@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|17|1122|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|18|1118|<span class="rank-name-dl">KEN@KFC{副会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|19|1116|<span class="rank-name-dl">かつ@KFC{教祖}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|20|1115|<span class="rank-name-dl">Aja25ts@遊</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|20|1115|<span class="rank-name-dl">KEN@KFC{総裁}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|22|1111|<span class="rank-name-dl">CRAZY-K@野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|23|1108|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|24|1103|<span class="rank-name-dl">hiroyuki</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|25|1101|<span class="rank-name-dl">ミスターＡ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|26|1099|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|27|1091|<span class="rank-name-dl">Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|28|1089|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|28|1089|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|30|1088|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|31|1085|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|31|1085|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|33|1083|<span class="rank-name-dl">♛T-STYLE♛</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|34|1082|<span class="rank-name-dl">テスラ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|34|1082|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|36|1081|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|37|1075|<span class="rank-name-dl">CRAZY-K野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|37|1075|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|39|1074|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|40|1072|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|41|1071|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|42|1070|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|43|1069|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|44|1067|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|44|1067|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|46|1065|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|47|1064|<span class="rank-name-dl">ごんたω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|48|1063|<span class="rank-name-dl">きくぢ君</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|49|1061|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|49|1061|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|51|1059|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|52|1058|<span class="rank-name-dl">まっかちん</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|52|1058|<span class="rank-name-dl">上谷 真生</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|54|1056|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店 ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|55|1052|<span class="rank-name-dl">鷹文♛武流祭會</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|56|1050|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|57|1047|<span class="rank-name-dl">ああああ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|57|1047|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|59|1046|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|59|1046|<span class="rank-name-dl">虎仁龍會@CRAZY-K</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|61|1045|<span class="rank-name-dl">R・F</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|61|1045|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|61|1045|<span class="rank-name-dl">女帝</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|64|1044|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|65|1043|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|66|1042|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|67|1041|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|68|1040|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|69|1039|<span class="rank-name-dl">勇者しゅんめる</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|70|1029|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|71|1028|<span class="rank-name-dl">兄者</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|72|1019|<span class="rank-name-dl">K@KFC[叔父貴]</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|73|1017|<span class="rank-name-dl">Capybara</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|74|1016|<span class="rank-name-dl">百万石饅頭</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|75|1015|<span class="rank-name-dl">まりも</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊 ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|76|1014|<span class="rank-name-dl">chemineko</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|76|1014|<span class="rank-name-dl">g</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|78|1012|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|79|1011|<span class="rank-name-dl">Are言えばForYou</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|79|1011|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店 ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|81|1008|<span class="rank-name-dl">NO NAME 0918</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|81|1008|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|81|1008|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|84|1007|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|85|1006|<span class="rank-name-dl">☆かど★</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|86|1003|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|87|1002|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|88|1001|<span class="rank-name-dl">K@KFC{叔父貴}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|89|1000|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|90|997|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|90|997|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|92|995|<span class="rank-name-dl">女帝卍カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|93|991|<span class="rank-name-dl">マロン</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|94|989|<span class="rank-name-dl">TKC八　CHAPO1981</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|95|984|<span class="rank-name-dl">Ayato</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|96|980|<span class="rank-name-dl">んぽちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|97|977|<span class="rank-name-dl">Nag</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|98|975|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|99|973|<span class="rank-name-dl">キンケドゥ・ナウ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店 ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|100|971|<span class="rank-name-dl">ドラ爆の真</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店 アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|12|1132|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|13|1131|<span class="rank-name-dl">小川 暁士</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|14|1124|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|15|1123|<span class="rank-name-dl">AJ4@KFC{猿帝}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|16|1122|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|17|1118|<span class="rank-name-dl">KEN@KFC{副会長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|18|1116|<span class="rank-name-dl">かつ@KFC{教祖}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|19|1115|<span class="rank-name-dl">Aja25ts@遊</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|19|1115|<span class="rank-name-dl">KEN@KFC{総裁}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|21|1111|<span class="rank-name-dl">CRAZY-K@野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|22|1108|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|23|1101|<span class="rank-name-dl">ミスターＡ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|24|1099|<span class="rank-name-dl">Aja25ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|25|1091|<span class="rank-name-dl">Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|26|1089|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|26|1089|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|28|1088|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|29|1085|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|29|1085|<span class="rank-name-dl">走召としかず。</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|31|1083|<span class="rank-name-dl">♛T-STYLE♛</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|32|1082|<span class="rank-name-dl">テスラ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|32|1082|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|34|1081|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|35|1075|<span class="rank-name-dl">CRAZY-K野良犬</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|35|1075|<span class="rank-name-dl">おさむ氏</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|37|1074|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|38|1072|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|39|1070|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|40|1069|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|41|1067|<span class="rank-name-dl">NO NAME 1744</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|41|1067|<span class="rank-name-dl">名越 圭祐A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|43|1064|<span class="rank-name-dl">ごんたω</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|44|1063|<span class="rank-name-dl">きくぢ君</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|45|1061|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|45|1061|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|47|1058|<span class="rank-name-dl">まっかちん</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|47|1058|<span class="rank-name-dl">上谷 真生</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|49|1056|<span class="rank-name-dl">yuu-DR30</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|50|1052|<span class="rank-name-dl">鷹文♛武流祭會</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|51|1050|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|52|1047|<span class="rank-name-dl">ああああ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|52|1047|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|54|1046|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|54|1046|<span class="rank-name-dl">虎仁龍會@CRAZY-K</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|56|1045|<span class="rank-name-dl">R・F</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|56|1045|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|56|1045|<span class="rank-name-dl">女帝</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|59|1043|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|60|1041|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|61|1040|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|62|1039|<span class="rank-name-dl">勇者しゅんめる</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|63|1029|<span class="rank-name-dl">MATCH</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|64|1028|<span class="rank-name-dl">兄者</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|65|1019|<span class="rank-name-dl">K@KFC[叔父貴]</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|66|1017|<span class="rank-name-dl">Capybara</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|67|1016|<span class="rank-name-dl">百万石饅頭</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|68|1015|<span class="rank-name-dl">まりも</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|69|1014|<span class="rank-name-dl">chemineko</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|69|1014|<span class="rank-name-dl">g</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|71|1012|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|72|1011|<span class="rank-name-dl">Are言えばForYou</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|73|1008|<span class="rank-name-dl">NO NAME 0918</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|73|1008|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|73|1008|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|76|1007|<span class="rank-name-dl">FUJIWARA</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|77|1006|<span class="rank-name-dl">☆かど★</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|78|1003|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|79|1002|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|80|1001|<span class="rank-name-dl">K@KFC{叔父貴}</span>|<a href="https://search.dartslive.com/jp/shop/628af9d6900fdd730d9b047a20a7ba1e">モダンタイムス蕨店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|81|1000|<span class="rank-name-dl">ふじ</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|82|997|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|83|995|<span class="rank-name-dl">女帝卍カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|84|991|<span class="rank-name-dl">マロン</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|85|989|<span class="rank-name-dl">TKC八　CHAPO1981</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|86|984|<span class="rank-name-dl">Ayato</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|87|980|<span class="rank-name-dl">んぽちゃむ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|88|977|<span class="rank-name-dl">Nag</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|89|975|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|90|973|<span class="rank-name-dl">キンケドゥ・ナウ</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|91|971|<span class="rank-name-dl">ドラ爆の真</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|92|970|<span class="rank-name-dl">ハチロク</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|93|969|<span class="rank-name-dl">ジョントラボル太</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|94|967|<span class="rank-name-dl">Y</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|94|967|<span class="rank-name-dl">m.A.s.A.</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|96|965|<span class="rank-name-dl">☆あきあき☆</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|96|965|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|98|964|<span class="rank-name-dl">あーりー@Ray</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|98|964|<span class="rank-name-dl">ごーん</span>|<a href="https://search.dartslive.com/jp/shop/e2a7617c9b6243d90d9b047a20a7ba1e">アプレシオわらび西口店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|100|962|<span class="rank-name-dl">はまち</span>|<a href="https://search.dartslive.com/jp/shop/02b8e20b5b9eccbf0d9b047a20a7ba1e">ラウンドワンわらび店</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
 
 
 #### PHOENIXDARTS TOP 100

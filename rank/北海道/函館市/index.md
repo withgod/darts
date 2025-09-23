@@ -36,93 +36,93 @@ ___
 |11|1129|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |12|1123|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |13|1122|<span class="rank-name-dl">Pump it Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|13|1122|<span class="rank-name-dl">Pump it Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店 ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|15|1117|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|16|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|17|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店 PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|21|1097|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|22|1085|<span class="rank-name-dl">YASU4450</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|23|1081|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|24|1079|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|25|1078|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|26|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|26|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|28|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|28|1061|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|30|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|31|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|31|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|33|1054|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|34|1053|<span class="rank-name-pd">MOTOKINTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|35|1050|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|35|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|35|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|38|1047|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|39|1046|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|40|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 義孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|41|1042|<span class="rank-name-dl">三﨑 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|42|1041|<span class="rank-name-dl">投矢道楽＠やす</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|43|1034|<span class="rank-name-dl">つなまようまい</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|43|1034|<span class="rank-name-dl">北村日出人</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|45|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|45|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店 カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|47|1031|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店 快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|47|1031|<span class="rank-name-dl">安食　賢一</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|49|1022|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|50|1020|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 義孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|51|1015|<span class="rank-name-dl">ノミの心臓</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|52|1014|<span class="rank-name-pd">ペプシマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|52|1014|<span class="rank-name-dl">青野 耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|54|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|54|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店 ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|56|1008|<span class="rank-name-dl">Club G Jun</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|56|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|56|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|59|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|59|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|59|1007|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|62|1006|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|63|1002|<span class="rank-name-dl">nothing name</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|63|1002|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|65|1000|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|66|999|<span class="rank-name-pd">伊藤忠輝ダーツハウスくらふと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|67|997|<span class="rank-name-dl">AIRA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|68|995|<span class="rank-name-dl">NO NAME 7638</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|69|992|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|69|992|<span class="rank-name-dl">松代 修樹</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|71|981|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|72|978|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|73|976|<span class="rank-name-dl">とらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|74|975|<span class="rank-name-dl">YURUGUDA clock</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|74|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伊藤 忠輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|76|974|<span class="rank-name-pd">コハ   [SEAD]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|76|974|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|78|973|<span class="rank-name-dl">青野　太羅</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|79|972|<span class="rank-name-dl">pump it ふぁ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|80|969|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|81|968|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|82|967|<span class="rank-name-pd">Shige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|82|967|<span class="rank-name-dl">phoenixAlloS</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|84|966|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|85|965|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|86|964|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|86|964|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|88|963|<span class="rank-name-pd">ミラクルHAZUME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|89|960|<span class="rank-name-dl">たたた</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|90|959|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|91|956|<span class="rank-name-pd">s-o-i</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|91|956|<span class="rank-name-dl">おじまん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|93|955|<span class="rank-name-pd">けんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|93|955|<span class="rank-name-dl">伊藤忠輝</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|93|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|93|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|97|954|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|953|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|953|<span class="rank-name-dl">不死鳥arrows</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|100|952|<span class="rank-name-dl">Kenny.</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|14|1117|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|15|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|16|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|17|1100|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|17|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|19|1097|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|20|1085|<span class="rank-name-dl">YASU4450</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|21|1081|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|22|1079|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|23|1078|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|24|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|25|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|25|1061|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|27|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|28|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|29|1054|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|30|1053|<span class="rank-name-pd">MOTOKINTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|31|1050|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|31|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|33|1047|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|34|1046|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|35|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 義孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|36|1042|<span class="rank-name-dl">三﨑 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|37|1041|<span class="rank-name-dl">投矢道楽＠やす</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|38|1034|<span class="rank-name-dl">つなまようまい</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|39|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|40|1031|<span class="rank-name-dl">安食　賢一</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|41|1022|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|42|1020|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 義孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|43|1015|<span class="rank-name-dl">ノミの心臓</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|44|1014|<span class="rank-name-pd">ペプシマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|44|1014|<span class="rank-name-dl">青野 耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|46|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|47|1008|<span class="rank-name-dl">Club G Jun</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|47|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|49|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|49|1007|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|51|1002|<span class="rank-name-dl">nothing name</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|51|1002|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|53|1000|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|54|999|<span class="rank-name-pd">伊藤忠輝ダーツハウスくらふと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|55|997|<span class="rank-name-dl">AIRA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|56|995|<span class="rank-name-dl">NO NAME 7638</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|57|992|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|57|992|<span class="rank-name-dl">松代 修樹</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|59|981|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|60|978|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|61|976|<span class="rank-name-dl">とらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|62|975|<span class="rank-name-dl">YURUGUDA clock</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|62|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伊藤 忠輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|64|974|<span class="rank-name-pd">コハ   [SEAD]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|64|974|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|66|973|<span class="rank-name-dl">青野　太羅</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|67|972|<span class="rank-name-dl">pump it ふぁ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|68|969|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|69|968|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|70|967|<span class="rank-name-pd">Shige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|70|967|<span class="rank-name-dl">phoenixAlloS</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|72|966|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|73|965|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|74|964|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|74|964|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|76|963|<span class="rank-name-pd">ミラクルHAZUME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|77|960|<span class="rank-name-dl">たたた</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|78|959|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|79|956|<span class="rank-name-pd">s-o-i</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|79|956|<span class="rank-name-dl">おじまん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|81|955|<span class="rank-name-pd">けんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|81|955|<span class="rank-name-dl">伊藤忠輝</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|81|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|84|954|<span class="rank-name-pd">DMmakku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91452?s_seq=91452">ダーツハウス くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|85|953|<span class="rank-name-dl">不死鳥arrows</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|86|952|<span class="rank-name-dl">Kenny.</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|86|952|<span class="rank-name-dl">MAKKU</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|86|952|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|89|951|<span class="rank-name-dl">池田亮太</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|89|951|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|91|950|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/a5400febd63daf840d9b047a20a7ba1e">ダーツラボ 時乃蔵</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|92|949|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|92|949|<span class="rank-name-dl">koji✳︎</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|94|946|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|95|945|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|96|943|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伊藤 忠輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88065?s_seq=88065">ダーツラボ くらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|97|941|<span class="rank-name-dl">G-STYLE Hisa</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|98|940|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|99|937|<span class="rank-name-dl">kooo</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|100|936|<span class="rank-name-dl">ODAGIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -145,93 +145,93 @@ ___
 |11|1129|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |12|1123|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |13|1122|<span class="rank-name-dl">Pump it Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|13|1122|<span class="rank-name-dl">Pump it Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店 ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|15|1117|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|16|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|17|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|18|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店 PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|21|1097|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|22|1085|<span class="rank-name-dl">YASU4450</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|23|1081|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|24|1079|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|25|1078|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|26|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|26|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|28|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|28|1061|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|30|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|31|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|31|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|33|1054|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|34|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|34|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|36|1047|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|37|1046|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|38|1042|<span class="rank-name-dl">三﨑 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|39|1041|<span class="rank-name-dl">投矢道楽＠やす</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|40|1034|<span class="rank-name-dl">つなまようまい</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|40|1034|<span class="rank-name-dl">北村日出人</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|42|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|42|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店 カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|44|1031|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店 快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|44|1031|<span class="rank-name-dl">安食　賢一</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|46|1022|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|47|1015|<span class="rank-name-dl">ノミの心臓</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|48|1014|<span class="rank-name-dl">青野 耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|49|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|49|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店 ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|51|1008|<span class="rank-name-dl">Club G Jun</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|51|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|51|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|54|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|54|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|54|1007|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|57|1006|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|58|1002|<span class="rank-name-dl">nothing name</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|58|1002|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|60|1000|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|61|997|<span class="rank-name-dl">AIRA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|62|995|<span class="rank-name-dl">NO NAME 7638</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|63|992|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|63|992|<span class="rank-name-dl">松代 修樹</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|65|981|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|66|978|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|67|976|<span class="rank-name-dl">とらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|68|975|<span class="rank-name-dl">YURUGUDA clock</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|69|974|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|70|973|<span class="rank-name-dl">青野　太羅</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|71|972|<span class="rank-name-dl">pump it ふぁ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|72|969|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|73|968|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|74|967|<span class="rank-name-dl">phoenixAlloS</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|75|966|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|76|964|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|77|960|<span class="rank-name-dl">たたた</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|78|959|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|79|956|<span class="rank-name-dl">おじまん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|80|955|<span class="rank-name-dl">伊藤忠輝</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|80|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|80|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|83|953|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|83|953|<span class="rank-name-dl">不死鳥arrows</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|85|952|<span class="rank-name-dl">Kenny.</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|85|952|<span class="rank-name-dl">MAKKU</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|85|952|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|88|951|<span class="rank-name-dl">池田亮太</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|88|951|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|90|950|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/a5400febd63daf840d9b047a20a7ba1e">ダーツラボ 時乃蔵</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|91|949|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|91|949|<span class="rank-name-dl">koji✳︎</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|93|946|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|94|945|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|95|941|<span class="rank-name-dl">G-STYLE Hisa</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|96|940|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|97|937|<span class="rank-name-dl">kooo</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|936|<span class="rank-name-dl">ODAGIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|936|<span class="rank-name-dl">ねふ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|100|935|<span class="rank-name-dl">pump it ふぁ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it! Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|14|1117|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|15|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|16|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|17|1100|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|17|1100|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|19|1097|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|20|1085|<span class="rank-name-dl">YASU4450</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|21|1081|<span class="rank-name-dl">ANNA32</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|22|1079|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|23|1078|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|24|1073|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|25|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|25|1061|<span class="rank-name-dl">MEL-NOOB</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|27|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|28|1055|<span class="rank-name-dl">コーへー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|29|1054|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|30|1050|<span class="rank-name-dl">ちげ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|31|1047|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|32|1046|<span class="rank-name-dl">≡≡YASU≡≡</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|33|1042|<span class="rank-name-dl">三﨑 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|34|1041|<span class="rank-name-dl">投矢道楽＠やす</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|35|1034|<span class="rank-name-dl">つなまようまい</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|36|1033|<span class="rank-name-dl">つ-た</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|37|1031|<span class="rank-name-dl">安食　賢一</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|38|1022|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/5dafb084bdd8a6d528032249b44395af">カラオケ館 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|39|1015|<span class="rank-name-dl">ノミの心臓</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|40|1014|<span class="rank-name-dl">青野 耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|41|1010|<span class="rank-name-dl">井上諒/PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|42|1008|<span class="rank-name-dl">Club G Jun</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|42|1008|<span class="rank-name-dl">Pumpitまっくん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|44|1007|<span class="rank-name-dl">のりち</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|44|1007|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|46|1002|<span class="rank-name-dl">nothing name</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|46|1002|<span class="rank-name-dl">けんちゃん矢再生</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|48|1000|<span class="rank-name-dl">Shige</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|49|997|<span class="rank-name-dl">AIRA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|50|995|<span class="rank-name-dl">NO NAME 7638</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|51|992|<span class="rank-name-dl">三﨑　桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|51|992|<span class="rank-name-dl">松代 修樹</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|53|981|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|54|978|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|55|976|<span class="rank-name-dl">とらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|56|975|<span class="rank-name-dl">YURUGUDA clock</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|57|974|<span class="rank-name-dl">池田 亮太</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|58|973|<span class="rank-name-dl">青野　太羅</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|59|972|<span class="rank-name-dl">pump it ふぁ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|60|969|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|61|968|<span class="rank-name-dl">鶩七番隊/BABA</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|62|967|<span class="rank-name-dl">phoenixAlloS</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|63|966|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/e66a9ce287b9ece2790ab824ce8730e5">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|64|964|<span class="rank-name-dl">レイ</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|65|960|<span class="rank-name-dl">たたた</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|66|959|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|67|956|<span class="rank-name-dl">おじまん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|68|955|<span class="rank-name-dl">伊藤忠輝</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|68|955|<span class="rank-name-dl">桶戸　隆良</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|70|953|<span class="rank-name-dl">不死鳥arrows</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|71|952|<span class="rank-name-dl">Kenny.</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|71|952|<span class="rank-name-dl">MAKKU</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|71|952|<span class="rank-name-dl">naoaki ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|74|951|<span class="rank-name-dl">池田亮太</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|74|951|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|76|950|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/a5400febd63daf840d9b047a20a7ba1e">ダーツラボ 時乃蔵</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|77|949|<span class="rank-name-dl">Pump it TaKaRa</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|77|949|<span class="rank-name-dl">koji✳︎</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|79|946|<span class="rank-name-dl">にった</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|80|945|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/c6fa480da40c905a0d9b047a20a7ba1e">ダーツハウスくらふと</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|81|941|<span class="rank-name-dl">G-STYLE Hisa</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|82|940|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|83|937|<span class="rank-name-dl">kooo</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|84|936|<span class="rank-name-dl">ODAGIRI</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|84|936|<span class="rank-name-dl">ねふ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|86|934|<span class="rank-name-dl">HAZUME</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|86|934|<span class="rank-name-dl">ポンポコ</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|88|933|<span class="rank-name-dl">Asa</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|88|933|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|88|933|<span class="rank-name-dl">ごろー</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|91|932|<span class="rank-name-dl">てっつん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|92|931|<span class="rank-name-dl">なおまき</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|93|927|<span class="rank-name-dl">melon</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|94|925|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|95|924|<span class="rank-name-dl">MAKKU</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|96|921|<span class="rank-name-dl">seisei ARROWS</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|96|921|<span class="rank-name-dl">ちぃちゃん</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|98|920|<span class="rank-name-dl">西念幽子</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|99|917|<span class="rank-name-dl">LOTTE-TEAM26-</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|99|917|<span class="rank-name-dl">椿 ツバキ</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -30,7 +30,7 @@ ___
 |5|1094|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦井 裕太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |6|1066|<span class="rank-name-dl">志鎌 伸洋</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |7|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|8|1057|<span class="rank-name-dl">たにえん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|8|1057|<span class="rank-name-dl">たにえん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |9|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>安藤 勇太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |10|1052|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |11|1043|<span class="rank-name-pd">麻婆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
@@ -54,7 +54,7 @@ ___
 |29|932|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |29|932|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |31|925|<span class="rank-name-pd">Kø-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|32|916|<span class="rank-name-dl">井能 実奈子</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|32|916|<span class="rank-name-dl">井能 実奈子</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |33|913|<span class="rank-name-pd"> HIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |34|912|<span class="rank-name-pd">osn. [FRONT LINE]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |35|910|<span class="rank-name-dl">osn..</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
@@ -64,15 +64,15 @@ ___
 |39|896|<span class="rank-name-pd"><span class="pro-icon-pd"></span>羽田 壮汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |40|885|<span class="rank-name-pd">本村　健人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |41|882|<span class="rank-name-pd">千射万箭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|42|880|<span class="rank-name-dl">Tetsu.＠S.GARAGE</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|42|880|<span class="rank-name-dl">Tetsu.＠S.GARAGE</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |43|879|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|44|875|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|44|875|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |45|872|<span class="rank-name-dl">GENTA</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |45|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>杉山 良太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |47|868|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |47|868|<span class="rank-name-pd">麻婆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |49|867|<span class="rank-name-dl">GaN仔☆73*</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|50|866|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|50|866|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |51|865|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |52|864|<span class="rank-name-pd">静岡ウサビッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |53|862|<span class="rank-name-pd">Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
@@ -82,47 +82,47 @@ ___
 |57|860|<span class="rank-name-pd"><span class="pro-icon-pd"></span>釼持 源太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |58|850|<span class="rank-name-pd">кепт♣Flores</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |58|850|<span class="rank-name-dl">ヤン坊@最前線</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|60|840|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|61|839|<span class="rank-name-pd">0145_7256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|62|838|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|63|837|<span class="rank-name-dl">taAK-69da</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|63|837|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|65|835|<span class="rank-name-dl">けんけん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|65|835|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|65|835|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|68|832|<span class="rank-name-pd">ぽちくり忍【Ｅ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|69|826|<span class="rank-name-pd">はぁんbot®</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|70|819|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|71|818|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|72|816|<span class="rank-name-pd">KA2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|73|814|<span class="rank-name-pd">やっぴ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|74|813|<span class="rank-name-pd">0087_8657</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|74|813|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|74|813|<span class="rank-name-dl">ｳｨｽﾞﾐｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|77|809|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|78|807|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|79|806|<span class="rank-name-pd">齊藤 秀康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|80|805|<span class="rank-name-pd">ぶぎじょに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|81|801|<span class="rank-name-dl">伊豆 ｻﾝ ﾛｰﾗﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|81|801|<span class="rank-name-pd">諦めないニスｲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|81|801|<span class="rank-name-pd">鈴木さつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|81|801|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|85|800|<span class="rank-name-pd">テツ＠障泥の素人君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|86|798|<span class="rank-name-pd">Memori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|86|798|<span class="rank-name-pd">はまばたあらた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|86|798|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|89|796|<span class="rank-name-pd">古藤田洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|90|795|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|91|793|<span class="rank-name-dl">もこる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|92|790|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|93|788|<span class="rank-name-pd">やん坊@FRONTLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|94|787|<span class="rank-name-pd">KIYOH-KEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|94|787|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|96|786|<span class="rank-name-dl">ヤン房</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|97|785|<span class="rank-name-dl">keita@Soul(s)</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|98|780|<span class="rank-name-pd">ゆーしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|99|778|<span class="rank-name-pd">U@T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|100|777|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|60|839|<span class="rank-name-pd">0145_7256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|61|838|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|62|837|<span class="rank-name-dl">taAK-69da</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|62|837|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|64|835|<span class="rank-name-dl">けんけん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|64|835|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|64|835|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|67|832|<span class="rank-name-pd">ぽちくり忍【Ｅ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|68|826|<span class="rank-name-pd">はぁんbot®</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|69|819|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|70|818|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|71|816|<span class="rank-name-pd">KA2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|72|814|<span class="rank-name-pd">やっぴ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|73|813|<span class="rank-name-pd">0087_8657</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|73|813|<span class="rank-name-dl">ｳｨｽﾞﾐｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|75|809|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|76|807|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|77|806|<span class="rank-name-pd">齊藤 秀康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|78|805|<span class="rank-name-pd">ぶぎじょに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|801|<span class="rank-name-dl">伊豆 ｻﾝ ﾛｰﾗﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|801|<span class="rank-name-pd">諦めないニスｲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|801|<span class="rank-name-pd">鈴木さつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|801|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高木 隆汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|83|800|<span class="rank-name-pd">テツ＠障泥の素人君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|84|798|<span class="rank-name-pd">Memori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|84|798|<span class="rank-name-pd">はまばたあらた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|84|798|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|87|796|<span class="rank-name-pd">古藤田洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81349?s_seq=81349">Darts Bar Trident</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|88|795|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|89|793|<span class="rank-name-dl">もこる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|90|790|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|91|788|<span class="rank-name-pd">やん坊@FRONTLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|92|787|<span class="rank-name-pd">KIYOH-KEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|92|787|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|94|786|<span class="rank-name-dl">ヤン房</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|95|785|<span class="rank-name-dl">keita@Soul(s)</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|96|780|<span class="rank-name-pd">ゆーしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73604?s_seq=73604">BaBoo</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|97|778|<span class="rank-name-pd">U@T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|98|777|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|99|772|<span class="rank-name-pd">もこる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|99|772|<span class="rank-name-dl">諦めないニスイ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1097|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |2|1066|<span class="rank-name-dl">志鎌 伸洋</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |3|1065|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|4|1057|<span class="rank-name-dl">たにえん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|4|1057|<span class="rank-name-dl">たにえん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |5|1052|<span class="rank-name-dl">竹内ﾁｯﾁｷ めぐる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |6|1042|<span class="rank-name-dl">とんかつ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |7|1028|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
@@ -149,89 +149,89 @@ ___
 |15|945|<span class="rank-name-dl">千射万箭</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |16|932|<span class="rank-name-dl">KØ-KI</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |16|932|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|18|916|<span class="rank-name-dl">井能 実奈子</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|18|916|<span class="rank-name-dl">井能 実奈子</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |19|910|<span class="rank-name-dl">osn..</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |20|901|<span class="rank-name-dl">ぺす</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|21|880|<span class="rank-name-dl">Tetsu.＠S.GARAGE</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|21|880|<span class="rank-name-dl">Tetsu.＠S.GARAGE</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |22|879|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|23|875|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|23|875|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |24|872|<span class="rank-name-dl">GENTA</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |25|868|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |26|867|<span class="rank-name-dl">GaN仔☆73*</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|27|866|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|27|866|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 |28|850|<span class="rank-name-dl">ヤン坊@最前線</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|29|840|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|30|838|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|31|837|<span class="rank-name-dl">taAK-69da</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|31|837|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|33|835|<span class="rank-name-dl">けんけん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|33|835|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|33|835|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|36|819|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|37|818|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|38|813|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|38|813|<span class="rank-name-dl">ｳｨｽﾞﾐｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|40|801|<span class="rank-name-dl">伊豆 ｻﾝ ﾛｰﾗﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|41|798|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|42|795|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|43|793|<span class="rank-name-dl">もこる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|44|790|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|45|787|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|46|786|<span class="rank-name-dl">ヤン房</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|47|785|<span class="rank-name-dl">keita@Soul(s)</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|48|773|<span class="rank-name-dl">井能 実奈子</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|49|772|<span class="rank-name-dl">諦めないニスイ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|50|765|<span class="rank-name-dl">AあずくんZ@free</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|51|748|<span class="rank-name-dl">YOU</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|52|738|<span class="rank-name-dl">//KENZO/KB-55//</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|53|728|<span class="rank-name-dl">白玖・ｶﾈｷ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|54|717|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|55|715|<span class="rank-name-dl">//KENZO/KB-55//</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|56|714|<span class="rank-name-dl">ゆきまる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|57|705|<span class="rank-name-dl">farewell</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|58|699|<span class="rank-name-dl">ﾌｧｰﾑがﾎｰﾑ！</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|59|698|<span class="rank-name-dl">よし</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|60|685|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|61|679|<span class="rank-name-dl">豊@ちょんみ推し</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|62|657|<span class="rank-name-dl">師匠は本村！</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|63|647|<span class="rank-name-dl">868観測者yanchu</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|64|636|<span class="rank-name-dl">イチゴ娘?Boss*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|65|625|<span class="rank-name-dl">FloresのUki</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|66|620|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|67|599|<span class="rank-name-dl">こぺ 6</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|68|590|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|69|589|<span class="rank-name-dl">しのぶ♪SAD</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|70|575|<span class="rank-name-dl">NO NAME 0806</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|70|575|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|72|571|<span class="rank-name-dl">ゆん</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|73|556|<span class="rank-name-dl">ほーみー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|74|545|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|74|545|<span class="rank-name-dl">Tridentﾎﾀﾙｰﾊﾟｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|76|540|<span class="rank-name-dl">ほたるーぱー</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|77|539|<span class="rank-name-dl">はせ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|78|529|<span class="rank-name-dl">Ｈ Ｐ Ｌ 【桜】</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|79|510|<span class="rank-name-dl">mana</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|80|508|<span class="rank-name-dl">かえで</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|81|503|<span class="rank-name-dl">にゃんぞー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|82|501|<span class="rank-name-dl">Yui</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|83|500|<span class="rank-name-dl">ほたるーぱー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|83|500|<span class="rank-name-dl">山本 菜美</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|85|499|<span class="rank-name-dl">お茶ワン0728</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|86|498|<span class="rank-name-dl">たく3</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|87|491|<span class="rank-name-dl">みぃちゃ〠</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|88|490|<span class="rank-name-dl">*みーこ(･ε･)♡*</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|89|487|<span class="rank-name-dl">つつつつ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|90|486|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|91|476|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|92|471|<span class="rank-name-dl">あちゃこ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|93|468|<span class="rank-name-dl">ののてぃん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|94|465|<span class="rank-name-dl">chihaya</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|95|454|<span class="rank-name-dl">chan-kana◎◎</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|96|453|<span class="rank-name-dl">くるみっこ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|97|445|<span class="rank-name-dl">くるみっこ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55 カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|98|403|<span class="rank-name-dl">[鳳]すみれんじゃ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|99|401|<span class="rank-name-dl">かほ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|100|397|<span class="rank-name-dl">ママてぃん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|29|838|<span class="rank-name-dl">KNT</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|30|837|<span class="rank-name-dl">taAK-69da</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|30|837|<span class="rank-name-dl">加藤　誠也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|32|835|<span class="rank-name-dl">けんけん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|32|835|<span class="rank-name-dl">直ニティ也</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|32|835|<span class="rank-name-dl">髙槻燿太　DMC</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|35|819|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|36|818|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|37|813|<span class="rank-name-dl">ｳｨｽﾞﾐｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|38|801|<span class="rank-name-dl">伊豆 ｻﾝ ﾛｰﾗﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|39|798|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|40|795|<span class="rank-name-dl">ichu</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|41|793|<span class="rank-name-dl">もこる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|42|790|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|43|787|<span class="rank-name-dl">静岡ウサビッチ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|44|786|<span class="rank-name-dl">ヤン房</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|45|785|<span class="rank-name-dl">keita@Soul(s)</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|46|772|<span class="rank-name-dl">諦めないニスイ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|47|765|<span class="rank-name-dl">AあずくんZ@free</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|48|748|<span class="rank-name-dl">YOU</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|49|738|<span class="rank-name-dl">//KENZO/KB-55//</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|50|728|<span class="rank-name-dl">白玖・ｶﾈｷ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|51|717|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|52|714|<span class="rank-name-dl">ゆきまる</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|53|705|<span class="rank-name-dl">farewell</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|54|699|<span class="rank-name-dl">ﾌｧｰﾑがﾎｰﾑ！</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|55|698|<span class="rank-name-dl">よし</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|56|685|<span class="rank-name-dl">U@T</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|57|679|<span class="rank-name-dl">豊@ちょんみ推し</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|58|657|<span class="rank-name-dl">師匠は本村！</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|59|647|<span class="rank-name-dl">868観測者yanchu</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|60|636|<span class="rank-name-dl">イチゴ娘?Boss*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|61|625|<span class="rank-name-dl">FloresのUki</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|62|620|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|63|599|<span class="rank-name-dl">こぺ 6</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|64|590|<span class="rank-name-dl">シロップ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|65|589|<span class="rank-name-dl">しのぶ♪SAD</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|66|575|<span class="rank-name-dl">NO NAME 0806</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|66|575|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|68|571|<span class="rank-name-dl">ゆん</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|69|556|<span class="rank-name-dl">ほーみー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|70|545|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|70|545|<span class="rank-name-dl">Tridentﾎﾀﾙｰﾊﾟｰ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|72|540|<span class="rank-name-dl">ほたるーぱー</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|73|539|<span class="rank-name-dl">はせ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|74|529|<span class="rank-name-dl">Ｈ Ｐ Ｌ 【桜】</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|75|510|<span class="rank-name-dl">mana</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|76|508|<span class="rank-name-dl">かえで</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|77|503|<span class="rank-name-dl">にゃんぞー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|78|501|<span class="rank-name-dl">Yui</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|500|<span class="rank-name-dl">ほたるーぱー</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|79|500|<span class="rank-name-dl">山本 菜美</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|81|499|<span class="rank-name-dl">お茶ワン0728</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|82|498|<span class="rank-name-dl">たく3</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|83|491|<span class="rank-name-dl">みぃちゃ〠</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|84|490|<span class="rank-name-dl">*みーこ(･ε･)♡*</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|85|487|<span class="rank-name-dl">つつつつ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|86|486|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|87|476|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|88|471|<span class="rank-name-dl">あちゃこ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|89|468|<span class="rank-name-dl">ののてぃん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|90|465|<span class="rank-name-dl">chihaya</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|91|454|<span class="rank-name-dl">chan-kana◎◎</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|92|453|<span class="rank-name-dl">くるみっこ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|93|445|<span class="rank-name-dl">くるみっこ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|94|403|<span class="rank-name-dl">[鳳]すみれんじゃ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|95|401|<span class="rank-name-dl">かほ</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|96|397|<span class="rank-name-dl">ママてぃん</span>|<a href="https://search.dartslive.com/jp/shop/1673976f49e2a94e58d385ea46352d8f">Cafe&darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|97|393|<span class="rank-name-dl">Ｔ</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|98|391|<span class="rank-name-dl">TOPPY</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|99|373|<span class="rank-name-dl">Moe Chan Don</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|100|345|<span class="rank-name-dl">MUROTSUYOSHI</span>|<a href="https://search.dartslive.com/jp/shop/a2cf79c286d5e9780d9b047a20a7ba1e">カラオケバー55</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
 
 
 #### PHOENIXDARTS TOP 100

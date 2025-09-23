@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1210|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|1|1210|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |2|1200|<span class="rank-name-pd">AICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |3|1161|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |4|1154|<span class="rank-name-pd"><span class="pro-icon-pd"></span>上里 徹弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
@@ -33,12 +33,12 @@ ___
 |8|1122|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |9|1117|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |10|1112|<span class="rank-name-dl">モラルハザード</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|10|1112|<span class="rank-name-dl">髭おじSHIN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|10|1112|<span class="rank-name-dl">髭おじSHIN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |12|1104|<span class="rank-name-dl">やせいのまっつん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |13|1087|<span class="rank-name-dl">NO NAME 1687</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |14|1081|<span class="rank-name-dl">まつもとないん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|15|1075|<span class="rank-name-dl">木公本.JPN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|16|1071|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|15|1075|<span class="rank-name-dl">木公本.JPN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|16|1071|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |17|1068|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |18|1062|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |19|1061|<span class="rank-name-pd">金子颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
@@ -52,7 +52,7 @@ ___
 |27|1044|<span class="rank-name-dl">DAI@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |28|1039|<span class="rank-name-pd">TheRainyDay</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |29|1033|<span class="rank-name-dl">ましもと</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|29|1033|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|29|1033|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |31|1025|<span class="rank-name-pd">ざぁこ♡ざこけんと♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |31|1025|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |33|1023|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">DARTS & CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
@@ -62,67 +62,67 @@ ___
 |36|1005|<span class="rank-name-dl">こんもり皇子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |36|1005|<span class="rank-name-dl">とっぴー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |39|1002|<span class="rank-name-dl">なぁ〜♪</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|40|1001|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|41|1000|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|41|1000|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|43|998|<span class="rank-name-dl">こんもり皇子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|44|996|<span class="rank-name-dl">ﾓﾗﾙﾊｻﾞｰﾄﾞｷﾀｼﾞﾏ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|45|994|<span class="rank-name-pd">オダＧー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|46|990|<span class="rank-name-pd">0064_8618</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|47|987|<span class="rank-name-dl">Ray</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|48|986|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|48|986|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|50|985|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|51|984|<span class="rank-name-dl">たーふじ@ﾅｵﾁﾑ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|52|982|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|53|979|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|54|977|<span class="rank-name-dl">JAPAN金子颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|54|977|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|54|977|<span class="rank-name-pd">佐藤 智憲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92015?s_seq=92015">コンセプトバー KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|54|977|<span class="rank-name-dl">土日ジャンボ市</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|58|976|<span class="rank-name-pd">moccori皇子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|59|975|<span class="rank-name-dl">すずお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|59|975|<span class="rank-name-pd">鎌田愛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|61|969|<span class="rank-name-pd">名古屋 龍康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59920?s_seq=59920">DARTS&CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|62|968|<span class="rank-name-pd">ファトブル太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|62|968|<span class="rank-name-dl">当番のアニマルch</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|64|967|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|65|966|<span class="rank-name-dl">かとぅ〜</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|66|965|<span class="rank-name-pd">KUROMI 0024</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|66|965|<span class="rank-name-pd">katokun@7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|66|965|<span class="rank-name-dl">だ。</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|66|965|<span class="rank-name-dl">全身黒タイツ子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|70|964|<span class="rank-name-pd">オダＧ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|71|962|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|71|962|<span class="rank-name-dl">オダＧ～</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|73|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>並木 方伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|74|956|<span class="rank-name-dl">Ryota Kato</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|75|955|<span class="rank-name-dl">アルちゃん⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|76|954|<span class="rank-name-pd">balance</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|77|952|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|78|948|<span class="rank-name-pd">とく...1013</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|79|944|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|80|941|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|81|940|<span class="rank-name-pd">L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|82|939|<span class="rank-name-pd">ギミックパペット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|82|939|<span class="rank-name-pd">トミー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|84|938|<span class="rank-name-pd">よわむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|85|937|<span class="rank-name-dl">おかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|86|936|<span class="rank-name-dl">なかにー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|87|934|<span class="rank-name-pd">たかすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|88|932|<span class="rank-name-pd">トミー＠クローバー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|89|931|<span class="rank-name-pd">佐藤 智憲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59920?s_seq=59920">DARTS&CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|90|926|<span class="rank-name-pd">あんどれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|91|921|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|92|920|<span class="rank-name-pd">TTT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|93|918|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|94|916|<span class="rank-name-dl">こしあんぱん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|95|915|<span class="rank-name-pd">M.O.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|95|915|<span class="rank-name-dl">ぁんぴちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|95|915|<span class="rank-name-dl">たけだ@AZBOX</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|95|915|<span class="rank-name-pd"><span class="pro-icon-pd"></span>奥天 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|99|912|<span class="rank-name-pd">【Team R】kanakana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|100|906|<span class="rank-name-pd">s.nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|40|1000|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|40|1000|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|42|996|<span class="rank-name-dl">ﾓﾗﾙﾊｻﾞｰﾄﾞｷﾀｼﾞﾏ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|43|994|<span class="rank-name-pd">オダＧー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|44|990|<span class="rank-name-pd">0064_8618</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|45|987|<span class="rank-name-dl">Ray</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|46|986|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|46|986|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|48|985|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|49|984|<span class="rank-name-dl">たーふじ@ﾅｵﾁﾑ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|50|982|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|51|979|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|52|977|<span class="rank-name-dl">JAPAN金子颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|52|977|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|52|977|<span class="rank-name-pd">佐藤 智憲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92015?s_seq=92015">コンセプトバー KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|52|977|<span class="rank-name-dl">土日ジャンボ市</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|56|976|<span class="rank-name-pd">moccori皇子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|57|975|<span class="rank-name-dl">すずお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|57|975|<span class="rank-name-pd">鎌田愛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|59|969|<span class="rank-name-pd">名古屋 龍康</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59920?s_seq=59920">DARTS&CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|60|968|<span class="rank-name-pd">ファトブル太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|60|968|<span class="rank-name-dl">当番のアニマルch</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|62|967|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|63|966|<span class="rank-name-dl">かとぅ〜</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|64|965|<span class="rank-name-pd">KUROMI 0024</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|64|965|<span class="rank-name-pd">katokun@7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|64|965|<span class="rank-name-dl">だ。</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|64|965|<span class="rank-name-dl">全身黒タイツ子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|68|964|<span class="rank-name-pd">オダＧ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|69|962|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|69|962|<span class="rank-name-dl">オダＧ～</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|71|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>並木 方伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|72|956|<span class="rank-name-dl">Ryota Kato</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|73|955|<span class="rank-name-dl">アルちゃん⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|74|954|<span class="rank-name-pd">balance</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|75|952|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|76|948|<span class="rank-name-pd">とく...1013</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|77|944|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|78|941|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|79|940|<span class="rank-name-pd">L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|80|939|<span class="rank-name-pd">ギミックパペット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|80|939|<span class="rank-name-pd">トミー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|82|938|<span class="rank-name-pd">よわむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|83|937|<span class="rank-name-dl">おかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|84|936|<span class="rank-name-dl">なかにー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|85|934|<span class="rank-name-pd">たかすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|86|932|<span class="rank-name-pd">トミー＠クローバー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|87|931|<span class="rank-name-pd">佐藤 智憲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59920?s_seq=59920">DARTS&CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|88|926|<span class="rank-name-pd">あんどれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|89|920|<span class="rank-name-pd">TTT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|90|918|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|91|915|<span class="rank-name-pd">M.O.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|91|915|<span class="rank-name-dl">ぁんぴちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|91|915|<span class="rank-name-dl">たけだ@AZBOX</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|91|915|<span class="rank-name-pd"><span class="pro-icon-pd"></span>奥天 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|95|912|<span class="rank-name-pd">【Team R】kanakana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|96|906|<span class="rank-name-pd">s.nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|96|906|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|98|902|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|99|901|<span class="rank-name-pd">Yuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|100|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>砂子澤 武尊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77938?s_seq=77938">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,19 +132,19 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1210|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|1|1210|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |2|1135|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |3|1126|<span class="rank-name-dl">レイニィ。</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |4|1123|<span class="rank-name-dl">雨宮 杏斗</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |5|1122|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |6|1117|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |7|1112|<span class="rank-name-dl">モラルハザード</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|7|1112|<span class="rank-name-dl">髭おじSHIN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|7|1112|<span class="rank-name-dl">髭おじSHIN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |9|1104|<span class="rank-name-dl">やせいのまっつん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |10|1087|<span class="rank-name-dl">NO NAME 1687</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |11|1081|<span class="rank-name-dl">まつもとないん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|12|1075|<span class="rank-name-dl">木公本.JPN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|13|1071|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|12|1075|<span class="rank-name-dl">木公本.JPN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|13|1071|<span class="rank-name-dl">でんちゅー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |14|1068|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |15|1062|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |16|1058|<span class="rank-name-dl">まっつんばっと</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
@@ -154,7 +154,7 @@ ___
 |20|1051|<span class="rank-name-dl">まつばっとJPN</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |21|1044|<span class="rank-name-dl">DAI@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |22|1033|<span class="rank-name-dl">ましもと</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|22|1033|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|22|1033|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |24|1025|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |25|1023|<span class="rank-name-dl">ｻｰ•ﾍﾞﾙ男@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">DARTS & CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |26|1013|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
@@ -163,75 +163,75 @@ ___
 |28|1005|<span class="rank-name-dl">こんもり皇子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |28|1005|<span class="rank-name-dl">とっぴー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 |31|1002|<span class="rank-name-dl">なぁ〜♪</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|32|1001|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|33|1000|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|34|998|<span class="rank-name-dl">こんもり皇子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|35|996|<span class="rank-name-dl">ﾓﾗﾙﾊｻﾞｰﾄﾞｷﾀｼﾞﾏ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|36|987|<span class="rank-name-dl">Ray</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|37|986|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|37|986|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|39|985|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|40|984|<span class="rank-name-dl">たーふじ@ﾅｵﾁﾑ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|41|982|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|42|979|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|43|977|<span class="rank-name-dl">JAPAN金子颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|43|977|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|43|977|<span class="rank-name-dl">土日ジャンボ市</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|46|975|<span class="rank-name-dl">すずお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|47|968|<span class="rank-name-dl">当番のアニマルch</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|48|966|<span class="rank-name-dl">かとぅ〜</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|49|965|<span class="rank-name-dl">だ。</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|49|965|<span class="rank-name-dl">全身黒タイツ子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|51|962|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|51|962|<span class="rank-name-dl">オダＧ～</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|53|956|<span class="rank-name-dl">Ryota Kato</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|54|955|<span class="rank-name-dl">アルちゃん⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|55|952|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|56|944|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|57|937|<span class="rank-name-dl">おかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|58|936|<span class="rank-name-dl">なかにー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|59|921|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|60|919|<span class="rank-name-dl">トミー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|61|918|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|62|916|<span class="rank-name-dl">こしあんぱん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|63|915|<span class="rank-name-dl">ぁんぴちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|63|915|<span class="rank-name-dl">たけだ@AZBOX</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|65|906|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|65|906|<span class="rank-name-dl">たかすけ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|67|902|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|68|896|<span class="rank-name-dl">松本　梨美香</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|69|893|<span class="rank-name-dl">ブス芝刈り機</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|70|884|<span class="rank-name-dl">884 NORl</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|71|878|<span class="rank-name-dl">ジュッキー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|72|871|<span class="rank-name-dl">NO NAME 8710</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|73|869|<span class="rank-name-dl">さくちゃん</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|73|869|<span class="rank-name-dl">オペラハウス</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|75|865|<span class="rank-name-dl">余分三兄弟長兄</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|76|864|<span class="rank-name-dl">waku@Nodoka</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|77|845|<span class="rank-name-dl">佐藤智憲＠ＫＺＲ</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|78|844|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|79|823|<span class="rank-name-dl">イズミン</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|80|814|<span class="rank-name-dl">Persona13</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|81|805|<span class="rank-name-dl">えぬかすN1</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|82|804|<span class="rank-name-dl">tatsuya@ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|83|800|<span class="rank-name-dl">M.O.S</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|84|797|<span class="rank-name-dl">M.O.Ｓ@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|85|787|<span class="rank-name-dl">ヨシ@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|86|784|<span class="rank-name-dl">そ〜めん@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|87|774|<span class="rank-name-dl">KYOJI@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|88|768|<span class="rank-name-dl">凜ちゃんLOVE</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|89|760|<span class="rank-name-dl">ゆ〜きゃん</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|90|759|<span class="rank-name-dl">そ〜めん@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|91|748|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|92|739|<span class="rank-name-dl">SOR</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|93|726|<span class="rank-name-dl">鈴木 力翔</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|94|721|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|94|721|<span class="rank-name-dl">熊キョン</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|96|718|<span class="rank-name-dl">ふ〜ま(￣∀￣)</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|97|711|<span class="rank-name-dl">KSK@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|98|704|<span class="rank-name-dl">あちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|99|701|<span class="rank-name-dl">そ〜めん@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">DARTS & CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
-|100|677|<span class="rank-name-dl">ｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|32|1000|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|33|996|<span class="rank-name-dl">ﾓﾗﾙﾊｻﾞｰﾄﾞｷﾀｼﾞﾏ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|34|987|<span class="rank-name-dl">Ray</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|35|986|<span class="rank-name-dl">MAR.@Chain</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|35|986|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|37|985|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|38|984|<span class="rank-name-dl">たーふじ@ﾅｵﾁﾑ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|39|982|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|40|979|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|41|977|<span class="rank-name-dl">JAPAN金子颯太</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|41|977|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|41|977|<span class="rank-name-dl">土日ジャンボ市</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|44|975|<span class="rank-name-dl">すずお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|45|968|<span class="rank-name-dl">当番のアニマルch</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|46|966|<span class="rank-name-dl">かとぅ〜</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|47|965|<span class="rank-name-dl">だ。</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|47|965|<span class="rank-name-dl">全身黒タイツ子</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|49|962|<span class="rank-name-dl">FakeFqctor</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|49|962|<span class="rank-name-dl">オダＧ～</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|51|956|<span class="rank-name-dl">Ryota Kato</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|52|955|<span class="rank-name-dl">アルちゃん⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|53|952|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|54|944|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|55|937|<span class="rank-name-dl">おかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|56|936|<span class="rank-name-dl">なかにー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|57|919|<span class="rank-name-dl">トミー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|58|918|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|59|915|<span class="rank-name-dl">ぁんぴちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|59|915|<span class="rank-name-dl">たけだ@AZBOX</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|61|906|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|61|906|<span class="rank-name-dl">たかすけ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|63|902|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|64|896|<span class="rank-name-dl">松本　梨美香</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|65|893|<span class="rank-name-dl">ブス芝刈り機</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|66|884|<span class="rank-name-dl">884 NORl</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|67|878|<span class="rank-name-dl">ジュッキー</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|68|871|<span class="rank-name-dl">NO NAME 8710</span>|<a href="https://search.dartslive.com/jp/shop/9433b39a5bb432ed0d9b047a20a7ba1e">Darts Shop Evolve Darts Shop Evolve</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|69|869|<span class="rank-name-dl">さくちゃん</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|69|869|<span class="rank-name-dl">オペラハウス</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|71|865|<span class="rank-name-dl">余分三兄弟長兄</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|72|864|<span class="rank-name-dl">waku@Nodoka</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|73|845|<span class="rank-name-dl">佐藤智憲＠ＫＺＲ</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|74|844|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|75|823|<span class="rank-name-dl">イズミン</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|76|814|<span class="rank-name-dl">Persona13</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|77|805|<span class="rank-name-dl">えぬかすN1</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|78|804|<span class="rank-name-dl">tatsuya@ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|79|800|<span class="rank-name-dl">M.O.S</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|80|797|<span class="rank-name-dl">M.O.Ｓ@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|81|787|<span class="rank-name-dl">ヨシ@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|82|784|<span class="rank-name-dl">そ〜めん@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|83|774|<span class="rank-name-dl">KYOJI@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|84|768|<span class="rank-name-dl">凜ちゃんLOVE</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|85|760|<span class="rank-name-dl">ゆ〜きゃん</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|86|748|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|87|739|<span class="rank-name-dl">SOR</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|88|726|<span class="rank-name-dl">鈴木 力翔</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|89|721|<span class="rank-name-dl">Kick</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|89|721|<span class="rank-name-dl">熊キョン</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|91|718|<span class="rank-name-dl">ふ〜ま(￣∀￣)</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|92|711|<span class="rank-name-dl">KSK@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|93|704|<span class="rank-name-dl">あちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|94|701|<span class="rank-name-dl">そ〜めん@KZR</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">DARTS & CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|95|677|<span class="rank-name-dl">ｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|96|672|<span class="rank-name-dl">☆えの☆</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|97|664|<span class="rank-name-dl">みゆき</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|98|663|<span class="rank-name-dl">あざらくっ</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">DARTS & CAFE KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|99|649|<span class="rank-name-dl">Mr.D</span>|<a href="https://search.dartslive.com/jp/shop/31b0f18c717c6d2ffec1ae84bb28bd87">CONCEPT BAR KZR</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
+|99|649|<span class="rank-name-dl">Ryuka 2</span>|<a href="https://search.dartslive.com/jp/shop/d359190e52d896a40d9b047a20a7ba1e">AZ BOX</a>|<a href="/darts/rank/東京都/青梅市">東京都青梅市</a>|
 
 
 #### PHOENIXDARTS TOP 100

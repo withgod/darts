@@ -28,7 +28,7 @@ ___
 |3|1130|<span class="rank-name-dl">亀山 和男</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |4|1120|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |5|1111|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|6|1100|<span class="rank-name-dl">髙山 大輝</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|6|1100|<span class="rank-name-dl">髙山 大輝</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |7|1088|<span class="rank-name-pd">ta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |8|1084|<span class="rank-name-dl">元祖はらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |9|1065|<span class="rank-name-dl">OT</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
@@ -41,7 +41,7 @@ ___
 |16|1046|<span class="rank-name-dl">齋藤 龍也</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |17|1041|<span class="rank-name-pd">ただのうっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |17|1041|<span class="rank-name-pd">マダオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|19|1040|<span class="rank-name-dl">夜の帳㌠</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|19|1040|<span class="rank-name-dl">夜の帳㌠</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |20|1035|<span class="rank-name-dl">はがぽん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |21|1027|<span class="rank-name-pd"><span class="pro-icon-pd"></span>光野 耕平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |22|1025|<span class="rank-name-dl">J,tani@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
@@ -54,7 +54,7 @@ ___
 |29|1014|<span class="rank-name-dl">ベイベー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |29|1014|<span class="rank-name-dl">荒井 義幸</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |31|1012|<span class="rank-name-dl">Shinobu</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|32|1009|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|32|1009|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |33|1005|<span class="rank-name-dl">石森英彦</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |33|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤間 悠人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |35|1002|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87112?s_seq=87112">Girls Bar Bie</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
@@ -70,59 +70,59 @@ ___
 |44|968|<span class="rank-name-pd">打越大基@il-luogo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |46|966|<span class="rank-name-dl">Futosuz</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |47|964|<span class="rank-name-pd">Naoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|48|963|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|48|963|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |49|962|<span class="rank-name-dl">ＹＵＴＡ【BASH】</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |50|961|<span class="rank-name-pd">Kame~INDY&#x27;SSS~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87112?s_seq=87112">Girls Bar Bie</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |51|959|<span class="rank-name-pd">食パンx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |52|958|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |53|957|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤間 悠人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|54|953|<span class="rank-name-dl">蛯助</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|54|953|<span class="rank-name-dl">蛯助</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |54|953|<span class="rank-name-pd">齋藤 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |56|952|<span class="rank-name-pd">D@対人弱弱メン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |56|952|<span class="rank-name-pd">yuuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |58|951|<span class="rank-name-pd">枝豆ルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|59|950|<span class="rank-name-dl">ASO</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|59|950|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|59|950|<span class="rank-name-dl">ASO</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |59|950|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大内 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|62|947|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|62|947|<span class="rank-name-pd">ベイベー！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|64|945|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|65|943|<span class="rank-name-pd">ユじロ@Monday&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|66|941|<span class="rank-name-pd">JUN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|66|941|<span class="rank-name-dl">ちゅ乱</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|68|940|<span class="rank-name-dl">おうき</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|68|940|<span class="rank-name-dl">はんち</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|68|940|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|71|938|<span class="rank-name-pd">はらちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|71|938|<span class="rank-name-dl">冥亞</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|73|937|<span class="rank-name-dl">Rくん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|74|935|<span class="rank-name-dl">Pudding</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|74|935|<span class="rank-name-pd">塩澤 祐成@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|76|934|<span class="rank-name-dl">(＃ﾟДﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|77|933|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|78|932|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|79|931|<span class="rank-name-dl">ちょく</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|79|931|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|79|931|<span class="rank-name-pd">Ｕ－３９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|82|930|<span class="rank-name-pd">ただのうっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|82|930|<span class="rank-name-pd">マダオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|84|929|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|84|929|<span class="rank-name-pd">M&amp;n.chef</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|84|929|<span class="rank-name-pd">のぎぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|87|928|<span class="rank-name-pd">愚(ФωФ)乱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|88|927|<span class="rank-name-pd">はらちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|89|926|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|89|926|<span class="rank-name-dl">３９２</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|91|924|<span class="rank-name-dl">h✶</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|91|924|<span class="rank-name-dl">通りすがりのべこ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|93|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤間 悠人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|94|921|<span class="rank-name-pd">0259_7793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|95|919|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|96|918|<span class="rank-name-dl">コウノ　シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|96|918|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|98|916|<span class="rank-name-dl">NO NAME 2726</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|99|915|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|100|914|<span class="rank-name-dl">ごんちゃんん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|61|947|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|61|947|<span class="rank-name-pd">ベイベー！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|63|945|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|64|943|<span class="rank-name-pd">ユじロ@Monday&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|65|941|<span class="rank-name-pd">JUN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|65|941|<span class="rank-name-dl">ちゅ乱</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|67|940|<span class="rank-name-dl">おうき</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|67|940|<span class="rank-name-dl">はんち</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|67|940|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|70|938|<span class="rank-name-pd">はらちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|70|938|<span class="rank-name-dl">冥亞</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|72|937|<span class="rank-name-dl">Rくん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|73|935|<span class="rank-name-dl">Pudding</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|73|935|<span class="rank-name-pd">塩澤 祐成@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|75|934|<span class="rank-name-dl">(＃ﾟДﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|76|933|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|77|932|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|78|931|<span class="rank-name-dl">ちょく</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|78|931|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|78|931|<span class="rank-name-pd">Ｕ－３９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|81|930|<span class="rank-name-pd">ただのうっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|81|930|<span class="rank-name-pd">マダオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|83|929|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|83|929|<span class="rank-name-pd">M&amp;n.chef</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|83|929|<span class="rank-name-pd">のぎぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|86|928|<span class="rank-name-pd">愚(ФωФ)乱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10163?s_seq=10163">pub grand</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|87|927|<span class="rank-name-pd">はらちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39857?s_seq=39857">BARCA 福島</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|88|926|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|88|926|<span class="rank-name-dl">３９２</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|90|924|<span class="rank-name-dl">h✶</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|90|924|<span class="rank-name-dl">通りすがりのべこ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|92|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤間 悠人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83790?s_seq=83790">VIVEMENT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|93|921|<span class="rank-name-pd">0259_7793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51473?s_seq=51473">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|94|919|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|95|918|<span class="rank-name-dl">コウノ　シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|95|918|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|97|916|<span class="rank-name-dl">NO NAME 2726</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|98|915|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|99|914|<span class="rank-name-dl">ごんちゃんん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|100|913|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,13 +135,13 @@ ___
 |1|1165|<span class="rank-name-dl">J.tani@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |2|1137|<span class="rank-name-dl">雨宮金次郎</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |3|1130|<span class="rank-name-dl">亀山 和男</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|4|1100|<span class="rank-name-dl">髙山 大輝</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|4|1100|<span class="rank-name-dl">髙山 大輝</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |5|1084|<span class="rank-name-dl">元祖はらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |6|1065|<span class="rank-name-dl">OT</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |7|1054|<span class="rank-name-dl">はがぽん△</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |8|1053|<span class="rank-name-dl">わいてぃあーる☆</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |9|1046|<span class="rank-name-dl">齋藤 龍也</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|10|1040|<span class="rank-name-dl">夜の帳㌠</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|10|1040|<span class="rank-name-dl">夜の帳㌠</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |11|1035|<span class="rank-name-dl">はがぽん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |12|1025|<span class="rank-name-dl">J,tani@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |12|1025|<span class="rank-name-dl">✿₫Åⓤ✿T@K.</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
@@ -153,7 +153,7 @@ ___
 |19|1014|<span class="rank-name-dl">ベイベー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |19|1014|<span class="rank-name-dl">荒井 義幸</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |21|1012|<span class="rank-name-dl">Shinobu</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|22|1009|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|22|1009|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |23|1005|<span class="rank-name-dl">石森英彦</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |24|987|<span class="rank-name-dl">toshi-Zo</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |25|978|<span class="rank-name-dl">愚(ФωФ)乱</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
@@ -163,75 +163,75 @@ ___
 |29|969|<span class="rank-name-dl">二ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |30|968|<span class="rank-name-dl">はちみつ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |31|966|<span class="rank-name-dl">Futosuz</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|32|963|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|32|963|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |33|962|<span class="rank-name-dl">ＹＵＴＡ【BASH】</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 |34|958|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|35|953|<span class="rank-name-dl">蛯助</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|36|950|<span class="rank-name-dl">ASO</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|36|950|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|38|947|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|39|941|<span class="rank-name-dl">ちゅ乱</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|40|940|<span class="rank-name-dl">おうき</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|40|940|<span class="rank-name-dl">はんち</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|40|940|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|43|938|<span class="rank-name-dl">冥亞</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|44|937|<span class="rank-name-dl">Rくん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|45|935|<span class="rank-name-dl">Pudding</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|46|934|<span class="rank-name-dl">(＃ﾟДﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|47|933|<span class="rank-name-dl">Naoya</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|48|931|<span class="rank-name-dl">ちょく</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|48|931|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|50|929|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|51|926|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|51|926|<span class="rank-name-dl">３９２</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|53|924|<span class="rank-name-dl">h✶</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|53|924|<span class="rank-name-dl">通りすがりのべこ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|55|919|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|56|918|<span class="rank-name-dl">コウノ　シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|56|918|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|58|916|<span class="rank-name-dl">NO NAME 2726</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|59|915|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|60|914|<span class="rank-name-dl">ごんちゃんん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|61|913|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|62|911|<span class="rank-name-dl">neo&quot;がまBun推し&quot;</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|62|911|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|64|908|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|64|908|<span class="rank-name-dl">原 将斗</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|64|908|<span class="rank-name-dl">風月</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|67|906|<span class="rank-name-dl">キロコ軍曹⭐ロコ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|68|893|<span class="rank-name-dl">あーる</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|68|893|<span class="rank-name-dl">たぬ吉</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|70|892|<span class="rank-name-dl">U-39</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|71|891|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|72|890|<span class="rank-name-dl">NOMI</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|73|886|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店 快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|74|883|<span class="rank-name-dl">⭐キロコ軍曹です</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|75|875|<span class="rank-name-dl">たぬ吉君２</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|76|874|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|77|872|<span class="rank-name-dl">locotribe.com</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|78|869|<span class="rank-name-dl">ゆみばぁ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|79|867|<span class="rank-name-dl">cocoon</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|79|867|<span class="rank-name-dl">⭐キロコ軍曹です</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|81|856|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|82|852|<span class="rank-name-dl">(￣ー￣)</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|83|851|<span class="rank-name-dl">SHIMA</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|84|846|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|85|835|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|86|832|<span class="rank-name-dl">ショータ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|87|830|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|88|829|<span class="rank-name-dl">ボイルうどん</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|89|824|<span class="rank-name-dl">ねぇる</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|89|824|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|91|823|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|92|822|<span class="rank-name-dl">MS-65s KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|93|815|<span class="rank-name-dl">う</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|94|812|<span class="rank-name-dl">機動戦士かるがも</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|95|811|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|96|808|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|97|807|<span class="rank-name-dl">たかひろ。</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|98|798|<span class="rank-name-dl">ぱぱねこ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|99|792|<span class="rank-name-dl">NO NAME 5766</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
-|100|787|<span class="rank-name-dl">せら練習用</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|35|953|<span class="rank-name-dl">蛯助</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|36|950|<span class="rank-name-dl">ASO</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|37|947|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|38|941|<span class="rank-name-dl">ちゅ乱</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|39|940|<span class="rank-name-dl">おうき</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|39|940|<span class="rank-name-dl">はんち</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|39|940|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|42|938|<span class="rank-name-dl">冥亞</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|43|937|<span class="rank-name-dl">Rくん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|44|935|<span class="rank-name-dl">Pudding</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|45|934|<span class="rank-name-dl">(＃ﾟДﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|46|933|<span class="rank-name-dl">Naoya</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|47|931|<span class="rank-name-dl">ちょく</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|47|931|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|49|929|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|50|926|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|50|926|<span class="rank-name-dl">３９２</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|52|924|<span class="rank-name-dl">h✶</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|52|924|<span class="rank-name-dl">通りすがりのべこ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|54|919|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|55|918|<span class="rank-name-dl">コウノ　シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|55|918|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|57|916|<span class="rank-name-dl">NO NAME 2726</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|58|915|<span class="rank-name-dl">NO NAME 4374</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|59|914|<span class="rank-name-dl">ごんちゃんん</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|60|913|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|61|911|<span class="rank-name-dl">neo&quot;がまBun推し&quot;</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|61|911|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|63|908|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|63|908|<span class="rank-name-dl">原 将斗</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|63|908|<span class="rank-name-dl">風月</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|66|906|<span class="rank-name-dl">キロコ軍曹⭐ロコ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|67|893|<span class="rank-name-dl">たぬ吉</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|68|892|<span class="rank-name-dl">U-39</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|69|891|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|70|890|<span class="rank-name-dl">NOMI</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|71|883|<span class="rank-name-dl">⭐キロコ軍曹です</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|72|875|<span class="rank-name-dl">たぬ吉君２</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|73|874|<span class="rank-name-dl">赤間　悠人</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|74|872|<span class="rank-name-dl">locotribe.com</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|75|869|<span class="rank-name-dl">ゆみばぁ</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|76|867|<span class="rank-name-dl">cocoon</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|77|856|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|78|852|<span class="rank-name-dl">(￣ー￣)</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|79|851|<span class="rank-name-dl">SHIMA</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|80|846|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|81|835|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|82|832|<span class="rank-name-dl">ショータ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|83|830|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|84|829|<span class="rank-name-dl">ボイルうどん</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|85|824|<span class="rank-name-dl">ねぇる</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|85|824|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|87|823|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|88|822|<span class="rank-name-dl">MS-65s KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|89|815|<span class="rank-name-dl">う</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|90|812|<span class="rank-name-dl">機動戦士かるがも</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|91|811|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|92|808|<span class="rank-name-dl">雪鳥ΔTryad-EVL</span>|<a href="https://search.dartslive.com/jp/shop/bd4a3f907f239b460d9b047a20a7ba1e">Cafe&Bar RESORT</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|93|807|<span class="rank-name-dl">たかひろ。</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|94|798|<span class="rank-name-dl">ぱぱねこ</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|95|792|<span class="rank-name-dl">NO NAME 5766</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|96|787|<span class="rank-name-dl">せら練習用</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|97|785|<span class="rank-name-dl">OT</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|98|782|<span class="rank-name-dl">Rくん</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|98|782|<span class="rank-name-dl">こーき(￣ ￣)</span>|<a href="https://search.dartslive.com/jp/shop/cf8d9b57f2508cfd0d9b047a20a7ba1e">LOCO TRIBE</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
+|100|776|<span class="rank-name-dl">しおちゃま</span>|<a href="https://search.dartslive.com/jp/shop/24748af74541e72728032249b44395af">快活CLUB 福島北店</a>|<a href="/darts/rank/福島県/福島市">福島県福島市</a>|
 
 
 #### PHOENIXDARTS TOP 100

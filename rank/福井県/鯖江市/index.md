@@ -49,80 +49,80 @@ ___
 |24|918|<span class="rank-name-pd">いい歳のエリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |25|917|<span class="rank-name-pd">おっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |26|912|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|26|912|<span class="rank-name-dl">しょぼにゃん専用</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|28|909|<span class="rank-name-pd">XYZ@123</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|28|909|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|30|908|<span class="rank-name-dl">ぶっきら</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|31|902|<span class="rank-name-dl">T4ichi￡歌舞伎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|32|900|<span class="rank-name-dl">ZELOS</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|33|899|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|34|898|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|35|896|<span class="rank-name-dl">たかぼ～。</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|36|887|<span class="rank-name-pd">石川 将也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|37|883|<span class="rank-name-pd">SRS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|38|880|<span class="rank-name-pd">P-GMSR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|38|880|<span class="rank-name-dl">おいたん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|40|879|<span class="rank-name-dl">やまchan＠BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|41|876|<span class="rank-name-dl">せたろ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|42|875|<span class="rank-name-dl">Aqua214</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|42|875|<span class="rank-name-pd">Mickey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|44|871|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|45|869|<span class="rank-name-pd">Aqua24</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|46|865|<span class="rank-name-dl">GMSRトレー兄</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|47|851|<span class="rank-name-pd">うっきー(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|48|847|<span class="rank-name-pd">山本 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|49|839|<span class="rank-name-pd">のむこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|50|838|<span class="rank-name-dl">YUTYARO@D’s</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|51|837|<span class="rank-name-dl">Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|52|835|<span class="rank-name-pd">†ＳＵ☆ＭＩ†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|53|832|<span class="rank-name-pd">Taniyan123456789</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|54|829|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|55|824|<span class="rank-name-dl">タケモトピアノ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|56|821|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|57|814|<span class="rank-name-dl">MASAYA</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|58|813|<span class="rank-name-dl">オリオンビール</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|59|807|<span class="rank-name-pd">しらぬいぬい♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|60|805|<span class="rank-name-dl">Demodori</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|61|802|<span class="rank-name-dl">うっきー(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|62|799|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|63|797|<span class="rank-name-pd">Ψデモドリ専用Ψ【飛蝗】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|64|796|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|65|794|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|66|787|<span class="rank-name-pd">Tatty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|67|785|<span class="rank-name-dl">名無しのゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|68|780|<span class="rank-name-pd">Ψ-1001－Ψ【飛蝗】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|69|779|<span class="rank-name-dl">けんちゃみ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|70|778|<span class="rank-name-dl">ゆー＠不知火</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|71|777|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|72|776|<span class="rank-name-dl">田中 健太</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|73|773|<span class="rank-name-dl">NO NAME 5159</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|74|770|<span class="rank-name-dl">HiRoTo.</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|75|769|<span class="rank-name-pd">松</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|76|768|<span class="rank-name-dl">NO NAME 3134</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|77|767|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|78|766|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|79|763|<span class="rank-name-pd">NYC Diesel</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|80|762|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|80|762|<span class="rank-name-pd">のりんちゅ(*･艸･)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|82|759|<span class="rank-name-dl">十ＫＩＩＩ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|83|757|<span class="rank-name-dl">オカモト</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|84|755|<span class="rank-name-pd">MASAYA[TO INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|85|754|<span class="rank-name-dl">名無しのゴンベDX</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|86|751|<span class="rank-name-dl">うっきー</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|87|749|<span class="rank-name-dl">ぱるこ3</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|88|743|<span class="rank-name-dl">MICKEY</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|89|738|<span class="rank-name-pd">GAS.mp3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|90|731|<span class="rank-name-pd">けんてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|91|727|<span class="rank-name-pd">杉田 拓哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|92|723|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|93|719|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|94|713|<span class="rank-name-dl">しょぼにゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|95|708|<span class="rank-name-pd">にぃなぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|96|702|<span class="rank-name-pd">ふゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|97|691|<span class="rank-name-dl">TSUKA潤@SDR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|98|687|<span class="rank-name-pd">おばんどー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|99|684|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|100|680|<span class="rank-name-pd">デモドリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|27|909|<span class="rank-name-pd">XYZ@123</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|27|909|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|29|908|<span class="rank-name-dl">ぶっきら</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|30|902|<span class="rank-name-dl">T4ichi￡歌舞伎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|31|900|<span class="rank-name-dl">ZELOS</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|32|899|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|33|898|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|34|896|<span class="rank-name-dl">たかぼ～。</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|35|887|<span class="rank-name-pd">石川 将也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|36|883|<span class="rank-name-pd">SRS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|37|880|<span class="rank-name-pd">P-GMSR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|38|879|<span class="rank-name-dl">やまchan＠BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|39|876|<span class="rank-name-dl">せたろ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|40|875|<span class="rank-name-pd">Mickey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|41|871|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|42|869|<span class="rank-name-pd">Aqua24</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|43|865|<span class="rank-name-dl">GMSRトレー兄</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|44|851|<span class="rank-name-pd">うっきー(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|45|847|<span class="rank-name-pd">山本 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|46|839|<span class="rank-name-pd">のむこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|47|838|<span class="rank-name-dl">YUTYARO@D’s</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|48|837|<span class="rank-name-dl">Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|49|835|<span class="rank-name-pd">†ＳＵ☆ＭＩ†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|50|832|<span class="rank-name-pd">Taniyan123456789</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|51|829|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|52|824|<span class="rank-name-dl">タケモトピアノ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|53|821|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|54|814|<span class="rank-name-dl">MASAYA</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|55|813|<span class="rank-name-dl">オリオンビール</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|56|807|<span class="rank-name-pd">しらぬいぬい♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|57|805|<span class="rank-name-dl">Demodori</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|58|799|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|59|797|<span class="rank-name-pd">Ψデモドリ専用Ψ【飛蝗】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|60|796|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|61|794|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|62|787|<span class="rank-name-pd">Tatty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|63|785|<span class="rank-name-dl">名無しのゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|64|780|<span class="rank-name-pd">Ψ-1001－Ψ【飛蝗】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|65|779|<span class="rank-name-dl">けんちゃみ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|66|778|<span class="rank-name-dl">ゆー＠不知火</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|67|777|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|68|776|<span class="rank-name-dl">田中 健太</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|69|773|<span class="rank-name-dl">NO NAME 5159</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|70|770|<span class="rank-name-dl">HiRoTo.</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|71|769|<span class="rank-name-pd">松</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|72|768|<span class="rank-name-dl">NO NAME 3134</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|73|766|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|74|763|<span class="rank-name-pd">NYC Diesel</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|75|762|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|75|762|<span class="rank-name-pd">のりんちゅ(*･艸･)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|77|759|<span class="rank-name-dl">十ＫＩＩＩ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|78|757|<span class="rank-name-dl">オカモト</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|79|755|<span class="rank-name-pd">MASAYA[TO INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|80|754|<span class="rank-name-dl">名無しのゴンベDX</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|81|751|<span class="rank-name-dl">うっきー</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|82|749|<span class="rank-name-dl">ぱるこ3</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|83|738|<span class="rank-name-pd">GAS.mp3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|84|731|<span class="rank-name-pd">けんてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|85|727|<span class="rank-name-pd">杉田 拓哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|86|723|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|87|719|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|88|713|<span class="rank-name-dl">しょぼにゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|89|708|<span class="rank-name-pd">にぃなぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|90|702|<span class="rank-name-pd">ふゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|91|691|<span class="rank-name-dl">TSUKA潤@SDR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|92|687|<span class="rank-name-pd">おばんどー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|93|684|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|94|680|<span class="rank-name-pd">デモドリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|95|674|<span class="rank-name-pd">0042_8302</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|95|674|<span class="rank-name-pd">あーしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|97|663|<span class="rank-name-pd">○凸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|98|662|<span class="rank-name-pd">JOJON&amp;0721</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|99|661|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74153?s_seq=74153">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|99|661|<span class="rank-name-dl">Ririka</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -154,76 +154,71 @@ ___
 |19|924|<span class="rank-name-dl">MICKEY</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |19|924|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |22|912|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|22|912|<span class="rank-name-dl">しょぼにゃん専用</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|24|909|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|25|908|<span class="rank-name-dl">ぶっきら</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|26|902|<span class="rank-name-dl">T4ichi￡歌舞伎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|27|900|<span class="rank-name-dl">ZELOS</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|28|899|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|29|898|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|30|896|<span class="rank-name-dl">たかぼ～。</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|31|880|<span class="rank-name-dl">おいたん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|32|879|<span class="rank-name-dl">やまchan＠BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|33|876|<span class="rank-name-dl">せたろ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|34|875|<span class="rank-name-dl">Aqua214</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|35|871|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|36|865|<span class="rank-name-dl">GMSRトレー兄</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|37|838|<span class="rank-name-dl">YUTYARO@D’s</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|38|837|<span class="rank-name-dl">Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|39|829|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|40|824|<span class="rank-name-dl">タケモトピアノ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|41|821|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|42|814|<span class="rank-name-dl">MASAYA</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|43|813|<span class="rank-name-dl">オリオンビール</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|44|805|<span class="rank-name-dl">Demodori</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|45|802|<span class="rank-name-dl">うっきー(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|46|799|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|47|796|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|48|785|<span class="rank-name-dl">名無しのゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|49|779|<span class="rank-name-dl">けんちゃみ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|50|778|<span class="rank-name-dl">ゆー＠不知火</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|51|777|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|52|776|<span class="rank-name-dl">田中 健太</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|53|773|<span class="rank-name-dl">NO NAME 5159</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|54|770|<span class="rank-name-dl">HiRoTo.</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|55|768|<span class="rank-name-dl">NO NAME 3134</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|56|767|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|57|762|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|58|759|<span class="rank-name-dl">十ＫＩＩＩ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|59|757|<span class="rank-name-dl">オカモト</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|60|754|<span class="rank-name-dl">名無しのゴンベDX</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|61|751|<span class="rank-name-dl">うっきー</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|62|749|<span class="rank-name-dl">ぱるこ3</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|63|743|<span class="rank-name-dl">MICKEY</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店 快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|64|723|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|65|719|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|66|713|<span class="rank-name-dl">しょぼにゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|67|691|<span class="rank-name-dl">TSUKA潤@SDR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|68|661|<span class="rank-name-dl">Ririka</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|69|658|<span class="rank-name-dl">huyu</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|70|645|<span class="rank-name-dl">新右衛門</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|71|641|<span class="rank-name-dl">千石</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|72|628|<span class="rank-name-dl">MASAYA∞</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|73|606|<span class="rank-name-dl">のっとどりーむ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|74|593|<span class="rank-name-dl">⭐࿐蒼南</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|75|586|<span class="rank-name-dl">((｢･ω･)｢≡</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|76|556|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|77|514|<span class="rank-name-dl">りあん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|78|503|<span class="rank-name-dl">momo</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|79|472|<span class="rank-name-dl">Suzu</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|79|472|<span class="rank-name-dl">☆蒼南☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|81|471|<span class="rank-name-dl">神崎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|82|442|<span class="rank-name-dl">隼人</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|83|428|<span class="rank-name-dl">あん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|84|426|<span class="rank-name-dl">rock</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|85|421|<span class="rank-name-dl">はりぃ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|86|402|<span class="rank-name-dl">sz</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|87|393|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|88|378|<span class="rank-name-dl">1103 •ᴗ•</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|89|340|<span class="rank-name-dl">Tom</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|90|312|<span class="rank-name-dl">ぴぃたん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|91|272|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|92|237|<span class="rank-name-dl">プリティーあん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|23|909|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|24|908|<span class="rank-name-dl">ぶっきら</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|25|902|<span class="rank-name-dl">T4ichi￡歌舞伎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|26|900|<span class="rank-name-dl">ZELOS</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|27|899|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|28|898|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|29|896|<span class="rank-name-dl">たかぼ～。</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|30|879|<span class="rank-name-dl">やまchan＠BATBAR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|31|876|<span class="rank-name-dl">せたろ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|32|871|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|33|865|<span class="rank-name-dl">GMSRトレー兄</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|34|838|<span class="rank-name-dl">YUTYARO@D’s</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|35|837|<span class="rank-name-dl">Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|36|829|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|37|824|<span class="rank-name-dl">タケモトピアノ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|38|821|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|39|814|<span class="rank-name-dl">MASAYA</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|40|813|<span class="rank-name-dl">オリオンビール</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|41|805|<span class="rank-name-dl">Demodori</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|42|802|<span class="rank-name-dl">うっきー(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|43|799|<span class="rank-name-dl">まつお_投神暴</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|44|796|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|45|785|<span class="rank-name-dl">名無しのゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|46|779|<span class="rank-name-dl">けんちゃみ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|47|778|<span class="rank-name-dl">ゆー＠不知火</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|48|777|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|49|776|<span class="rank-name-dl">田中 健太</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|50|773|<span class="rank-name-dl">NO NAME 5159</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|51|770|<span class="rank-name-dl">HiRoTo.</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|52|768|<span class="rank-name-dl">NO NAME 3134</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|53|762|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|54|759|<span class="rank-name-dl">十ＫＩＩＩ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|55|757|<span class="rank-name-dl">オカモト</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|56|754|<span class="rank-name-dl">名無しのゴンベDX</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|57|751|<span class="rank-name-dl">うっきー</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|58|749|<span class="rank-name-dl">ぱるこ3</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|59|723|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|60|719|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|61|713|<span class="rank-name-dl">しょぼにゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|62|691|<span class="rank-name-dl">TSUKA潤@SDR</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|63|661|<span class="rank-name-dl">Ririka</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|64|658|<span class="rank-name-dl">huyu</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|65|645|<span class="rank-name-dl">新右衛門</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|66|641|<span class="rank-name-dl">千石</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|67|628|<span class="rank-name-dl">MASAYA∞</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|68|606|<span class="rank-name-dl">のっとどりーむ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|69|593|<span class="rank-name-dl">⭐࿐蒼南</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|70|586|<span class="rank-name-dl">((｢･ω･)｢≡</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|71|556|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|72|514|<span class="rank-name-dl">りあん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|73|503|<span class="rank-name-dl">momo</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|74|472|<span class="rank-name-dl">Suzu</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|74|472|<span class="rank-name-dl">☆蒼南☆</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|76|471|<span class="rank-name-dl">神崎</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|77|442|<span class="rank-name-dl">隼人</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|78|428|<span class="rank-name-dl">あん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|79|426|<span class="rank-name-dl">rock</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|80|421|<span class="rank-name-dl">はりぃ</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|81|402|<span class="rank-name-dl">sz</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|82|393|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|83|378|<span class="rank-name-dl">1103 •ᴗ•</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|84|340|<span class="rank-name-dl">Tom</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|85|312|<span class="rank-name-dl">ぴぃたん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|86|272|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
+|87|237|<span class="rank-name-dl">プリティーあん</span>|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 
 
 #### PHOENIXDARTS TOP 100

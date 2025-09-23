@@ -31,7 +31,7 @@ ___
 |6|1088|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |7|1077|<span class="rank-name-dl">柊 一颯</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |8|1060|<span class="rank-name-dl">松本 貫太@CHB</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|9|1058|<span class="rank-name-dl">マツモト カンタ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|9|1058|<span class="rank-name-dl">マツモト カンタ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |10|1053|<span class="rank-name-dl">⋆*misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |11|1050|<span class="rank-name-dl">zoozurā</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |12|1049|<span class="rank-name-dl">Ｌ･Ｈ.rui－rui</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
@@ -39,90 +39,90 @@ ___
 |14|1030|<span class="rank-name-dl">青眼の白龍</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |15|1029|<span class="rank-name-dl">むらかんた@55</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |15|1029|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|17|1024|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|17|1024|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |18|1018|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|19|1017|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|19|1017|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |20|1013|<span class="rank-name-dl">Musica Fiesta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |21|1012|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|22|1011|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|23|1007|<span class="rank-name-dl">中村　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|24|1005|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|25|1004|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 貫太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|26|1000|<span class="rank-name-dl">RUI@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|26|1000|<span class="rank-name-pd">Неудачный</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|26|1000|<span class="rank-name-dl">米倉丈二</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|29|996|<span class="rank-name-dl">おいさん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|30|980|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|30|980|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|32|977|<span class="rank-name-pd">HAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|32|977|<span class="rank-name-dl">わさお</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|34|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>Jermaine Williams</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|35|973|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|35|973|<span class="rank-name-dl">とじぱるす</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|37|972|<span class="rank-name-dl">あたまゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|38|970|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|39|968|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|40|967|<span class="rank-name-dl">ｔａｋｅ１７５</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|41|966|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|42|965|<span class="rank-name-dl">♪たっきー♪</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|43|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|43|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|45|963|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|45|963|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|47|962|<span class="rank-name-dl">かいとーうーばー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|47|962|<span class="rank-name-pd">よっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|49|956|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|50|954|<span class="rank-name-dl">スコ two freedom</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|51|953|<span class="rank-name-pd">-YOPPY-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|52|949|<span class="rank-name-dl">シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|53|937|<span class="rank-name-pd">僕おtintin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|54|935|<span class="rank-name-dl">F†Nassyyyy</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|934|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|934|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|934|<span class="rank-name-dl">ぴかぱん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|58|933|<span class="rank-name-dl">駄無 OLD AGE</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|58|933|<span class="rank-name-dl">魔神Boo</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|60|932|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|61|930|<span class="rank-name-dl">カイリ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|61|930|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|63|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|63|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|63|929|<span class="rank-name-dl">ごうせる</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|66|926|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|67|924|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|68|922|<span class="rank-name-dl">kazu-lefty</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|68|922|<span class="rank-name-pd">あるぱか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|68|922|<span class="rank-name-pd">ゆるりさん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|71|920|<span class="rank-name-dl">Yuu2</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|71|920|<span class="rank-name-dl">松川</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|73|918|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|73|918|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|75|916|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|75|916|<span class="rank-name-dl">かりー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|77|914|<span class="rank-name-pd">87SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|78|911|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|79|910|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|80|908|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|81|900|<span class="rank-name-dl">Jermaine W.</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|81|900|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|81|900|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|84|898|<span class="rank-name-dl">aya★</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|85|895|<span class="rank-name-pd">ゆるりさん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|86|894|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|87|883|<span class="rank-name-pd">（ixi）ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|88|881|<span class="rank-name-pd">ぷっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|89|878|<span class="rank-name-pd">STYLE×misaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|90|871|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|91|869|<span class="rank-name-dl">まっさん</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|92|868|<span class="rank-name-pd">Sho-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|92|868|<span class="rank-name-dl">は</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|94|867|<span class="rank-name-dl">NI-TA@MSY</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|95|866|<span class="rank-name-pd">87SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|95|866|<span class="rank-name-pd">ハナハナ設定3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|97|865|<span class="rank-name-dl">NI-TA・DUFOUR</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|98|864|<span class="rank-name-pd">スペースキャンサー大明神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|99|859|<span class="rank-name-pd">トトリーズ@甘雨推し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|100|856|<span class="rank-name-pd">STYLE×misaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|22|1007|<span class="rank-name-dl">中村　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|23|1005|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|24|1004|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 貫太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|25|1000|<span class="rank-name-dl">RUI@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|25|1000|<span class="rank-name-pd">Неудачный</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|25|1000|<span class="rank-name-dl">米倉丈二</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|28|996|<span class="rank-name-dl">おいさん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|29|980|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|29|980|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|31|977|<span class="rank-name-pd">HAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|31|977|<span class="rank-name-dl">わさお</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|33|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>Jermaine Williams</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|34|973|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|34|973|<span class="rank-name-dl">とじぱるす</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|36|972|<span class="rank-name-dl">あたまゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|37|970|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|38|968|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|39|967|<span class="rank-name-dl">ｔａｋｅ１７５</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|40|966|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|41|965|<span class="rank-name-dl">♪たっきー♪</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|42|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|43|963|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|43|963|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|45|962|<span class="rank-name-dl">かいとーうーばー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|45|962|<span class="rank-name-pd">よっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|47|956|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|48|954|<span class="rank-name-dl">スコ two freedom</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|49|953|<span class="rank-name-pd">-YOPPY-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|50|949|<span class="rank-name-dl">シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|51|937|<span class="rank-name-pd">僕おtintin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|52|935|<span class="rank-name-dl">F†Nassyyyy</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|53|934|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|53|934|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|53|934|<span class="rank-name-dl">ぴかぱん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|56|933|<span class="rank-name-dl">駄無 OLD AGE</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|56|933|<span class="rank-name-dl">魔神Boo</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|58|930|<span class="rank-name-dl">カイリ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|58|930|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|60|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|60|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|60|929|<span class="rank-name-dl">ごうせる</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|63|926|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|64|924|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|922|<span class="rank-name-dl">kazu-lefty</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|922|<span class="rank-name-pd">あるぱか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|922|<span class="rank-name-pd">ゆるりさん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|68|920|<span class="rank-name-dl">Yuu2</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|68|920|<span class="rank-name-dl">松川</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|70|918|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|70|918|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|72|916|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|72|916|<span class="rank-name-dl">かりー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|74|914|<span class="rank-name-pd">87SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|75|910|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|76|900|<span class="rank-name-dl">Jermaine W.</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|76|900|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|76|900|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|79|898|<span class="rank-name-dl">aya★</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|80|895|<span class="rank-name-pd">ゆるりさん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|81|894|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|82|883|<span class="rank-name-pd">（ixi）ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|83|881|<span class="rank-name-pd">ぷっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|84|878|<span class="rank-name-pd">STYLE×misaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|85|871|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|86|869|<span class="rank-name-dl">まっさん</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|87|868|<span class="rank-name-pd">Sho-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|87|868|<span class="rank-name-dl">は</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|89|867|<span class="rank-name-dl">NI-TA@MSY</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|90|866|<span class="rank-name-pd">87SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|90|866|<span class="rank-name-pd">ハナハナ設定3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|92|865|<span class="rank-name-dl">NI-TA・DUFOUR</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|93|864|<span class="rank-name-pd">スペースキャンサー大明神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|94|859|<span class="rank-name-pd">トトリーズ@甘雨推し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|95|856|<span class="rank-name-pd">STYLE×misaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|96|855|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|97|852|<span class="rank-name-pd">スコtwofreedom</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83496?s_seq=83496">PlayGarden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|98|845|<span class="rank-name-pd">0191_3345</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6762?s_seq=6762">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|98|845|<span class="rank-name-dl">ものすごっつ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|100|839|<span class="rank-name-dl">ウミンチュ(米軍)</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,7 +139,7 @@ ___
 |5|1088|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |6|1077|<span class="rank-name-dl">柊 一颯</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |7|1060|<span class="rank-name-dl">松本 貫太@CHB</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|8|1058|<span class="rank-name-dl">マツモト カンタ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|8|1058|<span class="rank-name-dl">マツモト カンタ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |9|1053|<span class="rank-name-dl">⋆*misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |10|1050|<span class="rank-name-dl">zoozurā</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |11|1049|<span class="rank-name-dl">Ｌ･Ｈ.rui－rui</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
@@ -147,91 +147,91 @@ ___
 |13|1030|<span class="rank-name-dl">青眼の白龍</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |14|1029|<span class="rank-name-dl">むらかんた@55</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |14|1029|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|16|1024|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|16|1024|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |17|1018|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|18|1017|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|18|1017|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |19|1013|<span class="rank-name-dl">Musica Fiesta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 |20|1012|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|21|1011|<span class="rank-name-dl">あるぱか牧場</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|22|1007|<span class="rank-name-dl">中村　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|23|1005|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|24|1000|<span class="rank-name-dl">RUI@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|24|1000|<span class="rank-name-dl">米倉丈二</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|26|996|<span class="rank-name-dl">おいさん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|27|980|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|27|980|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|29|977|<span class="rank-name-dl">わさお</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|30|973|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|30|973|<span class="rank-name-dl">とじぱるす</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|32|972|<span class="rank-name-dl">あたまゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|33|970|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|34|968|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|35|967|<span class="rank-name-dl">ｔａｋｅ１７５</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|36|966|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|37|965|<span class="rank-name-dl">♪たっきー♪</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|38|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|38|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|40|963|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|40|963|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|42|962|<span class="rank-name-dl">かいとーうーばー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|43|961|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|44|954|<span class="rank-name-dl">スコ two freedom</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|45|949|<span class="rank-name-dl">シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|46|935|<span class="rank-name-dl">F†Nassyyyy</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|47|934|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|47|934|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|47|934|<span class="rank-name-dl">ぴかぱん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|50|933|<span class="rank-name-dl">駄無 OLD AGE</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|50|933|<span class="rank-name-dl">魔神Boo</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|52|932|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|53|930|<span class="rank-name-dl">カイリ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|53|930|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|55|929|<span class="rank-name-dl">ごうせる</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|58|926|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|59|924|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|60|922|<span class="rank-name-dl">kazu-lefty</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|61|920|<span class="rank-name-dl">Yuu2</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|61|920|<span class="rank-name-dl">松川</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|63|918|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|63|918|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|65|916|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|65|916|<span class="rank-name-dl">かりー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|67|911|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|68|910|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|69|908|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|70|900|<span class="rank-name-dl">Jermaine W.</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|70|900|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|70|900|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|73|898|<span class="rank-name-dl">aya★</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店 快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|74|894|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|75|869|<span class="rank-name-dl">まっさん</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|76|868|<span class="rank-name-dl">は</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|77|867|<span class="rank-name-dl">NI-TA@MSY</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|78|865|<span class="rank-name-dl">NI-TA・DUFOUR</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|79|855|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|80|845|<span class="rank-name-dl">ものすごっつ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|81|841|<span class="rank-name-dl">F†Nassyyyy</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|82|839|<span class="rank-name-dl">ウミンチュ(米軍)</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|83|836|<span class="rank-name-dl">HAYA‖セパ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|84|835|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|85|827|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|85|827|<span class="rank-name-dl">四糸乃@Jz</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|85|827|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ長島</span>|<a href="https://search.dartslive.com/jp/shop/553dd9c6917d5b9d0d9b047a20a7ba1e">m&m's m&m's</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|88|823|<span class="rank-name-dl">Poser</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|89|822|<span class="rank-name-dl">ゆるりさん。</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|89|822|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ 杉尾</span>|<a href="https://search.dartslive.com/jp/shop/553dd9c6917d5b9d0d9b047a20a7ba1e">m&m's m&m's</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|91|821|<span class="rank-name-dl">HAYA‖セパ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|92|816|<span class="rank-name-dl">NIーTA・DUFORE</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|93|811|<span class="rank-name-dl">となりのトントロ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|94|808|<span class="rank-name-dl">スシー</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|95|807|<span class="rank-name-dl">箸元よし夫®</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|96|803|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ 杉尾</span>|<a href="https://search.dartslive.com/jp/shop/553dd9c6917d5b9d0d9b047a20a7ba1e">m&m's</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|97|802|<span class="rank-name-dl">NIーTA・DUFORE</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店 Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|98|784|<span class="rank-name-dl">Nero</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|98|784|<span class="rank-name-dl">神に抗う者</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
-|100|782|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|21|1007|<span class="rank-name-dl">中村　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|22|1005|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|23|1000|<span class="rank-name-dl">RUI@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|23|1000|<span class="rank-name-dl">米倉丈二</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|25|996|<span class="rank-name-dl">おいさん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|26|980|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|26|980|<span class="rank-name-dl">なりっす@YYT</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|28|977|<span class="rank-name-dl">わさお</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|29|973|<span class="rank-name-dl">STYLE×misaki*ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|29|973|<span class="rank-name-dl">とじぱるす</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|31|972|<span class="rank-name-dl">あたまゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|32|970|<span class="rank-name-dl">のりたま</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|33|968|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|34|967|<span class="rank-name-dl">ｔａｋｅ１７５</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|35|966|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|36|965|<span class="rank-name-dl">♪たっきー♪</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|37|964|<span class="rank-name-dl">吉原です。</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|38|963|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|38|963|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|40|962|<span class="rank-name-dl">かいとーうーばー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|41|961|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|42|954|<span class="rank-name-dl">スコ two freedom</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|43|949|<span class="rank-name-dl">シンヤ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|44|935|<span class="rank-name-dl">F†Nassyyyy</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|45|934|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|45|934|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|45|934|<span class="rank-name-dl">ぴかぱん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|48|933|<span class="rank-name-dl">駄無 OLD AGE</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|48|933|<span class="rank-name-dl">魔神Boo</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|50|930|<span class="rank-name-dl">カイリ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|50|930|<span class="rank-name-dl">ｔａｋｅ１８０</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|52|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|52|929|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|52|929|<span class="rank-name-dl">ごうせる</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|55|926|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|56|924|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|57|922|<span class="rank-name-dl">kazu-lefty</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|58|920|<span class="rank-name-dl">Yuu2</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|58|920|<span class="rank-name-dl">松川</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|60|918|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|60|918|<span class="rank-name-dl">Ｌ・H吉野瑠依</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|62|916|<span class="rank-name-dl">Kenta</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|62|916|<span class="rank-name-dl">かりー</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|64|910|<span class="rank-name-dl">松本 貫太</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|900|<span class="rank-name-dl">Jermaine W.</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|900|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|65|900|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|68|898|<span class="rank-name-dl">aya★</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|69|894|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|70|869|<span class="rank-name-dl">まっさん</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|71|868|<span class="rank-name-dl">は</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|72|867|<span class="rank-name-dl">NI-TA@MSY</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|73|865|<span class="rank-name-dl">NI-TA・DUFOUR</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|74|855|<span class="rank-name-dl">かもめ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|75|845|<span class="rank-name-dl">ものすごっつ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|76|839|<span class="rank-name-dl">ウミンチュ(米軍)</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|77|836|<span class="rank-name-dl">HAYA‖セパ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|78|835|<span class="rank-name-dl">y.nakai</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|79|827|<span class="rank-name-dl">haru*゜</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|79|827|<span class="rank-name-dl">四糸乃@Jz</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|79|827|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ長島</span>|<a href="https://search.dartslive.com/jp/shop/553dd9c6917d5b9d0d9b047a20a7ba1e">m&m's</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|82|823|<span class="rank-name-dl">Poser</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|83|822|<span class="rank-name-dl">ゆるりさん。</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|83|822|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ 杉尾</span>|<a href="https://search.dartslive.com/jp/shop/553dd9c6917d5b9d0d9b047a20a7ba1e">m&m's</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|85|821|<span class="rank-name-dl">HAYA‖セパ</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|86|816|<span class="rank-name-dl">NIーTA・DUFORE</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|87|811|<span class="rank-name-dl">となりのトントロ</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|88|808|<span class="rank-name-dl">スシー</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|89|807|<span class="rank-name-dl">箸元よし夫®</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|90|784|<span class="rank-name-dl">Nero</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|90|784|<span class="rank-name-dl">神に抗う者</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|92|782|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|92|782|<span class="rank-name-dl">鬼武者</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|94|781|<span class="rank-name-dl">87</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|95|780|<span class="rank-name-dl">NO NAME OLD AGE</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|96|777|<span class="rank-name-dl">井坂 真希</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|97|772|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden 茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|98|770|<span class="rank-name-dl">柊_海人</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|99|768|<span class="rank-name-dl">CHII</span>|<a href="https://search.dartslive.com/jp/shop/5360a12b39877e7d790ab824ce8730e5">快活CLUB 茂原東部台店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
+|100|754|<span class="rank-name-dl">GrandDaddyPurple</span>|<a href="https://search.dartslive.com/jp/shop/e95dd21e029996e8790ab824ce8730e5">Play Garden茂原駅前店</a>|<a href="/darts/rank/千葉県/茂原市">千葉県茂原市</a>|
 
 
 #### PHOENIXDARTS TOP 100

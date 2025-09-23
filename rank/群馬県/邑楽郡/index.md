@@ -39,90 +39,90 @@ ___
 |14|1018|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 |15|1008|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 |16|1005|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|17|1000|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|18|988|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|19|978|<span class="rank-name-pd"><span class="pro-icon-pd"></span>池田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|20|972|<span class="rank-name-pd">330[Molestia Clan]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|20|972|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|22|970|<span class="rank-name-dl">たいしょー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|23|965|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|24|964|<span class="rank-name-dl">ただのミミオ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|25|963|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|25|963|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|27|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森下 和幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|28|958|<span class="rank-name-pd">　眠　兎　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|28|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>庄村 泰世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|30|953|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|31|951|<span class="rank-name-pd">KO-G  [R.C.P]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|32|950|<span class="rank-name-pd">津久井 陽子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|33|942|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|33|942|<span class="rank-name-pd">RE.RY0@α</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|35|938|<span class="rank-name-dl">らっき～</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|36|932|<span class="rank-name-pd">拾い屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|37|929|<span class="rank-name-pd">ゆうki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|38|926|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|39|922|<span class="rank-name-dl">鷹</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|40|916|<span class="rank-name-pd">yuhri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|40|916|<span class="rank-name-dl">☠iToy☠</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|42|911|<span class="rank-name-pd">M.Z.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|43|906|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|44|904|<span class="rank-name-dl">ドラゴン</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|45|899|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|46|898|<span class="rank-name-pd">ドラゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|47|893|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|48|886|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|49|884|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|50|882|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|51|879|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷部 祐斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|52|875|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|53|870|<span class="rank-name-pd">みきこ☆DBL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|53|870|<span class="rank-name-pd">りょー(雷鳳)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|53|870|<span class="rank-name-dl">ピノ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|56|861|<span class="rank-name-pd">SSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|57|860|<span class="rank-name-pd">7pairs</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|58|858|<span class="rank-name-dl">ゆきやん☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|59|853|<span class="rank-name-pd">GAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|59|853|<span class="rank-name-dl">ハマ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|61|852|<span class="rank-name-dl">ふみ7pairs</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|62|850|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|63|846|<span class="rank-name-pd">kudo chankuro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|64|844|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|64|844|<span class="rank-name-dl">YUTON!!!</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|66|842|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|67|841|<span class="rank-name-dl">Fashionista</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|67|841|<span class="rank-name-dl">yuhri</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|69|831|<span class="rank-name-pd">RE.RY0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|69|831|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|69|831|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|72|828|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|73|827|<span class="rank-name-dl">あーと</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|74|823|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|75|819|<span class="rank-name-dl">JIROW×JIROW</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|76|812|<span class="rank-name-pd">Masaya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|76|812|<span class="rank-name-dl">ふるぴょん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|78|801|<span class="rank-name-pd">ｽｰﾊﾟｰｻｲｺくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|79|797|<span class="rank-name-dl">minami@</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|80|795|<span class="rank-name-pd">イイチロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|81|791|<span class="rank-name-dl">ぷん太</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|81|791|<span class="rank-name-pd">オェ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|83|778|<span class="rank-name-dl">うっちー2</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|84|766|<span class="rank-name-pd">Fashionista</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|85|756|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|86|745|<span class="rank-name-pd">Yuki Maehara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|86|745|<span class="rank-name-pd">おいも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|88|742|<span class="rank-name-pd">Ko-G  [R.C.P]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|89|737|<span class="rank-name-pd">ビスコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|90|735|<span class="rank-name-pd">SIBA &amp; JIROW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|91|729|<span class="rank-name-pd">まっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|92|725|<span class="rank-name-pd">KTM@AOKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|93|722|<span class="rank-name-pd">zbdo3a48d80b1f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|94|720|<span class="rank-name-pd">ヒロポン＊BED-CLUB＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|95|712|<span class="rank-name-pd">にーやん†N-style.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|96|704|<span class="rank-name-pd">シヴァタソ♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|97|701|<span class="rank-name-dl">masaya</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|98|698|<span class="rank-name-pd">しかこ@13B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|99|693|<span class="rank-name-pd">YUTON！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|100|690|<span class="rank-name-pd">yves</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|17|988|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|18|978|<span class="rank-name-pd"><span class="pro-icon-pd"></span>池田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|19|972|<span class="rank-name-pd">330[Molestia Clan]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|19|972|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|21|970|<span class="rank-name-dl">たいしょー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|22|965|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|23|964|<span class="rank-name-dl">ただのミミオ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|24|963|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|24|963|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|26|961|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森下 和幸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|27|958|<span class="rank-name-pd">　眠　兎　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|27|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>庄村 泰世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|29|953|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|30|951|<span class="rank-name-pd">KO-G  [R.C.P]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|31|950|<span class="rank-name-pd">津久井 陽子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|32|942|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|32|942|<span class="rank-name-pd">RE.RY0@α</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|34|938|<span class="rank-name-dl">らっき～</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|35|932|<span class="rank-name-pd">拾い屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|36|929|<span class="rank-name-pd">ゆうki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|37|926|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|38|922|<span class="rank-name-dl">鷹</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|39|916|<span class="rank-name-pd">yuhri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|39|916|<span class="rank-name-dl">☠iToy☠</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|41|911|<span class="rank-name-pd">M.Z.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|42|904|<span class="rank-name-dl">ドラゴン</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|43|899|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|44|893|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|45|886|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|46|884|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|47|879|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷部 祐斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|48|875|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|49|870|<span class="rank-name-pd">みきこ☆DBL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|49|870|<span class="rank-name-pd">りょー(雷鳳)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|49|870|<span class="rank-name-dl">ピノ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|52|861|<span class="rank-name-pd">SSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|53|860|<span class="rank-name-pd">7pairs</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|54|858|<span class="rank-name-dl">ゆきやん☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|55|853|<span class="rank-name-pd">GAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|55|853|<span class="rank-name-dl">ハマ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|57|852|<span class="rank-name-dl">ふみ7pairs</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|58|850|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|59|846|<span class="rank-name-pd">kudo chankuro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|60|844|<span class="rank-name-dl">YUTON!!!</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|61|841|<span class="rank-name-dl">Fashionista</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|62|831|<span class="rank-name-pd">RE.RY0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|62|831|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|62|831|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|65|828|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|66|827|<span class="rank-name-dl">あーと</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|67|823|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|68|819|<span class="rank-name-dl">JIROW×JIROW</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|69|812|<span class="rank-name-pd">Masaya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|69|812|<span class="rank-name-dl">ふるぴょん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|71|801|<span class="rank-name-pd">ｽｰﾊﾟｰｻｲｺくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|72|797|<span class="rank-name-dl">minami@</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|73|795|<span class="rank-name-pd">イイチロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|74|791|<span class="rank-name-dl">ぷん太</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|74|791|<span class="rank-name-pd">オェ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|76|778|<span class="rank-name-dl">うっちー2</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|77|756|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|78|745|<span class="rank-name-pd">Yuki Maehara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|78|745|<span class="rank-name-pd">おいも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|80|742|<span class="rank-name-pd">Ko-G  [R.C.P]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|81|737|<span class="rank-name-pd">ビスコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|82|735|<span class="rank-name-pd">SIBA &amp; JIROW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|83|729|<span class="rank-name-pd">まっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|84|725|<span class="rank-name-pd">KTM@AOKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|85|722|<span class="rank-name-pd">zbdo3a48d80b1f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|86|720|<span class="rank-name-pd">ヒロポン＊BED-CLUB＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|87|712|<span class="rank-name-pd">にーやん†N-style.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|88|704|<span class="rank-name-pd">シヴァタソ♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|89|701|<span class="rank-name-dl">masaya</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|90|698|<span class="rank-name-pd">しかこ@13B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|91|693|<span class="rank-name-pd">YUTON！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|92|690|<span class="rank-name-pd">yves</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|93|687|<span class="rank-name-pd">ゆきやん☆(*´ω｀*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|94|677|<span class="rank-name-pd">群馬県民</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|95|673|<span class="rank-name-pd">おでこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|96|671|<span class="rank-name-pd">暇神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|97|660|<span class="rank-name-pd">おじい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|98|649|<span class="rank-name-pd">20yen</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|99|647|<span class="rank-name-dl">ひかるん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|99|647|<span class="rank-name-pd">赤い悪魔★(イップス中)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10673?s_seq=10673">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -144,72 +144,67 @@ ___
 |10|1018|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 |11|1008|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 |12|1005|<span class="rank-name-dl">たいショー(^^)</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|13|1000|<span class="rank-name-dl">ｶｽﾞﾕｷ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|14|988|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|15|972|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|16|970|<span class="rank-name-dl">たいしょー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|17|965|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|18|964|<span class="rank-name-dl">ただのミミオ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|19|963|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|19|963|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|21|953|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|22|942|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|23|938|<span class="rank-name-dl">らっき～</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|24|922|<span class="rank-name-dl">鷹</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|25|916|<span class="rank-name-dl">☠iToy☠</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|26|906|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|27|904|<span class="rank-name-dl">ドラゴン</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|28|899|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|29|893|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|30|886|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|31|884|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|32|882|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|33|870|<span class="rank-name-dl">ピノ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|34|858|<span class="rank-name-dl">ゆきやん☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|35|853|<span class="rank-name-dl">ハマ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|36|852|<span class="rank-name-dl">ふみ7pairs</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|37|844|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|37|844|<span class="rank-name-dl">YUTON!!!</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|39|842|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|40|841|<span class="rank-name-dl">Fashionista</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|40|841|<span class="rank-name-dl">yuhri</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|42|831|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|42|831|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|44|828|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|45|827|<span class="rank-name-dl">あーと</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|46|823|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|47|819|<span class="rank-name-dl">JIROW×JIROW</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|48|812|<span class="rank-name-dl">ふるぴょん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|49|797|<span class="rank-name-dl">minami@</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|50|791|<span class="rank-name-dl">ぷん太</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|51|779|<span class="rank-name-dl">みきこ☆DBL</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|52|778|<span class="rank-name-dl">うっちー2</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|53|756|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|54|701|<span class="rank-name-dl">masaya</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|55|647|<span class="rank-name-dl">ひかるん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|56|634|<span class="rank-name-dl">∮kuro∮</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|57|628|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|58|613|<span class="rank-name-dl">na-Ri</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|59|611|<span class="rank-name-dl">まゆ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|60|608|<span class="rank-name-dl">Yuki Maehara</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|61|591|<span class="rank-name-dl">Shandy◎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|62|587|<span class="rank-name-dl">makimaki</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|63|575|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|64|531|<span class="rank-name-dl">平賀文</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|64|531|<span class="rank-name-dl">ﾕｷｯﾍﾟ･ﾃﾞ･ｾﾆｮﾘｰﾀ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|66|524|<span class="rank-name-dl">Mokemoke</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|67|523|<span class="rank-name-dl">stefanny1205</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|68|497|<span class="rank-name-dl">ダーキチ☆弐号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|69|494|<span class="rank-name-dl">stefanny518</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|70|484|<span class="rank-name-dl">Kaede*</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|71|478|<span class="rank-name-dl">チェキネ\48</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|72|459|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|73|421|<span class="rank-name-dl">りょー(雷鳳)</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|74|406|<span class="rank-name-dl">ちぇり</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|75|401|<span class="rank-name-dl">〒</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|76|390|<span class="rank-name-dl">Mimama</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|77|362|<span class="rank-name-dl">Ai</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
-|78|357|<span class="rank-name-dl">みじゅく。</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|13|988|<span class="rank-name-dl">ダーキチ☆壱号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|14|972|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|15|970|<span class="rank-name-dl">たいしょー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|16|965|<span class="rank-name-dl">ぴの</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|17|964|<span class="rank-name-dl">ただのミミオ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|18|963|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|18|963|<span class="rank-name-dl">眠　兎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|20|953|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|21|942|<span class="rank-name-dl">Ko-G【M.Clan】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|22|938|<span class="rank-name-dl">らっき～</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|23|922|<span class="rank-name-dl">鷹</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|24|916|<span class="rank-name-dl">☠iToy☠</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|25|904|<span class="rank-name-dl">ドラゴン</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|26|899|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|27|893|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|28|886|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|29|884|<span class="rank-name-dl">マサト</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|30|870|<span class="rank-name-dl">ピノ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|31|858|<span class="rank-name-dl">ゆきやん☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|32|853|<span class="rank-name-dl">ハマ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|33|852|<span class="rank-name-dl">ふみ7pairs</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|34|844|<span class="rank-name-dl">YUTON!!!</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|35|841|<span class="rank-name-dl">Fashionista</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|35|841|<span class="rank-name-dl">yuhri</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|37|831|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|37|831|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|39|828|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|40|827|<span class="rank-name-dl">あーと</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|41|823|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|42|819|<span class="rank-name-dl">JIROW×JIROW</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|43|812|<span class="rank-name-dl">ふるぴょん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|44|797|<span class="rank-name-dl">minami@</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|45|791|<span class="rank-name-dl">ぷん太</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|46|779|<span class="rank-name-dl">みきこ☆DBL</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|47|778|<span class="rank-name-dl">うっちー2</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|48|756|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|49|701|<span class="rank-name-dl">masaya</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|50|647|<span class="rank-name-dl">ひかるん</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|51|634|<span class="rank-name-dl">∮kuro∮</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|52|628|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|53|613|<span class="rank-name-dl">na-Ri</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|54|611|<span class="rank-name-dl">まゆ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|55|608|<span class="rank-name-dl">Yuki Maehara</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|56|591|<span class="rank-name-dl">Shandy◎</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|57|587|<span class="rank-name-dl">makimaki</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|58|575|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|59|531|<span class="rank-name-dl">平賀文</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|59|531|<span class="rank-name-dl">ﾕｷｯﾍﾟ･ﾃﾞ･ｾﾆｮﾘｰﾀ</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|61|524|<span class="rank-name-dl">Mokemoke</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|62|523|<span class="rank-name-dl">stefanny1205</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|63|497|<span class="rank-name-dl">ダーキチ☆弐号</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|64|494|<span class="rank-name-dl">stefanny518</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|65|484|<span class="rank-name-dl">Kaede*</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|66|478|<span class="rank-name-dl">チェキネ\48</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|67|459|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|68|421|<span class="rank-name-dl">りょー(雷鳳)</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|69|406|<span class="rank-name-dl">ちぇり</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|70|401|<span class="rank-name-dl">〒</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|71|390|<span class="rank-name-dl">Mimama</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|72|362|<span class="rank-name-dl">Ai</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
+|73|357|<span class="rank-name-dl">みじゅく。</span>|<a href="https://search.dartslive.com/jp/shop/c932fe19e82e51f60d9b047a20a7ba1e">Rest and Bar GHOST</a>|<a href="/darts/rank/群馬県/邑楽郡">群馬県邑楽郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -204,7 +204,7 @@ ___
 |55|1002|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |57|1001|<span class="rank-name-dl">たにーにょ！</span>|<a href="https://search.dartslive.com/jp/shop/2c0c501644e1fc2a0d9b047a20a7ba1e">ポケット 今治店</a>|<a href="/darts/rank/愛媛県/今治市">愛媛県今治市</a>|
 |58|1000|<span class="rank-name-dl">三瀬大樹 ナイツ</span>|<a href="https://search.dartslive.com/jp/shop/15fb4a9684bbb5fe0d9b047a20a7ba1e">Darts Bar Nest</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|59|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|59|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |59|994|<span class="rank-name-dl">青いんぷ</span>|<a href="https://search.dartslive.com/jp/shop/baa3d868d021ac3425d56fb0e5c39bac">ファンキータイム新居浜店</a>|<a href="/darts/rank/愛媛県/新居浜市">愛媛県新居浜市</a>|
 |61|992|<span class="rank-name-dl">せいんと</span>|<a href="https://search.dartslive.com/jp/shop/327656297d50e8c30d9b047a20a7ba1e">FOOL BAR</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |61|992|<span class="rank-name-dl">相原萌人バイト中</span>|<a href="https://search.dartslive.com/jp/shop/c6c704641ebf88220d9b047a20a7ba1e">14-1 FOURTEEN-ONE</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
@@ -219,7 +219,7 @@ ___
 |70|975|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/f61e2f2cddfdd7360d9b047a20a7ba1e">Dragon Monk</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |72|973|<span class="rank-name-dl">かなるです。</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |73|972|<span class="rank-name-dl">マサシ</span>|<a href="https://search.dartslive.com/jp/shop/d53e66d15d148c930d9b047a20a7ba1e">Darts Space D's</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|74|971|<span class="rank-name-dl">チワワde惡烏賊</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|74|971|<span class="rank-name-dl">チワワde惡烏賊</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |75|969|<span class="rank-name-dl">ようちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bfc255ed27887ec8b21333aee1bd51e4">Darts bar Hachi</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |75|969|<span class="rank-name-dl">ポメ</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |75|969|<span class="rank-name-dl">ムラカミ</span>|<a href="https://search.dartslive.com/jp/shop/baa3d868d021ac3425d56fb0e5c39bac">ファンキータイム新居浜店</a>|<a href="/darts/rank/愛媛県/新居浜市">愛媛県新居浜市</a>|

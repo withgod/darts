@@ -26,103 +26,103 @@ ___
 |1|1126|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |2|1119|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |3|1112|<span class="rank-name-dl">設定5ちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|4|1110|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|4|1110|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |5|1109|<span class="rank-name-pd">ゆゆゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |6|1108|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |7|1104|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |8|1101|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|9|1100|<span class="rank-name-dl">タイミー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|9|1100|<span class="rank-name-dl">タイミー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |10|1090|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |11|1081|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |12|1050|<span class="rank-name-pd">あおば</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|13|1049|<span class="rank-name-dl">近藤　晃大</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|13|1049|<span class="rank-name-dl">近藤　晃大</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |13|1049|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|15|1045|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |15|1045|<span class="rank-name-dl">サニーナス</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|17|1037|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|18|1035|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|19|1014|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|20|1013|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|21|1012|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|22|1009|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|23|1008|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|24|1006|<span class="rank-name-pd">totoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|25|1005|<span class="rank-name-dl">K@zuki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|26|1003|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|27|1001|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|27|1001|<span class="rank-name-dl">オム兄</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|27|1001|<span class="rank-name-dl">カリンコリン</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|30|987|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|31|986|<span class="rank-name-dl">ラッキー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|32|984|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|33|983|<span class="rank-name-pd">NonoyamAoR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|33|983|<span class="rank-name-pd">たっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|33|983|<span class="rank-name-dl">ポンコツ会申請中</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|36|982|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|37|980|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|38|973|<span class="rank-name-pd">タケス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|39|972|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|39|972|<span class="rank-name-pd">クレヨン◯◯ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|41|971|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|42|969|<span class="rank-name-dl">れ〜？？</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|43|967|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|44|965|<span class="rank-name-dl">**SATOSHI**</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|44|965|<span class="rank-name-dl">ざ・めがね</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|44|965|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|47|964|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|48|963|<span class="rank-name-dl">諦めないひーたか</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|49|961|<span class="rank-name-dl">あきろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|50|960|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|51|958|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|51|958|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|53|957|<span class="rank-name-pd">ごんた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|53|957|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|53|957|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|56|956|<span class="rank-name-dl">風凪･S･ｶﾞｰｳｪﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|57|955|<span class="rank-name-dl">うなぎパイVSOP</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|57|955|<span class="rank-name-pd">ぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|59|950|<span class="rank-name-pd">ひーたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|60|943|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|61|940|<span class="rank-name-dl">モーリー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|62|938|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|63|937|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|64|935|<span class="rank-name-dl">ぺー3</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|65|934|<span class="rank-name-pd">だいさっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|66|933|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|66|933|<span class="rank-name-dl">ひさぴょん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|68|931|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|69|930|<span class="rank-name-pd">ちょびすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|69|930|<span class="rank-name-dl">ポンコツ会見習い</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|69|930|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|72|928|<span class="rank-name-dl">PANDA</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|73|926|<span class="rank-name-dl">ポンパシ</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|74|925|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|74|925|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|76|924|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|76|924|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|76|924|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|79|920|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|80|917|<span class="rank-name-pd">ほろ酔い気分</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53381?s_seq=53381">Girl's bar Shine</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|81|916|<span class="rank-name-pd">追い兎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|82|914|<span class="rank-name-pd">村田　雅律</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|83|913|<span class="rank-name-pd">SANE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|84|911|<span class="rank-name-pd">yuki-saaaaan^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|84|911|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|86|910|<span class="rank-name-pd">久田 秀和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|86|910|<span class="rank-name-dl">最速風神拳</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|88|909|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|88|909|<span class="rank-name-dl">光</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|90|906|<span class="rank-name-dl">リロ・ダウン♪</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|91|905|<span class="rank-name-pd">✎＿飯＿ღ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|92|904|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|93|903|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|93|903|<span class="rank-name-dl">コウ@半農</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|93|903|<span class="rank-name-dl">銀玉鉄砲✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|96|902|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|97|901|<span class="rank-name-pd">だいさっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53381?s_seq=53381">Girl's bar Shine</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|97|901|<span class="rank-name-dl">らむちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|99|900|<span class="rank-name-pd">ippei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|100|899|<span class="rank-name-pd">風凪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|16|1035|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|17|1014|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|18|1013|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|19|1012|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|20|1009|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|21|1008|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|22|1006|<span class="rank-name-pd">totoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|23|1005|<span class="rank-name-dl">K@zuki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|24|1003|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|25|1001|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|25|1001|<span class="rank-name-dl">オム兄</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|25|1001|<span class="rank-name-dl">カリンコリン</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|28|987|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|29|986|<span class="rank-name-dl">ラッキー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|30|983|<span class="rank-name-pd">NonoyamAoR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|30|983|<span class="rank-name-pd">たっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|30|983|<span class="rank-name-dl">ポンコツ会申請中</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|33|982|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|34|980|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|35|973|<span class="rank-name-pd">タケス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|36|972|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|36|972|<span class="rank-name-pd">クレヨン◯◯ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|38|971|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|39|969|<span class="rank-name-dl">れ〜？？</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|40|967|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|41|965|<span class="rank-name-dl">**SATOSHI**</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|41|965|<span class="rank-name-dl">ざ・めがね</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|41|965|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|44|964|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|45|963|<span class="rank-name-dl">諦めないひーたか</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|46|961|<span class="rank-name-dl">あきろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|47|960|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|48|958|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|48|958|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|50|957|<span class="rank-name-pd">ごんた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|50|957|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|50|957|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|53|956|<span class="rank-name-dl">風凪･S･ｶﾞｰｳｪﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|54|955|<span class="rank-name-dl">うなぎパイVSOP</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|54|955|<span class="rank-name-pd">ぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|56|950|<span class="rank-name-pd">ひーたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|57|943|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|58|940|<span class="rank-name-dl">モーリー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|59|938|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|60|937|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|61|935|<span class="rank-name-dl">ぺー3</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|62|934|<span class="rank-name-pd">だいさっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95878?s_seq=95878">Darts Bar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|63|933|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|63|933|<span class="rank-name-dl">ひさぴょん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|65|931|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|66|930|<span class="rank-name-pd">ちょびすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|66|930|<span class="rank-name-dl">ポンコツ会見習い</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|66|930|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|69|928|<span class="rank-name-dl">PANDA</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|70|926|<span class="rank-name-dl">ポンパシ</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|71|925|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|71|925|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|73|924|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|73|924|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|75|920|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|76|917|<span class="rank-name-pd">ほろ酔い気分</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53381?s_seq=53381">Girl's bar Shine</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|77|916|<span class="rank-name-pd">追い兎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|78|914|<span class="rank-name-pd">村田　雅律</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|79|913|<span class="rank-name-pd">SANE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|80|911|<span class="rank-name-pd">yuki-saaaaan^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|80|911|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|82|910|<span class="rank-name-pd">久田 秀和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|82|910|<span class="rank-name-dl">最速風神拳</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|84|909|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|84|909|<span class="rank-name-dl">光</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|86|906|<span class="rank-name-dl">リロ・ダウン♪</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|87|904|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|88|903|<span class="rank-name-dl">コウ@半農</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|88|903|<span class="rank-name-dl">銀玉鉄砲✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|90|902|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|91|901|<span class="rank-name-pd">だいさっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53381?s_seq=53381">Girl's bar Shine</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|91|901|<span class="rank-name-dl">らむちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|93|900|<span class="rank-name-pd">ippei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|94|899|<span class="rank-name-pd">風凪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|95|895|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|95|895|<span class="rank-name-pd">嘔吐バックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88558?s_seq=88558">酒盛</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|97|894|<span class="rank-name-pd">凸DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8664?s_seq=8664">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|97|894|<span class="rank-name-dl">ｸｯｷｰﾓﾝｽﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|99|889|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|99|889|<span class="rank-name-dl">阿嘉 紗香</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1126|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |2|1119|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |3|1112|<span class="rank-name-dl">設定5ちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|4|1110|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|4|1110|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |5|1108|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |6|1104|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |7|1101|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|8|1100|<span class="rank-name-dl">タイミー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|8|1100|<span class="rank-name-dl">タイミー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |9|1081|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|10|1049|<span class="rank-name-dl">近藤　晃大</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|10|1049|<span class="rank-name-dl">近藤　晃大</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |10|1049|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|12|1045|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 |12|1045|<span class="rank-name-dl">サニーナス</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|14|1037|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|15|1035|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|16|1014|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|17|1013|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|18|1012|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|19|1008|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|20|1005|<span class="rank-name-dl">K@zuki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|21|1001|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|21|1001|<span class="rank-name-dl">オム兄</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|21|1001|<span class="rank-name-dl">カリンコリン</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|24|987|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|25|986|<span class="rank-name-dl">ラッキー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|26|984|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|27|983|<span class="rank-name-dl">ポンコツ会申請中</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|28|980|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|29|972|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|30|969|<span class="rank-name-dl">れ〜？？</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|31|967|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|32|965|<span class="rank-name-dl">**SATOSHI**</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|32|965|<span class="rank-name-dl">ざ・めがね</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|32|965|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|35|964|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|36|963|<span class="rank-name-dl">諦めないひーたか</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|37|961|<span class="rank-name-dl">あきろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|38|960|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|39|958|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|40|957|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|40|957|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|42|956|<span class="rank-name-dl">風凪･S･ｶﾞｰｳｪﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|43|955|<span class="rank-name-dl">うなぎパイVSOP</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|44|943|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|45|940|<span class="rank-name-dl">モーリー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|46|935|<span class="rank-name-dl">ぺー3</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|47|933|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|47|933|<span class="rank-name-dl">ひさぴょん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|49|931|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|50|930|<span class="rank-name-dl">ポンコツ会見習い</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|50|930|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|52|928|<span class="rank-name-dl">PANDA</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|53|926|<span class="rank-name-dl">ポンパシ</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|54|925|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|54|925|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|56|924|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|56|924|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|56|924|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|59|920|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|60|911|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|61|910|<span class="rank-name-dl">最速風神拳</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|62|909|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|62|909|<span class="rank-name-dl">光</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|64|907|<span class="rank-name-dl">NAGATATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|65|906|<span class="rank-name-dl">リロ・ダウン♪</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|66|903|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|66|903|<span class="rank-name-dl">コウ@半農</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|66|903|<span class="rank-name-dl">銀玉鉄砲✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|69|902|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|70|901|<span class="rank-name-dl">らむちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|71|895|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|72|894|<span class="rank-name-dl">ｸｯｷｰﾓﾝｽﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|73|889|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|73|889|<span class="rank-name-dl">阿嘉 紗香</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|75|882|<span class="rank-name-dl">川　鬼　　魔　奈</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|76|880|<span class="rank-name-dl">マツ。</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|77|879|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|78|872|<span class="rank-name-dl">サイハラさん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|79|871|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|80|869|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|81|864|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|81|864|<span class="rank-name-dl">フウゥ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|81|864|<span class="rank-name-dl">嘔吐ばっくす</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|84|862|<span class="rank-name-dl">けーすけ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|84|862|<span class="rank-name-dl">なす</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|86|857|<span class="rank-name-dl">PANDA</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店 ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|87|853|<span class="rank-name-dl">セパkazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|87|853|<span class="rank-name-dl">ポンコツ会舎弟</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|89|842|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|90|829|<span class="rank-name-dl">ゴリ渡邊</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|91|821|<span class="rank-name-dl">ゆ ☻</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|91|821|<span class="rank-name-dl">幽助</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|93|811|<span class="rank-name-dl">Akki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|93|811|<span class="rank-name-dl">はむたろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|95|809|<span class="rank-name-dl">NO NAME 5319</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|96|804|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|97|797|<span class="rank-name-dl">Ayaka</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|98|782|<span class="rank-name-dl">みきすけ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|99|773|<span class="rank-name-dl">U♪ ⌒➷☆⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|100|760|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|13|1035|<span class="rank-name-dl">タケスィ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|14|1014|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|15|1013|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|16|1012|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|17|1008|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|18|1005|<span class="rank-name-dl">K@zuki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|19|1001|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|19|1001|<span class="rank-name-dl">オム兄</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|19|1001|<span class="rank-name-dl">カリンコリン</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|22|987|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|23|986|<span class="rank-name-dl">ラッキー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|24|983|<span class="rank-name-dl">ポンコツ会申請中</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|25|980|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|26|972|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|27|969|<span class="rank-name-dl">れ〜？？</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|28|967|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|29|965|<span class="rank-name-dl">**SATOSHI**</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|29|965|<span class="rank-name-dl">ざ・めがね</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|29|965|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|32|964|<span class="rank-name-dl">りゅうき</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|33|963|<span class="rank-name-dl">諦めないひーたか</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|34|961|<span class="rank-name-dl">あきろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|35|960|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|36|958|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|37|957|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|37|957|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|39|956|<span class="rank-name-dl">風凪･S･ｶﾞｰｳｪﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|40|955|<span class="rank-name-dl">うなぎパイVSOP</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|41|943|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|42|940|<span class="rank-name-dl">モーリー</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|43|935|<span class="rank-name-dl">ぺー3</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|44|933|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|44|933|<span class="rank-name-dl">ひさぴょん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|46|931|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|47|930|<span class="rank-name-dl">ポンコツ会見習い</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|47|930|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|49|928|<span class="rank-name-dl">PANDA</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|50|926|<span class="rank-name-dl">ポンパシ</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|51|925|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|51|925|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|53|924|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|53|924|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|55|920|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|56|911|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|57|910|<span class="rank-name-dl">最速風神拳</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|58|909|<span class="rank-name-dl">ポンパシ﹆﹆</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|58|909|<span class="rank-name-dl">光</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|60|907|<span class="rank-name-dl">NAGATATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|61|906|<span class="rank-name-dl">リロ・ダウン♪</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|62|903|<span class="rank-name-dl">コウ@半農</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|62|903|<span class="rank-name-dl">銀玉鉄砲✐☻</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|64|902|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|65|901|<span class="rank-name-dl">らむちま</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|66|895|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|67|894|<span class="rank-name-dl">ｸｯｷｰﾓﾝｽﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|68|889|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|68|889|<span class="rank-name-dl">阿嘉 紗香</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|70|882|<span class="rank-name-dl">川　鬼　　魔　奈</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|71|880|<span class="rank-name-dl">マツ。</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|72|872|<span class="rank-name-dl">サイハラさん</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|73|871|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|74|869|<span class="rank-name-dl">すぱどら</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|75|864|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|75|864|<span class="rank-name-dl">フウゥ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|75|864|<span class="rank-name-dl">嘔吐ばっくす</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|78|862|<span class="rank-name-dl">けーすけ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|78|862|<span class="rank-name-dl">なす</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|80|853|<span class="rank-name-dl">セパkazu</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|80|853|<span class="rank-name-dl">ポンコツ会舎弟</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|82|842|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|83|829|<span class="rank-name-dl">ゴリ渡邊</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|84|821|<span class="rank-name-dl">ゆ ☻</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|84|821|<span class="rank-name-dl">幽助</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|86|811|<span class="rank-name-dl">Akki</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|86|811|<span class="rank-name-dl">はむたろう</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|88|809|<span class="rank-name-dl">NO NAME 5319</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|89|804|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|90|797|<span class="rank-name-dl">Ayaka</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|91|782|<span class="rank-name-dl">みきすけ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|92|773|<span class="rank-name-dl">U♪ ⌒➷☆⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|93|760|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|94|754|<span class="rank-name-dl">ともぞうさ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|95|742|<span class="rank-name-dl">ポンコツ会女将</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|96|730|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|97|726|<span class="rank-name-dl">ʜɪᴛᴏᴍɪ</span>|<a href="https://search.dartslive.com/jp/shop/c8b46f9ddce155880d9b047a20a7ba1e">DartsBar Orsetto</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|98|722|<span class="rank-name-dl">ぱぱーん@半農</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|99|702|<span class="rank-name-dl">A</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|100|671|<span class="rank-name-dl">つちのこ</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -38,10 +38,10 @@ ___
 |13|1026|<span class="rank-name-dl">YU-DAI WAKE</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |14|1015|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤 貴寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |15|1012|<span class="rank-name-pd">ﾈｷﾞﾈｷﾞﾈｷﾞﾈｷﾞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|16|1008|<span class="rank-name-dl">冨山 宜彦</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|16|1008|<span class="rank-name-dl">冨山 宜彦</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |17|1005|<span class="rank-name-pd">Harry Potter</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |17|1005|<span class="rank-name-pd">新井 孝典</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|19|1000|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|19|1000|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |20|991|<span class="rank-name-pd">ARI0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |21|988|<span class="rank-name-pd">300ZX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |22|984|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斉藤 哲久</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
@@ -73,7 +73,7 @@ ___
 |48|915|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小泉 菜都</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |49|914|<span class="rank-name-pd">厚志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |50|913|<span class="rank-name-pd">KTM@AOKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|51|910|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|51|910|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |51|910|<span class="rank-name-pd">死雄不鬼満太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58745?s_seq=58745">BAR Ol'e</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |53|908|<span class="rank-name-pd">Yum!猫@TIGA///</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |54|904|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大畑 祐貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
@@ -134,69 +134,66 @@ ___
 |---|---|---|---|---|
 |1|1045|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |2|1026|<span class="rank-name-dl">YU-DAI WAKE</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|3|1008|<span class="rank-name-dl">冨山 宜彦</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|4|1000|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|5|910|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|3|1008|<span class="rank-name-dl">冨山 宜彦</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|4|1000|<span class="rank-name-dl">横田涼 ProVISION</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|5|910|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |6|812|<span class="rank-name-dl">優美子⌒*TIGA</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |7|800|<span class="rank-name-dl">鶴見大樹@wake</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|8|777|<span class="rank-name-dl">鶴見大樹AKs</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|9|771|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|10|767|<span class="rank-name-dl">川口輝政</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|8|777|<span class="rank-name-dl">鶴見大樹AKs</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|9|771|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|10|767|<span class="rank-name-dl">川口輝政</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |11|765|<span class="rank-name-dl">sou</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |12|762|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |13|746|<span class="rank-name-dl">どぐま</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |14|737|<span class="rank-name-dl">dasao</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|15|725|<span class="rank-name-dl">たんま～</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|15|725|<span class="rank-name-dl">たんま～</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |16|711|<span class="rank-name-dl">ハンマーカンマー</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|17|688|<span class="rank-name-dl">✩.*かよぽん*.✩</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|17|688|<span class="rank-name-dl">✩.*かよぽん*.✩</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |18|682|<span class="rank-name-dl">よっくん</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |18|682|<span class="rank-name-dl">夜空</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|20|675|<span class="rank-name-dl">よっくん</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|21|665|<span class="rank-name-dl">優美子⌒*TIGA</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|22|662|<span class="rank-name-dl">☆なぉ☆abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|23|661|<span class="rank-name-dl">TaiChi_ol&#x27;e</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|24|654|<span class="rank-name-dl">ムラッチ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|25|650|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|26|646|<span class="rank-name-dl">クド</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|27|614|<span class="rank-name-dl">チャッカマン</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|28|613|<span class="rank-name-dl">杉目 優美子</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|29|612|<span class="rank-name-dl">ひよこﾊﾟﾝ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|30|596|<span class="rank-name-dl">Techi໒꒱</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|31|584|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|32|580|<span class="rank-name-dl">☆¥ｴﾘﾋﾟ¥☆@P_A_B</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|33|578|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|34|575|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|35|568|<span class="rank-name-dl">TACK</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|36|565|<span class="rank-name-dl">翔平</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|37|562|<span class="rank-name-dl">ayumu</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|38|556|<span class="rank-name-dl">みほん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|39|548|<span class="rank-name-dl">さねち</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|40|530|<span class="rank-name-dl">➸♡彩良➸♡</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|41|527|<span class="rank-name-dl">星白凛</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|42|522|<span class="rank-name-dl">伊藤　絵里香</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|43|519|<span class="rank-name-dl">ガッチャマン</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|44|511|<span class="rank-name-dl">NO NAME 4247</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|45|508|<span class="rank-name-dl">ぴこちぃ</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|46|489|<span class="rank-name-dl">ぽ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|47|485|<span class="rank-name-dl">yammy</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|48|478|<span class="rank-name-dl">mina</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|49|470|<span class="rank-name-dl">ゴミ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|50|468|<span class="rank-name-dl">NO NAME 2614</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|51|464|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|52|461|<span class="rank-name-dl">Seal</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|53|454|<span class="rank-name-dl">Remyi</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|54|450|<span class="rank-name-dl">夜空</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|55|447|<span class="rank-name-dl">つ〜</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|55|447|<span class="rank-name-dl">つんつん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|57|431|<span class="rank-name-dl">ダディ・モンキー</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|58|422|<span class="rank-name-dl">うに</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|59|420|<span class="rank-name-dl">かんはるさめ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|60|404|<span class="rank-name-dl">さわまる</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|60|404|<span class="rank-name-dl">しみず</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店 カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|62|355|<span class="rank-name-dl">まさぽん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|63|292|<span class="rank-name-dl">A1chan</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|64|287|<span class="rank-name-dl">まさぽん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
-|65|244|<span class="rank-name-dl">NO NAME 7622</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|20|662|<span class="rank-name-dl">☆なぉ☆abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|21|661|<span class="rank-name-dl">TaiChi_ol&#x27;e</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|22|654|<span class="rank-name-dl">ムラッチ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|23|650|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|24|646|<span class="rank-name-dl">クド</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|25|614|<span class="rank-name-dl">チャッカマン</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|26|613|<span class="rank-name-dl">杉目 優美子</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|27|612|<span class="rank-name-dl">ひよこﾊﾟﾝ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|28|596|<span class="rank-name-dl">Techi໒꒱</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|29|584|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|30|580|<span class="rank-name-dl">☆¥ｴﾘﾋﾟ¥☆@P_A_B</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|31|578|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|32|575|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|33|568|<span class="rank-name-dl">TACK</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|34|565|<span class="rank-name-dl">翔平</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|35|562|<span class="rank-name-dl">ayumu</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|36|556|<span class="rank-name-dl">みほん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|37|548|<span class="rank-name-dl">さねち</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|38|530|<span class="rank-name-dl">➸♡彩良➸♡</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|39|527|<span class="rank-name-dl">星白凛</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|40|522|<span class="rank-name-dl">伊藤　絵里香</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|41|519|<span class="rank-name-dl">ガッチャマン</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|42|511|<span class="rank-name-dl">NO NAME 4247</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|43|508|<span class="rank-name-dl">ぴこちぃ</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|44|489|<span class="rank-name-dl">ぽ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|45|485|<span class="rank-name-dl">yammy</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|46|478|<span class="rank-name-dl">mina</span>|<a href="https://search.dartslive.com/jp/shop/9c5cc98eb0dc7fb0b21333aee1bd51e4">CAFEBAR　WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|47|470|<span class="rank-name-dl">ゴミ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|48|468|<span class="rank-name-dl">NO NAME 2614</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|49|464|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|50|461|<span class="rank-name-dl">Seal</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|51|454|<span class="rank-name-dl">Remyi</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|52|447|<span class="rank-name-dl">つ〜</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|52|447|<span class="rank-name-dl">つんつん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|54|431|<span class="rank-name-dl">ダディ・モンキー</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|55|422|<span class="rank-name-dl">うに</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|56|420|<span class="rank-name-dl">かんはるさめ</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|57|404|<span class="rank-name-dl">さわまる</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|57|404|<span class="rank-name-dl">しみず</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|59|355|<span class="rank-name-dl">まさぽん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|60|292|<span class="rank-name-dl">A1chan</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBANBAN坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|61|287|<span class="rank-name-dl">まさぽん</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
+|62|244|<span class="rank-name-dl">NO NAME 7622</span>|<a href="https://search.dartslive.com/jp/shop/da70c558647336380d9b047a20a7ba1e">カラオケBanBan坂東岩井店</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -28,7 +28,7 @@ ___
 |3|1200|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |4|1136|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |5|1128|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|6|1090|<span class="rank-name-dl">DAiCHi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|6|1090|<span class="rank-name-dl">DAiCHi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |7|1080|<span class="rank-name-dl">(ixi) Sho-ta</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |8|1064|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |9|1061|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
@@ -50,7 +50,7 @@ ___
 |25|979|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |26|970|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |27|965|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|28|963|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|28|963|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |29|962|<span class="rank-name-dl">《極》Pao-Pao</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |30|961|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |31|960|<span class="rank-name-dl">☆ HIDEAKI ☆</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
@@ -60,69 +60,69 @@ ___
 |35|950|<span class="rank-name-dl">コウジ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |36|949|<span class="rank-name-dl">ﾄﾄﾘｰｽﾞ@甘雨推し</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |37|948|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|38|945|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|38|945|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |39|943|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|40|940|<span class="rank-name-dl">ゆう@</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|40|940|<span class="rank-name-dl">ゆう@</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |41|939|<span class="rank-name-dl">k2しゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |41|939|<span class="rank-name-dl">おいどん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">Halycon</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">Hi＠cinQ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|46|935|<span class="rank-name-dl">(ixi) Sho-ta</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|47|934|<span class="rank-name-dl">バッッチ☆バチ君</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|48|930|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|49|929|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|49|929|<span class="rank-name-dl">ﾁﾊﾞひよーーーust</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|51|928|<span class="rank-name-dl">HIROYUKI</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|52|927|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|53|926|<span class="rank-name-dl">だぁーと</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|54|924|<span class="rank-name-pd">0191_3345</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9923?s_seq=9923">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|54|924|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|56|919|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|57|918|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|57|918|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|59|916|<span class="rank-name-dl">Po</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|60|915|<span class="rank-name-dl">ふくろう</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|60|915|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|62|914|<span class="rank-name-dl">のうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|62|914|<span class="rank-name-dl">オギっぺ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|64|910|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|64|910|<span class="rank-name-dl">とも蔵 Old AgeG</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|64|910|<span class="rank-name-dl">まおまお</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|67|909|<span class="rank-name-dl">呉爾羅</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|68|908|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|69|904|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|69|904|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|71|903|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|71|903|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|71|903|<span class="rank-name-dl">ラララたかお</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|71|903|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|75|901|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|76|899|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|77|895|<span class="rank-name-dl">貴pの犬@DSB♡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|78|892|<span class="rank-name-dl">ちばひよう</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|78|892|<span class="rank-name-dl">虎(morita)錦</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|80|891|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|81|889|<span class="rank-name-dl">Po”n（&quot;u&quot;）☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|82|888|<span class="rank-name-dl">shota.k</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|83|886|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|84|884|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|84|884|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|86|882|<span class="rank-name-dl">ぽつ@LaラLa流</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|86|882|<span class="rank-name-dl">コイチ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|88|880|<span class="rank-name-dl">村松じゃない治樹</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|89|877|<span class="rank-name-dl">海夢★104</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|90|875|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|91|872|<span class="rank-name-dl">怒羅江悶</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|92|866|<span class="rank-name-dl">arachan</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|93|865|<span class="rank-name-dl">ひじき_POINT</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|94|861|<span class="rank-name-dl">つちのこ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|95|860|<span class="rank-name-dl">SH!NGO</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|95|860|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|97|857|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|98|855|<span class="rank-name-dl">ぶらいあんです</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|99|850|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|100|849|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|46|934|<span class="rank-name-dl">バッッチ☆バチ君</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|47|930|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|48|929|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|48|929|<span class="rank-name-dl">ﾁﾊﾞひよーーーust</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|50|928|<span class="rank-name-dl">HIROYUKI</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|51|927|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|52|926|<span class="rank-name-dl">だぁーと</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|53|924|<span class="rank-name-pd">0191_3345</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9923?s_seq=9923">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|53|924|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|55|919|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|56|918|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|56|918|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|58|916|<span class="rank-name-dl">Po</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|59|915|<span class="rank-name-dl">ふくろう</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|60|914|<span class="rank-name-dl">のうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|60|914|<span class="rank-name-dl">オギっぺ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|62|910|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|62|910|<span class="rank-name-dl">とも蔵 Old AgeG</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|62|910|<span class="rank-name-dl">まおまお</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|65|909|<span class="rank-name-dl">呉爾羅</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|66|908|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|67|904|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|67|904|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|69|903|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|69|903|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|69|903|<span class="rank-name-dl">ラララたかお</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|69|903|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|73|901|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|74|899|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|75|895|<span class="rank-name-dl">貴pの犬@DSB♡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|76|892|<span class="rank-name-dl">ちばひよう</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|76|892|<span class="rank-name-dl">虎(morita)錦</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|78|891|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|79|889|<span class="rank-name-dl">Po”n（&quot;u&quot;）☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|80|888|<span class="rank-name-dl">shota.k</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|81|886|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|82|884|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|82|884|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|84|882|<span class="rank-name-dl">ぽつ@LaラLa流</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|84|882|<span class="rank-name-dl">コイチ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|86|880|<span class="rank-name-dl">村松じゃない治樹</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|87|877|<span class="rank-name-dl">海夢★104</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|88|875|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|89|872|<span class="rank-name-dl">怒羅江悶</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|90|866|<span class="rank-name-dl">arachan</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|91|865|<span class="rank-name-dl">ひじき_POINT</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|92|861|<span class="rank-name-dl">つちのこ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|93|860|<span class="rank-name-dl">SH!NGO</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|93|860|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|95|857|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|96|855|<span class="rank-name-dl">ぶらいあんです</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|97|850|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|98|849|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|99|847|<span class="rank-name-dl">ぜきこ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|99|847|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,7 +137,7 @@ ___
 |3|1200|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |4|1136|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |5|1128|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|6|1090|<span class="rank-name-dl">DAiCHi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|6|1090|<span class="rank-name-dl">DAiCHi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |7|1080|<span class="rank-name-dl">(ixi) Sho-ta</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |8|1064|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |9|1061|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
@@ -159,7 +159,7 @@ ___
 |25|979|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |26|970|<span class="rank-name-dl">WDC_キム</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |27|965|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|28|963|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|28|963|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |29|962|<span class="rank-name-dl">《極》Pao-Pao</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |30|961|<span class="rank-name-dl">燐童</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |31|960|<span class="rank-name-dl">☆ HIDEAKI ☆</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
@@ -169,69 +169,69 @@ ___
 |35|950|<span class="rank-name-dl">コウジ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |36|949|<span class="rank-name-dl">ﾄﾄﾘｰｽﾞ@甘雨推し</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |37|948|<span class="rank-name-dl">イチヒコ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|38|945|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|38|945|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |39|943|<span class="rank-name-dl">s</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|40|940|<span class="rank-name-dl">ゆう@</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|40|940|<span class="rank-name-dl">ゆう@</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |41|939|<span class="rank-name-dl">k2しゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |41|939|<span class="rank-name-dl">おいどん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">Halycon</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">Hi＠cinQ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 |43|938|<span class="rank-name-dl">たろ爺</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|46|935|<span class="rank-name-dl">(ixi) Sho-ta</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|47|934|<span class="rank-name-dl">バッッチ☆バチ君</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|48|930|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|49|929|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|49|929|<span class="rank-name-dl">ﾁﾊﾞひよーーーust</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|51|928|<span class="rank-name-dl">HIROYUKI</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|52|927|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|53|926|<span class="rank-name-dl">だぁーと</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|54|924|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|55|919|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|56|918|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|56|918|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|58|916|<span class="rank-name-dl">Po</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|59|915|<span class="rank-name-dl">ふくろう</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|59|915|<span class="rank-name-dl">ｸﾞｯｼﾞｮﾌﾞ橋本</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|61|914|<span class="rank-name-dl">のうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|61|914|<span class="rank-name-dl">オギっぺ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|63|910|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|63|910|<span class="rank-name-dl">とも蔵 Old AgeG</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|63|910|<span class="rank-name-dl">まおまお</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|66|909|<span class="rank-name-dl">呉爾羅</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|67|908|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|68|904|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|68|904|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|70|903|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|70|903|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|70|903|<span class="rank-name-dl">ラララたかお</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|70|903|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|74|901|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|75|899|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店 カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|76|895|<span class="rank-name-dl">貴pの犬@DSB♡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|77|892|<span class="rank-name-dl">ちばひよう</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|77|892|<span class="rank-name-dl">虎(morita)錦</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|79|891|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|80|889|<span class="rank-name-dl">Po”n（&quot;u&quot;）☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|81|888|<span class="rank-name-dl">shota.k</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|82|886|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|83|884|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|83|884|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|85|882|<span class="rank-name-dl">ぽつ@LaラLa流</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|85|882|<span class="rank-name-dl">コイチ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|87|880|<span class="rank-name-dl">村松じゃない治樹</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|88|877|<span class="rank-name-dl">海夢★104</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|89|875|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|90|872|<span class="rank-name-dl">怒羅江悶</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|91|866|<span class="rank-name-dl">arachan</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|92|865|<span class="rank-name-dl">ひじき_POINT</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|93|861|<span class="rank-name-dl">つちのこ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|94|860|<span class="rank-name-dl">SH!NGO</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|94|860|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|96|857|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|97|855|<span class="rank-name-dl">ぶらいあんです</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店 PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|98|850|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|99|849|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
-|100|847|<span class="rank-name-dl">ぜきこ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|46|934|<span class="rank-name-dl">バッッチ☆バチ君</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|47|930|<span class="rank-name-dl">トム</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|48|929|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|48|929|<span class="rank-name-dl">ﾁﾊﾞひよーーーust</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|50|928|<span class="rank-name-dl">HIROYUKI</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|51|927|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|52|926|<span class="rank-name-dl">だぁーと</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|53|924|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|54|919|<span class="rank-name-dl">HAYA</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|55|918|<span class="rank-name-dl">ねおに</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|55|918|<span class="rank-name-dl">タク</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|57|916|<span class="rank-name-dl">Po</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|58|915|<span class="rank-name-dl">ふくろう</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|59|914|<span class="rank-name-dl">のうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|59|914|<span class="rank-name-dl">オギっぺ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|61|910|<span class="rank-name-dl">さなだ-DIXIE-</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|61|910|<span class="rank-name-dl">とも蔵 Old AgeG</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|61|910|<span class="rank-name-dl">まおまお</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|64|909|<span class="rank-name-dl">呉爾羅</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|65|908|<span class="rank-name-dl">えんどー</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|66|904|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|66|904|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|68|903|<span class="rank-name-dl">87Sun</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|68|903|<span class="rank-name-dl">よっぴーお食事中</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|68|903|<span class="rank-name-dl">ラララたかお</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|68|903|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|72|901|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|73|899|<span class="rank-name-dl">暮らしにラララ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|74|895|<span class="rank-name-dl">貴pの犬@DSB♡</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|75|892|<span class="rank-name-dl">ちばひよう</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|75|892|<span class="rank-name-dl">虎(morita)錦</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|77|891|<span class="rank-name-dl">BAIRI@TTD</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|78|889|<span class="rank-name-dl">Po”n（&quot;u&quot;）☆彡</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|79|888|<span class="rank-name-dl">shota.k</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|80|886|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|81|884|<span class="rank-name-dl">HIKARU//A</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|81|884|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|83|882|<span class="rank-name-dl">ぽつ@LaラLa流</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|83|882|<span class="rank-name-dl">コイチ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|85|880|<span class="rank-name-dl">村松じゃない治樹</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|86|877|<span class="rank-name-dl">海夢★104</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|87|875|<span class="rank-name-dl">Ｄ</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|88|872|<span class="rank-name-dl">怒羅江悶</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|89|866|<span class="rank-name-dl">arachan</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|90|865|<span class="rank-name-dl">ひじき_POINT</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|91|861|<span class="rank-name-dl">つちのこ</span>|<a href="https://search.dartslive.com/jp/shop/4d7c49cbfbcb41c65f9f3321c1147265">快活CLUB 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|92|860|<span class="rank-name-dl">SH!NGO</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|92|860|<span class="rank-name-dl">（ixi）ひかる</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|94|857|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBANBAN東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|95|855|<span class="rank-name-dl">ぶらいあんです</span>|<a href="https://search.dartslive.com/jp/shop/aa5e762b135dab59790ab824ce8730e5">PlayGarden 東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|96|850|<span class="rank-name-dl">(ixi) 사토 쇼타</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|97|849|<span class="rank-name-dl">(ixi)鈴木</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|98|847|<span class="rank-name-dl">ぜきこ</span>|<a href="https://search.dartslive.com/jp/shop/f03f84e544e5cab50d9b047a20a7ba1e">BAR PARADISO</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|98|847|<span class="rank-name-dl">よっぴー</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
+|98|847|<span class="rank-name-dl">ヤドン♂</span>|<a href="https://search.dartslive.com/jp/shop/6c688163fdbaffdf0d9b047a20a7ba1e">カラオケBanBan東金店</a>|<a href="/darts/rank/千葉県/東金市">千葉県東金市</a>|
 
 
 #### PHOENIXDARTS TOP 100

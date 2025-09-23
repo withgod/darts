@@ -24,7 +24,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1141|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|2|1139|<span class="rank-name-dl">d(ª^u^)</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|2|1139|<span class="rank-name-dl">d(ª^u^)</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |3|1121|<span class="rank-name-pd">ただのうっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |3|1121|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |5|1115|<span class="rank-name-pd">菅原</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
@@ -32,7 +32,7 @@ ___
 |7|1112|<span class="rank-name-dl">T@k.xX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |8|1103|<span class="rank-name-pd">D@対人弱弱メン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |9|1070|<span class="rank-name-dl">24ki51</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|10|1064|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|10|1064|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |11|1061|<span class="rank-name-dl">NO NAME 4071</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |11|1061|<span class="rank-name-dl">〇だうまる〇</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |13|1060|<span class="rank-name-pd">ʚ女神様ɞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
@@ -61,68 +61,68 @@ ___
 |35|965|<span class="rank-name-pd">九条さん家のネギ男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |37|964|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |38|963|<span class="rank-name-pd">クリリン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|39|960|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|40|957|<span class="rank-name-pd">みなみがわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|41|949|<span class="rank-name-dl">ぐわ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|42|946|<span class="rank-name-dl">s.t@2nd</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|42|946|<span class="rank-name-dl">スズキ　タクミ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|44|940|<span class="rank-name-dl">よったか</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|45|939|<span class="rank-name-pd">G.Gよったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|45|939|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|47|937|<span class="rank-name-pd">らーめんまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|48|936|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|49|933|<span class="rank-name-pd">タムタム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|50|932|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|51|931|<span class="rank-name-pd">よっちゃん ゴイゴイス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|52|930|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|53|921|<span class="rank-name-pd">aoi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|54|920|<span class="rank-name-dl">ぉぐ☆</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|54|920|<span class="rank-name-pd">コンドル武蔵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|54|920|<span class="rank-name-dl">永谷園</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|57|917|<span class="rank-name-pd">まじしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|58|909|<span class="rank-name-pd">カテキン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|59|908|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|60|906|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|61|903|<span class="rank-name-pd">Ｄ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|62|902|<span class="rank-name-dl">えりえり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|62|902|<span class="rank-name-pd">かまサブ郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|64|901|<span class="rank-name-pd">KASAMA理事長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|64|901|<span class="rank-name-pd">アソパソマソパソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|66|900|<span class="rank-name-dl">りかちゅ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|67|899|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|68|896|<span class="rank-name-pd">ミッツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|69|892|<span class="rank-name-dl">★yasuke★orig</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|69|892|<span class="rank-name-dl">いえぴぃ@NEO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|69|892|<span class="rank-name-dl">なおち。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|72|890|<span class="rank-name-pd">ARA left</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|72|890|<span class="rank-name-dl">にっしー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|74|888|<span class="rank-name-dl">keisun</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|74|888|<span class="rank-name-pd">かいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|76|886|<span class="rank-name-pd">nori4625</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|76|886|<span class="rank-name-dl">s.t</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|76|886|<span class="rank-name-dl">もくざい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|79|885|<span class="rank-name-pd">REP-T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|80|884|<span class="rank-name-dl">りょうた。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|80|884|<span class="rank-name-dl">スズシン</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|82|879|<span class="rank-name-pd">G.G.よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|82|879|<span class="rank-name-pd">KZ_cat</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|84|876|<span class="rank-name-dl">りき</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|85|874|<span class="rank-name-dl">近藤武蔵</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|86|872|<span class="rank-name-dl">Laur3nt</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|87|869|<span class="rank-name-pd">びっとくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|88|868|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|89|864|<span class="rank-name-dl">(鮪)MGRです</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|90|863|<span class="rank-name-dl">Mマングローブ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|91|862|<span class="rank-name-pd">飛夢翔【柳塾】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|92|852|<span class="rank-name-pd">★平成★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|92|852|<span class="rank-name-pd">ハチナナさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|94|848|<span class="rank-name-pd">【KAZU】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|95|847|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|96|844|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|96|844|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|96|844|<span class="rank-name-pd">カンノくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|96|844|<span class="rank-name-pd">小沢 浩次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|100|836|<span class="rank-name-dl">かおり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|39|957|<span class="rank-name-pd">みなみがわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|40|949|<span class="rank-name-dl">ぐわ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|41|946|<span class="rank-name-dl">スズキ　タクミ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|42|940|<span class="rank-name-dl">よったか</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|43|939|<span class="rank-name-pd">G.Gよったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|43|939|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|45|937|<span class="rank-name-pd">らーめんまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|46|933|<span class="rank-name-pd">タムタム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|47|932|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|48|931|<span class="rank-name-pd">よっちゃん ゴイゴイス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|49|930|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|50|921|<span class="rank-name-pd">aoi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|51|920|<span class="rank-name-dl">ぉぐ☆</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|51|920|<span class="rank-name-pd">コンドル武蔵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|51|920|<span class="rank-name-dl">永谷園</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|54|917|<span class="rank-name-pd">まじしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|55|909|<span class="rank-name-pd">カテキン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|56|908|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|57|906|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|58|903|<span class="rank-name-pd">Ｄ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|59|902|<span class="rank-name-dl">えりえり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|59|902|<span class="rank-name-pd">かまサブ郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|61|901|<span class="rank-name-pd">KASAMA理事長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|61|901|<span class="rank-name-pd">アソパソマソパソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|63|900|<span class="rank-name-dl">りかちゅ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|64|899|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|65|896|<span class="rank-name-pd">ミッツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|66|892|<span class="rank-name-dl">★yasuke★orig</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|66|892|<span class="rank-name-dl">いえぴぃ@NEO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|66|892|<span class="rank-name-dl">なおち。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|69|890|<span class="rank-name-pd">ARA left</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|69|890|<span class="rank-name-dl">にっしー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|71|888|<span class="rank-name-dl">keisun</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|71|888|<span class="rank-name-pd">かいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|73|886|<span class="rank-name-pd">nori4625</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|73|886|<span class="rank-name-dl">s.t</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|73|886|<span class="rank-name-dl">もくざい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|76|885|<span class="rank-name-pd">REP-T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|77|884|<span class="rank-name-dl">りょうた。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|77|884|<span class="rank-name-dl">スズシン</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|79|879|<span class="rank-name-pd">G.G.よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|79|879|<span class="rank-name-pd">KZ_cat</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|81|876|<span class="rank-name-dl">りき</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|82|874|<span class="rank-name-dl">近藤武蔵</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|83|872|<span class="rank-name-dl">Laur3nt</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|84|869|<span class="rank-name-pd">びっとくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|85|868|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|86|864|<span class="rank-name-dl">(鮪)MGRです</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|87|863|<span class="rank-name-dl">Mマングローブ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|88|862|<span class="rank-name-pd">飛夢翔【柳塾】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|89|852|<span class="rank-name-pd">★平成★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|89|852|<span class="rank-name-pd">ハチナナさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|91|848|<span class="rank-name-pd">【KAZU】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|92|847|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|93|844|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|93|844|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|93|844|<span class="rank-name-pd">カンノくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|93|844|<span class="rank-name-pd">小沢 浩次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|97|836|<span class="rank-name-dl">かおり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|98|835|<span class="rank-name-pd">そうちゃん(ダーツ好き )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|99|833|<span class="rank-name-pd">Sou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10422?s_seq=10422">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|100|832|<span class="rank-name-dl">ルル</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,11 +133,11 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1141|<span class="rank-name-dl">™/ⓓÅⓤ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|2|1139|<span class="rank-name-dl">d(ª^u^)</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|2|1139|<span class="rank-name-dl">d(ª^u^)</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |3|1114|<span class="rank-name-dl">✿™✿</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |4|1112|<span class="rank-name-dl">T@k.xX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |5|1070|<span class="rank-name-dl">24ki51</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|6|1064|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|6|1064|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |7|1061|<span class="rank-name-dl">NO NAME 4071</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |7|1061|<span class="rank-name-dl">〇だうまる〇</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |9|1058|<span class="rank-name-dl">✟™/uaD✟</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
@@ -155,81 +155,79 @@ ___
 |21|972|<span class="rank-name-dl">なおちくん。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |22|968|<span class="rank-name-dl">幻のシックスマン</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |23|964|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|24|960|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|24|960|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |25|949|<span class="rank-name-dl">ぐわ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|26|946|<span class="rank-name-dl">s.t@2nd</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|26|946|<span class="rank-name-dl">スズキ　タクミ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|26|946|<span class="rank-name-dl">s.t@2nd</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|26|946|<span class="rank-name-dl">スズキ　タクミ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |28|940|<span class="rank-name-dl">よったか</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 |29|939|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|30|936|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|31|932|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|32|920|<span class="rank-name-dl">ぉぐ☆</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|32|920|<span class="rank-name-dl">永谷園</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|34|917|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|35|915|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|36|908|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|37|906|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|38|902|<span class="rank-name-dl">えりえり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|39|900|<span class="rank-name-dl">りかちゅ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|40|899|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|41|892|<span class="rank-name-dl">★yasuke★orig</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|41|892|<span class="rank-name-dl">いえぴぃ@NEO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|41|892|<span class="rank-name-dl">なおち。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|44|890|<span class="rank-name-dl">にっしー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|45|888|<span class="rank-name-dl">keisun</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|46|886|<span class="rank-name-dl">s.t</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|46|886|<span class="rank-name-dl">もくざい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|48|884|<span class="rank-name-dl">りょうた。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|48|884|<span class="rank-name-dl">スズシン</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|50|879|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|51|876|<span class="rank-name-dl">りき</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|52|874|<span class="rank-name-dl">近藤武蔵</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|53|872|<span class="rank-name-dl">Laur3nt</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|53|872|<span class="rank-name-dl">aoi</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|55|868|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|56|864|<span class="rank-name-dl">(鮪)MGRです</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店 自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|57|863|<span class="rank-name-dl">Mマングローブ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|58|844|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|58|844|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|60|836|<span class="rank-name-dl">かおり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|61|832|<span class="rank-name-dl">ルル</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|62|828|<span class="rank-name-dl">トモ・クルーズ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|63|821|<span class="rank-name-dl">kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|64|816|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|65|806|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|66|793|<span class="rank-name-dl">Mister.ヤミー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|67|783|<span class="rank-name-dl">ゆ～</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|68|782|<span class="rank-name-dl">イムホテップ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|69|780|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|70|750|<span class="rank-name-dl">しゅうとく　211</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|71|739|<span class="rank-name-dl">B#O#Y</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|72|733|<span class="rank-name-dl">MYON</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|73|725|<span class="rank-name-dl">すずしん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|74|691|<span class="rank-name-dl">カマキリ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|75|645|<span class="rank-name-dl">mi-pon♬</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|76|595|<span class="rank-name-dl">まっちせんせい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|77|593|<span class="rank-name-dl">柿沼衣里夜露死苦</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|78|577|<span class="rank-name-dl">りあん@211club</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|79|573|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|80|526|<span class="rank-name-dl">ネギコ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|81|519|<span class="rank-name-dl">Art</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|82|516|<span class="rank-name-dl">藻</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|83|515|<span class="rank-name-dl">たくふぁん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|84|513|<span class="rank-name-dl">みゆ子</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|85|511|<span class="rank-name-dl">NO NAME 6214</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|86|497|<span class="rank-name-dl">いと</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|87|473|<span class="rank-name-dl">たけちー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|88|463|<span class="rank-name-dl">NORI4625</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|89|459|<span class="rank-name-dl">セッカ→ダツ用</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|90|454|<span class="rank-name-dl">Area17</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|91|425|<span class="rank-name-dl">Akira</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|92|398|<span class="rank-name-dl">Area20×3</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|93|395|<span class="rank-name-dl">NO NAME 1174</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|94|393|<span class="rank-name-dl">NO NAME 0551</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|95|387|<span class="rank-name-dl">だーいえ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|96|361|<span class="rank-name-dl">yamama</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|97|360|<span class="rank-name-dl">はちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
-|98|332|<span class="rank-name-dl">つばちん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|30|932|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|31|920|<span class="rank-name-dl">ぉぐ☆</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|31|920|<span class="rank-name-dl">永谷園</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|33|915|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|34|908|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|35|906|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|36|902|<span class="rank-name-dl">えりえり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|37|900|<span class="rank-name-dl">りかちゅ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|38|899|<span class="rank-name-dl">kose</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|39|892|<span class="rank-name-dl">★yasuke★orig</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|39|892|<span class="rank-name-dl">いえぴぃ@NEO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|39|892|<span class="rank-name-dl">なおち。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|42|890|<span class="rank-name-dl">にっしー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|43|888|<span class="rank-name-dl">keisun</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|44|886|<span class="rank-name-dl">s.t</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|44|886|<span class="rank-name-dl">もくざい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|46|884|<span class="rank-name-dl">りょうた。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|46|884|<span class="rank-name-dl">スズシン</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|48|879|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|49|876|<span class="rank-name-dl">りき</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|50|874|<span class="rank-name-dl">近藤武蔵</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|51|872|<span class="rank-name-dl">Laur3nt</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|51|872|<span class="rank-name-dl">aoi</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|53|868|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|54|864|<span class="rank-name-dl">(鮪)MGRです</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|55|863|<span class="rank-name-dl">Mマングローブ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|56|844|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|56|844|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|58|836|<span class="rank-name-dl">かおり</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|59|832|<span class="rank-name-dl">ルル</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|60|828|<span class="rank-name-dl">トモ・クルーズ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|61|821|<span class="rank-name-dl">kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|62|816|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|63|806|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|64|793|<span class="rank-name-dl">Mister.ヤミー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|65|783|<span class="rank-name-dl">ゆ～</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|66|782|<span class="rank-name-dl">イムホテップ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|67|780|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|68|750|<span class="rank-name-dl">しゅうとく　211</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|69|739|<span class="rank-name-dl">B#O#Y</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|70|733|<span class="rank-name-dl">MYON</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|71|725|<span class="rank-name-dl">すずしん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|72|691|<span class="rank-name-dl">カマキリ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|73|645|<span class="rank-name-dl">mi-pon♬</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|74|595|<span class="rank-name-dl">まっちせんせい</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|75|593|<span class="rank-name-dl">柿沼衣里夜露死苦</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|76|577|<span class="rank-name-dl">りあん@211club</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|77|573|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|78|526|<span class="rank-name-dl">ネギコ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|79|519|<span class="rank-name-dl">Art</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|80|516|<span class="rank-name-dl">藻</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|81|515|<span class="rank-name-dl">たくふぁん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|82|513|<span class="rank-name-dl">みゆ子</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|83|511|<span class="rank-name-dl">NO NAME 6214</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|84|497|<span class="rank-name-dl">いと</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|85|473|<span class="rank-name-dl">たけちー</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|86|463|<span class="rank-name-dl">NORI4625</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|87|459|<span class="rank-name-dl">セッカ→ダツ用</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|88|454|<span class="rank-name-dl">Area17</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|89|425|<span class="rank-name-dl">Akira</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|90|398|<span class="rank-name-dl">Area20×3</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|91|395|<span class="rank-name-dl">NO NAME 1174</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|92|393|<span class="rank-name-dl">NO NAME 0551</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|93|387|<span class="rank-name-dl">だーいえ</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|94|361|<span class="rank-name-dl">yamama</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|95|360|<span class="rank-name-dl">はちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
+|96|332|<span class="rank-name-dl">つばちん</span>|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="/darts/rank/宮城県/柴田郡">宮城県柴田郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

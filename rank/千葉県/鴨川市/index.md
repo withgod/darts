@@ -25,7 +25,7 @@ ___
 |---|---|---|---|---|
 |1|1100|<span class="rank-name-pd">しゅーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |2|1081|<span class="rank-name-pd">しそちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|3|1053|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|3|1053|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |4|1045|<span class="rank-name-pd">がぶのみ@T&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |5|1034|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松井 彩汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |6|983|<span class="rank-name-pd"><span class="pro-icon-pd"></span>Jermaine Williams</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
@@ -49,80 +49,80 @@ ___
 |24|869|<span class="rank-name-pd">川上　嘉一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |25|866|<span class="rank-name-pd">NI-TA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |26|863|<span class="rank-name-pd"><span class="pro-icon-pd"></span>三橋 武尊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|27|861|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|28|856|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 嘉一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|29|855|<span class="rank-name-pd">093☆YOKOSUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|29|855|<span class="rank-name-pd">しそちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|31|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 嘉一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|32|849|<span class="rank-name-dl">後悔士♂【LA賊】</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|33|844|<span class="rank-name-pd">鈴木 奏音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|34|838|<span class="rank-name-pd">$H0Hﾖ1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|35|835|<span class="rank-name-dl">鷹 take</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|36|834|<span class="rank-name-pd">☆しょ-ちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|37|829|<span class="rank-name-pd">　　　［329］Daifuku様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|38|810|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 美喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|39|808|<span class="rank-name-pd"></span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|39|808|<span class="rank-name-pd">　　　LA賊乂後悔士♂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|41|802|<span class="rank-name-pd">ぶーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|42|801|<span class="rank-name-dl">takumi watanabe</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|43|795|<span class="rank-name-pd">　　　［SUP］Daifuku様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|44|790|<span class="rank-name-pd">093☆YOKOSUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|44|790|<span class="rank-name-dl">LA賊 綾乃 蝶</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|46|782|<span class="rank-name-pd">蝶-ageha-  LA賊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|47|776|<span class="rank-name-pd">浦田  将平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|48|775|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡邉 拓海</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|49|757|<span class="rank-name-pd">Acher</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|50|754|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|50|754|<span class="rank-name-dl">LA賊☆猫師(&#x27;Å&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|52|753|<span class="rank-name-pd">TAKATAKE57</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|53|750|<span class="rank-name-pd">かわうそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|54|747|<span class="rank-name-pd">いけぴ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|54|747|<span class="rank-name-pd">牙隹±</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|56|727|<span class="rank-name-dl">投げ屋玉さん㈱</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|57|725|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中井 十夢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|58|719|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|59|714|<span class="rank-name-pd">ちちくりまんぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|60|709|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|61|703|<span class="rank-name-pd">いぷき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|62|701|<span class="rank-name-pd">KAISEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|63|700|<span class="rank-name-pd">shingo@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|64|698|<span class="rank-name-pd"><span class="pro-icon-pd"></span>瀬戸 勇司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|65|695|<span class="rank-name-dl">国分寺CATS★TOMO</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|66|693|<span class="rank-name-pd">〓LA賊☆yuppi〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|67|692|<span class="rank-name-dl">La賊＠yuppi♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|68|691|<span class="rank-name-dl">ぶーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|68|691|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|70|690|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|70|690|<span class="rank-name-dl">ケンシロー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|72|685|<span class="rank-name-dl">イズミ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|73|683|<span class="rank-name-dl">@yuppi_LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|74|682|<span class="rank-name-pd">ケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|75|681|<span class="rank-name-pd">かにみそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|76|680|<span class="rank-name-pd">0050_2370</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|77|672|<span class="rank-name-pd">Mickeytee</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|78|664|<span class="rank-name-pd">白</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|79|660|<span class="rank-name-pd">〓ゆっぴぴ♂〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|79|660|<span class="rank-name-dl">たっち</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|79|660|<span class="rank-name-pd">ネコ・ロビン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|79|660|<span class="rank-name-dl">健太</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|83|659|<span class="rank-name-pd">Yakeishi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|84|658|<span class="rank-name-pd">K-A-I-S-E-I-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|84|658|<span class="rank-name-dl">ケンボー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|86|657|<span class="rank-name-pd">ネコロヒー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|87|656|<span class="rank-name-dl">Haru LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|88|653|<span class="rank-name-pd">うぃけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|89|650|<span class="rank-name-pd">LA賊@haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|90|649|<span class="rank-name-pd">哲治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|91|647|<span class="rank-name-pd">なおじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|91|647|<span class="rank-name-pd">ネコ・ロビン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|93|646|<span class="rank-name-pd">ゆっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|94|645|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|94|645|<span class="rank-name-pd">天使のひまわり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|96|642|<span class="rank-name-dl">La賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|97|632|<span class="rank-name-pd">LA賊@haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|98|629|<span class="rank-name-pd">ネコロヒー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|99|625|<span class="rank-name-pd">MASAKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|99|625|<span class="rank-name-pd">〓LA賊☆yuppi〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|27|856|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 嘉一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|28|855|<span class="rank-name-pd">093☆YOKOSUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|28|855|<span class="rank-name-pd">しそちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|30|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 嘉一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|31|849|<span class="rank-name-dl">後悔士♂【LA賊】</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|32|844|<span class="rank-name-pd">鈴木 奏音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|33|838|<span class="rank-name-pd">$H0Hﾖ1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|34|835|<span class="rank-name-dl">鷹 take</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|35|834|<span class="rank-name-pd">☆しょ-ちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|36|829|<span class="rank-name-pd">　　　［329］Daifuku様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|37|810|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川上 美喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|38|808|<span class="rank-name-pd"></span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|38|808|<span class="rank-name-pd">　　　LA賊乂後悔士♂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|40|802|<span class="rank-name-pd">ぶーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|41|801|<span class="rank-name-dl">takumi watanabe</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|42|795|<span class="rank-name-pd">　　　［SUP］Daifuku様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|43|790|<span class="rank-name-pd">093☆YOKOSUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|43|790|<span class="rank-name-dl">LA賊 綾乃 蝶</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|45|782|<span class="rank-name-pd">蝶-ageha-  LA賊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|46|776|<span class="rank-name-pd">浦田  将平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|47|775|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡邉 拓海</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|48|757|<span class="rank-name-pd">Acher</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|49|754|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|49|754|<span class="rank-name-dl">LA賊☆猫師(&#x27;Å&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|51|753|<span class="rank-name-pd">TAKATAKE57</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|52|750|<span class="rank-name-pd">かわうそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|53|747|<span class="rank-name-pd">いけぴ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|53|747|<span class="rank-name-pd">牙隹±</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|55|727|<span class="rank-name-dl">投げ屋玉さん㈱</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|56|725|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中井 十夢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|57|714|<span class="rank-name-pd">ちちくりまんぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|58|709|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|59|703|<span class="rank-name-pd">いぷき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|60|701|<span class="rank-name-pd">KAISEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|61|700|<span class="rank-name-pd">shingo@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|62|698|<span class="rank-name-pd"><span class="pro-icon-pd"></span>瀬戸 勇司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|63|695|<span class="rank-name-dl">国分寺CATS★TOMO</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|64|693|<span class="rank-name-pd">〓LA賊☆yuppi〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|65|692|<span class="rank-name-dl">La賊＠yuppi♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|66|691|<span class="rank-name-dl">ぶーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|66|691|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|68|690|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|68|690|<span class="rank-name-dl">ケンシロー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|70|685|<span class="rank-name-dl">イズミ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|71|683|<span class="rank-name-dl">@yuppi_LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|72|682|<span class="rank-name-pd">ケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|73|681|<span class="rank-name-pd">かにみそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|74|680|<span class="rank-name-pd">0050_2370</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|75|672|<span class="rank-name-pd">Mickeytee</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|76|664|<span class="rank-name-pd">白</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|77|660|<span class="rank-name-pd">〓ゆっぴぴ♂〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|77|660|<span class="rank-name-dl">たっち</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|77|660|<span class="rank-name-pd">ネコ・ロビン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|77|660|<span class="rank-name-dl">健太</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|81|659|<span class="rank-name-pd">Yakeishi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|82|658|<span class="rank-name-pd">K-A-I-S-E-I-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|82|658|<span class="rank-name-dl">ケンボー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|84|657|<span class="rank-name-pd">ネコロヒー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|85|656|<span class="rank-name-dl">Haru LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|86|653|<span class="rank-name-pd">うぃけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|87|650|<span class="rank-name-pd">LA賊@haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|88|649|<span class="rank-name-pd">哲治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|89|647|<span class="rank-name-pd">なおじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|89|647|<span class="rank-name-pd">ネコ・ロビン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|91|646|<span class="rank-name-pd">ゆっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ベルフローレ鴨川</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|92|645|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889 イオン鴨川店</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|92|645|<span class="rank-name-pd">天使のひまわり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|94|642|<span class="rank-name-dl">La賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|95|632|<span class="rank-name-pd">LA賊@haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|96|629|<span class="rank-name-pd">ネコロヒー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|97|625|<span class="rank-name-pd">MASAKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|97|625|<span class="rank-name-pd">〓LA賊☆yuppi〓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8661?s_seq=8661">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|97|625|<span class="rank-name-pd">要</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|100|621|<span class="rank-name-pd">yukim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85213?s_seq=85213">YOKOSUKA889</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,56 +132,52 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1053|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|1|1053|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |2|946|<span class="rank-name-dl">LA賊☆後悔士♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |3|913|<span class="rank-name-dl">ωΦ)ゆげ。</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 |4|896|<span class="rank-name-dl">LA賊☆銭湯in♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|5|861|<span class="rank-name-dl">ωΦ)La賊☆ゆげ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|6|859|<span class="rank-name-dl">伏【侍魂】LA</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|7|849|<span class="rank-name-dl">後悔士♂【LA賊】</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|8|835|<span class="rank-name-dl">鷹 take</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|9|801|<span class="rank-name-dl">takumi watanabe</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|10|790|<span class="rank-name-dl">LA賊 綾乃 蝶</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|11|754|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|11|754|<span class="rank-name-dl">LA賊☆猫師(&#x27;Å&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|13|727|<span class="rank-name-dl">投げ屋玉さん㈱</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|14|719|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|15|695|<span class="rank-name-dl">国分寺CATS★TOMO</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|16|692|<span class="rank-name-dl">La賊＠yuppi♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|17|691|<span class="rank-name-dl">ぶーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|18|690|<span class="rank-name-dl">ケンシロー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|19|685|<span class="rank-name-dl">イズミ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|20|683|<span class="rank-name-dl">@yuppi_LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|21|667|<span class="rank-name-dl">いぷき</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|22|660|<span class="rank-name-dl">たっち</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|22|660|<span class="rank-name-dl">健太</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|24|658|<span class="rank-name-dl">ケンボー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|25|656|<span class="rank-name-dl">Haru LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|26|642|<span class="rank-name-dl">La賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|27|616|<span class="rank-name-dl">マーニャ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|28|611|<span class="rank-name-dl">LA賊☆ゆっぴ♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|28|611|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|30|579|<span class="rank-name-dl">いぷき</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|31|564|<span class="rank-name-dl">LA賊☆猫師(&#x27;Å&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|32|561|<span class="rank-name-dl">LA賊〈RIKI〉酒人</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|33|555|<span class="rank-name-dl">のん@RICESAND</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|34|548|<span class="rank-name-dl">LA賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|35|540|<span class="rank-name-dl">LA賊☆矢攻勢♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|36|536|<span class="rank-name-dl">ロコモコ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|37|531|<span class="rank-name-dl">C卍M</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|38|527|<span class="rank-name-dl">LA賊☆天師♀️</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|39|521|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|40|512|<span class="rank-name-dl">へいた(･o･)卍</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|41|508|<span class="rank-name-dl">CAMEL</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|42|507|<span class="rank-name-dl">La賊★まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|43|471|<span class="rank-name-dl">LA賊☆ゆぴ士♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|44|445|<span class="rank-name-dl">国分寺CATS★ﾗｯｼｨ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|45|443|<span class="rank-name-dl">LA賊☆ 天師♀️</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|46|414|<span class="rank-name-dl">ShoHei@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|47|411|<span class="rank-name-dl">Passenger@じ〜ま</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|48|407|<span class="rank-name-dl">うどん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|49|402|<span class="rank-name-dl">のん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
-|50|268|<span class="rank-name-dl">NO NAME 2743</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|5|859|<span class="rank-name-dl">伏【侍魂】LA</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|6|849|<span class="rank-name-dl">後悔士♂【LA賊】</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|7|835|<span class="rank-name-dl">鷹 take</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|8|801|<span class="rank-name-dl">takumi watanabe</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|9|790|<span class="rank-name-dl">LA賊 綾乃 蝶</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|10|754|<span class="rank-name-dl">LA賊 蝶-ageha-</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|10|754|<span class="rank-name-dl">LA賊☆猫師(&#x27;Å&#x27;)</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|12|727|<span class="rank-name-dl">投げ屋玉さん㈱</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|13|695|<span class="rank-name-dl">国分寺CATS★TOMO</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|14|692|<span class="rank-name-dl">La賊＠yuppi♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|15|691|<span class="rank-name-dl">ぶーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|16|690|<span class="rank-name-dl">ケンシロー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|17|685|<span class="rank-name-dl">イズミ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|18|683|<span class="rank-name-dl">@yuppi_LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|19|667|<span class="rank-name-dl">いぷき</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|20|660|<span class="rank-name-dl">たっち</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|20|660|<span class="rank-name-dl">健太</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|22|658|<span class="rank-name-dl">ケンボー</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|23|656|<span class="rank-name-dl">Haru LA賊</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|24|642|<span class="rank-name-dl">La賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|25|616|<span class="rank-name-dl">マーニャ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|26|611|<span class="rank-name-dl">LA賊☆ゆっぴ♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|26|611|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|28|561|<span class="rank-name-dl">LA賊〈RIKI〉酒人</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|29|555|<span class="rank-name-dl">のん@RICESAND</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|30|548|<span class="rank-name-dl">LA賊⭐︎まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|31|540|<span class="rank-name-dl">LA賊☆矢攻勢♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|32|536|<span class="rank-name-dl">ロコモコ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|33|531|<span class="rank-name-dl">C卍M</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|34|527|<span class="rank-name-dl">LA賊☆天師♀️</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|35|521|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|36|512|<span class="rank-name-dl">へいた(･o･)卍</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|37|508|<span class="rank-name-dl">CAMEL</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|38|507|<span class="rank-name-dl">La賊★まーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|39|471|<span class="rank-name-dl">LA賊☆ゆぴ士♂</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|40|445|<span class="rank-name-dl">国分寺CATS★ﾗｯｼｨ</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|41|443|<span class="rank-name-dl">LA賊☆ 天師♀️</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|42|414|<span class="rank-name-dl">ShoHei@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|43|411|<span class="rank-name-dl">Passenger@じ〜ま</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|44|407|<span class="rank-name-dl">うどん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|45|402|<span class="rank-name-dl">のん</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
+|46|268|<span class="rank-name-dl">NO NAME 2743</span>|<a href="https://search.dartslive.com/jp/shop/69b48868d161e6d40d9b047a20a7ba1e">ラ・セレナータ</a>|<a href="/darts/rank/千葉県/鴨川市">千葉県鴨川市</a>|
 
 
 #### PHOENIXDARTS TOP 100

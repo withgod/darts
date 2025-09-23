@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1210|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|2|1169|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|2|1169|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
 |3|1163|<span class="rank-name-pd">TAKE4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86834?s_seq=86834">diningbar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
 |4|1147|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|5|1135|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|6|1127|<span class="rank-name-pd">たふ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53911?s_seq=53911">Halloween</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|7|1124|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|8|1117|<span class="rank-name-dl">松石 健太郎</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|9|1096|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|10|1088|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|11|1087|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|12|1085|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|13|1083|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|14|1076|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|15|1075|<span class="rank-name-dl">✱✱✱✱✱✱</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|15|1075|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|17|1063|<span class="rank-name-dl">UおじさんG</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|18|1061|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|19|1058|<span class="rank-name-dl">碇ゲンドウ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|20|1048|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店 UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|21|1047|<span class="rank-name-pd">GCN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86834?s_seq=86834">diningbar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|22|1044|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|23|1043|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|23|1043|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|25|1042|<span class="rank-name-dl">うしくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|25|1042|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|25|1042|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|28|1041|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|29|1037|<span class="rank-name-dl">KUROMI0024</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|30|1035|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|31|1034|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|32|1028|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店 アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|33|1027|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|34|1018|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|35|1016|<span class="rank-name-pd">たけのこの里@MIU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|36|1013|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|37|1012|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|38|1011|<span class="rank-name-dl">TAKE4</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|39|1008|<span class="rank-name-dl">くずま☆しずま</span>|<a href="https://search.dartslive.com/jp/shop/60c9983b9ee475dcf454cb89828a1cfe">立川BAR</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|40|1007|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|41|1005|<span class="rank-name-dl">あづま</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|41|1005|<span class="rank-name-dl">ｲｼｲﾊﾙﾄ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|43|1002|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|43|1002|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|45|1001|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|46|1000|<span class="rank-name-dl">佐竹　俊祐</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|47|999|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|48|996|<span class="rank-name-dl">s.nao</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|49|990|<span class="rank-name-dl">にしこり</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|50|984|<span class="rank-name-dl">M.Quincy.R</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|51|983|<span class="rank-name-dl">@こがちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|51|983|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|53|982|<span class="rank-name-dl">yutarooo×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|54|981|<span class="rank-name-dl">ゴー</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|55|978|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|55|978|<span class="rank-name-dl">黒子</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|57|977|<span class="rank-name-dl">ka</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|57|977|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|59|976|<span class="rank-name-dl">USA@UP</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|60|974|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|60|974|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|62|971|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|62|971|<span class="rank-name-dl">さい＠</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|64|968|<span class="rank-name-dl">Toshi</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|65|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|65|967|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|966|<span class="rank-name-dl">NO NAME 0324</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|966|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|966|<span class="rank-name-pd">チワワ菊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|966|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|71|965|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|72|963|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|72|963|<span class="rank-name-dl">ベータ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|74|961|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|74|961|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|74|961|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|74|961|<span class="rank-name-dl">ＯriE</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|78|960|<span class="rank-name-dl">なおくぅん</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|79|959|<span class="rank-name-dl">ビシソワーズ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|80|954|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|953|<span class="rank-name-dl">NO NAME 1207</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|953|<span class="rank-name-dl">No MoNey M</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|953|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|84|952|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店 アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|85|951|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|86|950|<span class="rank-name-pd">チワワ菊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86834?s_seq=86834">diningbar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|87|949|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|87|949|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|87|949|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|90|944|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|91|941|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|92|940|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|93|939|<span class="rank-name-dl">ペロさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|93|939|<span class="rank-name-dl">春平@ReST</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|95|938|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|95|938|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|95|938|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|98|937|<span class="rank-name-pd">吉澤　武志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|98|937|<span class="rank-name-dl">ﾊﾟﾍﾟｯﾄｽｩﾝｽｩﾝ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|100|934|<span class="rank-name-dl">じゃーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|5|1127|<span class="rank-name-pd">たふ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53911?s_seq=53911">Halloween</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|6|1124|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|7|1117|<span class="rank-name-dl">松石 健太郎</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|8|1096|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|9|1088|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|10|1087|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|11|1085|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|12|1083|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|13|1076|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|14|1075|<span class="rank-name-dl">✱✱✱✱✱✱</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|14|1075|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|16|1063|<span class="rank-name-dl">UおじさんG</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|17|1061|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|18|1058|<span class="rank-name-dl">碇ゲンドウ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|19|1048|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|20|1047|<span class="rank-name-pd">GCN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86834?s_seq=86834">diningbar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|21|1044|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|22|1043|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|22|1043|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|24|1042|<span class="rank-name-dl">うしくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|24|1042|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|24|1042|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|27|1041|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|28|1037|<span class="rank-name-dl">KUROMI0024</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|29|1035|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|30|1034|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|31|1028|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|32|1027|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|33|1018|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|34|1016|<span class="rank-name-pd">たけのこの里@MIU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|35|1013|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|36|1012|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|37|1011|<span class="rank-name-dl">TAKE4</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|38|1008|<span class="rank-name-dl">くずま☆しずま</span>|<a href="https://search.dartslive.com/jp/shop/60c9983b9ee475dcf454cb89828a1cfe">立川BAR</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|39|1007|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|40|1005|<span class="rank-name-dl">あづま</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|40|1005|<span class="rank-name-dl">ｲｼｲﾊﾙﾄ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|42|1002|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|42|1002|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|44|1001|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|45|1000|<span class="rank-name-dl">佐竹　俊祐</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|46|996|<span class="rank-name-dl">s.nao</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|47|990|<span class="rank-name-dl">にしこり</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|48|984|<span class="rank-name-dl">M.Quincy.R</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|49|983|<span class="rank-name-dl">@こがちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|49|983|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|51|982|<span class="rank-name-dl">yutarooo×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|52|981|<span class="rank-name-dl">ゴー</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|53|978|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|53|978|<span class="rank-name-dl">黒子</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|55|977|<span class="rank-name-dl">ka</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|55|977|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|57|976|<span class="rank-name-dl">USA@UP</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|58|974|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|58|974|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|60|971|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|60|971|<span class="rank-name-dl">さい＠</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|62|968|<span class="rank-name-dl">Toshi</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|63|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|63|967|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|966|<span class="rank-name-dl">NO NAME 0324</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|966|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|966|<span class="rank-name-pd">チワワ菊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|966|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|69|965|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|70|963|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|70|963|<span class="rank-name-dl">ベータ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|72|961|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|72|961|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|72|961|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|72|961|<span class="rank-name-dl">ＯriE</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|76|960|<span class="rank-name-dl">なおくぅん</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|77|959|<span class="rank-name-dl">ビシソワーズ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|953|<span class="rank-name-dl">NO NAME 1207</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|953|<span class="rank-name-dl">No MoNey M</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|953|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|81|952|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|82|951|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|83|950|<span class="rank-name-pd">チワワ菊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86834?s_seq=86834">diningbar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|84|949|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|84|949|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|84|949|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|87|944|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|88|941|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|89|940|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|90|939|<span class="rank-name-dl">ペロさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|90|939|<span class="rank-name-dl">春平@ReST</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|92|938|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|92|938|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|92|938|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|95|937|<span class="rank-name-pd">吉澤　武志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91611?s_seq=91611">Bar Roots</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|95|937|<span class="rank-name-dl">ﾊﾟﾍﾟｯﾄｽｩﾝｽｩﾝ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|97|934|<span class="rank-name-dl">じゃーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|98|933|<span class="rank-name-dl">@凪 誠士郎</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|99|930|<span class="rank-name-dl">ToMO</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|99|930|<span class="rank-name-dl">㈱太陽 専務..</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,105 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1210|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|2|1169|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|2|1169|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
 |3|1147|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|4|1135|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|5|1124|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|6|1117|<span class="rank-name-dl">松石 健太郎</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|7|1096|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|8|1088|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|9|1087|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|10|1085|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|11|1083|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|12|1076|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|13|1075|<span class="rank-name-dl">✱✱✱✱✱✱</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|13|1075|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|15|1063|<span class="rank-name-dl">UおじさんG</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|16|1061|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|17|1058|<span class="rank-name-dl">碇ゲンドウ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|18|1048|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店 UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|19|1044|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|20|1043|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|20|1043|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|22|1042|<span class="rank-name-dl">うしくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|22|1042|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店 B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|22|1042|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|25|1041|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|26|1037|<span class="rank-name-dl">KUROMI0024</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|27|1035|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|28|1034|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|29|1028|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店 アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|30|1027|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|31|1018|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|32|1013|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|33|1012|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|34|1011|<span class="rank-name-dl">TAKE4</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|35|1008|<span class="rank-name-dl">くずま☆しずま</span>|<a href="https://search.dartslive.com/jp/shop/60c9983b9ee475dcf454cb89828a1cfe">立川BAR</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|36|1007|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|37|1005|<span class="rank-name-dl">あづま</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|37|1005|<span class="rank-name-dl">ｲｼｲﾊﾙﾄ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|39|1002|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|39|1002|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|41|1001|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|42|1000|<span class="rank-name-dl">佐竹　俊祐</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|43|999|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|44|996|<span class="rank-name-dl">s.nao</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|45|990|<span class="rank-name-dl">にしこり</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|46|984|<span class="rank-name-dl">M.Quincy.R</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|47|983|<span class="rank-name-dl">@こがちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|47|983|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|49|982|<span class="rank-name-dl">yutarooo×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|50|981|<span class="rank-name-dl">ゴー</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|51|978|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|51|978|<span class="rank-name-dl">黒子</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|53|977|<span class="rank-name-dl">ka</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|53|977|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|55|976|<span class="rank-name-dl">USA@UP</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|56|974|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|56|974|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|58|971|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|58|971|<span class="rank-name-dl">さい＠</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|60|968|<span class="rank-name-dl">Toshi</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|61|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|61|967|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|63|966|<span class="rank-name-dl">NO NAME 0324</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|63|966|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|63|966|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|66|965|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|963|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|67|963|<span class="rank-name-dl">ベータ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|69|961|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|69|961|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|69|961|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|69|961|<span class="rank-name-dl">ＯriE</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|73|960|<span class="rank-name-dl">なおくぅん</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|74|959|<span class="rank-name-dl">ビシソワーズ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|75|954|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店) ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|76|953|<span class="rank-name-dl">NO NAME 1207</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|76|953|<span class="rank-name-dl">No MoNey M</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川 UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|76|953|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|79|952|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店 アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|80|951|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|949|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|949|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|81|949|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|84|944|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|85|941|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|86|940|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|87|939|<span class="rank-name-dl">ペロさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|87|939|<span class="rank-name-dl">春平@ReST</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|89|938|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|89|938|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|89|938|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|92|937|<span class="rank-name-dl">ﾊﾟﾍﾟｯﾄｽｩﾝｽｩﾝ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|93|934|<span class="rank-name-dl">じゃーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|94|933|<span class="rank-name-dl">@凪 誠士郎</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|95|932|<span class="rank-name-dl">うしくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|96|930|<span class="rank-name-dl">ToMO</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店 UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|96|930|<span class="rank-name-dl">㈱太陽 専務..</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|98|929|<span class="rank-name-dl">しょう ฅ^･-･^ฅ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|99|925|<span class="rank-name-dl">FLECHA卍ｵｶﾙﾄ店長</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
-|99|925|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|4|1124|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|5|1117|<span class="rank-name-dl">松石 健太郎</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|6|1096|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|7|1088|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|8|1087|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|9|1085|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|10|1083|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|11|1076|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|12|1075|<span class="rank-name-dl">✱✱✱✱✱✱</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|12|1075|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|14|1063|<span class="rank-name-dl">UおじさんG</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|15|1061|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|16|1058|<span class="rank-name-dl">碇ゲンドウ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|17|1048|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|18|1044|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|19|1043|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|19|1043|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|21|1042|<span class="rank-name-dl">うしくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|21|1042|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|21|1042|<span class="rank-name-dl">神威</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|24|1041|<span class="rank-name-dl">No NAME 2107</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|25|1037|<span class="rank-name-dl">KUROMI0024</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|26|1035|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|27|1034|<span class="rank-name-dl">しょーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|28|1028|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|29|1027|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|30|1018|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|31|1013|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|32|1012|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|33|1011|<span class="rank-name-dl">TAKE4</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|34|1008|<span class="rank-name-dl">くずま☆しずま</span>|<a href="https://search.dartslive.com/jp/shop/60c9983b9ee475dcf454cb89828a1cfe">立川BAR</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|35|1007|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|36|1005|<span class="rank-name-dl">あづま</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|36|1005|<span class="rank-name-dl">ｲｼｲﾊﾙﾄ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|38|1002|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|38|1002|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|40|1001|<span class="rank-name-dl">Asato__2nd</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|41|1000|<span class="rank-name-dl">佐竹　俊祐</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|42|996|<span class="rank-name-dl">s.nao</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|43|990|<span class="rank-name-dl">にしこり</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|44|984|<span class="rank-name-dl">M.Quincy.R</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|45|983|<span class="rank-name-dl">@こがちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|45|983|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|47|982|<span class="rank-name-dl">yutarooo×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|48|981|<span class="rank-name-dl">ゴー</span>|<a href="https://search.dartslive.com/jp/shop/df6b2a9b3091687d0d9b047a20a7ba1e">ARCANA</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|49|978|<span class="rank-name-dl">山野 翔一</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|49|978|<span class="rank-name-dl">黒子</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|51|977|<span class="rank-name-dl">ka</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|51|977|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|53|976|<span class="rank-name-dl">USA@UP</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|54|974|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|54|974|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|56|971|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|56|971|<span class="rank-name-dl">さい＠</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|58|968|<span class="rank-name-dl">Toshi</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|59|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|59|967|<span class="rank-name-dl">り</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|61|966|<span class="rank-name-dl">NO NAME 0324</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|61|966|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|61|966|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|64|965|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|963|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|65|963|<span class="rank-name-dl">ベータ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|67|961|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|67|961|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|67|961|<span class="rank-name-dl">もーみん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|67|961|<span class="rank-name-dl">ＯriE</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|71|960|<span class="rank-name-dl">なおくぅん</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|72|959|<span class="rank-name-dl">ビシソワーズ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|73|953|<span class="rank-name-dl">NO NAME 1207</span>|<a href="https://search.dartslive.com/jp/shop/f7ce9094e8a861ed0d9b047a20a7ba1e">立川Rings</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|73|953|<span class="rank-name-dl">No MoNey M</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|73|953|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|76|952|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">アミューズメントバー D.P.S 立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|77|951|<span class="rank-name-dl">キンジロー</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|949|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|949|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/4c3b88f1a26037f50d9b047a20a7ba1e">D.P.S立川店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|78|949|<span class="rank-name-dl">カエルくん</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|81|944|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/0b5def0d9f337af80d9b047a20a7ba1e">dining bar カトレア</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|82|941|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|83|940|<span class="rank-name-dl">チワワ菊</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|84|939|<span class="rank-name-dl">ペロさん</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|84|939|<span class="rank-name-dl">春平@ReST</span>|<a href="https://search.dartslive.com/jp/shop/78a644295c7bd9290d9b047a20a7ba1e">Bar ReST</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|86|938|<span class="rank-name-dl">MAKØCHI</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|86|938|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/770f81d009dcf7f30d9b047a20a7ba1e">5 oclock</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|86|938|<span class="rank-name-dl">つかぴ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|89|937|<span class="rank-name-dl">ﾊﾟﾍﾟｯﾄｽｩﾝｽｩﾝ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|90|934|<span class="rank-name-dl">じゃーてぃーだよ</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|91|933|<span class="rank-name-dl">@凪 誠士郎</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|92|930|<span class="rank-name-dl">ToMO</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|92|930|<span class="rank-name-dl">㈱太陽 専務..</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|94|929|<span class="rank-name-dl">しょう ฅ^･-･^ฅ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|95|925|<span class="rank-name-dl">FLECHA卍ｵｶﾙﾄ店長</span>|<a href="https://search.dartslive.com/jp/shop/e4e935a4e7a9b277fec1ae84bb28bd87">UP立川</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|95|925|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/ed0b06d8600d2da6fec1ae84bb28bd87">B-GARAGE 立川南口駅前店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|97|923|<span class="rank-name-dl">だる</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|97|923|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/d40ad6800d3c5992b21333aee1bd51e4">UP立川北口店</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|99|922|<span class="rank-name-dl">碇ゲンドウ</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
+|100|921|<span class="rank-name-dl">みずきち</span>|<a href="https://search.dartslive.com/jp/shop/dd085f2dbb4121400d9b047a20a7ba1e">ダーツカフェデルタ立川店(DartsCafeDELTA立川店)</a>|<a href="/darts/rank/東京都/立川市">東京都立川市</a>|
 
 
 #### PHOENIXDARTS TOP 100

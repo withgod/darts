@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1250|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|1|1250|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |2|1201|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
@@ -31,14 +31,14 @@ ___
 |3|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">高野　鉄平</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |8|1176|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/8ab6129e0626c29e0d9b047a20a7ba1e">DartsBar Arts 新中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|9|1169|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|9|1169|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |9|1169|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |11|1168|<span class="rank-name-pd">AICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |12|1165|<span class="rank-name-pd">Sunakawa daaaai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |13|1164|<span class="rank-name-pd">AICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|14|1162|<span class="rank-name-dl">GEATS</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|14|1162|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野 Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|16|1158|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|14|1162|<span class="rank-name-dl">GEATS</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|14|1162|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|16|1158|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |17|1153|<span class="rank-name-pd">NAGANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |18|1149|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |19|1143|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
@@ -49,80 +49,80 @@ ___
 |23|1134|<span class="rank-name-dl">リサ</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |25|1130|<span class="rank-name-pd">YUTA KAZAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53112?s_seq=53112">Corcovado</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |25|1130|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|27|1129|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店 DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|28|1126|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|27|1129|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|28|1126|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |29|1124|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |30|1122|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |31|1120|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|31|1120|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|33|1119|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|34|1118|<span class="rank-name-pd"><span class="pro-icon-pd"></span>砂川 大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|35|1113|<span class="rank-name-dl">ねこねこ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|36|1112|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|36|1112|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|38|1107|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|39|1102|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|39|1102|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小崎 心</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|41|1101|<span class="rank-name-dl">ぽまた丸</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|42|1100|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|43|1099|<span class="rank-name-dl">砂 川★STARDOM★</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|44|1093|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|45|1092|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|46|1090|<span class="rank-name-dl">☆まさや☆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|47|1089|<span class="rank-name-dl">NO NAME1238</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|48|1088|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|49|1087|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|50|1082|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|51|1081|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|51|1081|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|53|1077|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|54|1076|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|55|1075|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|56|1073|<span class="rank-name-pd"><span class="pro-icon-pd"></span>保角 慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|57|1070|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|58|1068|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|59|1064|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|59|1064|<span class="rank-name-pd"><span class="pro-icon-pd"></span>名越 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|59|1064|<span class="rank-name-pd">安藤　尚輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91859?s_seq=91859">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|59|1064|<span class="rank-name-pd">浴本 昇吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91859?s_seq=91859">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|63|1063|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|63|1063|<span class="rank-name-dl">乃木坂 Ｙu～１。</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1062|<span class="rank-name-dl">なか爺☆流山</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1062|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/f01b8a43076ba40c0d9b047a20a7ba1e">Darts Bar BLOOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|67|1061|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|67|1061|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|69|1060|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|70|1058|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|70|1058|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|72|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|73|1056|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|73|1056|<span class="rank-name-dl">まいけるくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|73|1056|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|73|1056|<span class="rank-name-pd"><span class="pro-icon-pd"></span>阿嘉 紗香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|77|1055|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1054|<span class="rank-name-dl">うしさん副会長</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1054|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1054|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1054|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|82|1051|<span class="rank-name-dl">riku7</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|82|1051|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|84|1050|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|84|1050|<span class="rank-name-pd">今野 威</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|84|1050|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|87|1049|<span class="rank-name-dl">のらねこ。。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|87|1049|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|87|1049|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|90|1048|<span class="rank-name-dl">wataru</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|91|1047|<span class="rank-name-dl">YAMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|91|1047|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|93|1046|<span class="rank-name-pd">今野</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|94|1043|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|94|1043|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|94|1043|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|94|1043|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|94|1043|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|99|1042|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|100|1041|<span class="rank-name-dl">やっぴ@桃虎</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|31|1120|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|33|1118|<span class="rank-name-pd"><span class="pro-icon-pd"></span>砂川 大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|34|1113|<span class="rank-name-dl">ねこねこ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|35|1112|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|36|1107|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|37|1102|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|37|1102|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小崎 心</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|39|1101|<span class="rank-name-dl">ぽまた丸</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|40|1100|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|41|1099|<span class="rank-name-dl">砂 川★STARDOM★</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|42|1093|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|43|1092|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|44|1090|<span class="rank-name-dl">☆まさや☆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|45|1089|<span class="rank-name-dl">NO NAME1238</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|46|1088|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|47|1087|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|48|1082|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|49|1081|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|49|1081|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|51|1077|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|52|1076|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|53|1075|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|54|1073|<span class="rank-name-pd"><span class="pro-icon-pd"></span>保角 慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|55|1070|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|56|1068|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|57|1064|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|57|1064|<span class="rank-name-pd"><span class="pro-icon-pd"></span>名越 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|57|1064|<span class="rank-name-pd">安藤　尚輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91859?s_seq=91859">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|60|1063|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|60|1063|<span class="rank-name-dl">乃木坂 Ｙu～１。</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|62|1062|<span class="rank-name-dl">なか爺☆流山</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|62|1062|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/f01b8a43076ba40c0d9b047a20a7ba1e">Darts Bar BLOOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|64|1061|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|64|1061|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|66|1060|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|67|1058|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|68|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|69|1056|<span class="rank-name-dl">まいけるくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|69|1056|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|69|1056|<span class="rank-name-pd"><span class="pro-icon-pd"></span>阿嘉 紗香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95683?s_seq=95683">Darts&Coffee STAR DOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|72|1055|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|73|1054|<span class="rank-name-dl">うしさん副会長</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|73|1054|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|73|1054|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|73|1054|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|77|1051|<span class="rank-name-dl">riku7</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|77|1051|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|79|1050|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|79|1050|<span class="rank-name-pd">今野 威</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|79|1050|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|82|1049|<span class="rank-name-dl">のらねこ。。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|82|1049|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|84|1048|<span class="rank-name-dl">wataru</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|85|1047|<span class="rank-name-dl">YAMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|85|1047|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|87|1046|<span class="rank-name-pd">今野</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1043|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1043|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1043|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1043|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|92|1042|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|93|1041|<span class="rank-name-dl">やっぴ@桃虎</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|93|1041|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|93|1041|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大山 慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59563?s_seq=59563">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|96|1040|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|97|1038|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|98|1034|<span class="rank-name-pd">0245_1518</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91859?s_seq=91859">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|99|1033|<span class="rank-name-dl">あめちゃん</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|100|1032|<span class="rank-name-dl">ﾐﾆけたん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,7 +132,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1250|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|1|1250|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |2|1201|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
@@ -140,11 +140,11 @@ ___
 |3|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |3|1200|<span class="rank-name-dl">高野　鉄平</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |8|1176|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/8ab6129e0626c29e0d9b047a20a7ba1e">DartsBar Arts 新中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|9|1169|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|9|1169|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |9|1169|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|11|1162|<span class="rank-name-dl">GEATS</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|11|1162|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野 Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|13|1158|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|11|1162|<span class="rank-name-dl">GEATS</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|11|1162|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|13|1158|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |14|1149|<span class="rank-name-dl">junpei nishiyama</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |15|1143|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |16|1140|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
@@ -153,85 +153,85 @@ ___
 |19|1134|<span class="rank-name-dl">ダーツマン近藤</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |19|1134|<span class="rank-name-dl">リサ</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |21|1130|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|22|1129|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店 DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|23|1126|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|22|1129|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|23|1126|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |24|1124|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |25|1122|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 |26|1120|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|26|1120|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|28|1119|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|29|1113|<span class="rank-name-dl">ねこねこ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|30|1112|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|30|1112|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|32|1107|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|33|1102|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|34|1101|<span class="rank-name-dl">ぽまた丸</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|35|1100|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|36|1099|<span class="rank-name-dl">砂 川★STARDOM★</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|37|1093|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|38|1090|<span class="rank-name-dl">☆まさや☆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|39|1089|<span class="rank-name-dl">NO NAME1238</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|40|1088|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|41|1087|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|42|1082|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|43|1081|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|43|1081|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|45|1077|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|46|1076|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|47|1075|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|48|1070|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|49|1068|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|50|1064|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|51|1063|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|51|1063|<span class="rank-name-dl">乃木坂 Ｙu～１。</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|53|1062|<span class="rank-name-dl">なか爺☆流山</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|53|1062|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/f01b8a43076ba40c0d9b047a20a7ba1e">Darts Bar BLOOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|55|1061|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|55|1061|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|57|1060|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|58|1058|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|58|1058|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|60|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|61|1056|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|61|1056|<span class="rank-name-dl">まいけるくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|61|1056|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|64|1055|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1054|<span class="rank-name-dl">うしさん副会長</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1054|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1054|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|65|1054|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|69|1053|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|70|1051|<span class="rank-name-dl">riku7</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|70|1051|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|72|1050|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|72|1050|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|74|1049|<span class="rank-name-dl">のらねこ。。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|74|1049|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|74|1049|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|77|1048|<span class="rank-name-dl">wataru</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1047|<span class="rank-name-dl">YAMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|78|1047|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|80|1043|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|80|1043|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|80|1043|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|80|1043|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|80|1043|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|85|1042|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|86|1041|<span class="rank-name-dl">やっぴ@桃虎</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|86|1041|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|88|1040|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|89|1038|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|90|1033|<span class="rank-name-dl">あめちゃん</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|91|1032|<span class="rank-name-dl">ﾐﾆけたん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|92|1030|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|93|1029|<span class="rank-name-dl">KeeeeeN</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|93|1029|<span class="rank-name-dl">けんじゅうすず</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野 Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|95|1028|<span class="rank-name-dl">Supremeジジｨ(96)</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|95|1028|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店 SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|95|1028|<span class="rank-name-dl">初老コテツマン。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|95|1028|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|99|1026|<span class="rank-name-dl">おちょこ。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
-|99|1026|<span class="rank-name-dl">かとりまる☆彡</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|26|1120|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/467bd817466d8f7d0d9b047a20a7ba1e">VISITOR</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|28|1113|<span class="rank-name-dl">ねこねこ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|29|1112|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|30|1107|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|31|1102|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|32|1101|<span class="rank-name-dl">ぽまた丸</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|33|1100|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|34|1099|<span class="rank-name-dl">砂 川★STARDOM★</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|35|1093|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|36|1090|<span class="rank-name-dl">☆まさや☆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|37|1089|<span class="rank-name-dl">NO NAME1238</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|38|1088|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|39|1087|<span class="rank-name-dl">-1BULL-keep-</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sビリヤードアカデミー</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|40|1082|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|41|1081|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|41|1081|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|43|1077|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|44|1076|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|45|1075|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|46|1070|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|47|1068|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|48|1064|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|49|1063|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|49|1063|<span class="rank-name-dl">乃木坂 Ｙu～１。</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|51|1062|<span class="rank-name-dl">なか爺☆流山</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|51|1062|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/f01b8a43076ba40c0d9b047a20a7ba1e">Darts Bar BLOOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|53|1061|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|53|1061|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|55|1060|<span class="rank-name-dl">ありさん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|56|1058|<span class="rank-name-dl">Clutch S</span>|<a href="https://search.dartslive.com/jp/shop/07af264ae4e23a610d9b047a20a7ba1e">KOBBY'Sﾋﾞﾘﾔｰﾄﾞｱｶﾃﾞﾐｰ</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|57|1057|<span class="rank-name-dl">安藤　尚輝</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|58|1056|<span class="rank-name-dl">まいけるくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|58|1056|<span class="rank-name-dl">柴木 智貴</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|60|1055|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|61|1054|<span class="rank-name-dl">うしさん副会長</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|61|1054|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|61|1054|<span class="rank-name-dl">ラモス</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|61|1054|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/f300984772eb4959a3f63593b5358cc4">DARTSBAR IMA 北口店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|65|1051|<span class="rank-name-dl">riku7</span>|<a href="https://search.dartslive.com/jp/shop/10d8590c1152e1b90d9b047a20a7ba1e">カラオケ&ダーツ くれおぱとら</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|65|1051|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|67|1050|<span class="rank-name-dl">しん　TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|67|1050|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|69|1049|<span class="rank-name-dl">のらねこ。。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|69|1049|<span class="rank-name-dl">野良猫</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|71|1048|<span class="rank-name-dl">wataru</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|72|1047|<span class="rank-name-dl">YAMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|72|1047|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|74|1043|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|74|1043|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|74|1043|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|74|1043|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|78|1042|<span class="rank-name-dl">セナ@UP</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|79|1041|<span class="rank-name-dl">やっぴ@桃虎</span>|<a href="https://search.dartslive.com/jp/shop/8fc4d65ce1d6b2020d9b047a20a7ba1e">Pink Tiger</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|79|1041|<span class="rank-name-dl">中井 十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|81|1040|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|82|1038|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/dd6f44bc62df59950d9b047a20a7ba1e">NATURAL NINE NOGATA</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|83|1033|<span class="rank-name-dl">あめちゃん</span>|<a href="https://search.dartslive.com/jp/shop/837e77cc45ca3c785f9f3321c1147265">UP中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|84|1032|<span class="rank-name-dl">ﾐﾆけたん@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|85|1030|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|86|1029|<span class="rank-name-dl">KeeeeeN</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|86|1029|<span class="rank-name-dl">けんじゅうすず</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1028|<span class="rank-name-dl">Supremeジジｨ(96)</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1028|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/eb0457a1dab7faa20d9b047a20a7ba1e">SUNS 中野店</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1028|<span class="rank-name-dl">初老コテツマン。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|88|1028|<span class="rank-name-dl">小平 恭輔</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|92|1026|<span class="rank-name-dl">おちょこ。</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|92|1026|<span class="rank-name-dl">かとりまる☆彡</span>|<a href="https://search.dartslive.com/jp/shop/99b514f846953b270d9b047a20a7ba1e">BLACK CAT</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|94|1024|<span class="rank-name-dl">ひよﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|94|1024|<span class="rank-name-dl">無限神奈川【伶】</span>|<a href="https://search.dartslive.com/jp/shop/b3931fb70e7e5cba0d9b047a20a7ba1e">CAFE BAR FLOSSY</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|96|1022|<span class="rank-name-dl">久保田 光雄</span>|<a href="https://search.dartslive.com/jp/shop/674ed91d86ef74ab0d9b047a20a7ba1e">Three Code 中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|96|1022|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|98|1021|<span class="rank-name-dl">NO NAME 4129</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|98|1021|<span class="rank-name-dl">けんばぶぅ保角慶</span>|<a href="https://search.dartslive.com/jp/shop/6a09983f24676fe90d9b047a20a7ba1e">Darts&Coffee STARDOM Darts&Coffee STARDOM</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
+|98|1021|<span class="rank-name-dl">たこ3ういんなー</span>|<a href="https://search.dartslive.com/jp/shop/aa7a901d4db7b2030d9b047a20a7ba1e">Savanna 東中野</a>|<a href="/darts/rank/東京都/中野区">東京都中野区</a>|
 
 
 #### PHOENIXDARTS TOP 100

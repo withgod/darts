@@ -23,34 +23,34 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1117|<span class="rank-name-dl">もっこりもっこり</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|2|1114|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|1|1117|<span class="rank-name-dl">もっこりもっこり</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|2|1114|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |3|1111|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |4|1069|<span class="rank-name-dl">ペ--タ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |5|1061|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |6|1045|<span class="rank-name-dl">ひまnuts</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |7|1043|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |8|1038|<span class="rank-name-dl">NO NAME 3334</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|8|1038|<span class="rank-name-dl">あおchan♪</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|8|1038|<span class="rank-name-dl">あおchan♪</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |8|1038|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|11|1031|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|11|1031|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |12|1022|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|13|1018|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|13|1018|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |14|1014|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|15|1013|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|15|1013|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|15|1013|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|15|1013|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |17|1009|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |18|992|<span class="rank-name-dl">まりも。んぬ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |19|990|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|20|988|<span class="rank-name-dl">石森悠彦</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|20|988|<span class="rank-name-dl">石森悠彦</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |21|976|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |22|974|<span class="rank-name-dl">Amami</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |23|972|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |24|971|<span class="rank-name-dl">KOSA®︎</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |24|971|<span class="rank-name-dl">blueno</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |26|970|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|26|970|<span class="rank-name-dl">大マル。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|28|968|<span class="rank-name-dl">ふじわらわら</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|26|970|<span class="rank-name-dl">大マル。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|28|968|<span class="rank-name-dl">ふじわらわら</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |28|968|<span class="rank-name-dl">ボブとMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |30|967|<span class="rank-name-dl">もっこり★ﾌｼﾞﾓﾝ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |30|967|<span class="rank-name-dl">ヌオー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
@@ -64,65 +64,65 @@ ___
 |39|957|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |40|954|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |41|952|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|42|949|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|42|949|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |43|948|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |44|947|<span class="rank-name-dl">blueno</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |45|944|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|46|943|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|47|941|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|46|943|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |47|941|<span class="rank-name-dl">♡てつちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|49|936|<span class="rank-name-dl">ふーき</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|50|934|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|51|933|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|52|931|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|53|928|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|54|927|<span class="rank-name-dl">ば氏</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|55|925|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|56|923|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|56|923|<span class="rank-name-dl">ボブcaMEL</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|58|920|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|59|918|<span class="rank-name-dl">たくみんみん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|60|916|<span class="rank-name-dl">鬼太朗</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|61|915|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|62|913|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|63|912|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|64|910|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|65|909|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|66|908|<span class="rank-name-dl">SARUCCA⊿D+Rodeo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|67|907|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|67|907|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ヤマネデラックス</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|72|905|<span class="rank-name-dl">フジケン【極】</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|73|903|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|74|902|<span class="rank-name-dl">Piro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|75|899|<span class="rank-name-dl">こめりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|76|898|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|76|898|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|78|897|<span class="rank-name-dl">ゆばーば。</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|79|892|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|80|887|<span class="rank-name-pd">4 三  大山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43112?s_seq=43112">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|80|887|<span class="rank-name-dl">ひまナッツ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|80|887|<span class="rank-name-dl">もっこり★ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|83|886|<span class="rank-name-dl">ねこまっしぐら♪</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|84|885|<span class="rank-name-dl">たぬ子</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|84|885|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|86|884|<span class="rank-name-dl">ｻﾞｯｷｰ@ほむら組</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|87|883|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|88|881|<span class="rank-name-dl">LOW IQ 0.01（L）</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|88|881|<span class="rank-name-dl">Yas386@Aims at B</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|90|880|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|90|880|<span class="rank-name-dl">ボブMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|92|878|<span class="rank-name-dl">あさひ(もちごめ)</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|92|878|<span class="rank-name-dl">どぼー</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|94|877|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|95|876|<span class="rank-name-dl">ちわ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|96|874|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|97|873|<span class="rank-name-dl">Hiro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|98|868|<span class="rank-name-dl">#Monster</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|98|868|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|100|867|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|48|936|<span class="rank-name-dl">ふーき</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|49|934|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|50|931|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|51|928|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|52|927|<span class="rank-name-dl">ば氏</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|53|925|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|54|923|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|54|923|<span class="rank-name-dl">ボブcaMEL</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|56|920|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|57|918|<span class="rank-name-dl">たくみんみん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|58|916|<span class="rank-name-dl">鬼太朗</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|59|915|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|60|912|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|61|910|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|62|909|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|63|908|<span class="rank-name-dl">SARUCCA⊿D+Rodeo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|64|907|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|64|907|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ヤマネデラックス</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|69|905|<span class="rank-name-dl">フジケン【極】</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|70|903|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|71|902|<span class="rank-name-dl">Piro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|72|899|<span class="rank-name-dl">こめりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|73|898|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|73|898|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|75|897|<span class="rank-name-dl">ゆばーば。</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|76|892|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|77|887|<span class="rank-name-pd">4 三  大山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43112?s_seq=43112">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|77|887|<span class="rank-name-dl">ひまナッツ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|77|887|<span class="rank-name-dl">もっこり★ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|80|886|<span class="rank-name-dl">ねこまっしぐら♪</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|81|885|<span class="rank-name-dl">たぬ子</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|81|885|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|83|884|<span class="rank-name-dl">ｻﾞｯｷｰ@ほむら組</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|84|883|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|85|881|<span class="rank-name-dl">LOW IQ 0.01（L）</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|85|881|<span class="rank-name-dl">Yas386@Aims at B</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|87|880|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|87|880|<span class="rank-name-dl">ボブMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|89|878|<span class="rank-name-dl">あさひ(もちごめ)</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|89|878|<span class="rank-name-dl">どぼー</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|91|877|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|92|876|<span class="rank-name-dl">ちわ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|93|874|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|94|873|<span class="rank-name-dl">Hiro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|95|868|<span class="rank-name-dl">#Monster</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|95|868|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|97|867|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|98|866|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|99|865|<span class="rank-name-dl">NO NAME 1430</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|99|865|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,34 +132,34 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1117|<span class="rank-name-dl">もっこりもっこり</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|2|1114|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|1|1117|<span class="rank-name-dl">もっこりもっこり</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|2|1114|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |3|1111|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |4|1069|<span class="rank-name-dl">ペ--タ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |5|1061|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |6|1045|<span class="rank-name-dl">ひまnuts</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |7|1043|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |8|1038|<span class="rank-name-dl">NO NAME 3334</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|8|1038|<span class="rank-name-dl">あおchan♪</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|8|1038|<span class="rank-name-dl">あおchan♪</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |8|1038|<span class="rank-name-dl">ぴろ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|11|1031|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|11|1031|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |12|1022|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|13|1018|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|13|1018|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |14|1014|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|15|1013|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|15|1013|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|15|1013|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|15|1013|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |17|1009|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |18|992|<span class="rank-name-dl">まりも。んぬ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |19|990|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|20|988|<span class="rank-name-dl">石森悠彦</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|20|988|<span class="rank-name-dl">石森悠彦</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |21|976|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |22|974|<span class="rank-name-dl">Amami</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |23|972|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |24|971|<span class="rank-name-dl">KOSA®︎</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |24|971|<span class="rank-name-dl">blueno</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |26|970|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|26|970|<span class="rank-name-dl">大マル。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|28|968|<span class="rank-name-dl">ふじわらわら</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|26|970|<span class="rank-name-dl">大マル。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|28|968|<span class="rank-name-dl">ふじわらわら</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |28|968|<span class="rank-name-dl">ボブとMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |30|967|<span class="rank-name-dl">もっこり★ﾌｼﾞﾓﾝ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |30|967|<span class="rank-name-dl">ヌオー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
@@ -173,65 +173,65 @@ ___
 |39|957|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |40|954|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |41|952|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|42|949|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|42|949|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |43|948|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |44|947|<span class="rank-name-dl">blueno</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |45|944|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|46|943|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|47|941|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|46|943|<span class="rank-name-dl">うーりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 |47|941|<span class="rank-name-dl">♡てつちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|49|936|<span class="rank-name-dl">ふーき</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|50|934|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|51|933|<span class="rank-name-dl">Blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|52|931|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|53|928|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|54|927|<span class="rank-name-dl">ば氏</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|55|925|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|56|923|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|56|923|<span class="rank-name-dl">ボブcaMEL</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|58|920|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|59|918|<span class="rank-name-dl">たくみんみん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|60|916|<span class="rank-name-dl">鬼太朗</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|61|915|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|62|913|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|63|912|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|64|910|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|65|909|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|66|908|<span class="rank-name-dl">SARUCCA⊿D+Rodeo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|67|907|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|67|907|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|69|906|<span class="rank-name-dl">ヤマネデラックス</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|72|905|<span class="rank-name-dl">フジケン【極】</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|73|903|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|74|902|<span class="rank-name-dl">Piro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|75|899|<span class="rank-name-dl">こめりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|76|898|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|76|898|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|78|897|<span class="rank-name-dl">ゆばーば。</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|79|892|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+ ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|80|887|<span class="rank-name-dl">ひまナッツ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|80|887|<span class="rank-name-dl">もっこり★ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|82|886|<span class="rank-name-dl">ねこまっしぐら♪</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|83|885|<span class="rank-name-dl">たぬ子</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|83|885|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|85|884|<span class="rank-name-dl">ｻﾞｯｷｰ@ほむら組</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|86|883|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|87|881|<span class="rank-name-dl">LOW IQ 0.01（L）</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|87|881|<span class="rank-name-dl">Yas386@Aims at B</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|89|880|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|89|880|<span class="rank-name-dl">ボブMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|91|878|<span class="rank-name-dl">あさひ(もちごめ)</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|91|878|<span class="rank-name-dl">どぼー</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|93|877|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|94|876|<span class="rank-name-dl">ちわ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|95|874|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|96|873|<span class="rank-name-dl">Hiro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|97|868|<span class="rank-name-dl">#Monster</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店 カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|97|868|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|99|867|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
-|100|866|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|48|936|<span class="rank-name-dl">ふーき</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|49|934|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|50|931|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|51|928|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|52|927|<span class="rank-name-dl">ば氏</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|53|925|<span class="rank-name-dl">いっち～くん@XYZ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|54|923|<span class="rank-name-dl">あにぃ</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|54|923|<span class="rank-name-dl">ボブcaMEL</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|56|920|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|57|918|<span class="rank-name-dl">たくみんみん</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|58|916|<span class="rank-name-dl">鬼太朗</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|59|915|<span class="rank-name-dl">あらた</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|60|912|<span class="rank-name-dl">yamane deluxe</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|61|910|<span class="rank-name-dl">blueno@Pure</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|62|909|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|63|908|<span class="rank-name-dl">SARUCCA⊿D+Rodeo</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|64|907|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|64|907|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ふじわらたくみ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ネモト★JSY★</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|66|906|<span class="rank-name-dl">ヤマネデラックス</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|69|905|<span class="rank-name-dl">フジケン【極】</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|70|903|<span class="rank-name-dl">KENSHIRO.</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|71|902|<span class="rank-name-dl">Piro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|72|899|<span class="rank-name-dl">こめりー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|73|898|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|73|898|<span class="rank-name-dl">スッチー</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|75|897|<span class="rank-name-dl">ゆばーば。</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|76|892|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|77|887|<span class="rank-name-dl">ひまナッツ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|77|887|<span class="rank-name-dl">もっこり★ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|79|886|<span class="rank-name-dl">ねこまっしぐら♪</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|80|885|<span class="rank-name-dl">たぬ子</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|80|885|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|82|884|<span class="rank-name-dl">ｻﾞｯｷｰ@ほむら組</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|83|883|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|84|881|<span class="rank-name-dl">LOW IQ 0.01（L）</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|84|881|<span class="rank-name-dl">Yas386@Aims at B</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|86|880|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|86|880|<span class="rank-name-dl">ボブMARCO</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|88|878|<span class="rank-name-dl">あさひ(もちごめ)</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|88|878|<span class="rank-name-dl">どぼー</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|90|877|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|91|876|<span class="rank-name-dl">ちわ</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|92|874|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|93|873|<span class="rank-name-dl">Hiro Pure</span>|<a href="https://search.dartslive.com/jp/shop/476133ca00514fd60d9b047a20a7ba1e">Beer & Darts Pure</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|94|868|<span class="rank-name-dl">#Monster</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|94|868|<span class="rank-name-dl">あにぃ★藤森組★</span>|<a href="https://search.dartslive.com/jp/shop/7078cf538068f4bf28032249b44395af">快活CLUB 秦野曽屋店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|96|867|<span class="rank-name-dl">タツ･ピロ</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|97|866|<span class="rank-name-dl">しんやです。</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBANBAN秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|98|865|<span class="rank-name-dl">NO NAME 1430</span>|<a href="https://search.dartslive.com/jp/shop/08bb65de29ea55c60d9b047a20a7ba1e">ダーツ&ビリヤード A-1+</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|98|865|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
+|100|863|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/fa8c50f08ab348b20d9b047a20a7ba1e">カラオケBanBan秦野店</a>|<a href="/darts/rank/神奈川県/秦野市">神奈川県秦野市</a>|
 
 
 #### PHOENIXDARTS TOP 100

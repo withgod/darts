@@ -28,101 +28,101 @@ ___
 |3|1047|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 |4|1027|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 |5|1008|<span class="rank-name-pd">0141_1133</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|6|993|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|7|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|8|979|<span class="rank-name-dl">よーへいへい</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|9|977|<span class="rank-name-dl">しぇふ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|10|973|<span class="rank-name-pd">鈴木 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|11|967|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|12|966|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|13|963|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|14|957|<span class="rank-name-dl">ロック@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|14|957|<span class="rank-name-pd">佐藤 滉祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|14|957|<span class="rank-name-pd">福井 翔大郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|17|949|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|18|946|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|18|946|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|18|946|<span class="rank-name-pd">宇宙戦艦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|21|934|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|22|931|<span class="rank-name-pd">cherryheart</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|23|929|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|24|907|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|25|900|<span class="rank-name-pd">azusa.5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|26|896|<span class="rank-name-dl">ネコ！∬Orion</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|27|895|<span class="rank-name-pd">やっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|28|888|<span class="rank-name-pd">BESSI[2]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|29|887|<span class="rank-name-dl">ゆきゆき２</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|29|887|<span class="rank-name-pd">ネコ！∬Orion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|31|879|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|32|878|<span class="rank-name-pd">中村 明巳花</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|33|870|<span class="rank-name-dl">ぴろりきん@Smile</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|33|870|<span class="rank-name-dl">宇佐美 勇真</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|35|867|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|36|865|<span class="rank-name-dl">BESSI[2]</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|36|865|<span class="rank-name-pd">宇宙戦艦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|38|863|<span class="rank-name-pd">青木一都【ｶｽﾞﾁｭ～】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|39|862|<span class="rank-name-pd">BESSI[2]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|39|862|<span class="rank-name-dl">ぺけお</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|41|860|<span class="rank-name-dl">内藤 光弘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|42|858|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|43|857|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|44|856|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|45|855|<span class="rank-name-dl">よつじ@NUD</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|46|853|<span class="rank-name-dl">ぴろりきん肘故障</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|46|853|<span class="rank-name-pd">ハッチ@GHOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|48|849|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|49|848|<span class="rank-name-dl">Yuma Usami</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|49|848|<span class="rank-name-pd">cherryheart</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|843|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|843|<span class="rank-name-dl">宇佐美　勇真</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|843|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|54|842|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|55|836|<span class="rank-name-dl">河原 健太</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|56|834|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|57|832|<span class="rank-name-dl">山根啓史∬ネコ！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|57|832|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|59|826|<span class="rank-name-dl">「Bear。」</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|60|820|<span class="rank-name-dl">てるきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|60|820|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|62|819|<span class="rank-name-dl">翠</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|63|818|<span class="rank-name-dl">一歩</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|64|815|<span class="rank-name-dl">左で練習する漫談</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|65|813|<span class="rank-name-dl">痩せこけた工場長</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|66|811|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|66|811|<span class="rank-name-dl">practice card</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|66|811|<span class="rank-name-pd">ダーツ長い人(偽物)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|69|804|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小村 俊喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|70|803|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|71|802|<span class="rank-name-dl">^_^</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|72|801|<span class="rank-name-pd">塙 知紘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|73|800|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|74|796|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|74|796|<span class="rank-name-dl">必殺遊び人</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|76|792|<span class="rank-name-pd">アイム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|77|790|<span class="rank-name-pd">神野 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|78|788|<span class="rank-name-pd">必殺遊び人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|79|787|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|80|785|<span class="rank-name-dl">NDDK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|80|785|<span class="rank-name-pd">Tomori 卍 8131®</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|80|785|<span class="rank-name-dl">ぜいたくぼでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|80|785|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|84|784|<span class="rank-name-dl">ぴー♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|85|777|<span class="rank-name-pd">しゅうすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|85|777|<span class="rank-name-dl">シェリー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|87|776|<span class="rank-name-dl">高梨さんです！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|88|775|<span class="rank-name-dl">こむたん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|89|772|<span class="rank-name-pd">10ｰFEET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|89|772|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|91|768|<span class="rank-name-pd">シェリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|92|767|<span class="rank-name-pd">camp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|92|767|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|94|766|<span class="rank-name-dl">ばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|95|765|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|95|765|<span class="rank-name-pd">楠本 純也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|97|763|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|97|763|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|97|763|<span class="rank-name-dl">ちんぐりDANCHO★</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|97|763|<span class="rank-name-pd">ぽっぷろっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|6|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|7|979|<span class="rank-name-dl">よーへいへい</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|8|977|<span class="rank-name-dl">しぇふ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|9|973|<span class="rank-name-pd">鈴木 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|10|967|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|11|966|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|12|963|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|13|957|<span class="rank-name-dl">ロック@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|13|957|<span class="rank-name-pd">佐藤 滉祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|13|957|<span class="rank-name-pd">福井 翔大郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|16|949|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|17|946|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|17|946|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|17|946|<span class="rank-name-pd">宇宙戦艦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|20|934|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|21|931|<span class="rank-name-pd">cherryheart</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|22|929|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|23|907|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|24|900|<span class="rank-name-pd">azusa.5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|25|896|<span class="rank-name-dl">ネコ！∬Orion</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|26|895|<span class="rank-name-pd">やっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|27|888|<span class="rank-name-pd">BESSI[2]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|28|887|<span class="rank-name-dl">ゆきゆき２</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|28|887|<span class="rank-name-pd">ネコ！∬Orion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|30|879|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|31|878|<span class="rank-name-pd">中村 明巳花</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|32|870|<span class="rank-name-dl">ぴろりきん@Smile</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|32|870|<span class="rank-name-dl">宇佐美 勇真</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|34|867|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|35|865|<span class="rank-name-pd">宇宙戦艦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|36|863|<span class="rank-name-pd">青木一都【ｶｽﾞﾁｭ～】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|37|862|<span class="rank-name-pd">BESSI[2]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|37|862|<span class="rank-name-dl">ぺけお</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|39|860|<span class="rank-name-dl">内藤 光弘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|40|858|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|41|857|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|42|855|<span class="rank-name-dl">よつじ@NUD</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|43|853|<span class="rank-name-dl">ぴろりきん肘故障</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|43|853|<span class="rank-name-pd">ハッチ@GHOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|45|849|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|46|848|<span class="rank-name-dl">Yuma Usami</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|46|848|<span class="rank-name-pd">cherryheart</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|843|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|843|<span class="rank-name-dl">宇佐美　勇真</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|843|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|51|842|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|52|836|<span class="rank-name-dl">河原 健太</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|53|834|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|54|832|<span class="rank-name-dl">山根啓史∬ネコ！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|54|832|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|56|826|<span class="rank-name-dl">「Bear。」</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|57|820|<span class="rank-name-dl">てるきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|57|820|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|59|819|<span class="rank-name-dl">翠</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|60|818|<span class="rank-name-dl">一歩</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|61|815|<span class="rank-name-dl">左で練習する漫談</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|62|813|<span class="rank-name-dl">痩せこけた工場長</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|63|811|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|63|811|<span class="rank-name-dl">practice card</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|63|811|<span class="rank-name-pd">ダーツ長い人(偽物)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|66|804|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小村 俊喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|67|803|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|68|802|<span class="rank-name-dl">^_^</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|69|801|<span class="rank-name-pd">塙 知紘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|70|800|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|71|796|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|71|796|<span class="rank-name-dl">必殺遊び人</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|73|792|<span class="rank-name-pd">アイム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|74|790|<span class="rank-name-pd">神野 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|75|787|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|76|785|<span class="rank-name-dl">NDDK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|76|785|<span class="rank-name-pd">Tomori 卍 8131®</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|76|785|<span class="rank-name-dl">ぜいたくぼでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|76|785|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|80|784|<span class="rank-name-dl">ぴー♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|81|777|<span class="rank-name-pd">しゅうすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|81|777|<span class="rank-name-dl">シェリー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|83|776|<span class="rank-name-dl">高梨さんです！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|84|775|<span class="rank-name-dl">こむたん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|85|772|<span class="rank-name-pd">10ｰFEET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|85|772|<span class="rank-name-pd">AKIROU23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|87|768|<span class="rank-name-pd">シェリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|88|767|<span class="rank-name-pd">camp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|88|767|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|90|766|<span class="rank-name-dl">ばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|91|765|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|91|765|<span class="rank-name-pd">楠本 純也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|763|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|763|<span class="rank-name-dl">ちんぐりDANCHO★</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|763|<span class="rank-name-pd">ぽっぷろっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|763|<span class="rank-name-pd">まーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|763|<span class="rank-name-pd"><span class="pro-icon-pd"></span>蒲地 利典</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|98|760|<span class="rank-name-pd">つっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|98|760|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|100|759|<span class="rank-name-pd">けむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8932?s_seq=8932">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,102 +136,102 @@ ___
 |1|1055|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 |3|1047|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 |4|1027|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|5|993|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|6|979|<span class="rank-name-dl">よーへいへい</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|7|977|<span class="rank-name-dl">しぇふ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|8|963|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|9|957|<span class="rank-name-dl">ロック@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|10|946|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|11|934|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|12|929|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|13|907|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|14|900|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|15|896|<span class="rank-name-dl">ネコ！∬Orion</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|16|887|<span class="rank-name-dl">ゆきゆき２</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|17|879|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|18|870|<span class="rank-name-dl">ぴろりきん@Smile</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|18|870|<span class="rank-name-dl">宇佐美 勇真</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|20|867|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|21|865|<span class="rank-name-dl">BESSI[2]</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|22|862|<span class="rank-name-dl">ぺけお</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|23|860|<span class="rank-name-dl">内藤 光弘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|24|857|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|25|856|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|26|855|<span class="rank-name-dl">よつじ@NUD</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|27|853|<span class="rank-name-dl">BESSI[2]</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|27|853|<span class="rank-name-dl">ぴろりきん肘故障</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|29|848|<span class="rank-name-dl">Yuma Usami</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|30|843|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|30|843|<span class="rank-name-dl">宇佐美　勇真</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|32|842|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|33|836|<span class="rank-name-dl">河原 健太</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|34|834|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|35|832|<span class="rank-name-dl">山根啓史∬ネコ！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|35|832|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|37|826|<span class="rank-name-dl">「Bear。」</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|38|820|<span class="rank-name-dl">てるきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|39|819|<span class="rank-name-dl">翠</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|40|818|<span class="rank-name-dl">一歩</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|41|815|<span class="rank-name-dl">左で練習する漫談</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|42|813|<span class="rank-name-dl">痩せこけた工場長</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|43|811|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|43|811|<span class="rank-name-dl">practice card</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|45|803|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|46|802|<span class="rank-name-dl">^_^</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|47|800|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|48|796|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|48|796|<span class="rank-name-dl">必殺遊び人</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|50|787|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|785|<span class="rank-name-dl">NDDK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|785|<span class="rank-name-dl">ぜいたくぼでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|51|785|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|54|784|<span class="rank-name-dl">ぴー♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|55|777|<span class="rank-name-dl">シェリー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|56|776|<span class="rank-name-dl">高梨さんです！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|57|775|<span class="rank-name-dl">こむたん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|58|767|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|59|766|<span class="rank-name-dl">ばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|60|765|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|61|763|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|61|763|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|61|763|<span class="rank-name-dl">ちんぐりDANCHO★</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|64|753|<span class="rank-name-dl">あー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|65|749|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|66|747|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|67|746|<span class="rank-name-dl">セパセパBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|68|745|<span class="rank-name-dl">自称毛虫</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|69|743|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店 カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|70|740|<span class="rank-name-dl">Halu</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|71|738|<span class="rank-name-dl">【しーま】</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|72|737|<span class="rank-name-dl">ジョルノ・ナン</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|73|734|<span class="rank-name-dl">MEGU@YSSB</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|74|728|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|75|723|<span class="rank-name-dl">Saka〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|76|721|<span class="rank-name-dl">フローレス</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|77|718|<span class="rank-name-dl">宇鎖々美さん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|78|713|<span class="rank-name-dl">♡ひらら♡</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|79|708|<span class="rank-name-dl">ゴンタロ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|80|699|<span class="rank-name-dl">tatsuya⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|81|688|<span class="rank-name-dl">ゆーや@grazie</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|82|687|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|83|682|<span class="rank-name-dl">かみたに君</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|84|674|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|85|669|<span class="rank-name-dl">良タソ(´･Д･)」</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|86|667|<span class="rank-name-dl">マサ＠九州男</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|87|666|<span class="rank-name-dl">なんとも</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|88|662|<span class="rank-name-dl">NO NAME 9906</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|89|657|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|90|654|<span class="rank-name-dl">はとサブレ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|91|649|<span class="rank-name-dl">高梨 明日果</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|92|640|<span class="rank-name-dl">ケイタ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|93|637|<span class="rank-name-dl">すし〆太郎</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|94|623|<span class="rank-name-dl">NO NAME 1696</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|95|614|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|95|614|<span class="rank-name-dl">はあ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|97|607|<span class="rank-name-dl">あいcan</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|98|600|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|99|599|<span class="rank-name-dl">Nimuu.</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
-|100|598|<span class="rank-name-dl">ユーキ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|5|979|<span class="rank-name-dl">よーへいへい</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|6|977|<span class="rank-name-dl">しぇふ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|7|963|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|8|957|<span class="rank-name-dl">ロック@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|9|946|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|10|934|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|11|929|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|12|907|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|13|900|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|14|896|<span class="rank-name-dl">ネコ！∬Orion</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|15|887|<span class="rank-name-dl">ゆきゆき２</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|16|879|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|17|870|<span class="rank-name-dl">ぴろりきん@Smile</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|17|870|<span class="rank-name-dl">宇佐美 勇真</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|19|867|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|20|865|<span class="rank-name-dl">BESSI[2]</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|21|862|<span class="rank-name-dl">ぺけお</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|22|860|<span class="rank-name-dl">内藤 光弘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|23|857|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|24|855|<span class="rank-name-dl">よつじ@NUD</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|25|853|<span class="rank-name-dl">ぴろりきん肘故障</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|26|848|<span class="rank-name-dl">Yuma Usami</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|27|843|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|27|843|<span class="rank-name-dl">宇佐美　勇真</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|29|842|<span class="rank-name-dl">Cherry heart</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|30|836|<span class="rank-name-dl">河原 健太</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|31|834|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|32|832|<span class="rank-name-dl">山根啓史∬ネコ！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|32|832|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|34|826|<span class="rank-name-dl">「Bear。」</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|35|820|<span class="rank-name-dl">てるきー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|36|819|<span class="rank-name-dl">翠</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|37|818|<span class="rank-name-dl">一歩</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|38|815|<span class="rank-name-dl">左で練習する漫談</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|39|813|<span class="rank-name-dl">痩せこけた工場長</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|40|811|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|40|811|<span class="rank-name-dl">practice card</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|42|803|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|43|802|<span class="rank-name-dl">^_^</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|44|800|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|45|796|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|45|796|<span class="rank-name-dl">必殺遊び人</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|47|787|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|785|<span class="rank-name-dl">NDDK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|785|<span class="rank-name-dl">ぜいたくぼでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|48|785|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|51|784|<span class="rank-name-dl">ぴー♘</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|52|777|<span class="rank-name-dl">シェリー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|53|776|<span class="rank-name-dl">高梨さんです！</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|54|775|<span class="rank-name-dl">こむたん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|55|767|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|56|766|<span class="rank-name-dl">ばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|57|765|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|58|763|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|58|763|<span class="rank-name-dl">ちんぐりDANCHO★</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|60|753|<span class="rank-name-dl">あー</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|61|749|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|62|747|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|63|746|<span class="rank-name-dl">セパセパBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|64|745|<span class="rank-name-dl">自称毛虫</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|65|743|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|66|740|<span class="rank-name-dl">Halu</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|67|738|<span class="rank-name-dl">【しーま】</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|68|737|<span class="rank-name-dl">ジョルノ・ナン</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|69|734|<span class="rank-name-dl">MEGU@YSSB</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|70|728|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|71|723|<span class="rank-name-dl">Saka〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|72|721|<span class="rank-name-dl">フローレス</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|73|718|<span class="rank-name-dl">宇鎖々美さん</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|74|713|<span class="rank-name-dl">♡ひらら♡</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|75|708|<span class="rank-name-dl">ゴンタロ</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|76|699|<span class="rank-name-dl">tatsuya⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|77|688|<span class="rank-name-dl">ゆーや@grazie</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|78|687|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|79|682|<span class="rank-name-dl">かみたに君</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|80|674|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|81|669|<span class="rank-name-dl">良タソ(´･Д･)」</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|82|667|<span class="rank-name-dl">マサ＠九州男</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|83|666|<span class="rank-name-dl">なんとも</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|84|662|<span class="rank-name-dl">NO NAME 9906</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|85|657|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|86|654|<span class="rank-name-dl">はとサブレ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|87|649|<span class="rank-name-dl">高梨 明日果</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|88|640|<span class="rank-name-dl">ケイタ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|89|637|<span class="rank-name-dl">すし〆太郎</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|90|623|<span class="rank-name-dl">NO NAME 1696</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|91|614|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|91|614|<span class="rank-name-dl">はあ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|93|607|<span class="rank-name-dl">あいcan</span>|<a href="https://search.dartslive.com/jp/shop/ee23282f45e68e5c0d9b047a20a7ba1e">Sports&Dining B-SKY</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|94|599|<span class="rank-name-dl">Nimuu.</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|95|598|<span class="rank-name-dl">ユーキ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|96|589|<span class="rank-name-dl">Mr.Birth</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|97|584|<span class="rank-name-dl">ダーツ漫談の人</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|98|582|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|99|579|<span class="rank-name-dl">もろとみきんに君</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBanBan豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
+|100|564|<span class="rank-name-dl">ﾐﾄｺﾝﾄﾞﾘｱ石川</span>|<a href="https://search.dartslive.com/jp/shop/bed6828397070f410d9b047a20a7ba1e">カラオケBANBAN豊明店</a>|<a href="/darts/rank/愛知県/豊明市">愛知県豊明市</a>|
 
 
 #### PHOENIXDARTS TOP 100

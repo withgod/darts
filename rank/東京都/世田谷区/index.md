@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1205|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">Amusement BAR Aiming Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|1|1205|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |2|1200|<span class="rank-name-dl">のげしゅんぺー</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |2|1200|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |2|1200|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
@@ -35,165 +35,56 @@ ___
 |10|1165|<span class="rank-name-dl">はらりん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |11|1164|<span class="rank-name-dl">のげ　こすも</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |12|1161|<span class="rank-name-dl">鋸</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|13|1160|<span class="rank-name-dl">のげしゅんぺー</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|14|1159|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/331a62bca33e00c2790ab824ce8730e5">DartsBar KUNI</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|14|1159|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|16|1154|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|17|1152|<span class="rank-name-dl">赤松さん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|18|1142|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|19|1140|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|20|1137|<span class="rank-name-dl">超小型ざっきー。</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|21|1133|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|22|1132|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|23|1130|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|24|1127|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|25|1126|<span class="rank-name-dl">JIN@BATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|26|1125|<span class="rank-name-dl">山﨑　冬馬</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢 ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店 JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/0788787d00be95b925d56fb0e5c39bac">DARTS BAR ing</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">イシグロ アタル</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|35|1121|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-pd">嶋 勝也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80551?s_seq=80551">Darts＆Bar Shima's</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|41|1117|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|42|1114|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|42|1114|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|44|1113|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店 JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|44|1113|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|46|1112|<span class="rank-name-pd">・＞壁太郎＜・</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47379?s_seq=47379">Bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|46|1112|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|48|1111|<span class="rank-name-pd">坂本 寅泰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47379?s_seq=47379">Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|49|1109|<span class="rank-name-dl">JIN@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|49|1109|<span class="rank-name-dl">飯島 豪規</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|51|1108|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|52|1107|<span class="rank-name-dl">市建✺DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|53|1105|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|53|1105|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1104|<span class="rank-name-dl">S.Curry..</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1104|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1104|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|58|1103|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|58|1103|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|58|1103|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋 三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|61|1102|<span class="rank-name-dl">yumu</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|62|1101|<span class="rank-name-dl">Dr.たくみ三世</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|62|1101|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|64|1100|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|65|1099|<span class="rank-name-dl">Kaito Okumura</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|66|1096|<span class="rank-name-pd">安食賢一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8861?s_seq=8861">Cafe Bar QP's</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|67|1088|<span class="rank-name-dl">yoshipppon</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|67|1088|<span class="rank-name-dl">さぶまこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|69|1085|<span class="rank-name-dl">まこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|69|1085|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|69|1085|<span class="rank-name-dl">林広宣（リハ用）</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|72|1084|<span class="rank-name-dl">noo</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|72|1084|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|74|1082|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|75|1079|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|76|1078|<span class="rank-name-dl">Shozo Tabuchi</span>|<a href="https://search.dartslive.com/jp/shop/8a23cc115e944936790ab824ce8730e5">B-GARAGE 二子玉川店 B-GARAGE 二子玉川店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|76|1078|<span class="rank-name-dl">じん@BAT DARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|78|1077|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|79|1073|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|80|1072|<span class="rank-name-dl">春名 大輝</span>|<a href="https://search.dartslive.com/jp/shop/db6a1826baa3537f774c926eb736cb5a">Darts Cafe UNO</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|80|1072|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|82|1071|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|83|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|83|1070|<span class="rank-name-dl">金居　誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|83|1070|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1068|<span class="rank-name-dl">【公式】やまＰ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1068|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1068|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/93b69d8800eeeaef5f9f3321c1147265">CYAN</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1068|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|90|1067|<span class="rank-name-dl">n_冬馬の下僕</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|90|1067|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|90|1067|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|90|1067|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|94|1066|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1065|<span class="rank-name-dl">@</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|96|1064|<span class="rank-name-dl">∞正義∞</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|96|1064|<span class="rank-name-dl">ハリソン中山</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|98|1063|<span class="rank-name-dl">う〜ちゃんorz</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|99|1062|<span class="rank-name-dl">ししゃも&amp;co</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢 ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|99|1062|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f2cf65c3204beaca0d9b047a20a7ba1e">Bar72</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-
-
-#### DARTSLIVE TOP 100
-
-
-
-{:.table-ranking}
-|#|スコア|名前|店名|所在地|
-|---|---|---|---|---|
-|1|1205|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">Amusement BAR Aiming Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|2|1200|<span class="rank-name-dl">のげしゅんぺー</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|2|1200|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|2|1200|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|2|1200|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|6|1180|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|7|1169|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|8|1167|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|9|1166|<span class="rank-name-dl">ごりまる</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|10|1165|<span class="rank-name-dl">はらりん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|11|1164|<span class="rank-name-dl">のげ　こすも</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|12|1161|<span class="rank-name-dl">鋸</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|13|1160|<span class="rank-name-dl">のげしゅんぺー</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|14|1159|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/331a62bca33e00c2790ab824ce8730e5">DartsBar KUNI</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|14|1159|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|16|1154|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|17|1152|<span class="rank-name-dl">赤松さん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|18|1142|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|19|1140|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|20|1137|<span class="rank-name-dl">超小型ざっきー。</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|21|1133|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|22|1132|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|23|1130|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|24|1127|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|25|1126|<span class="rank-name-dl">JIN@BATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|26|1125|<span class="rank-name-dl">山﨑　冬馬</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢 ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|27|1123|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店 JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/0788787d00be95b925d56fb0e5c39bac">DARTS BAR ing</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">イシグロ アタル</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|30|1122|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|35|1121|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|36|1120|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|40|1117|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|41|1114|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|41|1114|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|43|1113|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店 JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|43|1113|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|45|1112|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|46|1109|<span class="rank-name-dl">JIN@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|46|1109|<span class="rank-name-dl">飯島 豪規</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|48|1108|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|49|1107|<span class="rank-name-dl">市建✺DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|50|1105|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|50|1105|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|52|1104|<span class="rank-name-dl">S.Curry..</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|52|1104|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|52|1104|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1103|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1103|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|55|1103|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋 三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|58|1102|<span class="rank-name-dl">yumu</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|59|1101|<span class="rank-name-dl">Dr.たくみ三世</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|59|1101|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|61|1100|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|62|1099|<span class="rank-name-dl">Kaito Okumura</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|13|1159|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/331a62bca33e00c2790ab824ce8730e5">DartsBar KUNI</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|13|1159|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|15|1154|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|16|1152|<span class="rank-name-dl">赤松さん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|17|1142|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|18|1140|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|19|1137|<span class="rank-name-dl">超小型ざっきー。</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|20|1133|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|21|1132|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|22|1130|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|23|1126|<span class="rank-name-dl">JIN@BATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|24|1125|<span class="rank-name-dl">山﨑　冬馬</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|25|1123|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|25|1123|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/0788787d00be95b925d56fb0e5c39bac">DARTS BAR ing</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">イシグロ アタル</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|32|1121|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-pd">嶋 勝也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80551?s_seq=80551">Darts＆Bar Shima's</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|37|1117|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|38|1114|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|38|1114|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|40|1113|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|40|1113|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|42|1112|<span class="rank-name-pd">・＞壁太郎＜・</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47379?s_seq=47379">Bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|42|1112|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|44|1111|<span class="rank-name-pd">坂本 寅泰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47379?s_seq=47379">Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|45|1109|<span class="rank-name-dl">JIN@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|45|1109|<span class="rank-name-dl">飯島 豪規</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|47|1108|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|48|1107|<span class="rank-name-dl">市建✺DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|49|1105|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|49|1105|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1104|<span class="rank-name-dl">S.Curry..</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1104|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1104|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|54|1103|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|54|1103|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|54|1103|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|57|1102|<span class="rank-name-dl">yumu</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|58|1101|<span class="rank-name-dl">Dr.たくみ三世</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|58|1101|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|60|1100|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|61|1099|<span class="rank-name-dl">Kaito Okumura</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|62|1096|<span class="rank-name-pd">安食賢一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8861?s_seq=8861">Cafe Bar QP's</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |63|1088|<span class="rank-name-dl">yoshipppon</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |63|1088|<span class="rank-name-dl">さぶまこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |65|1085|<span class="rank-name-dl">まこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
@@ -206,32 +97,141 @@ ___
 |72|1078|<span class="rank-name-dl">Shozo Tabuchi</span>|<a href="https://search.dartslive.com/jp/shop/8a23cc115e944936790ab824ce8730e5">B-GARAGE 二子玉川店 B-GARAGE 二子玉川店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |72|1078|<span class="rank-name-dl">じん@BAT DARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 |74|1077|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|75|1073|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|76|1072|<span class="rank-name-dl">春名 大輝</span>|<a href="https://search.dartslive.com/jp/shop/db6a1826baa3537f774c926eb736cb5a">Darts Cafe UNO</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|76|1072|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|78|1071|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|79|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|79|1070|<span class="rank-name-dl">金居　誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|79|1070|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|82|1068|<span class="rank-name-dl">【公式】やまＰ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|82|1068|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|82|1068|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/93b69d8800eeeaef5f9f3321c1147265">CYAN</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|82|1068|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1067|<span class="rank-name-dl">n_冬馬の下僕</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1067|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1067|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|86|1067|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|90|1066|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|91|1065|<span class="rank-name-dl">@</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|92|1064|<span class="rank-name-dl">∞正義∞</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|92|1064|<span class="rank-name-dl">ハリソン中山</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|94|1063|<span class="rank-name-dl">う〜ちゃんorz</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1062|<span class="rank-name-dl">ししゃも&amp;co</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢 ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1062|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f2cf65c3204beaca0d9b047a20a7ba1e">Bar72</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1062|<span class="rank-name-dl">佐能 成海</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1062|<span class="rank-name-dl">芹澤 剛</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|95|1062|<span class="rank-name-dl">飯島 豪規</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店 FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
-|100|1061|<span class="rank-name-dl">ざっきー(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|75|1072|<span class="rank-name-dl">春名 大輝</span>|<a href="https://search.dartslive.com/jp/shop/db6a1826baa3537f774c926eb736cb5a">Darts Cafe UNO</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|75|1072|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|77|1071|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|78|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|78|1070|<span class="rank-name-dl">金居　誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|78|1070|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1068|<span class="rank-name-dl">【公式】やまＰ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1068|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1068|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/93b69d8800eeeaef5f9f3321c1147265">CYAN</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1068|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|85|1067|<span class="rank-name-dl">n_冬馬の下僕</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|85|1067|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|85|1067|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|85|1067|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|89|1066|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|90|1065|<span class="rank-name-dl">@</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|91|1064|<span class="rank-name-dl">∞正義∞</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|91|1064|<span class="rank-name-dl">ハリソン中山</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|93|1063|<span class="rank-name-dl">う〜ちゃんorz</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1062|<span class="rank-name-dl">ししゃも&amp;co</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1062|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f2cf65c3204beaca0d9b047a20a7ba1e">Bar72</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1062|<span class="rank-name-dl">佐能 成海</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1062|<span class="rank-name-dl">芹澤 剛</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|98|1061|<span class="rank-name-dl">ざっきー(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|98|1061|<span class="rank-name-dl">れいてぃん❦</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|98|1061|<span class="rank-name-dl">喜納　航希</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1205|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">Amusement BAR Aiming</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|2|1200|<span class="rank-name-dl">のげしゅんぺー</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|2|1200|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|2|1200|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|2|1200|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|6|1180|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|7|1169|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|8|1167|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|9|1166|<span class="rank-name-dl">ごりまる</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|10|1165|<span class="rank-name-dl">はらりん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|11|1164|<span class="rank-name-dl">のげ　こすも</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|12|1161|<span class="rank-name-dl">鋸</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|13|1159|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/331a62bca33e00c2790ab824ce8730e5">DartsBar KUNI</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|13|1159|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|15|1154|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|16|1152|<span class="rank-name-dl">赤松さん</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|17|1142|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|18|1140|<span class="rank-name-dl">山形 明人one80</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|19|1137|<span class="rank-name-dl">超小型ざっきー。</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|20|1133|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|21|1132|<span class="rank-name-dl">全日本渡辺代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|22|1130|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|23|1126|<span class="rank-name-dl">JIN@BATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|24|1125|<span class="rank-name-dl">山﨑　冬馬</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|25|1123|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|25|1123|<span class="rank-name-dl">髙田 皓大</span>|<a href="https://search.dartslive.com/jp/shop/5d7fb73edeef11f60d9b047a20a7ba1e">JACK 下北沢店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">James Anderson</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/0788787d00be95b925d56fb0e5c39bac">DARTS BAR ing</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">イシグロ アタル</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|27|1122|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|32|1121|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|33|1120|<span class="rank-name-dl">菊間 博文</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|36|1117|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|37|1114|<span class="rank-name-dl">koo</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|37|1114|<span class="rank-name-dl">廣野　巧</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|39|1113|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|39|1113|<span class="rank-name-dl">清水 舞友</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|41|1112|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|42|1109|<span class="rank-name-dl">JIN@SUSHI BAT</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|42|1109|<span class="rank-name-dl">飯島 豪規</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|44|1108|<span class="rank-name-dl">Wapps</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|45|1107|<span class="rank-name-dl">市建✺DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|46|1105|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|46|1105|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|48|1104|<span class="rank-name-dl">S.Curry..</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|48|1104|<span class="rank-name-dl">山本 駿</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|48|1104|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1103|<span class="rank-name-dl">小山内　涼</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1103|<span class="rank-name-dl">舞山 潤一</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|51|1103|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|54|1102|<span class="rank-name-dl">yumu</span>|<a href="https://search.dartslive.com/jp/shop/0cb2e2e9f31f78f80d9b047a20a7ba1e">Bullet</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|55|1101|<span class="rank-name-dl">Dr.たくみ三世</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|55|1101|<span class="rank-name-dl">３２０TQYZ</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|57|1100|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|58|1099|<span class="rank-name-dl">Kaito Okumura</span>|<a href="https://search.dartslive.com/jp/shop/70ae67ed07c961210d9b047a20a7ba1e">Liberty Bell</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|59|1088|<span class="rank-name-dl">yoshipppon</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|59|1088|<span class="rank-name-dl">さぶまこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|61|1085|<span class="rank-name-dl">まこ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|61|1085|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|61|1085|<span class="rank-name-dl">林広宣（リハ用）</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|64|1084|<span class="rank-name-dl">noo</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|64|1084|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|66|1082|<span class="rank-name-dl">しゅーた(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|67|1079|<span class="rank-name-dl">ベジタリ坊や</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|68|1078|<span class="rank-name-dl">Shozo Tabuchi</span>|<a href="https://search.dartslive.com/jp/shop/8a23cc115e944936790ab824ce8730e5">B-GARAGE 二子玉川店 B-GARAGE 二子玉川店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|68|1078|<span class="rank-name-dl">じん@BAT DARTS</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|70|1077|<span class="rank-name-dl">銀獅子</span>|<a href="https://search.dartslive.com/jp/shop/916b937ad78fc31c25d56fb0e5c39bac">Living</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|71|1072|<span class="rank-name-dl">春名 大輝</span>|<a href="https://search.dartslive.com/jp/shop/db6a1826baa3537f774c926eb736cb5a">Darts Cafe UNO</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|71|1072|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|73|1071|<span class="rank-name-dl">金居 誠人</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|74|1070|<span class="rank-name-dl">NANO NAME 0212</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|74|1070|<span class="rank-name-dl">金居　誠人</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|74|1070|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/cd41deae9120cac728032249b44395af">Darts しもきた</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|77|1068|<span class="rank-name-dl">【公式】やまＰ</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|77|1068|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|77|1068|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/93b69d8800eeeaef5f9f3321c1147265">CYAN</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|77|1068|<span class="rank-name-dl">全日本山﨑代表</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1067|<span class="rank-name-dl">n_冬馬の下僕</span>|<a href="https://search.dartslive.com/jp/shop/569b4fa2f6433ed00d9b047a20a7ba1e">ビリヤード ARAI 世田谷店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1067|<span class="rank-name-dl">たぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/0a1e2d7df936fdbe0d9b047a20a7ba1e">JACK 三軒茶屋店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1067|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|81|1067|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/cb702837ddb5199128032249b44395af">North Cafe</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|85|1066|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/423a7c2f06b4b6b50d9b047a20a7ba1e">bar moon37</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|86|1065|<span class="rank-name-dl">@</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|87|1064|<span class="rank-name-dl">∞正義∞</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|87|1064|<span class="rank-name-dl">ハリソン中山</span>|<a href="https://search.dartslive.com/jp/shop/b5bb33c07f4e0f8f0d9b047a20a7ba1e">BATDARTS SOSHIGAYA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|89|1063|<span class="rank-name-dl">う〜ちゃんorz</span>|<a href="https://search.dartslive.com/jp/shop/d5782e2183b641250d9b047a20a7ba1e">Pool&Darts EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|90|1062|<span class="rank-name-dl">ししゃも&amp;co</span>|<a href="https://search.dartslive.com/jp/shop/aa82b0a98ead9fc80d9b047a20a7ba1e">ビアバル フェスタ下北沢</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|90|1062|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f2cf65c3204beaca0d9b047a20a7ba1e">Bar72</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|90|1062|<span class="rank-name-dl">佐能 成海</span>|<a href="https://search.dartslive.com/jp/shop/8a2c8e17239eb8d20d9b047a20a7ba1e">FUN 経堂店</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|90|1062|<span class="rank-name-dl">芹澤 剛</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1061|<span class="rank-name-dl">ざっきー(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/d7037dd5da144088fec1ae84bb28bd87">Amusement Bar EDGE</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1061|<span class="rank-name-dl">れいてぃん❦</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|94|1061|<span class="rank-name-dl">喜納　航希</span>|<a href="https://search.dartslive.com/jp/shop/56928e221f996aa2774c926eb736cb5a">Darts Bar GHIANDA</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|97|1060|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/e5c3fed7e2ee59240d9b047a20a7ba1e">Darts Bar VELOS</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|97|1060|<span class="rank-name-dl">まっつんBATDARTS</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|97|1060|<span class="rank-name-dl">伊藤 嶺亜</span>|<a href="https://search.dartslive.com/jp/shop/a2567ed57ddb4388f454cb89828a1cfe">Darts Cafe UNO 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
+|100|1059|<span class="rank-name-dl">884</span>|<a href="https://search.dartslive.com/jp/shop/c6d1ef3f128c17060d9b047a20a7ba1e">三茶遊びbar Pointbreak 三軒茶屋</a>|<a href="/darts/rank/東京都/世田谷区">東京都世田谷区</a>|
 
 
 #### PHOENIXDARTS TOP 100

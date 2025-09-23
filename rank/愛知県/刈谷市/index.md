@@ -27,102 +27,102 @@ ___
 |2|1127|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 |3|1122|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 |4|1110|<span class="rank-name-dl">稲垣　良憲</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|5|1087|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|6|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|7|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|8|1061|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|9|1056|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|10|1055|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|11|1053|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|12|1048|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|13|1045|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|13|1045|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|15|1041|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|16|1038|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|16|1038|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|18|1036|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|19|1034|<span class="rank-name-dl">中村　章</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|20|1024|<span class="rank-name-pd">ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|21|1023|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|22|1014|<span class="rank-name-dl">NO NAME 9303</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|23|1010|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|24|1006|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|24|1006|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|26|1005|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|26|1005|<span class="rank-name-pd">pきの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|28|1003|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|29|1001|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|29|1001|<span class="rank-name-pd">遠山 学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|31|1000|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|31|1000|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|33|985|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|34|980|<span class="rank-name-pd">ハッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|35|977|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|36|972|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|37|969|<span class="rank-name-dl">朮°･/］&quot;/会若頭</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|38|968|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|38|968|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|38|968|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|41|966|<span class="rank-name-pd">KH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|41|966|<span class="rank-name-pd">なかむらあきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|43|964|<span class="rank-name-dl">Syoki</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|44|962|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|45|961|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|45|961|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|45|961|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|48|959|<span class="rank-name-dl">LiNGLiNG。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|48|959|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|50|957|<span class="rank-name-dl">totoro</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|50|957|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|52|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|53|950|<span class="rank-name-dl">豊田 有志</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|54|945|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|55|943|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|56|942|<span class="rank-name-dl">NO NAME 5446</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|56|942|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|58|939|<span class="rank-name-pd">Panda@おにぎりゃーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|59|934|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|60|932|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|60|932|<span class="rank-name-dl">達也ﾃﾞｽﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|60|932|<span class="rank-name-dl">ﾏﾙｼﾝ@お夏推し</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|63|931|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|64|930|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|65|928|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|66|921|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|67|919|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|67|919|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|69|917|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|70|915|<span class="rank-name-dl">Nakamura hiro</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|70|915|<span class="rank-name-dl">kousaku</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|70|915|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|73|914|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|74|912|<span class="rank-name-dl">NO NAME 5990</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|75|909|<span class="rank-name-pd">C&amp;K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|75|909|<span class="rank-name-pd">Nakamura hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|77|908|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|78|905|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|79|904|<span class="rank-name-pd">ミャクミャク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|80|903|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|81|901|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】ちゃら</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|82|900|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|83|896|<span class="rank-name-pd">おおしろ いっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|84|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|85|890|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|85|890|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|87|887|<span class="rank-name-dl">ノコノコ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|88|885|<span class="rank-name-pd">タマ@Bulls Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|89|884|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|90|883|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|90|883|<span class="rank-name-pd">ﾐ～ﾀﾝ_小笠原會鮪団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|92|882|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|93|881|<span class="rank-name-dl">千葉 結花</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|94|880|<span class="rank-name-dl">ハッチ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|95|878|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|95|878|<span class="rank-name-pd">ゆや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|97|877|<span class="rank-name-dl">アキラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|98|876|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|99|875|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|100|874|<span class="rank-name-pd">どろどろ血液(セ·フ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|5|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|6|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|7|1061|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|8|1056|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|9|1055|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|10|1053|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|11|1048|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|12|1045|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|12|1045|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|14|1041|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|15|1038|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|15|1038|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|17|1036|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|18|1034|<span class="rank-name-dl">中村　章</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|19|1024|<span class="rank-name-pd">ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|20|1023|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|21|1014|<span class="rank-name-dl">NO NAME 9303</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|22|1010|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|23|1006|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|23|1006|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|25|1005|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|25|1005|<span class="rank-name-pd">pきの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|27|1003|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|28|1001|<span class="rank-name-pd">遠山 学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|29|1000|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|30|985|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|31|980|<span class="rank-name-pd">ハッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|32|977|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|33|972|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|34|969|<span class="rank-name-dl">朮°･/］&quot;/会若頭</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|35|968|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|35|968|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|35|968|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|38|966|<span class="rank-name-pd">KH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|38|966|<span class="rank-name-pd">なかむらあきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|40|964|<span class="rank-name-dl">Syoki</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|41|962|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|42|961|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|42|961|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|42|961|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|45|959|<span class="rank-name-dl">LiNGLiNG。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|45|959|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|47|957|<span class="rank-name-dl">totoro</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|47|957|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|49|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|50|950|<span class="rank-name-dl">豊田 有志</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|51|945|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|52|943|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|53|942|<span class="rank-name-dl">NO NAME 5446</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|54|939|<span class="rank-name-pd">Panda@おにぎりゃーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|55|934|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|56|932|<span class="rank-name-dl">達也ﾃﾞｽﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|56|932|<span class="rank-name-dl">ﾏﾙｼﾝ@お夏推し</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|58|931|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|59|930|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|60|928|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|61|921|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|62|919|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|62|919|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|64|917|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|65|915|<span class="rank-name-dl">Nakamura hiro</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|65|915|<span class="rank-name-dl">kousaku</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|65|915|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|68|914|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|69|912|<span class="rank-name-dl">NO NAME 5990</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|70|909|<span class="rank-name-pd">C&amp;K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|70|909|<span class="rank-name-pd">Nakamura hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|72|908|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|73|905|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|74|904|<span class="rank-name-pd">ミャクミャク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|75|903|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|76|901|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】ちゃら</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|77|900|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|78|896|<span class="rank-name-pd">おおしろ いっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|79|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|80|890|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|80|890|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|82|887|<span class="rank-name-dl">ノコノコ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|83|885|<span class="rank-name-pd">タマ@Bulls Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|84|884|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|85|883|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|85|883|<span class="rank-name-pd">ﾐ～ﾀﾝ_小笠原會鮪団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|87|881|<span class="rank-name-dl">千葉 結花</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|88|880|<span class="rank-name-dl">ハッチ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|89|878|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|89|878|<span class="rank-name-pd">ゆや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|91|877|<span class="rank-name-dl">アキラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|92|876|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60971?s_seq=60971">ダーツ＆スポーツバー　ブルズアイ</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|93|875|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|94|874|<span class="rank-name-pd">どろどろ血液(セ·フ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74147?s_seq=74147">sporty pub L'erable</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|95|872|<span class="rank-name-dl">SAVAS矢部</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|96|870|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|97|861|<span class="rank-name-dl">Nakamura Akira</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|97|861|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|99|859|<span class="rank-name-pd">kaminomisoshiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94861?s_seq=94861">JOYJOY 刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|100|856|<span class="rank-name-dl">チェリマ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,102 +136,102 @@ ___
 |2|1127|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 |3|1122|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 |4|1110|<span class="rank-name-dl">稲垣　良憲</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|5|1087|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|6|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|7|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|8|1061|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|9|1056|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|10|1055|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|11|1053|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|12|1048|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|13|1045|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|13|1045|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|15|1041|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|16|1038|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|17|1036|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|18|1034|<span class="rank-name-dl">中村　章</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|19|1023|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|20|1014|<span class="rank-name-dl">NO NAME 9303</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|21|1010|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|22|1006|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|22|1006|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|24|1005|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|25|1003|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|26|1001|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|27|1000|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|27|1000|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|29|977|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|30|972|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|31|969|<span class="rank-name-dl">朮°･/］&quot;/会若頭</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|32|968|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|32|968|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|34|964|<span class="rank-name-dl">Syoki</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|35|962|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|36|961|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|36|961|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|36|961|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|39|959|<span class="rank-name-dl">LiNGLiNG。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|40|957|<span class="rank-name-dl">totoro</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|40|957|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|42|950|<span class="rank-name-dl">豊田 有志</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|43|943|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|44|942|<span class="rank-name-dl">NO NAME 5446</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|44|942|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|46|934|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|47|932|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|47|932|<span class="rank-name-dl">達也ﾃﾞｽﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|47|932|<span class="rank-name-dl">ﾏﾙｼﾝ@お夏推し</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|50|930|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|51|928|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|52|921|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|53|919|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|54|915|<span class="rank-name-dl">Nakamura hiro</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|54|915|<span class="rank-name-dl">kousaku</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|54|915|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|57|914|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|58|912|<span class="rank-name-dl">NO NAME 5990</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|59|905|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|60|903|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|61|901|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】ちゃら</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|62|890|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|62|890|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|64|887|<span class="rank-name-dl">ノコノコ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|65|884|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|66|883|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|67|882|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|68|881|<span class="rank-name-dl">千葉 結花</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|69|880|<span class="rank-name-dl">ハッチ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|70|878|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|71|877|<span class="rank-name-dl">アキラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|72|875|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|73|872|<span class="rank-name-dl">SAVAS矢部</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|73|872|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|75|870|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|76|864|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|77|861|<span class="rank-name-dl">Nakamura Akira</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|77|861|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|79|856|<span class="rank-name-dl">チェリマ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|80|849|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|80|849|<span class="rank-name-dl">ホゲホゲ♪</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|82|844|<span class="rank-name-dl">MIRAI</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|83|833|<span class="rank-name-dl">Dragon</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|84|830|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|85|824|<span class="rank-name-dl">RYO@Fre</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|86|820|<span class="rank-name-dl">ＣＲＯＷＮ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|87|816|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|88|812|<span class="rank-name-dl">みっきー</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|89|807|<span class="rank-name-dl">ｼﾞｭﾝﾁｬｿ( ﾟ∀ ﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|90|806|<span class="rank-name-dl">AYUMI</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|91|805|<span class="rank-name-dl">Nakamura hiro</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|91|805|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店 カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|93|804|<span class="rank-name-dl">Y2</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|94|803|<span class="rank-name-dl">+Sena+</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|95|801|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店 JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|95|801|<span class="rank-name-dl">のりすけさん</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|97|792|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|97|792|<span class="rank-name-dl">すーみん229</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|99|791|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|100|789|<span class="rank-name-dl">fumi</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|5|1076|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|6|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|7|1061|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|8|1056|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|9|1055|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|10|1053|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|11|1048|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|12|1045|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|12|1045|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|14|1041|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|15|1038|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|16|1036|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|17|1034|<span class="rank-name-dl">中村　章</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|18|1023|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|19|1014|<span class="rank-name-dl">NO NAME 9303</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|20|1010|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|21|1006|<span class="rank-name-dl">task@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|21|1006|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|23|1005|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|24|1003|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|25|1000|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|26|977|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|27|972|<span class="rank-name-dl">タマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|28|969|<span class="rank-name-dl">朮°･/］&quot;/会若頭</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|29|968|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|29|968|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|31|964|<span class="rank-name-dl">Syoki</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|32|962|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|33|961|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|33|961|<span class="rank-name-dl">ポンコツ会パシリ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|33|961|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|36|959|<span class="rank-name-dl">LiNGLiNG。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|37|957|<span class="rank-name-dl">totoro</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|37|957|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|39|950|<span class="rank-name-dl">豊田 有志</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|40|943|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|41|942|<span class="rank-name-dl">NO NAME 5446</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|42|934|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|43|932|<span class="rank-name-dl">達也ﾃﾞｽﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|43|932|<span class="rank-name-dl">ﾏﾙｼﾝ@お夏推し</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|45|930|<span class="rank-name-dl">Akirou23</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|46|928|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|47|921|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|48|919|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|49|915|<span class="rank-name-dl">Nakamura hiro</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|49|915|<span class="rank-name-dl">kousaku</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|49|915|<span class="rank-name-dl">アスパラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|52|914|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|53|912|<span class="rank-name-dl">NO NAME 5990</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|54|905|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|55|903|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|56|901|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】ちゃら</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|57|890|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|57|890|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|59|887|<span class="rank-name-dl">ノコノコ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|60|884|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|61|883|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|62|881|<span class="rank-name-dl">千葉 結花</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|63|880|<span class="rank-name-dl">ハッチ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|64|878|<span class="rank-name-dl">ほろ酔い気分</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|65|877|<span class="rank-name-dl">アキラ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|66|875|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|67|872|<span class="rank-name-dl">SAVAS矢部</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|68|870|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|69|861|<span class="rank-name-dl">Nakamura Akira</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|69|861|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|71|856|<span class="rank-name-dl">チェリマ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|72|849|<span class="rank-name-dl">*・ｪ・*</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|72|849|<span class="rank-name-dl">ホゲホゲ♪</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|74|844|<span class="rank-name-dl">MIRAI</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|75|833|<span class="rank-name-dl">Dragon</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|76|830|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|77|824|<span class="rank-name-dl">RYO@Fre</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|78|820|<span class="rank-name-dl">ＣＲＯＷＮ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|79|816|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|80|812|<span class="rank-name-dl">みっきー</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|81|807|<span class="rank-name-dl">ｼﾞｭﾝﾁｬｿ( ﾟ∀ ﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|82|806|<span class="rank-name-dl">AYUMI</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|83|805|<span class="rank-name-dl">ガクガクBULLBULL</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|84|804|<span class="rank-name-dl">Y2</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|85|803|<span class="rank-name-dl">+Sena+</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|86|801|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|86|801|<span class="rank-name-dl">のりすけさん</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|88|792|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/15f702ba83f2126bb21333aee1bd51e4">JOYJOY刈谷駅前店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|88|792|<span class="rank-name-dl">すーみん229</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|90|791|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|91|789|<span class="rank-name-dl">fumi</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|92|788|<span class="rank-name-dl">あいcan</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|93|780|<span class="rank-name-dl">角垣内　彪</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|94|778|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|94|778|<span class="rank-name-dl">NaMi</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|96|777|<span class="rank-name-dl">ｼﾞｮﾙｼﾞｵ･ｱﾙﾏｼﾞﾛ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|97|768|<span class="rank-name-dl">あんきろ</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|98|765|<span class="rank-name-dl">KENTA∞</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|99|764|<span class="rank-name-dl">けんた</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|100|758|<span class="rank-name-dl">teto1044</span>|<a href="https://search.dartslive.com/jp/shop/31b0ae19818ba465774c926eb736cb5a">カラオケ ジョイジョイ 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
 
 
 #### PHOENIXDARTS TOP 100

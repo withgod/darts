@@ -28,101 +28,101 @@ ___
 |3|1163|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |4|1160|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |5|1148|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|6|1133|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店 カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|6|1133|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |7|1131|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |8|1128|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|9|1127|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|10|1116|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|11|1100|<span class="rank-name-dl">Takap/COSMO</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|12|1088|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|13|1078|<span class="rank-name-dl">佐藤 貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|14|1061|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|15|1060|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|16|1059|<span class="rank-name-dl">KANE</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|17|1057|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｵﾆｯCH(^^)V</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|22|1053|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|23|1050|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|24|1049|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|25|1048|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|26|1047|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|27|1042|<span class="rank-name-dl">Shigeyuki.K</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|27|1042|<span class="rank-name-dl">tsubasaサブ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|29|1040|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|30|1039|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|31|1037|<span class="rank-name-dl">板前☆秀明</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|32|1036|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|33|1035|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|34|1032|<span class="rank-name-dl">Takapセパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|35|1029|<span class="rank-name-dl">Akito@尾崎道場</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|36|1022|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|37|1021|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|38|1017|<span class="rank-name-dl">マシュマロ・マン</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|39|1016|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|39|1016|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|41|1014|<span class="rank-name-dl">Takap</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|41|1014|<span class="rank-name-pd">古林謙太@DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10256?s_seq=10256">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|43|1012|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|43|1012|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|45|1011|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|45|1011|<span class="rank-name-dl">西村 央規</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|47|1010|<span class="rank-name-dl">プーチん(・・?)</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|48|1009|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|49|1008|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|50|1007|<span class="rank-name-dl">あきとです。</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|50|1007|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|52|1005|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|52|1005|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|52|1005|<span class="rank-name-dl">ななは。</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|52|1005|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|56|1004|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|56|1004|<span class="rank-name-dl">★Pa～Man★</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|58|1003|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|58|1003|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|60|1001|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|61|1000|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|61|1000|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|63|998|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|64|995|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|65|994|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|66|992|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|67|991|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|68|990|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|69|988|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店 カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|70|984|<span class="rank-name-dl">Kazuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|71|981|<span class="rank-name-dl">你好hiwatari</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|72|979|<span class="rank-name-dl">shuta卍</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|72|979|<span class="rank-name-dl">こっち向いてHO〜</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|74|978|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/87459a5a5fd498620d9b047a20a7ba1e">Lily</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|74|978|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|76|977|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|76|977|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|78|976|<span class="rank-name-dl">にゃんきち</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|79|974|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|79|974|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|81|973|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|82|972|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|83|969|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|84|968|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|84|968|<span class="rank-name-dl">ピロリ☆16</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|86|966|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|86|966|<span class="rank-name-dl">lance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|86|966|<span class="rank-name-dl">友保</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|89|965|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|90|964|<span class="rank-name-dl">KIYO</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|91|963|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|91|963|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|91|963|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBANBAN秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|94|962|<span class="rank-name-dl">A-24@JOIN</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|94|962|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/7a430046fc5d6a750d9b047a20a7ba1e">CASUALBAR BONGO</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|94|962|<span class="rank-name-dl">sawa</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|94|962|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|94|962|<span class="rank-name-dl">佐藤 唯</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|99|961|<span class="rank-name-dl">Fin&#x27;s_yuuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|99|961|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|9|1116|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|10|1100|<span class="rank-name-dl">Takap/COSMO</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|11|1088|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|12|1078|<span class="rank-name-dl">佐藤 貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|13|1061|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|14|1060|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|15|1059|<span class="rank-name-dl">KANE</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|16|1057|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｵﾆｯCH(^^)V</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|20|1053|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|21|1050|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|22|1049|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|23|1048|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|24|1047|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|25|1042|<span class="rank-name-dl">Shigeyuki.K</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|25|1042|<span class="rank-name-dl">tsubasaサブ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|27|1040|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|28|1039|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|29|1037|<span class="rank-name-dl">板前☆秀明</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|30|1035|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|31|1032|<span class="rank-name-dl">Takapセパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|32|1029|<span class="rank-name-dl">Akito@尾崎道場</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|33|1022|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|34|1021|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|35|1017|<span class="rank-name-dl">マシュマロ・マン</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|36|1016|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|37|1014|<span class="rank-name-dl">Takap</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|37|1014|<span class="rank-name-pd">古林謙太@DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10256?s_seq=10256">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|39|1012|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|39|1012|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|41|1011|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|41|1011|<span class="rank-name-dl">西村 央規</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|43|1010|<span class="rank-name-dl">プーチん(・・?)</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|44|1008|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|45|1007|<span class="rank-name-dl">あきとです。</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|45|1007|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|47|1005|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|47|1005|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|47|1005|<span class="rank-name-dl">ななは。</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|47|1005|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|51|1004|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|51|1004|<span class="rank-name-dl">★Pa～Man★</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|53|1003|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|53|1003|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|55|1001|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|56|1000|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|57|998|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|58|995|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|59|994|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|60|992|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|61|991|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|62|990|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|63|988|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|64|984|<span class="rank-name-dl">Kazuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|65|981|<span class="rank-name-dl">你好hiwatari</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|66|979|<span class="rank-name-dl">shuta卍</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|66|979|<span class="rank-name-dl">こっち向いてHO〜</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|68|978|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/87459a5a5fd498620d9b047a20a7ba1e">Lily</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|68|978|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|70|977|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|70|977|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|72|976|<span class="rank-name-dl">にゃんきち</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|73|974|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|73|974|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|75|969|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|76|968|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|76|968|<span class="rank-name-dl">ピロリ☆16</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|78|966|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|78|966|<span class="rank-name-dl">lance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|78|966|<span class="rank-name-dl">友保</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|81|965|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|82|964|<span class="rank-name-dl">KIYO</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|83|963|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|83|963|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|83|963|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBANBAN秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|86|962|<span class="rank-name-dl">A-24@JOIN</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|86|962|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/7a430046fc5d6a750d9b047a20a7ba1e">CASUALBAR BONGO</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|86|962|<span class="rank-name-dl">sawa</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|86|962|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|86|962|<span class="rank-name-dl">佐藤 唯</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|91|961|<span class="rank-name-dl">Fin&#x27;s_yuuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|92|960|<span class="rank-name-dl">NanahA</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|92|960|<span class="rank-name-dl">matsuken＊ﾘｬﾝﾘｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|92|960|<span class="rank-name-dl">クロロ@惨弐</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|92|960|<span class="rank-name-dl">ﾄﾗﾌｧﾙｶﾞｰﾛﾝ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|96|959|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|96|959|<span class="rank-name-dl">とっしい。</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|96|959|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|99|958|<span class="rank-name-dl">g oＯ-t＠</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|99|958|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,101 +137,101 @@ ___
 |3|1163|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |4|1160|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |5|1148|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|6|1133|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店 カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|6|1133|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |7|1131|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 |8|1128|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|9|1127|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|10|1116|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|11|1100|<span class="rank-name-dl">Takap/COSMO</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|12|1088|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|13|1078|<span class="rank-name-dl">佐藤 貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|14|1061|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|15|1060|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|16|1059|<span class="rank-name-dl">KANE</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|17|1057|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|18|1054|<span class="rank-name-dl">ｵﾆｯCH(^^)V</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|22|1053|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|23|1050|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|24|1049|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|25|1048|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|26|1047|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|27|1042|<span class="rank-name-dl">Shigeyuki.K</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|27|1042|<span class="rank-name-dl">tsubasaサブ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|29|1040|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|30|1039|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|31|1037|<span class="rank-name-dl">板前☆秀明</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|32|1036|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|33|1035|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|34|1032|<span class="rank-name-dl">Takapセパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|35|1029|<span class="rank-name-dl">Akito@尾崎道場</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|36|1022|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|37|1021|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|38|1017|<span class="rank-name-dl">マシュマロ・マン</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|39|1016|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|39|1016|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|41|1014|<span class="rank-name-dl">Takap</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|42|1012|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|42|1012|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|44|1011|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|44|1011|<span class="rank-name-dl">西村 央規</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|46|1010|<span class="rank-name-dl">プーチん(・・?)</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|47|1009|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|48|1008|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|49|1007|<span class="rank-name-dl">あきとです。</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|49|1007|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|51|1005|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|51|1005|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|51|1005|<span class="rank-name-dl">ななは。</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|51|1005|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|55|1004|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|55|1004|<span class="rank-name-dl">★Pa～Man★</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|57|1003|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|57|1003|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|59|1001|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|60|1000|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|60|1000|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|62|998|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|63|995|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|64|994|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|65|992|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|66|991|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|67|990|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|68|988|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店 カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|69|984|<span class="rank-name-dl">Kazuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|70|981|<span class="rank-name-dl">你好hiwatari</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|71|979|<span class="rank-name-dl">shuta卍</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|71|979|<span class="rank-name-dl">こっち向いてHO〜</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|73|978|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/87459a5a5fd498620d9b047a20a7ba1e">Lily</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|73|978|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|75|977|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|75|977|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|77|976|<span class="rank-name-dl">にゃんきち</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|78|974|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|78|974|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|80|973|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|81|972|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店 ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|82|969|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|83|968|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|83|968|<span class="rank-name-dl">ピロリ☆16</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|85|966|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|85|966|<span class="rank-name-dl">lance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|85|966|<span class="rank-name-dl">友保</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店 快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|88|965|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|89|964|<span class="rank-name-dl">KIYO</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|90|963|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|90|963|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|90|963|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBANBAN秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|93|962|<span class="rank-name-dl">A-24@JOIN</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|93|962|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/7a430046fc5d6a750d9b047a20a7ba1e">CASUALBAR BONGO</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|93|962|<span class="rank-name-dl">sawa</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|93|962|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|93|962|<span class="rank-name-dl">佐藤 唯</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|98|961|<span class="rank-name-dl">Fin&#x27;s_yuuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店 カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|98|961|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
-|100|960|<span class="rank-name-dl">A-24@JOIN</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|9|1116|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|10|1100|<span class="rank-name-dl">Takap/COSMO</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|11|1088|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|12|1078|<span class="rank-name-dl">佐藤 貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|13|1061|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|14|1060|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|15|1059|<span class="rank-name-dl">KANE</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|16|1057|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｄすけ</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|17|1054|<span class="rank-name-dl">ｵﾆｯCH(^^)V</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|20|1053|<span class="rank-name-dl">Takap/セパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|21|1050|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|22|1049|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|23|1048|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|24|1047|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|25|1042|<span class="rank-name-dl">Shigeyuki.K</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|25|1042|<span class="rank-name-dl">tsubasaサブ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|27|1040|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|28|1039|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|29|1037|<span class="rank-name-dl">板前☆秀明</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|30|1035|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|31|1032|<span class="rank-name-dl">Takapセパ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|32|1029|<span class="rank-name-dl">Akito@尾崎道場</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|33|1022|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|34|1021|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|35|1017|<span class="rank-name-dl">マシュマロ・マン</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|36|1016|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|37|1014|<span class="rank-name-dl">Takap</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|38|1012|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|38|1012|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|40|1011|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|40|1011|<span class="rank-name-dl">西村 央規</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|42|1010|<span class="rank-name-dl">プーチん(・・?)</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|43|1008|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|44|1007|<span class="rank-name-dl">あきとです。</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|44|1007|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|46|1005|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|46|1005|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|46|1005|<span class="rank-name-dl">ななは。</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|46|1005|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|50|1004|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|50|1004|<span class="rank-name-dl">★Pa～Man★</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|52|1003|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|52|1003|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|54|1001|<span class="rank-name-dl">Shira</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|55|1000|<span class="rank-name-dl">ｈｉｒｏ</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|56|998|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|57|995|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|58|994|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|59|992|<span class="rank-name-dl">ななは</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|60|991|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|61|990|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|62|988|<span class="rank-name-dl">Iance water</span>|<a href="https://search.dartslive.com/jp/shop/e048c0ddf958c5a90d9b047a20a7ba1e">カラオケ アクア 新国道店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|63|984|<span class="rank-name-dl">Kazuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|64|981|<span class="rank-name-dl">你好hiwatari</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|65|979|<span class="rank-name-dl">shuta卍</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|65|979|<span class="rank-name-dl">こっち向いてHO〜</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|67|978|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/87459a5a5fd498620d9b047a20a7ba1e">Lily</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|67|978|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|69|977|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|69|977|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|71|976|<span class="rank-name-dl">にゃんきち</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|72|974|<span class="rank-name-dl">もちぷよ</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|72|974|<span class="rank-name-dl">らっちょさん</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|74|969|<span class="rank-name-dl">下剋上七號機</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|75|968|<span class="rank-name-dl">KIRIN</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|75|968|<span class="rank-name-dl">ピロリ☆16</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|77|966|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|77|966|<span class="rank-name-dl">lance water</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|77|966|<span class="rank-name-dl">友保</span>|<a href="https://search.dartslive.com/jp/shop/992408fd79edda9528032249b44395af">快活CLUB 秋田牛島店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|80|965|<span class="rank-name-dl">大坂 寛哉</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|81|964|<span class="rank-name-dl">KIYO</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|82|963|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|82|963|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/387d69ee8f5beee40d9b047a20a7ba1e">018 BAR HOPE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|82|963|<span class="rank-name-dl">昂</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBANBAN秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|85|962|<span class="rank-name-dl">A-24@JOIN</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|85|962|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/7a430046fc5d6a750d9b047a20a7ba1e">CASUALBAR BONGO</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|85|962|<span class="rank-name-dl">sawa</span>|<a href="https://search.dartslive.com/jp/shop/253d653e3eee3722774c926eb736cb5a">HOME BASE</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|85|962|<span class="rank-name-dl">りょん</span>|<a href="https://search.dartslive.com/jp/shop/a5b2fc38fda6c9310d9b047a20a7ba1e">gane-sya</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|85|962|<span class="rank-name-dl">佐藤 唯</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|90|961|<span class="rank-name-dl">Fin&#x27;s_yuuta</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|91|960|<span class="rank-name-dl">NanahA</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|91|960|<span class="rank-name-dl">matsuken＊ﾘｬﾝﾘｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|91|960|<span class="rank-name-dl">クロロ@惨弐</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|91|960|<span class="rank-name-dl">ﾄﾗﾌｧﾙｶﾞｰﾛﾝ</span>|<a href="https://search.dartslive.com/jp/shop/35e12634c54c38430d9b047a20a7ba1e">ラウンドワン秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|95|959|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|95|959|<span class="rank-name-dl">とっしい。</span>|<a href="https://search.dartslive.com/jp/shop/4d5922f09322e8d20d9b047a20a7ba1e">カラオケ合衆国 秋田店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|95|959|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/eb7f74ea172341250d9b047a20a7ba1e">BIGSHOT</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|98|958|<span class="rank-name-dl">g oＯ-t＠</span>|<a href="https://search.dartslive.com/jp/shop/d0e1948b09309a6e0d9b047a20a7ba1e">STAND UP BOSS</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|98|958|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/20ce5347fa08f0bb0d9b047a20a7ba1e">カラオケBanBan秋田駅前店</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
+|100|957|<span class="rank-name-dl">菊地 茂幸</span>|<a href="https://search.dartslive.com/jp/shop/9519ab752d979946774c926eb736cb5a">BAR JOIN</a>|<a href="/darts/rank/秋田県/秋田市">秋田県秋田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

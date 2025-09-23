@@ -27,102 +27,102 @@ ___
 |2|1137|<span class="rank-name-pd">Muu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 |3|1136|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 |4|1126|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|5|1120|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|6|1119|<span class="rank-name-pd">B-LINE yoppi.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|7|1112|<span class="rank-name-dl">ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|8|1111|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|9|1110|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|10|1104|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|11|1102|<span class="rank-name-dl">20161222 Zukunft</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|12|1101|<span class="rank-name-dl">鈴木 陸</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|13|1100|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|14|1099|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|15|1098|<span class="rank-name-dl">？？？？</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|16|1094|<span class="rank-name-dl">け。01</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|17|1090|<span class="rank-name-pd">637</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|18|1086|<span class="rank-name-dl">WA-MU 夜間飛行</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店 快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|18|1086|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店 カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|20|1084|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店 カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|21|1080|<span class="rank-name-pd">あっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|21|1080|<span class="rank-name-dl">け。02</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|23|1079|<span class="rank-name-dl">Riku Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|24|1078|<span class="rank-name-dl">☺︎</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|25|1075|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|26|1073|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|26|1073|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|28|1072|<span class="rank-name-dl">ヒカル(本名)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|29|1063|<span class="rank-name-pd">EMPEREUR owner</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91943?s_seq=91943">EMPEREUR</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|29|1063|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|31|1062|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|31|1062|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|33|1060|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|34|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|35|1057|<span class="rank-name-pd">[釧路]なかじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82127?s_seq=82127">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|36|1053|<span class="rank-name-pd">Muu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|37|1052|<span class="rank-name-dl">KAMI212</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|37|1052|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|39|1050|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|40|1048|<span class="rank-name-dl">あんべ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|41|1044|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|42|1043|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|43|1041|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|44|1038|<span class="rank-name-dl">剣藤犬个</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|44|1038|<span class="rank-name-dl">ｺﾞﾘﾗ界のﾌﾟﾘﾝｽ</span>|<a href="https://search.dartslive.com/jp/shop/f19ae30ec94637d20d9b047a20a7ba1e">abyss</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|46|1036|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|47|1035|<span class="rank-name-pd">[釧路]なかじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|47|1035|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|49|1034|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|50|1030|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|51|1029|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|52|1028|<span class="rank-name-pd">け。 04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|53|1023|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|53|1023|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|55|1021|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|56|1020|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|57|1017|<span class="rank-name-pd">GAN-Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|57|1017|<span class="rank-name-pd">鈴木 陸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91673?s_seq=91673">50:50</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|59|1016|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|59|1016|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|61|1014|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|61|1014|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|63|1013|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|64|1011|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|64|1011|<span class="rank-name-dl">霽岾煌薺</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|66|1009|<span class="rank-name-dl">みったGの息子2</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|67|1008|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|67|1008|<span class="rank-name-dl">RyOtA</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|67|1008|<span class="rank-name-dl">むぅ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|67|1008|<span class="rank-name-pd">ショコラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|71|1007|<span class="rank-name-dl">aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|72|1006|<span class="rank-name-dl">☆ ｄａｃｋ．☆</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|73|1005|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|73|1005|<span class="rank-name-dl">平賀童夢</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|75|1004|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|76|1002|<span class="rank-name-pd">EMPEREUR owner</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90203?s_seq=90203">999.9</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|76|1002|<span class="rank-name-dl">Makoto</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|76|1002|<span class="rank-name-pd">遠藤 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|79|1001|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|80|998|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|81|996|<span class="rank-name-dl">中村晶一</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|82|995|<span class="rank-name-dl">たけとり物語</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|83|994|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|84|987|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|85|986|<span class="rank-name-dl">猫が好きなドッグ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|86|984|<span class="rank-name-dl">はむこ。</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|87|983|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|88|982|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|88|982|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|90|980|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|91|978|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|92|977|<span class="rank-name-dl">しょうたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|92|977|<span class="rank-name-pd">元だるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|94|976|<span class="rank-name-dl">rainna</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|95|975|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|95|975|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|95|975|<span class="rank-name-dl">畠山 諒太</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|98|973|<span class="rank-name-pd">₹˝ｬʓ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82127?s_seq=82127">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|99|971|<span class="rank-name-dl">まくろん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|99|971|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|5|1119|<span class="rank-name-pd">B-LINE yoppi.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|6|1112|<span class="rank-name-dl">ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|7|1111|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|8|1110|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|9|1104|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|10|1102|<span class="rank-name-dl">20161222 Zukunft</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|11|1101|<span class="rank-name-dl">鈴木 陸</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|12|1100|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|13|1098|<span class="rank-name-dl">？？？？</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|14|1094|<span class="rank-name-dl">け。01</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|15|1090|<span class="rank-name-pd">637</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|16|1086|<span class="rank-name-dl">WA-MU 夜間飛行</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|16|1086|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|18|1084|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|19|1080|<span class="rank-name-pd">あっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|19|1080|<span class="rank-name-dl">け。02</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|21|1079|<span class="rank-name-dl">Riku Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|22|1078|<span class="rank-name-dl">☺︎</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|23|1075|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|24|1073|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|24|1073|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|26|1072|<span class="rank-name-dl">ヒカル(本名)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|27|1063|<span class="rank-name-pd">EMPEREUR owner</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91943?s_seq=91943">EMPEREUR</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|28|1062|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|28|1062|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|30|1060|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|31|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|32|1057|<span class="rank-name-pd">[釧路]なかじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82127?s_seq=82127">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|33|1053|<span class="rank-name-pd">Muu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|34|1052|<span class="rank-name-dl">KAMI212</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|34|1052|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|36|1048|<span class="rank-name-dl">あんべ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|37|1044|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|38|1043|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|39|1041|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|40|1038|<span class="rank-name-dl">剣藤犬个</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|40|1038|<span class="rank-name-dl">ｺﾞﾘﾗ界のﾌﾟﾘﾝｽ</span>|<a href="https://search.dartslive.com/jp/shop/f19ae30ec94637d20d9b047a20a7ba1e">abyss</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|42|1036|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|43|1035|<span class="rank-name-pd">[釧路]なかじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|43|1035|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|45|1034|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|46|1030|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|47|1029|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|48|1028|<span class="rank-name-pd">け。 04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|49|1023|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|49|1023|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|51|1021|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|52|1020|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|53|1017|<span class="rank-name-pd">GAN-Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39456?s_seq=39456">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|53|1017|<span class="rank-name-pd">鈴木 陸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91673?s_seq=91673">50:50</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|55|1016|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|56|1014|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|56|1014|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|58|1013|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|59|1011|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|59|1011|<span class="rank-name-dl">霽岾煌薺</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|61|1009|<span class="rank-name-dl">みったGの息子2</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|62|1008|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|62|1008|<span class="rank-name-dl">RyOtA</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|62|1008|<span class="rank-name-dl">むぅ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|62|1008|<span class="rank-name-pd">ショコラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|66|1007|<span class="rank-name-dl">aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|67|1006|<span class="rank-name-dl">☆ ｄａｃｋ．☆</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|68|1005|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|68|1005|<span class="rank-name-dl">平賀童夢</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|70|1004|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|71|1002|<span class="rank-name-pd">EMPEREUR owner</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90203?s_seq=90203">999.9</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|71|1002|<span class="rank-name-dl">Makoto</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|71|1002|<span class="rank-name-pd">遠藤 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|74|1001|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|75|998|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|76|996|<span class="rank-name-dl">中村晶一</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|77|995|<span class="rank-name-dl">たけとり物語</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|78|994|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|79|986|<span class="rank-name-dl">猫が好きなドッグ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|80|984|<span class="rank-name-dl">はむこ。</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|81|982|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|82|980|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|83|977|<span class="rank-name-dl">しょうたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|83|977|<span class="rank-name-pd">元だるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10462?s_seq=10462">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|85|976|<span class="rank-name-dl">rainna</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|86|975|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|86|975|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|86|975|<span class="rank-name-dl">畠山 諒太</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|973|<span class="rank-name-pd">₹˝ｬʓ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82127?s_seq=82127">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|90|971|<span class="rank-name-dl">まくろん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|91|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|91|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|91|970|<span class="rank-name-dl">ひかる(本人)</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|94|969|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|95|968|<span class="rank-name-pd">ゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82127?s_seq=82127">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|96|966|<span class="rank-name-dl">あさ</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|96|966|<span class="rank-name-pd">鈴木 陸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88998?s_seq=88998">BLACK RABBIT</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|98|965|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|98|965|<span class="rank-name-dl">うきょう</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|98|965|<span class="rank-name-pd">ＹＭＤ☆ё㌧㌧ё</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62442?s_seq=62442">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1290|<span class="rank-name-dl">おのまーる</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 |2|1136|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 |3|1126|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|4|1120|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|5|1112|<span class="rank-name-dl">ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|6|1111|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|7|1110|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|8|1104|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|9|1102|<span class="rank-name-dl">20161222 Zukunft</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|10|1101|<span class="rank-name-dl">鈴木 陸</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|11|1100|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|12|1099|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|13|1098|<span class="rank-name-dl">？？？？</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|14|1094|<span class="rank-name-dl">け。01</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|15|1086|<span class="rank-name-dl">WA-MU 夜間飛行</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店 快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|15|1086|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店 カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|17|1084|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店 カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|18|1080|<span class="rank-name-dl">け。02</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|19|1079|<span class="rank-name-dl">Riku Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|20|1078|<span class="rank-name-dl">☺︎</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|21|1075|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|22|1073|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|23|1072|<span class="rank-name-dl">ヒカル(本名)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|24|1066|<span class="rank-name-dl">B-LINE yoppi.</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|25|1063|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|26|1062|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|26|1062|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|28|1060|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|29|1059|<span class="rank-name-dl">Muu</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|30|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|31|1052|<span class="rank-name-dl">KAMI212</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|31|1052|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|33|1050|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|34|1048|<span class="rank-name-dl">あんべ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|35|1044|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|36|1043|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|37|1041|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|38|1038|<span class="rank-name-dl">剣藤犬个</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|38|1038|<span class="rank-name-dl">ｺﾞﾘﾗ界のﾌﾟﾘﾝｽ</span>|<a href="https://search.dartslive.com/jp/shop/f19ae30ec94637d20d9b047a20a7ba1e">abyss</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|40|1036|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|41|1035|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|42|1034|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|43|1030|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|44|1029|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|45|1023|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|45|1023|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|47|1020|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|48|1016|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|48|1016|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店 快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|50|1014|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|50|1014|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|52|1013|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|53|1011|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|53|1011|<span class="rank-name-dl">霽岾煌薺</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|55|1009|<span class="rank-name-dl">みったGの息子2</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|56|1008|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|56|1008|<span class="rank-name-dl">RyOtA</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|56|1008|<span class="rank-name-dl">むぅ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|59|1007|<span class="rank-name-dl">aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|60|1006|<span class="rank-name-dl">☆ ｄａｃｋ．☆</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|61|1005|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|61|1005|<span class="rank-name-dl">平賀童夢</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|63|1004|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|64|1002|<span class="rank-name-dl">Makoto</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|65|1001|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|66|998|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|67|996|<span class="rank-name-dl">中村晶一</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|68|995|<span class="rank-name-dl">たけとり物語</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|69|994|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|70|987|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|71|986|<span class="rank-name-dl">猫が好きなドッグ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|72|984|<span class="rank-name-dl">はむこ。</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|73|983|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|74|982|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|74|982|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|76|980|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|77|978|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|78|977|<span class="rank-name-dl">GAN-Z</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|78|977|<span class="rank-name-dl">しょうたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|80|976|<span class="rank-name-dl">rainna</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|81|975|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|81|975|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|81|975|<span class="rank-name-dl">畠山 諒太</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|84|971|<span class="rank-name-dl">まくろん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|84|971|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店 ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|86|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|86|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|86|970|<span class="rank-name-dl">ひかる(本人)</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|89|969|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|90|966|<span class="rank-name-dl">あさ</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|91|965|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|91|965|<span class="rank-name-dl">うきょう</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|93|964|<span class="rank-name-dl">.Yusuke</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|93|964|<span class="rank-name-dl">あさ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|93|964|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|96|963|<span class="rank-name-dl">Muu</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|96|963|<span class="rank-name-dl">★うさぎ★</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|96|963|<span class="rank-name-dl">よ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|99|962|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
-|100|961|<span class="rank-name-dl">GAN-Z</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|4|1112|<span class="rank-name-dl">ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|5|1111|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|6|1110|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|7|1104|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|8|1102|<span class="rank-name-dl">20161222 Zukunft</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|9|1101|<span class="rank-name-dl">鈴木 陸</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|10|1100|<span class="rank-name-dl">よっぴ</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|11|1098|<span class="rank-name-dl">？？？？</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|12|1094|<span class="rank-name-dl">け。01</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|13|1086|<span class="rank-name-dl">WA-MU 夜間飛行</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|13|1086|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|15|1084|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|16|1080|<span class="rank-name-dl">け。02</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|17|1079|<span class="rank-name-dl">Riku Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|18|1078|<span class="rank-name-dl">☺︎</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|19|1075|<span class="rank-name-dl">みったG</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|20|1073|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|21|1072|<span class="rank-name-dl">ヒカル(本名)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|22|1066|<span class="rank-name-dl">B-LINE yoppi.</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|23|1062|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|23|1062|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|25|1060|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|26|1059|<span class="rank-name-dl">Muu</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|27|1058|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|28|1052|<span class="rank-name-dl">KAMI212</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|28|1052|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|30|1048|<span class="rank-name-dl">あんべ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|31|1044|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|32|1043|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|33|1041|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|34|1038|<span class="rank-name-dl">剣藤犬个</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|34|1038|<span class="rank-name-dl">ｺﾞﾘﾗ界のﾌﾟﾘﾝｽ</span>|<a href="https://search.dartslive.com/jp/shop/f19ae30ec94637d20d9b047a20a7ba1e">abyss</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|36|1036|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|37|1035|<span class="rank-name-dl">ゆうたろ・セパ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|38|1034|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|39|1030|<span class="rank-name-dl">伊藤周作</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|40|1029|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|41|1023|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|41|1023|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|43|1020|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|44|1016|<span class="rank-name-dl">ゆうたろ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|45|1014|<span class="rank-name-dl">みったGの息子</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|45|1014|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|47|1013|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|48|1011|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|48|1011|<span class="rank-name-dl">霽岾煌薺</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|50|1009|<span class="rank-name-dl">みったGの息子2</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|51|1008|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|51|1008|<span class="rank-name-dl">RyOtA</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|51|1008|<span class="rank-name-dl">むぅ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|54|1007|<span class="rank-name-dl">aki</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|55|1006|<span class="rank-name-dl">☆ ｄａｃｋ．☆</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|56|1005|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|56|1005|<span class="rank-name-dl">平賀童夢</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|58|1004|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|59|1002|<span class="rank-name-dl">Makoto</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|60|1001|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|61|998|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|62|996|<span class="rank-name-dl">中村晶一</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|63|995|<span class="rank-name-dl">たけとり物語</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|64|994|<span class="rank-name-dl">石破　茂</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|65|986|<span class="rank-name-dl">猫が好きなドッグ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|66|984|<span class="rank-name-dl">はむこ。</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|67|982|<span class="rank-name-dl">ゆうたろ2nd.</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|68|980|<span class="rank-name-dl">Muuさん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|69|977|<span class="rank-name-dl">GAN-Z</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|69|977|<span class="rank-name-dl">しょうたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|71|976|<span class="rank-name-dl">rainna</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|72|975|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|72|975|<span class="rank-name-dl">やーとみ(ﾀﾞﾝﾅ)</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|72|975|<span class="rank-name-dl">畠山 諒太</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|75|971|<span class="rank-name-dl">まくろん</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|76|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/ae132eafb95389640d9b047a20a7ba1e">カラオケ合衆国　盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|76|970|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|76|970|<span class="rank-name-dl">ひかる(本人)</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|79|969|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|80|966|<span class="rank-name-dl">あさ</span>|<a href="https://search.dartslive.com/jp/shop/4d9e3507897339430d9b047a20a7ba1e">GOODSUM</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|81|965|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|81|965|<span class="rank-name-dl">うきょう</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|83|964|<span class="rank-name-dl">.Yusuke</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|83|964|<span class="rank-name-dl">あさ</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|85|963|<span class="rank-name-dl">Muu</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|85|963|<span class="rank-name-dl">★うさぎ★</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|85|963|<span class="rank-name-dl">よ</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|88|962|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|961|<span class="rank-name-dl">GAN-Z</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|961|<span class="rank-name-dl">ryota</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|961|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|961|<span class="rank-name-dl">品川(--;)r➳</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|89|961|<span class="rank-name-dl">昆　正吉</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|94|960|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f7cdec29b833228c0d9b047a20a7ba1e">PlayGarden 盛岡大通り店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|94|960|<span class="rank-name-dl">SHINOBU@ZOO</span>|<a href="https://search.dartslive.com/jp/shop/b8cb0c256957e15225d56fb0e5c39bac">ENCOUNTER DINING ZOO</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|94|960|<span class="rank-name-dl">東方伸生</span>|<a href="https://search.dartslive.com/jp/shop/7fa17cf25c628b7a0d9b047a20a7ba1e">「PON」</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|97|959|<span class="rank-name-dl">チャンタロー</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|98|955|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/8a4f3c1f6eb3545625d56fb0e5c39bac">快活CLUB 盛岡上堂店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|99|954|<span class="rank-name-dl">℡℡坊主φ(.. )</span>|<a href="https://search.dartslive.com/jp/shop/abf103f43f1e07eb28032249b44395af">快活CLUB 盛岡大通店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
+|100|951|<span class="rank-name-dl">ＫＵＭ＠tics神成</span>|<a href="https://search.dartslive.com/jp/shop/6c2f5a6f875df07a0d9b047a20a7ba1e">ラウンドワン盛岡店</a>|<a href="/darts/rank/岩手県/盛岡市">岩手県盛岡市</a>|
 
 
 #### PHOENIXDARTS TOP 100

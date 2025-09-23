@@ -25,104 +25,104 @@ ___
 |---|---|---|---|---|
 |1|1208|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 |2|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|3|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|4|1097|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|5|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|6|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|7|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|8|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|9|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|10|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|11|1050|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|12|1031|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|13|1030|<span class="rank-name-dl">谷内 太郎</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|14|1028|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|14|1028|<span class="rank-name-pd">モユキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|16|1024|<span class="rank-name-dl">遠藤 友輝</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|17|1022|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|17|1022|<span class="rank-name-dl">Hotel Foxtrot</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|19|1020|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|20|1006|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|21|1005|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|21|1005|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|23|1003|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|23|1003|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|25|995|<span class="rank-name-dl">ダブルソフト</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|26|987|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|27|986|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|28|978|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|29|977|<span class="rank-name-dl">ЧΟ∫ｈ!</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|29|977|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|31|974|<span class="rank-name-dl">サッポロ一番</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|32|968|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|32|968|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|34|967|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|35|965|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|36|963|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|36|963|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|38|961|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|38|961|<span class="rank-name-dl">ネ( ´∀｀)ギ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|38|961|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|41|959|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|42|958|<span class="rank-name-dl">alt7</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|42|958|<span class="rank-name-pd">hotsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|44|956|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|45|955|<span class="rank-name-dl">たくぅ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|46|954|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|46|954|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|48|951|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|49|950|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|50|949|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|51|945|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|51|945|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|53|941|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|54|936|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|55|933|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|56|931|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|56|931|<span class="rank-name-dl">矢野原涼馬</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|58|930|<span class="rank-name-dl">タカッシー@71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|59|928|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|59|928|<span class="rank-name-pd"><span class="pro-icon-pd"></span>纐纈 友行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|59|928|<span class="rank-name-dl">＊SATOSHI＊</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|62|927|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|63|924|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|64|923|<span class="rank-name-dl">えいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|65|920|<span class="rank-name-dl">J u n</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|66|918|<span class="rank-name-pd">TKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|66|918|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|68|916|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|69|912|<span class="rank-name-dl">★たけ★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|69|912|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|71|910|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|72|909|<span class="rank-name-pd">KATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|73|905|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|74|903|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|75|895|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|76|893|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|77|891|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|77|891|<span class="rank-name-pd">失神壱号機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|79|890|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|80|889|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|81|887|<span class="rank-name-dl">TAXI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|82|886|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|82|886|<span class="rank-name-pd">YOU  K☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|82|886|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|85|884|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|86|883|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|86|883|<span class="rank-name-pd">かとさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|86|883|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|89|882|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|90|880|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|91|879|<span class="rank-name-dl">柴垣</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|92|878|<span class="rank-name-dl">すこんぶ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|93|873|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|93|873|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|95|872|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|96|869|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|97|859|<span class="rank-name-dl">あるぱか</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|97|859|<span class="rank-name-dl">ゆーいちですけど</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|99|854|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|99|854|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|3|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|4|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|5|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|6|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|7|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|8|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|9|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|10|1031|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|11|1030|<span class="rank-name-dl">谷内 太郎</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|12|1028|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|12|1028|<span class="rank-name-pd">モユキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|14|1024|<span class="rank-name-dl">遠藤 友輝</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|15|1022|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|15|1022|<span class="rank-name-dl">Hotel Foxtrot</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|17|1020|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|18|1006|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|19|1005|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|19|1005|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|21|1003|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|21|1003|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|23|995|<span class="rank-name-dl">ダブルソフト</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|24|987|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|25|986|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|26|977|<span class="rank-name-dl">ЧΟ∫ｈ!</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|26|977|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|28|974|<span class="rank-name-dl">サッポロ一番</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|29|968|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|29|968|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|31|967|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|32|965|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|33|963|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|33|963|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|35|961|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|35|961|<span class="rank-name-dl">ネ( ´∀｀)ギ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|35|961|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|38|959|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|39|958|<span class="rank-name-dl">alt7</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|39|958|<span class="rank-name-pd">hotsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|41|956|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|42|955|<span class="rank-name-dl">たくぅ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|43|954|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|44|951|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|45|950|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|46|949|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|47|945|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|48|941|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|49|936|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|50|933|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|51|931|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|51|931|<span class="rank-name-dl">矢野原涼馬</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|53|930|<span class="rank-name-dl">タカッシー@71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|54|928|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|54|928|<span class="rank-name-pd"><span class="pro-icon-pd"></span>纐纈 友行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|54|928|<span class="rank-name-dl">＊SATOSHI＊</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|57|927|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|58|924|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|59|923|<span class="rank-name-dl">えいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|60|920|<span class="rank-name-dl">J u n</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|61|918|<span class="rank-name-pd">TKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|61|918|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|63|916|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|64|912|<span class="rank-name-dl">★たけ★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|64|912|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|66|910|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|67|909|<span class="rank-name-pd">KATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|68|895|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|69|893|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|70|891|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|70|891|<span class="rank-name-pd">失神壱号機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|72|887|<span class="rank-name-dl">TAXI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|73|886|<span class="rank-name-pd">YOU  K☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|73|886|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|75|884|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|76|883|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|76|883|<span class="rank-name-pd">かとさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|76|883|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|79|882|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|80|880|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|81|879|<span class="rank-name-dl">柴垣</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|82|878|<span class="rank-name-dl">すこんぶ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|83|873|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|84|872|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|85|869|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|86|859|<span class="rank-name-dl">あるぱか</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|86|859|<span class="rank-name-dl">ゆーいちですけど</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|88|854|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|88|854|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|90|853|<span class="rank-name-pd">あるぱか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|91|852|<span class="rank-name-dl">Auru</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|92|850|<span class="rank-name-pd">王将の人B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|93|847|<span class="rank-name-pd">オクレイマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|94|844|<span class="rank-name-pd">☆N☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|94|844|<span class="rank-name-dl">まる。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|96|839|<span class="rank-name-dl">Rope</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|97|834|<span class="rank-name-dl">じょ。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|98|831|<span class="rank-name-dl">おちげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|99|829|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|99|829|<span class="rank-name-pd">SHOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_39703?s_seq=39703">亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,104 +134,104 @@ ___
 |---|---|---|---|---|
 |1|1208|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 |2|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|3|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|4|1097|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|5|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|6|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|7|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|8|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|9|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|10|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|11|1050|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|12|1031|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|13|1030|<span class="rank-name-dl">谷内 太郎</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|14|1028|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|15|1024|<span class="rank-name-dl">遠藤 友輝</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|16|1022|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|16|1022|<span class="rank-name-dl">Hotel Foxtrot</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|18|1020|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|19|1006|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|20|1005|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|20|1005|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|22|1003|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|22|1003|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|24|995|<span class="rank-name-dl">ダブルソフト</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|25|987|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|26|986|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|27|978|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|28|977|<span class="rank-name-dl">ЧΟ∫ｈ!</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|28|977|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|30|974|<span class="rank-name-dl">サッポロ一番</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|31|968|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|31|968|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|33|967|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|34|965|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|35|963|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|35|963|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|37|961|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|37|961|<span class="rank-name-dl">ネ( ´∀｀)ギ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|37|961|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|40|958|<span class="rank-name-dl">alt7</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|41|956|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|42|955|<span class="rank-name-dl">たくぅ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|43|954|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|43|954|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|45|951|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|46|950|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|47|949|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|48|945|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|48|945|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|50|941|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|51|936|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|52|933|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|53|931|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|53|931|<span class="rank-name-dl">矢野原涼馬</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|55|930|<span class="rank-name-dl">タカッシー@71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|56|928|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|56|928|<span class="rank-name-dl">＊SATOSHI＊</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|58|927|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|59|924|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|60|923|<span class="rank-name-dl">えいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|61|920|<span class="rank-name-dl">J u n</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|62|918|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|63|916|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|64|912|<span class="rank-name-dl">★たけ★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|64|912|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|66|910|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|67|905|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|68|903|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|69|895|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|70|893|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|71|891|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|72|890|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|73|889|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|74|887|<span class="rank-name-dl">TAXI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|75|886|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|75|886|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|77|884|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|78|883|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|78|883|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|80|882|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|81|879|<span class="rank-name-dl">柴垣</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|82|878|<span class="rank-name-dl">すこんぶ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|83|873|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|83|873|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|85|872|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|86|869|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|87|859|<span class="rank-name-dl">あるぱか</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|87|859|<span class="rank-name-dl">ゆーいちですけど</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|89|854|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|89|854|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|91|852|<span class="rank-name-dl">Auru</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|92|844|<span class="rank-name-dl">まる。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|93|839|<span class="rank-name-dl">Rope</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|94|834|<span class="rank-name-dl">じょ。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|95|831|<span class="rank-name-dl">おちげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|96|829|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|97|826|<span class="rank-name-dl">♡♡miyu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|97|826|<span class="rank-name-dl">やっし@Geek</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|99|822|<span class="rank-name-dl">Shun ◯-◯√</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|100|818|<span class="rank-name-dl">オクレイマン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|3|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|4|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|5|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|6|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|7|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|8|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|9|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|10|1031|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|11|1030|<span class="rank-name-dl">谷内 太郎</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|12|1028|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|13|1024|<span class="rank-name-dl">遠藤 友輝</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|14|1022|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|14|1022|<span class="rank-name-dl">Hotel Foxtrot</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|16|1020|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|17|1006|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|18|1005|<span class="rank-name-dl">SAITO DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|18|1005|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|20|1003|<span class="rank-name-dl">☆TAKE☆</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|20|1003|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|22|995|<span class="rank-name-dl">ダブルソフト</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|23|987|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|24|986|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|25|977|<span class="rank-name-dl">ЧΟ∫ｈ!</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|25|977|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|27|974|<span class="rank-name-dl">サッポロ一番</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|28|968|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|28|968|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|30|967|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|31|965|<span class="rank-name-dl">阿部 悠司</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|32|963|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|32|963|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|34|961|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|34|961|<span class="rank-name-dl">ネ( ´∀｀)ギ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|34|961|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|37|958|<span class="rank-name-dl">alt7</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|38|956|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|39|955|<span class="rank-name-dl">たくぅ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|40|954|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|41|951|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|42|950|<span class="rank-name-dl">NO NAME 1022</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|43|949|<span class="rank-name-dl">じょう</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|44|945|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|45|941|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|46|936|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|47|933|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|48|931|<span class="rank-name-dl">シヴァイヌ♂</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|48|931|<span class="rank-name-dl">矢野原涼馬</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|50|930|<span class="rank-name-dl">タカッシー@71</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|51|928|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|51|928|<span class="rank-name-dl">＊SATOSHI＊</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|53|927|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|54|924|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|55|923|<span class="rank-name-dl">えいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|56|920|<span class="rank-name-dl">J u n</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|57|918|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|58|916|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|59|912|<span class="rank-name-dl">★たけ★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|59|912|<span class="rank-name-dl">〓ナッツ〓★</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|61|910|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|62|895|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|63|893|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|64|891|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|65|887|<span class="rank-name-dl">TAXI</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|66|886|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|67|884|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|68|883|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|68|883|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|70|882|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|71|879|<span class="rank-name-dl">柴垣</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|72|878|<span class="rank-name-dl">すこんぶ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|73|873|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|74|872|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|75|869|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|76|859|<span class="rank-name-dl">あるぱか</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|76|859|<span class="rank-name-dl">ゆーいちですけど</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|78|854|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|78|854|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|80|852|<span class="rank-name-dl">Auru</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|81|844|<span class="rank-name-dl">まる。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|82|839|<span class="rank-name-dl">Rope</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|83|834|<span class="rank-name-dl">じょ。</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|84|831|<span class="rank-name-dl">おちげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|85|829|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|86|826|<span class="rank-name-dl">♡♡miyu</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|86|826|<span class="rank-name-dl">やっし@Geek</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|88|822|<span class="rank-name-dl">Shun ◯-◯√</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|89|818|<span class="rank-name-dl">オクレイマン</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|90|809|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|91|803|<span class="rank-name-dl">shooo</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|92|801|<span class="rank-name-dl">あやまる</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|93|800|<span class="rank-name-dl">Cresselia</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|93|800|<span class="rank-name-dl">憧葛</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|95|798|<span class="rank-name-dl">hana_華(｡･_･｡)</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|96|790|<span class="rank-name-dl">KU-SSY＊BD</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|97|786|<span class="rank-name-dl">J u n</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|97|786|<span class="rank-name-dl">じょ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|99|783|<span class="rank-name-dl">いっちろ〜</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|100|776|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 
 
 #### PHOENIXDARTS TOP 100

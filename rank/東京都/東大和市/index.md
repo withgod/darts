@@ -30,11 +30,11 @@ ___
 |5|1094|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |6|1091|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |7|1072|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|8|1069|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|8|1069|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |9|1060|<span class="rank-name-dl">NO NAME 6929</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |10|1052|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |11|1050|<span class="rank-name-dl">ひろし</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|12|1044|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|12|1044|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |13|1043|<span class="rank-name-dl">のリピ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |14|1038|<span class="rank-name-dl">たま</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |15|1034|<span class="rank-name-dl">JUNICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
@@ -44,14 +44,14 @@ ___
 |19|1023|<span class="rank-name-dl">R1-MAX-D☆ささ☆</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |20|1019|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |21|1017|<span class="rank-name-dl">きたじま だいき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|22|1011|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|22|1011|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |23|1001|<span class="rank-name-dl">HappyDate@なぁ〜</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |24|1000|<span class="rank-name-pd">TTT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |25|998|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |26|983|<span class="rank-name-dl">なぁ〜♪</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |27|978|<span class="rank-name-dl">とき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |28|973|<span class="rank-name-dl">ばし@ChouChou</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|29|971|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|29|971|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |30|968|<span class="rank-name-dl">たふ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |30|968|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |32|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
@@ -59,70 +59,70 @@ ___
 |32|967|<span class="rank-name-dl">ぴちぴちびっち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |32|967|<span class="rank-name-pd">初心者🔰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |36|963|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|37|962|<span class="rank-name-dl">ぴちぴちびっち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|38|961|<span class="rank-name-pd">石川　将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|39|960|<span class="rank-name-dl">あきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|40|959|<span class="rank-name-pd">z2dr3a6524bf8a</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|41|955|<span class="rank-name-dl">佐々木です</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|41|955|<span class="rank-name-dl">田中 湧熙</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|43|953|<span class="rank-name-dl">Noripi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|44|951|<span class="rank-name-dl">エソラ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|45|950|<span class="rank-name-pd">Akihito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|46|949|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|47|948|<span class="rank-name-dl">ともや@バンコク</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|47|948|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|49|946|<span class="rank-name-pd">なぁ～♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|49|946|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|51|944|<span class="rank-name-pd">M.V.あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|52|941|<span class="rank-name-pd">カツユミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|53|930|<span class="rank-name-pd">&amp;TOCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|54|927|<span class="rank-name-dl">ゆずポン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|55|925|<span class="rank-name-pd">あき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|56|924|<span class="rank-name-dl">村山の嵩くん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|57|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>奥天 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|57|923|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|59|922|<span class="rank-name-pd">AKIRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|60|919|<span class="rank-name-pd">Kazufumi Shimada</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|61|918|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|62|917|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|63|916|<span class="rank-name-dl">若丼</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|64|910|<span class="rank-name-dl">NO NAME 6359</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|65|907|<span class="rank-name-dl">maち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|65|907|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|67|906|<span class="rank-name-dl">のーねーむ6662</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|68|904|<span class="rank-name-dl">Starfee</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|68|904|<span class="rank-name-dl">いさき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|70|902|<span class="rank-name-pd">0205_8958</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|70|902|<span class="rank-name-dl">裕⇔ishico@Fred</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|72|901|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大類 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|73|899|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|74|896|<span class="rank-name-dl">JiRo</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|75|893|<span class="rank-name-dl">みちみちみっちー</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|76|892|<span class="rank-name-dl">マックイーン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|77|889|<span class="rank-name-dl">No NAME 1130</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|77|889|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|77|889|<span class="rank-name-dl">俺やでッ！×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|80|888|<span class="rank-name-dl">Hi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|80|888|<span class="rank-name-dl">やす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|82|886|<span class="rank-name-dl">山田　琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|83|885|<span class="rank-name-dl">明</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|84|877|<span class="rank-name-dl">ㅤㅤ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|85|873|<span class="rank-name-pd">Yuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|86|866|<span class="rank-name-pd"><span class="pro-icon-pd"></span>廣瀨 陽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|87|865|<span class="rank-name-pd">ﾀｹｼ太郎仙䑓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|88|861|<span class="rank-name-dl">Mr.INcrediBULL</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|89|840|<span class="rank-name-dl">ヒロシでやんす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|90|839|<span class="rank-name-dl">ボビン2</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|91|833|<span class="rank-name-pd">motty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|92|830|<span class="rank-name-pd">ぽむぽむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|93|828|<span class="rank-name-pd">North 04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|93|828|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|95|824|<span class="rank-name-dl">No NAME 1974</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|96|820|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|97|819|<span class="rank-name-pd">Koba</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|98|818|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 友和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|99|815|<span class="rank-name-pd">ぐっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|99|815|<span class="rank-name-pd">讃岐のみやつこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|37|961|<span class="rank-name-pd">石川　将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|38|960|<span class="rank-name-dl">あきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|39|959|<span class="rank-name-pd">z2dr3a6524bf8a</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|40|955|<span class="rank-name-dl">佐々木です</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|40|955|<span class="rank-name-dl">田中 湧熙</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|42|953|<span class="rank-name-dl">Noripi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|43|951|<span class="rank-name-dl">エソラ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|44|950|<span class="rank-name-pd">Akihito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|45|949|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|46|948|<span class="rank-name-dl">ともや@バンコク</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|46|948|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|48|946|<span class="rank-name-pd">なぁ～♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|48|946|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|50|944|<span class="rank-name-pd">M.V.あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|51|941|<span class="rank-name-pd">カツユミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|52|930|<span class="rank-name-pd">&amp;TOCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|53|927|<span class="rank-name-dl">ゆずポン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|54|925|<span class="rank-name-pd">あき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|55|924|<span class="rank-name-dl">村山の嵩くん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|56|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>奥天 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|56|923|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|58|922|<span class="rank-name-pd">AKIRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|59|919|<span class="rank-name-pd">Kazufumi Shimada</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|60|918|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|61|916|<span class="rank-name-dl">若丼</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|62|910|<span class="rank-name-dl">NO NAME 6359</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|63|907|<span class="rank-name-dl">maち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|63|907|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|65|906|<span class="rank-name-dl">のーねーむ6662</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|66|904|<span class="rank-name-dl">Starfee</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|66|904|<span class="rank-name-dl">いさき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|68|902|<span class="rank-name-pd">0205_8958</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|68|902|<span class="rank-name-dl">裕⇔ishico@Fred</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|70|901|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大類 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|71|899|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|72|896|<span class="rank-name-dl">JiRo</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|73|893|<span class="rank-name-dl">みちみちみっちー</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|74|892|<span class="rank-name-dl">マックイーン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|75|889|<span class="rank-name-dl">No NAME 1130</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|75|889|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|75|889|<span class="rank-name-dl">俺やでッ！×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|78|888|<span class="rank-name-dl">Hi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|78|888|<span class="rank-name-dl">やす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|80|886|<span class="rank-name-dl">山田　琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|81|885|<span class="rank-name-dl">明</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|82|877|<span class="rank-name-dl">ㅤㅤ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|83|873|<span class="rank-name-pd">Yuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|84|865|<span class="rank-name-pd">ﾀｹｼ太郎仙䑓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|85|861|<span class="rank-name-dl">Mr.INcrediBULL</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|86|840|<span class="rank-name-dl">ヒロシでやんす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|87|839|<span class="rank-name-dl">ボビン2</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|88|833|<span class="rank-name-pd">motty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|89|830|<span class="rank-name-pd">ぽむぽむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|90|828|<span class="rank-name-pd">North 04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|90|828|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|92|824|<span class="rank-name-dl">No NAME 1974</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|93|820|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|94|819|<span class="rank-name-pd">Koba</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|95|818|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 友和</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|96|815|<span class="rank-name-pd">ぐっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|96|815|<span class="rank-name-pd">讃岐のみやつこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|98|813|<span class="rank-name-pd">よよぎ@元スパイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|99|809|<span class="rank-name-pd">通風マスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|100|806|<span class="rank-name-pd">はっとり。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10143?s_seq=10143">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,11 +139,11 @@ ___
 |5|1094|<span class="rank-name-dl">ちゃも！？</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |6|1091|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |7|1072|<span class="rank-name-dl">小堀 則章</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|8|1069|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|8|1069|<span class="rank-name-dl">みや茶ん@。。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |9|1060|<span class="rank-name-dl">NO NAME 6929</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |10|1052|<span class="rank-name-dl">クマ助@ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |11|1050|<span class="rank-name-dl">ひろし</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|12|1044|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|12|1044|<span class="rank-name-dl">廣瀨 陽</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |13|1043|<span class="rank-name-dl">のリピ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |14|1038|<span class="rank-name-dl">たま</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |15|1034|<span class="rank-name-dl">JUNICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
@@ -153,85 +153,85 @@ ___
 |19|1023|<span class="rank-name-dl">R1-MAX-D☆ささ☆</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |20|1019|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |21|1017|<span class="rank-name-dl">きたじま だいき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|22|1011|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|22|1011|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |23|1001|<span class="rank-name-dl">HappyDate@なぁ〜</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |24|998|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |25|983|<span class="rank-name-dl">なぁ〜♪</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |26|978|<span class="rank-name-dl">とき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |27|973|<span class="rank-name-dl">ばし@ChouChou</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|28|971|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|28|971|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |29|968|<span class="rank-name-dl">たふ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |29|968|<span class="rank-name-dl">もってぃ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |31|967|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |31|967|<span class="rank-name-dl">ぴちぴちびっち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |33|963|<span class="rank-name-dl">MIRACLE博士</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|34|962|<span class="rank-name-dl">ぴちぴちびっち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|35|960|<span class="rank-name-dl">あきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|36|955|<span class="rank-name-dl">佐々木です</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|36|955|<span class="rank-name-dl">田中 湧熙</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|38|953|<span class="rank-name-dl">Noripi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|39|951|<span class="rank-name-dl">エソラ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|40|949|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|41|948|<span class="rank-name-dl">ともや@バンコク</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|41|948|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|43|946|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|44|927|<span class="rank-name-dl">ゆずポン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|45|924|<span class="rank-name-dl">村山の嵩くん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|46|923|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|47|918|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|48|917|<span class="rank-name-dl">麦ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|49|916|<span class="rank-name-dl">若丼</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|50|910|<span class="rank-name-dl">NO NAME 6359</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|51|907|<span class="rank-name-dl">maち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|51|907|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|53|906|<span class="rank-name-dl">のーねーむ6662</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|54|904|<span class="rank-name-dl">Starfee</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|54|904|<span class="rank-name-dl">いさき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|56|902|<span class="rank-name-dl">裕⇔ishico@Fred</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|57|899|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|58|896|<span class="rank-name-dl">JiRo</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|59|893|<span class="rank-name-dl">みちみちみっちー</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|60|892|<span class="rank-name-dl">マックイーン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|61|889|<span class="rank-name-dl">No NAME 1130</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|61|889|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|61|889|<span class="rank-name-dl">俺やでッ！×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|64|888|<span class="rank-name-dl">Hi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|64|888|<span class="rank-name-dl">やす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|66|886|<span class="rank-name-dl">山田　琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|67|885|<span class="rank-name-dl">明</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店 快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|68|877|<span class="rank-name-dl">ㅤㅤ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|69|861|<span class="rank-name-dl">Mr.INcrediBULL</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|70|840|<span class="rank-name-dl">ヒロシでやんす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|71|839|<span class="rank-name-dl">ボビン2</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|72|824|<span class="rank-name-dl">No NAME 1974</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|73|800|<span class="rank-name-dl">Kazufumi Shimada</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|74|791|<span class="rank-name-dl">(岡 本 - R&#x27;s)</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|75|770|<span class="rank-name-dl">おさしみ！</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|76|768|<span class="rank-name-dl">あずあず@オフ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|77|748|<span class="rank-name-dl">村山の嵩くん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|78|729|<span class="rank-name-dl">Ryuka。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|79|720|<span class="rank-name-dl">安藤モア</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|80|719|<span class="rank-name-dl">Rs恒蔵</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|81|711|<span class="rank-name-dl">Reii</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|82|705|<span class="rank-name-dl">GSXだった人</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|83|704|<span class="rank-name-dl">のんちょん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|83|704|<span class="rank-name-dl">ぼん【2】</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|85|703|<span class="rank-name-dl">なべさん@台湾</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|86|674|<span class="rank-name-dl">marta.るあ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|87|673|<span class="rank-name-dl">KSK@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|88|671|<span class="rank-name-dl">Mirorin</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|88|671|<span class="rank-name-dl">嵐 Evo. 邪兄&#x27;ｓ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|90|664|<span class="rank-name-dl">SOR</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|91|663|<span class="rank-name-dl">Iwanami</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|92|659|<span class="rank-name-dl">ばぃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|93|643|<span class="rank-name-dl">N</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|94|642|<span class="rank-name-dl">Hina</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|95|629|<span class="rank-name-dl">雪見だいふく</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|96|625|<span class="rank-name-dl">キッチ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|97|621|<span class="rank-name-dl">タキ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|98|613|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|99|589|<span class="rank-name-dl">kira_000</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|100|587|<span class="rank-name-dl">みさと</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|34|960|<span class="rank-name-dl">あきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|35|955|<span class="rank-name-dl">佐々木です</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|35|955|<span class="rank-name-dl">田中 湧熙</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|37|953|<span class="rank-name-dl">Noripi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|38|951|<span class="rank-name-dl">エソラ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|39|949|<span class="rank-name-dl">ばりぃさん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|40|948|<span class="rank-name-dl">ともや@バンコク</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|40|948|<span class="rank-name-dl">平田　翔也</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|42|946|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|43|927|<span class="rank-name-dl">ゆずポン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|44|924|<span class="rank-name-dl">村山の嵩くん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|45|923|<span class="rank-name-dl">獅白ポルカ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|46|918|<span class="rank-name-dl">みや茶ん@</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|47|916|<span class="rank-name-dl">若丼</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|48|910|<span class="rank-name-dl">NO NAME 6359</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|49|907|<span class="rank-name-dl">maち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|49|907|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|51|906|<span class="rank-name-dl">のーねーむ6662</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|52|904|<span class="rank-name-dl">Starfee</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|52|904|<span class="rank-name-dl">いさき</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|54|902|<span class="rank-name-dl">裕⇔ishico@Fred</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|55|899|<span class="rank-name-dl">我流どんく弐闘龍</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|56|896|<span class="rank-name-dl">JiRo</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|57|893|<span class="rank-name-dl">みちみちみっちー</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|58|892|<span class="rank-name-dl">マックイーン</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|59|889|<span class="rank-name-dl">No NAME 1130</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|59|889|<span class="rank-name-dl">yuma tommy</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|59|889|<span class="rank-name-dl">俺やでッ！×TEIN</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|62|888|<span class="rank-name-dl">Hi</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|62|888|<span class="rank-name-dl">やす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|64|886|<span class="rank-name-dl">山田　琢磨</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|65|885|<span class="rank-name-dl">明</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|66|877|<span class="rank-name-dl">ㅤㅤ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|67|861|<span class="rank-name-dl">Mr.INcrediBULL</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|68|840|<span class="rank-name-dl">ヒロシでやんす</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|69|839|<span class="rank-name-dl">ボビン2</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|70|824|<span class="rank-name-dl">No NAME 1974</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|71|800|<span class="rank-name-dl">Kazufumi Shimada</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|72|791|<span class="rank-name-dl">(岡 本 - R&#x27;s)</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|73|770|<span class="rank-name-dl">おさしみ！</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|74|768|<span class="rank-name-dl">あずあず@オフ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|75|729|<span class="rank-name-dl">Ryuka。。</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|76|720|<span class="rank-name-dl">安藤モア</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|77|719|<span class="rank-name-dl">Rs恒蔵</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|78|711|<span class="rank-name-dl">Reii</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|79|705|<span class="rank-name-dl">GSXだった人</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|80|704|<span class="rank-name-dl">のんちょん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|80|704|<span class="rank-name-dl">ぼん【2】</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|82|703|<span class="rank-name-dl">なべさん@台湾</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|83|674|<span class="rank-name-dl">marta.るあ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|84|673|<span class="rank-name-dl">KSK@龍玄塾</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|85|671|<span class="rank-name-dl">Mirorin</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|85|671|<span class="rank-name-dl">嵐 Evo. 邪兄&#x27;ｓ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|87|664|<span class="rank-name-dl">SOR</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|88|663|<span class="rank-name-dl">Iwanami</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|89|659|<span class="rank-name-dl">ばぃん</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|90|643|<span class="rank-name-dl">N</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|91|642|<span class="rank-name-dl">Hina</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|92|629|<span class="rank-name-dl">雪見だいふく</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|93|625|<span class="rank-name-dl">キッチ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|94|621|<span class="rank-name-dl">タキ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|95|613|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|96|589|<span class="rank-name-dl">kira_000</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|97|587|<span class="rank-name-dl">みさと</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|98|584|<span class="rank-name-dl">DOLPHIN♡LOVE</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|99|577|<span class="rank-name-dl">るち</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|99|577|<span class="rank-name-dl">ファースト</span>|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 
 
 #### PHOENIXDARTS TOP 100

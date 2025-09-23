@@ -24,9 +24,9 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1166|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|2|1132|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|2|1132|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |3|1124|<span class="rank-name-pd">おがが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|4|1121|<span class="rank-name-dl">秋田犬</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|4|1121|<span class="rank-name-dl">秋田犬</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |5|1100|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |6|1085|<span class="rank-name-dl">くまきち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |6|1085|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
@@ -36,93 +36,93 @@ ___
 |11|1079|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/ed262f0c6525d0c70d9b047a20a7ba1e">セスパ東大宮店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |12|1075|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |13|1071|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|14|1061|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|14|1061|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |15|1058|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |16|1057|<span class="rank-name-dl">拳JIRO†CBC</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |17|1052|<span class="rank-name-dl">Shin⑤★豆腐ﾒﾝﾀﾙ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |17|1052|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |19|1050|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |20|1040|<span class="rank-name-dl">NO NAME 7183</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|21|1038|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|22|1034|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|22|1034|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店 DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|24|1033|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|25|1028|<span class="rank-name-dl">ぷりてぃどーる</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|25|1028|<span class="rank-name-dl">ｸﾘｽﾏｽぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|27|1027|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|28|1023|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|29|1021|<span class="rank-name-dl">ペペロンチーノ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|30|1019|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK 上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|30|1019|<span class="rank-name-dl">山田 智之</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|32|1017|<span class="rank-name-dl">小島 渉</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|33|1016|<span class="rank-name-dl">SKEETER</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|34|1015|<span class="rank-name-dl">ｽ~ﾊﾟ~心ｸﾝ✯No.5</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|35|1013|<span class="rank-name-dl">tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|36|1011|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|36|1011|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|38|1007|<span class="rank-name-dl">ぽぽ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|39|1006|<span class="rank-name-dl">omikuma</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|40|1005|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|41|1004|<span class="rank-name-dl">☆破壊神ブルス☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|42|1003|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店 DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|43|1002|<span class="rank-name-pd"><span class="pro-icon-pd"></span>羽角 英明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|44|1000|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|44|1000|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|46|999|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|47|992|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|48|991|<span class="rank-name-dl">☆ Wing ☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|49|984|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|49|984|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|51|982|<span class="rank-name-dl">☆　M-STYLE　☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|52|979|<span class="rank-name-dl">誰か煎餅買ってき</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|53|978|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|54|975|<span class="rank-name-dl">Pretty Doll</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|54|975|<span class="rank-name-dl">Σ੧(❛□❛✿)</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|54|975|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|57|974|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|58|972|<span class="rank-name-dl">☆まめしば☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|59|970|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|59|970|<span class="rank-name-dl">ｼﾞｭﾝﾍﾟｲ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|61|969|<span class="rank-name-dl">KS6200</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|61|969|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|61|969|<span class="rank-name-dl">練習中のおじさん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|64|967|<span class="rank-name-dl">ありそん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|64|967|<span class="rank-name-dl">ハゲタコ</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK 上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|66|966|<span class="rank-name-dl">ZAZAぴりか</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|66|966|<span class="rank-name-dl">ういしえのん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|68|965|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|68|965|<span class="rank-name-dl">ぐんかつぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|68|965|<span class="rank-name-dl">プリティドール</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|71|963|<span class="rank-name-dl">かむいちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|72|962|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|72|962|<span class="rank-name-pd">あっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|74|960|<span class="rank-name-dl">Earl Gray</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|74|960|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|76|959|<span class="rank-name-dl">REMIX</span>|<a href="https://search.dartslive.com/jp/shop/f6cabe42593391200d9b047a20a7ba1e">REMIX</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|76|959|<span class="rank-name-dl">〆　〆野　〆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|78|957|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|79|955|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|80|953|<span class="rank-name-dl">しょうへいへい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|80|953|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|80|953|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|83|952|<span class="rank-name-dl">yuuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|84|950|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|84|950|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|84|950|<span class="rank-name-dl">ちぃぼぉ。</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|87|948|<span class="rank-name-dl">☆女神様☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|88|942|<span class="rank-name-dl">ぺぃ×2。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|88|942|<span class="rank-name-dl">純平のくせに</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|90|941|<span class="rank-name-dl">Ryo-San</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|90|941|<span class="rank-name-dl">布理亭道流</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|92|940|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|93|939|<span class="rank-name-dl">いのしん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|93|939|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|95|938|<span class="rank-name-dl">ZAZA GAN-JIN</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|95|938|<span class="rank-name-dl">カシアスぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|97|937|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|98|935|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|99|934|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|100|930|<span class="rank-name-dl">ぺぃ×2</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|21|1034|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|21|1034|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|23|1033|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|24|1028|<span class="rank-name-dl">ぷりてぃどーる</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|24|1028|<span class="rank-name-dl">ｸﾘｽﾏｽぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|26|1027|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|27|1021|<span class="rank-name-dl">ペペロンチーノ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|28|1019|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|28|1019|<span class="rank-name-dl">山田 智之</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|30|1017|<span class="rank-name-dl">小島 渉</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|31|1016|<span class="rank-name-dl">SKEETER</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|32|1015|<span class="rank-name-dl">ｽ~ﾊﾟ~心ｸﾝ✯No.5</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|33|1013|<span class="rank-name-dl">tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|34|1011|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|34|1011|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|36|1007|<span class="rank-name-dl">ぽぽ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|37|1006|<span class="rank-name-dl">omikuma</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|38|1005|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|39|1004|<span class="rank-name-dl">☆破壊神ブルス☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|40|1003|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|41|1002|<span class="rank-name-pd"><span class="pro-icon-pd"></span>羽角 英明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|42|1000|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|42|1000|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|44|999|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|45|991|<span class="rank-name-dl">☆ Wing ☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|46|984|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|47|982|<span class="rank-name-dl">☆　M-STYLE　☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|48|979|<span class="rank-name-dl">誰か煎餅買ってき</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|49|975|<span class="rank-name-dl">Pretty Doll</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|49|975|<span class="rank-name-dl">Σ੧(❛□❛✿)</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|49|975|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|52|974|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|53|972|<span class="rank-name-dl">☆まめしば☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|54|970|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|54|970|<span class="rank-name-dl">ｼﾞｭﾝﾍﾟｲ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|56|969|<span class="rank-name-dl">KS6200</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|56|969|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|56|969|<span class="rank-name-dl">練習中のおじさん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|59|967|<span class="rank-name-dl">ありそん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|59|967|<span class="rank-name-dl">ハゲタコ</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|61|966|<span class="rank-name-dl">ZAZAぴりか</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|61|966|<span class="rank-name-dl">ういしえのん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|63|965|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|63|965|<span class="rank-name-dl">ぐんかつぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|63|965|<span class="rank-name-dl">プリティドール</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|66|963|<span class="rank-name-dl">かむいちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|67|962|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|67|962|<span class="rank-name-pd">あっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|69|960|<span class="rank-name-dl">Earl Gray</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|69|960|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|71|959|<span class="rank-name-dl">REMIX</span>|<a href="https://search.dartslive.com/jp/shop/f6cabe42593391200d9b047a20a7ba1e">REMIX</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|71|959|<span class="rank-name-dl">〆　〆野　〆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|73|957|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|74|953|<span class="rank-name-dl">しょうへいへい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|74|953|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|74|953|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|77|952|<span class="rank-name-dl">yuuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|78|950|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|78|950|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|78|950|<span class="rank-name-dl">ちぃぼぉ。</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|81|948|<span class="rank-name-dl">☆女神様☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|82|942|<span class="rank-name-dl">ぺぃ×2。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|82|942|<span class="rank-name-dl">純平のくせに</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|84|941|<span class="rank-name-dl">Ryo-San</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|84|941|<span class="rank-name-dl">布理亭道流</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|86|940|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|87|939|<span class="rank-name-dl">いのしん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|87|939|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|89|938|<span class="rank-name-dl">ZAZA GAN-JIN</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|89|938|<span class="rank-name-dl">カシアスぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|91|937|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|92|935|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|93|934|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|94|930|<span class="rank-name-dl">ぺぃ×2</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|94|930|<span class="rank-name-dl">ハマグリ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|96|928|<span class="rank-name-dl">ぐんかつ7</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|97|927|<span class="rank-name-dl">〓bazz〓</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|98|926|<span class="rank-name-pd">Vubblicious@BED-CLUB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95040?s_seq=95040">CAFE&BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|98|926|<span class="rank-name-dl">ぴょんきち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|100|925|<span class="rank-name-dl">√こーえい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,8 +133,8 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1166|<span class="rank-name-dl">いちかわゆうた∞</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|2|1132|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|3|1121|<span class="rank-name-dl">秋田犬</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|2|1132|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|3|1121|<span class="rank-name-dl">秋田犬</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |4|1100|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |5|1085|<span class="rank-name-dl">くまきち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |5|1085|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
@@ -144,94 +144,94 @@ ___
 |10|1079|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/ed262f0c6525d0c70d9b047a20a7ba1e">セスパ東大宮店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |11|1075|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |12|1071|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|13|1061|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|13|1061|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |14|1058|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |15|1057|<span class="rank-name-dl">拳JIRO†CBC</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |16|1052|<span class="rank-name-dl">Shin⑤★豆腐ﾒﾝﾀﾙ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |16|1052|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |18|1050|<span class="rank-name-dl">くろちん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 |19|1040|<span class="rank-name-dl">NO NAME 7183</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|20|1038|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|21|1034|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|21|1034|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店 DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|23|1033|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|24|1028|<span class="rank-name-dl">ぷりてぃどーる</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|24|1028|<span class="rank-name-dl">ｸﾘｽﾏｽぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|26|1027|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|27|1023|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|28|1021|<span class="rank-name-dl">ペペロンチーノ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|29|1019|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK 上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|29|1019|<span class="rank-name-dl">山田 智之</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|31|1017|<span class="rank-name-dl">小島 渉</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|32|1016|<span class="rank-name-dl">SKEETER</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|33|1015|<span class="rank-name-dl">ｽ~ﾊﾟ~心ｸﾝ✯No.5</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|34|1013|<span class="rank-name-dl">tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|35|1011|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|35|1011|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|37|1007|<span class="rank-name-dl">ぽぽ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|38|1006|<span class="rank-name-dl">omikuma</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|39|1005|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|40|1004|<span class="rank-name-dl">☆破壊神ブルス☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|41|1003|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店 DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|42|1000|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|42|1000|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|44|999|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|45|992|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|46|991|<span class="rank-name-dl">☆ Wing ☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|47|984|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|47|984|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|49|982|<span class="rank-name-dl">☆　M-STYLE　☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|50|979|<span class="rank-name-dl">誰か煎餅買ってき</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|51|978|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|52|975|<span class="rank-name-dl">Pretty Doll</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|52|975|<span class="rank-name-dl">Σ੧(❛□❛✿)</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|52|975|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|55|974|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|56|972|<span class="rank-name-dl">☆まめしば☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|57|970|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|57|970|<span class="rank-name-dl">ｼﾞｭﾝﾍﾟｲ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|59|969|<span class="rank-name-dl">KS6200</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|59|969|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|59|969|<span class="rank-name-dl">練習中のおじさん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|62|967|<span class="rank-name-dl">ありそん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|62|967|<span class="rank-name-dl">ハゲタコ</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK 上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|64|966|<span class="rank-name-dl">ZAZAぴりか</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|64|966|<span class="rank-name-dl">ういしえのん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|66|965|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|66|965|<span class="rank-name-dl">ぐんかつぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|66|965|<span class="rank-name-dl">プリティドール</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|69|963|<span class="rank-name-dl">かむいちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|70|962|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|71|960|<span class="rank-name-dl">Earl Gray</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|71|960|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|73|959|<span class="rank-name-dl">REMIX</span>|<a href="https://search.dartslive.com/jp/shop/f6cabe42593391200d9b047a20a7ba1e">REMIX</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|73|959|<span class="rank-name-dl">〆　〆野　〆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|75|957|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|76|955|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|77|953|<span class="rank-name-dl">しょうへいへい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|77|953|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|77|953|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|80|952|<span class="rank-name-dl">yuuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|81|950|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|81|950|<span class="rank-name-dl">ちぃぼぉ。</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|83|948|<span class="rank-name-dl">☆女神様☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|84|942|<span class="rank-name-dl">ぺぃ×2。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|84|942|<span class="rank-name-dl">純平のくせに</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|86|941|<span class="rank-name-dl">Ryo-San</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|86|941|<span class="rank-name-dl">布理亭道流</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|88|940|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|89|939|<span class="rank-name-dl">いのしん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5 CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|89|939|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|91|938|<span class="rank-name-dl">ZAZA GAN-JIN</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|91|938|<span class="rank-name-dl">カシアスぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|93|937|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|94|935|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|95|934|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|96|930|<span class="rank-name-dl">ぺぃ×2</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|96|930|<span class="rank-name-dl">ハマグリ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店 快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|98|928|<span class="rank-name-dl">ぐんかつ7</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|99|927|<span class="rank-name-dl">〓bazz〓</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|100|926|<span class="rank-name-dl">ぴょんきち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|20|1034|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|20|1034|<span class="rank-name-dl">とも太郎♤ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|22|1033|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|23|1028|<span class="rank-name-dl">ぷりてぃどーる</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|23|1028|<span class="rank-name-dl">ｸﾘｽﾏｽぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|25|1027|<span class="rank-name-dl">はやと@ソマリ2匹</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|26|1021|<span class="rank-name-dl">ペペロンチーノ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|27|1019|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|27|1019|<span class="rank-name-dl">山田 智之</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|29|1017|<span class="rank-name-dl">小島 渉</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|30|1016|<span class="rank-name-dl">SKEETER</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|31|1015|<span class="rank-name-dl">ｽ~ﾊﾟ~心ｸﾝ✯No.5</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|32|1013|<span class="rank-name-dl">tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|33|1011|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|33|1011|<span class="rank-name-dl">工藤ちゃん九郎</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|35|1007|<span class="rank-name-dl">ぽぽ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|36|1006|<span class="rank-name-dl">omikuma</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|37|1005|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|38|1004|<span class="rank-name-dl">☆破壊神ブルス☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|39|1003|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|40|1000|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|40|1000|<span class="rank-name-dl">まー坊ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|42|999|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|43|991|<span class="rank-name-dl">☆ Wing ☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|44|984|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|45|982|<span class="rank-name-dl">☆　M-STYLE　☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|46|979|<span class="rank-name-dl">誰か煎餅買ってき</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|47|975|<span class="rank-name-dl">Pretty Doll</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|47|975|<span class="rank-name-dl">Σ੧(❛□❛✿)</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|47|975|<span class="rank-name-dl">じーふじ</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|50|974|<span class="rank-name-dl">がや</span>|<a href="https://search.dartslive.com/jp/shop/58d510b8d9cc704b0d9b047a20a7ba1e">セスパ上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|51|972|<span class="rank-name-dl">☆まめしば☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|52|970|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|52|970|<span class="rank-name-dl">ｼﾞｭﾝﾍﾟｲ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|54|969|<span class="rank-name-dl">KS6200</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|54|969|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|54|969|<span class="rank-name-dl">練習中のおじさん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|57|967|<span class="rank-name-dl">ありそん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|57|967|<span class="rank-name-dl">ハゲタコ</span>|<a href="https://search.dartslive.com/jp/shop/2a536a9eab6306cf0d9b047a20a7ba1e">上尾BLACK</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|59|966|<span class="rank-name-dl">ZAZAぴりか</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|59|966|<span class="rank-name-dl">ういしえのん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|61|965|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|61|965|<span class="rank-name-dl">ぐんかつぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|61|965|<span class="rank-name-dl">プリティドール</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|64|963|<span class="rank-name-dl">かむいちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|65|962|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|66|960|<span class="rank-name-dl">Earl Gray</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|66|960|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|68|959|<span class="rank-name-dl">REMIX</span>|<a href="https://search.dartslive.com/jp/shop/f6cabe42593391200d9b047a20a7ba1e">REMIX</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|68|959|<span class="rank-name-dl">〆　〆野　〆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|70|957|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|71|953|<span class="rank-name-dl">しょうへいへい</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|71|953|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|71|953|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|74|952|<span class="rank-name-dl">yuuya</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|75|950|<span class="rank-name-dl">TK</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|75|950|<span class="rank-name-dl">ちぃぼぉ。</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|77|948|<span class="rank-name-dl">☆女神様☆</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|78|942|<span class="rank-name-dl">ぺぃ×2。</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|78|942|<span class="rank-name-dl">純平のくせに</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|80|941|<span class="rank-name-dl">Ryo-San</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|80|941|<span class="rank-name-dl">布理亭道流</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|82|940|<span class="rank-name-dl">松原 笙太</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|83|939|<span class="rank-name-dl">いのしん</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|83|939|<span class="rank-name-dl">とーま</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|85|938|<span class="rank-name-dl">ZAZA GAN-JIN</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|85|938|<span class="rank-name-dl">カシアスぐんかつ</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|87|937|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|88|935|<span class="rank-name-dl">ひつじ人間</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|89|934|<span class="rank-name-dl">こーえい#JackPot</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|90|930|<span class="rank-name-dl">ぺぃ×2</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|90|930|<span class="rank-name-dl">ハマグリ</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|92|928|<span class="rank-name-dl">ぐんかつ7</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|93|927|<span class="rank-name-dl">〓bazz〓</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|94|926|<span class="rank-name-dl">ぴょんきち</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|95|925|<span class="rank-name-dl">√こーえい</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|95|925|<span class="rank-name-dl">ぴかりん</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|97|924|<span class="rank-name-dl">@ちゃんつー</span>|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|98|923|<span class="rank-name-dl">小さい</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|99|921|<span class="rank-name-dl">おがが</span>|<a href="https://search.dartslive.com/jp/shop/736c6e2915581b6e0d9b047a20a7ba1e">DARTS BAR ZAZA 上尾店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|100|920|<span class="rank-name-dl">Pretty Doll</span>|<a href="https://search.dartslive.com/jp/shop/0376d5a0e88baa7fb21333aee1bd51e4">CAFE＆BAR Number5</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 
 
 #### PHOENIXDARTS TOP 100

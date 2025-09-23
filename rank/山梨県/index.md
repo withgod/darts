@@ -63,7 +63,7 @@ ___
 |22|1147|<span class="rank-name-pd">Sound Garage Tackey尊敬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |23|1145|<span class="rank-name-pd">今週もよろしくお願いします。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
 |24|1138|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|25|1136|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|25|1136|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |25|1136|<span class="rank-name-pd">姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |27|1131|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |28|1127|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 迅人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
@@ -74,7 +74,7 @@ ___
 |33|1106|<span class="rank-name-pd">跡部 景吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
 |34|1105|<span class="rank-name-pd">CIEL  てんちょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77678?s_seq=77678">DartsCafe&Bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
 |35|1104|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91211?s_seq=91211">麵屋 湊</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|36|1101|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|36|1101|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |37|1090|<span class="rank-name-pd">ごきげんよう。さようなら。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
 |38|1089|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 迅人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |39|1086|<span class="rank-name-dl">ぎびちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
@@ -84,61 +84,61 @@ ___
 |42|1083|<span class="rank-name-pd">プロ迎撃やん坊吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |44|1082|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |44|1082|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|46|1081|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|47|1079|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店 快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|48|1075|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|48|1075|<span class="rank-name-pd">跡部 景吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|50|1074|<span class="rank-name-pd">Crush on@G-Blue</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
-|51|1071|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|52|1069|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|53|1068|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|54|1059|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|55|1057|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|56|1055|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|57|1054|<span class="rank-name-pd">DAI@MONKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|57|1054|<span class="rank-name-pd">ネオン＠極東夜鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|59|1051|<span class="rank-name-pd">セパの姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|60|1049|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|61|1048|<span class="rank-name-dl">18式特設派遣隊</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|62|1044|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|63|1042|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|64|1040|<span class="rank-name-dl">CIEL てんちょー</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|64|1040|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|66|1038|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|66|1038|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|68|1036|<span class="rank-name-dl">はやたん</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|68|1036|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
-|70|1035|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|71|1031|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|71|1031|<span class="rank-name-dl">みつる</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|73|1030|<span class="rank-name-pd">gengoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|73|1030|<span class="rank-name-pd">midnight(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|75|1029|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|76|1028|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|77|1027|<span class="rank-name-dl">ゆうたDevi悪魔會</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|78|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|79|1024|<span class="rank-name-pd"><span class="pro-icon-pd"></span>羽田 壮汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
-|80|1020|<span class="rank-name-pd">ヒロシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|81|1017|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|82|1013|<span class="rank-name-dl">コバヤシ ヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|83|1012|<span class="rank-name-dl">SGGK</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|83|1012|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|85|1011|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|86|1008|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|86|1008|<span class="rank-name-dl">Maku</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店 快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|86|1008|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|90|1005|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|91|1004|<span class="rank-name-pd">HIRO-Clown*2-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|92|1002|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|92|1002|<span class="rank-name-dl">DARTSLIVEMEISTER</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|92|1002|<span class="rank-name-dl">NO NAME 0400</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|92|1002|<span class="rank-name-pd">鈴木 徹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77678?s_seq=77678">DartsCafe&Bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|96|1001|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|96|1001|<span class="rank-name-dl">テル兄　ver2</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|98|1000|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|98|1000|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|100|999|<span class="rank-name-pd">tackey☆S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
+|46|1075|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|46|1075|<span class="rank-name-pd">跡部 景吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|48|1074|<span class="rank-name-pd">Crush on@G-Blue</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
+|49|1071|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|50|1069|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|51|1068|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|52|1059|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|53|1057|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|54|1055|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|55|1054|<span class="rank-name-pd">DAI@MONKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|55|1054|<span class="rank-name-pd">ネオン＠極東夜鳥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|57|1051|<span class="rank-name-pd">セパの姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|58|1049|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|59|1048|<span class="rank-name-dl">18式特設派遣隊</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|60|1044|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|61|1042|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|62|1040|<span class="rank-name-dl">CIEL てんちょー</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|63|1038|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|63|1038|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|65|1036|<span class="rank-name-dl">はやたん</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|65|1036|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
+|67|1035|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|68|1031|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|68|1031|<span class="rank-name-dl">みつる</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|70|1030|<span class="rank-name-pd">gengoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|70|1030|<span class="rank-name-pd">midnight(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|72|1029|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|73|1028|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|74|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|75|1024|<span class="rank-name-pd"><span class="pro-icon-pd"></span>羽田 壮汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
+|76|1020|<span class="rank-name-pd">ヒロシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|77|1013|<span class="rank-name-dl">コバヤシ ヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|78|1012|<span class="rank-name-dl">SGGK</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|78|1012|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|80|1008|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|80|1008|<span class="rank-name-dl">Maku</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|80|1008|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|83|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|84|1005|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|85|1004|<span class="rank-name-pd">HIRO-Clown*2-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|86|1002|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|86|1002|<span class="rank-name-dl">DARTSLIVEMEISTER</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|86|1002|<span class="rank-name-dl">NO NAME 0400</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|86|1002|<span class="rank-name-pd">鈴木 徹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77678?s_seq=77678">DartsCafe&Bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|90|1001|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10616?s_seq=10616">アプレシオ甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|90|1001|<span class="rank-name-dl">テル兄　ver2</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|92|1000|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|92|1000|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|94|999|<span class="rank-name-pd">tackey☆S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59206?s_seq=59206">Shooting Bar Sound Garage</a>|<a href="/darts/rank/山梨県/大月市">山梨県大月市</a>|
+|95|998|<span class="rank-name-pd"><span class="pro-icon-pd"></span>橋爪 優季</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|96|992|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|97|989|<span class="rank-name-pd">umi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9148?s_seq=9148">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|98|986|<span class="rank-name-dl">釼持 源太</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|99|983|<span class="rank-name-pd">とぅ〜でい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|100|981|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -150,104 +150,104 @@ ___
 |---|---|---|---|---|
 |1|1250|<span class="rank-name-dl">Tetsu.＠S.GARAGE</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |2|1138|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|3|1136|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|3|1136|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |4|1131|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|5|1101|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|5|1101|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |6|1086|<span class="rank-name-dl">ぎびちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |6|1086|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
 |8|1083|<span class="rank-name-dl">Omt</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
 |9|1082|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|10|1081|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|11|1079|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店 快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|12|1075|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|13|1069|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|14|1068|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|15|1059|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|16|1055|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|17|1048|<span class="rank-name-dl">18式特設派遣隊</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|18|1044|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|19|1042|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|20|1040|<span class="rank-name-dl">CIEL てんちょー</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|20|1040|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|22|1038|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|23|1036|<span class="rank-name-dl">はやたん</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|24|1031|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|24|1031|<span class="rank-name-dl">みつる</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|26|1029|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|27|1028|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|28|1027|<span class="rank-name-dl">ゆうたDevi悪魔會</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|28|1027|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|30|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|31|1017|<span class="rank-name-dl">テル兄_twitter</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店 B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|32|1013|<span class="rank-name-dl">コバヤシ ヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|33|1012|<span class="rank-name-dl">SGGK</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|34|1011|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|35|1008|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|35|1008|<span class="rank-name-dl">Maku</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店 快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|37|1002|<span class="rank-name-dl">DARTSLIVEMEISTER</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|37|1002|<span class="rank-name-dl">NO NAME 0400</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|39|1001|<span class="rank-name-dl">テル兄　ver2</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|40|1000|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|40|1000|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|42|986|<span class="rank-name-dl">釼持 源太</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|43|981|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|44|977|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|45|974|<span class="rank-name-dl">kabe</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|46|972|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|47|970|<span class="rank-name-dl">mah</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店 快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|47|970|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|49|969|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|49|969|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|51|968|<span class="rank-name-dl">たいせー</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|51|968|<span class="rank-name-dl">銀のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|53|966|<span class="rank-name-dl">Ricardo</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|53|966|<span class="rank-name-dl">ごっつ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|53|966|<span class="rank-name-dl">ズミさん(サブ)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|53|966|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|57|964|<span class="rank-name-dl">Forever</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|57|964|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|57|964|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|57|964|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|61|963|<span class="rank-name-dl">石津敬仁</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|62|960|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|62|960|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|64|957|<span class="rank-name-dl">Yosky</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|65|956|<span class="rank-name-dl">なおてぃーーん</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|66|955|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|66|955|<span class="rank-name-dl">ねくさすなんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|68|954|<span class="rank-name-dl">⭐︎VANITY⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|68|954|<span class="rank-name-dl">たいせー</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店 アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|70|953|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|71|952|<span class="rank-name-dl">YUTA@量産型</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|71|952|<span class="rank-name-dl">t0127taka</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|71|952|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|74|950|<span class="rank-name-dl">よっしゃ幾三</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|74|950|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|76|948|<span class="rank-name-dl">そうた</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|77|947|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|78|945|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|79|943|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|80|942|<span class="rank-name-dl">(A-DG＞( -_・)</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|81|940|<span class="rank-name-dl">=DDD=</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|81|940|<span class="rank-name-dl">Ricardo</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|81|940|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|81|940|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|81|940|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|86|939|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|87|938|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|87|938|<span class="rank-name-dl">かーいーと</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|89|937|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店 コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|937|<span class="rank-name-dl">りょー萬☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|89|937|<span class="rank-name-dl">中村 光延</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|92|936|<span class="rank-name-dl">S.</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|93|935|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|94|934|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|95|933|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|96|932|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
-|97|931|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|98|930|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|99|928|<span class="rank-name-dl">⭐︎釼持源太⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|99|928|<span class="rank-name-dl">南冲尋定</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|10|1075|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|11|1069|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|12|1068|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|13|1059|<span class="rank-name-dl">ネオン＠弓兵(元)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|14|1055|<span class="rank-name-dl">Toru Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|15|1048|<span class="rank-name-dl">18式特設派遣隊</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|16|1044|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|17|1042|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|18|1040|<span class="rank-name-dl">CIEL てんちょー</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|19|1038|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|20|1036|<span class="rank-name-dl">はやたん</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|21|1031|<span class="rank-name-dl">ふ</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|21|1031|<span class="rank-name-dl">みつる</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|23|1029|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|24|1028|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|25|1027|<span class="rank-name-dl">ゆうたDevi悪魔會</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|25|1027|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|27|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|28|1013|<span class="rank-name-dl">コバヤシ ヒロシ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|29|1012|<span class="rank-name-dl">SGGK</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|30|1008|<span class="rank-name-dl">BRAIN#23 なんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|30|1008|<span class="rank-name-dl">Maku</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|32|1002|<span class="rank-name-dl">DARTSLIVEMEISTER</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|32|1002|<span class="rank-name-dl">NO NAME 0400</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|34|1001|<span class="rank-name-dl">テル兄　ver2</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|35|1000|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|35|1000|<span class="rank-name-dl">TAKAHIRO</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|37|986|<span class="rank-name-dl">釼持 源太</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|38|981|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|39|977|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|40|974|<span class="rank-name-dl">kabe</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|41|972|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|42|970|<span class="rank-name-dl">mah</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|42|970|<span class="rank-name-dl">鈴木 徹</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|44|969|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|44|969|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|46|968|<span class="rank-name-dl">たいせー</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|46|968|<span class="rank-name-dl">銀のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|48|966|<span class="rank-name-dl">Ricardo</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|48|966|<span class="rank-name-dl">ごっつ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|48|966|<span class="rank-name-dl">ズミさん(サブ)</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|48|966|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|52|964|<span class="rank-name-dl">Forever</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|52|964|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|52|964|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|52|964|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|56|963|<span class="rank-name-dl">石津敬仁</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|57|960|<span class="rank-name-dl">51</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|57|960|<span class="rank-name-dl">たまま</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|59|957|<span class="rank-name-dl">Yosky</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|60|956|<span class="rank-name-dl">なおてぃーーん</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|61|955|<span class="rank-name-dl">ただし君@つどい</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|61|955|<span class="rank-name-dl">ねくさすなんぶ</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|63|954|<span class="rank-name-dl">⭐︎VANITY⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|64|953|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|65|952|<span class="rank-name-dl">YUTA@量産型</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|65|952|<span class="rank-name-dl">t0127taka</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|67|950|<span class="rank-name-dl">よっしゃ幾三</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|67|950|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|69|948|<span class="rank-name-dl">そうた</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|70|947|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|71|945|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|72|943|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|73|942|<span class="rank-name-dl">(A-DG＞( -_・)</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|74|940|<span class="rank-name-dl">=DDD=</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|74|940|<span class="rank-name-dl">Ricardo</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|74|940|<span class="rank-name-dl">osn.</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|74|940|<span class="rank-name-dl">ひろ㌧.｡.:✽</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|74|940|<span class="rank-name-dl">釼持源太</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|79|939|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|80|938|<span class="rank-name-dl">YOU d(^_^o)フレ</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|80|938|<span class="rank-name-dl">かーいーと</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|82|937|<span class="rank-name-dl">りょー萬☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|82|937|<span class="rank-name-dl">中村 光延</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|84|936|<span class="rank-name-dl">S.</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|85|935|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|86|934|<span class="rank-name-dl">Genta</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|87|933|<span class="rank-name-dl">忍野村忍草松之介</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|88|932|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|89|931|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|90|930|<span class="rank-name-dl">zero</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|91|928|<span class="rank-name-dl">⭐︎釼持源太⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|91|928|<span class="rank-name-dl">南冲尋定</span>|<a href="https://search.dartslive.com/jp/shop/4652407975922f61774c926eb736cb5a">B-GARAGE 富士吉田店</a>|<a href="/darts/rank/山梨県/富士吉田市">山梨県富士吉田市</a>|
+|93|927|<span class="rank-name-dl">Jokerヒロシﾃﾞｽ。</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|93|927|<span class="rank-name-dl">Naiki Joker</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|93|927|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|96|926|<span class="rank-name-dl">GAKUTO</span>|<a href="https://search.dartslive.com/jp/shop/783b3a66785149e658d385ea46352d8f">快活CLUB 石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|96|926|<span class="rank-name-dl">Yuta-Devi</span>|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|98|925|<span class="rank-name-dl">そうたです</span>|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|99|924|<span class="rank-name-dl">ﾋｮｷﾁﾝ@ごーばす</span>|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|100|923|<span class="rank-name-dl">石津敬仁</span>|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
 
 
 #### PHOENIXDARTS TOP 100

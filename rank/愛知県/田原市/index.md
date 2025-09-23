@@ -39,90 +39,90 @@ ___
 |14|820|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |15|810|<span class="rank-name-dl">hyo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |16|803|<span class="rank-name-pd">0216_0437</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|17|793|<span class="rank-name-dl">エンジュン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|17|793|<span class="rank-name-dl">エンジュン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |18|777|<span class="rank-name-dl">なかじー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |19|765|<span class="rank-name-pd">R-R-R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |20|760|<span class="rank-name-pd">エンジュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |21|753|<span class="rank-name-dl">KEN-G</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|22|751|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|23|739|<span class="rank-name-dl">Lyun</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|24|738|<span class="rank-name-pd">らいあん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|25|714|<span class="rank-name-dl">メイスーン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|26|712|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|27|705|<span class="rank-name-dl">(momo)</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|27|705|<span class="rank-name-dl">▲メイスーン▽</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|29|703|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|30|691|<span class="rank-name-dl">tkkn</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|31|685|<span class="rank-name-dl">なかじー（momo）</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|32|684|<span class="rank-name-dl">けーた</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|33|681|<span class="rank-name-pd">メイスーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|34|679|<span class="rank-name-pd">Wayaya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|35|678|<span class="rank-name-dl">たも</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|36|673|<span class="rank-name-pd">MoMo≡ZOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|37|672|<span class="rank-name-pd">イクラちゃんです@ISM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|38|670|<span class="rank-name-dl">なかじーmomo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|39|669|<span class="rank-name-pd">店番トキワ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|40|667|<span class="rank-name-pd">tkkn@ちちゅ民</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|41|657|<span class="rank-name-pd">赤っぱぢ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|42|654|<span class="rank-name-pd">アプクスン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|43|650|<span class="rank-name-dl">D.O.D</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|44|648|<span class="rank-name-pd">0191 4902</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|45|646|<span class="rank-name-pd">たけこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|46|645|<span class="rank-name-dl">たらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|47|642|<span class="rank-name-dl">本多 佑匡</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|48|639|<span class="rank-name-pd">きょうくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|49|637|<span class="rank-name-dl">やーな</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|50|636|<span class="rank-name-dl">パピプペポパプ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|51|632|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|52|630|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|53|628|<span class="rank-name-dl">ほん うんちぇ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|54|622|<span class="rank-name-dl">赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|55|621|<span class="rank-name-dl">コダマ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|56|617|<span class="rank-name-dl">ばっとたらまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|56|617|<span class="rank-name-dl">海野</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|58|616|<span class="rank-name-dl">かわい</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|59|610|<span class="rank-name-pd">にき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|60|607|<span class="rank-name-dl">Sakuma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|60|607|<span class="rank-name-pd">muneta2326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|62|600|<span class="rank-name-dl">Yuki Ushijima</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|63|593|<span class="rank-name-dl">SOILの人</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|63|593|<span class="rank-name-dl">りょへ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|65|577|<span class="rank-name-pd">るーーー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|66|575|<span class="rank-name-dl">あか</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|67|574|<span class="rank-name-dl">てーま</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|68|571|<span class="rank-name-dl">monaka</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|69|564|<span class="rank-name-dl">J.Y.Park</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|70|562|<span class="rank-name-pd">d-shoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|71|561|<span class="rank-name-dl">NO NAME 9942</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|71|561|<span class="rank-name-dl">きば</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|73|560|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|74|556|<span class="rank-name-dl">TACT</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|75|552|<span class="rank-name-dl">たけこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|76|551|<span class="rank-name-dl">Kengo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|77|548|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|78|546|<span class="rank-name-dl">桃发</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|79|541|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|80|539|<span class="rank-name-pd">Anna</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|81|538|<span class="rank-name-dl">ryo-ma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|81|538|<span class="rank-name-dl">店番トキワ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|83|536|<span class="rank-name-dl">ABARTH595compe↗</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|84|535|<span class="rank-name-dl">APRI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|85|533|<span class="rank-name-dl">ありてぃー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|86|531|<span class="rank-name-pd">9uoratiek</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|87|530|<span class="rank-name-pd">naou3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|88|529|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|89|527|<span class="rank-name-dl">BULL 牛MASTER</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|89|527|<span class="rank-name-pd">ε★たぁ⇒る☆з 222</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|91|522|<span class="rank-name-dl">rEINN</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|92|516|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|93|512|<span class="rank-name-pd">しゅーが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|94|510|<span class="rank-name-pd">©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|95|508|<span class="rank-name-dl">ジグそう</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|96|504|<span class="rank-name-dl">ぱちりす</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|97|500|<span class="rank-name-dl">αρχη</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|98|499|<span class="rank-name-dl">t_taku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|99|495|<span class="rank-name-dl">ワジ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|100|486|<span class="rank-name-dl">param</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|22|739|<span class="rank-name-dl">Lyun</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|23|738|<span class="rank-name-pd">らいあん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|24|714|<span class="rank-name-dl">メイスーン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|25|712|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|26|705|<span class="rank-name-dl">(momo)</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|26|705|<span class="rank-name-dl">▲メイスーン▽</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|28|703|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|29|691|<span class="rank-name-dl">tkkn</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|30|685|<span class="rank-name-dl">なかじー（momo）</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|31|684|<span class="rank-name-dl">けーた</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|32|681|<span class="rank-name-pd">メイスーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|33|679|<span class="rank-name-pd">Wayaya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|34|678|<span class="rank-name-dl">たも</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|35|673|<span class="rank-name-pd">MoMo≡ZOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|36|672|<span class="rank-name-pd">イクラちゃんです@ISM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|37|670|<span class="rank-name-dl">なかじーmomo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|38|669|<span class="rank-name-pd">店番トキワ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|39|667|<span class="rank-name-pd">tkkn@ちちゅ民</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|40|657|<span class="rank-name-pd">赤っぱぢ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|41|654|<span class="rank-name-pd">アプクスン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|42|650|<span class="rank-name-dl">D.O.D</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|43|648|<span class="rank-name-pd">0191 4902</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|44|646|<span class="rank-name-pd">たけこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|45|645|<span class="rank-name-dl">たらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|46|642|<span class="rank-name-dl">本多 佑匡</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|47|639|<span class="rank-name-pd">きょうくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|48|637|<span class="rank-name-dl">やーな</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|49|636|<span class="rank-name-dl">パピプペポパプ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|50|630|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|51|628|<span class="rank-name-dl">ほん うんちぇ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|52|622|<span class="rank-name-dl">赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|53|621|<span class="rank-name-dl">コダマ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|54|617|<span class="rank-name-dl">ばっとたらまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|54|617|<span class="rank-name-dl">海野</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|56|616|<span class="rank-name-dl">かわい</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|57|610|<span class="rank-name-pd">にき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|58|607|<span class="rank-name-dl">Sakuma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|58|607|<span class="rank-name-pd">muneta2326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|60|600|<span class="rank-name-dl">Yuki Ushijima</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|61|593|<span class="rank-name-dl">SOILの人</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|61|593|<span class="rank-name-dl">りょへ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|63|577|<span class="rank-name-pd">るーーー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|64|575|<span class="rank-name-dl">あか</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|65|574|<span class="rank-name-dl">てーま</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|66|571|<span class="rank-name-dl">monaka</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|67|564|<span class="rank-name-dl">J.Y.Park</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|68|562|<span class="rank-name-pd">d-shoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|69|561|<span class="rank-name-dl">NO NAME 9942</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|69|561|<span class="rank-name-dl">きば</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|71|560|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|72|556|<span class="rank-name-dl">TACT</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|73|552|<span class="rank-name-dl">たけこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|74|551|<span class="rank-name-dl">Kengo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|75|548|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|76|546|<span class="rank-name-dl">桃发</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|77|541|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|78|539|<span class="rank-name-pd">Anna</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|79|538|<span class="rank-name-dl">ryo-ma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|79|538|<span class="rank-name-dl">店番トキワ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|81|536|<span class="rank-name-dl">ABARTH595compe↗</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|82|535|<span class="rank-name-dl">APRI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|83|533|<span class="rank-name-dl">ありてぃー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|84|531|<span class="rank-name-pd">9uoratiek</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|85|530|<span class="rank-name-pd">naou3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|86|527|<span class="rank-name-dl">BULL 牛MASTER</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|86|527|<span class="rank-name-pd">ε★たぁ⇒る☆з 222</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|88|522|<span class="rank-name-dl">rEINN</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|89|516|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|90|512|<span class="rank-name-pd">しゅーが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|91|510|<span class="rank-name-pd">©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|92|508|<span class="rank-name-dl">ジグそう</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|93|504|<span class="rank-name-dl">ぱちりす</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|94|500|<span class="rank-name-dl">αρχη</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|95|499|<span class="rank-name-dl">t_taku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|96|495|<span class="rank-name-dl">ワジ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|97|486|<span class="rank-name-dl">param</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|98|484|<span class="rank-name-pd">あかまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|99|483|<span class="rank-name-dl">こ〜んに〜ちわ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|100|474|<span class="rank-name-dl">no name</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -141,70 +141,67 @@ ___
 |7|842|<span class="rank-name-dl">Mochizuki Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |8|820|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |9|810|<span class="rank-name-dl">hyo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|10|793|<span class="rank-name-dl">エンジュン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|10|793|<span class="rank-name-dl">エンジュン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |11|777|<span class="rank-name-dl">なかじー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 |12|753|<span class="rank-name-dl">KEN-G</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|13|751|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|14|739|<span class="rank-name-dl">Lyun</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|15|714|<span class="rank-name-dl">メイスーン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|16|705|<span class="rank-name-dl">(momo)</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|16|705|<span class="rank-name-dl">▲メイスーン▽</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|18|703|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|19|691|<span class="rank-name-dl">tkkn</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|20|685|<span class="rank-name-dl">なかじー（momo）</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|21|684|<span class="rank-name-dl">けーた</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|22|678|<span class="rank-name-dl">たも</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|23|670|<span class="rank-name-dl">なかじーmomo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|24|650|<span class="rank-name-dl">D.O.D</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|25|645|<span class="rank-name-dl">たらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|26|642|<span class="rank-name-dl">本多 佑匡</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|27|637|<span class="rank-name-dl">やーな</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|28|636|<span class="rank-name-dl">パピプペポパプ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|29|632|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|30|628|<span class="rank-name-dl">ほん うんちぇ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|31|622|<span class="rank-name-dl">赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|32|621|<span class="rank-name-dl">コダマ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|33|617|<span class="rank-name-dl">ばっとたらまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|33|617|<span class="rank-name-dl">海野</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|35|616|<span class="rank-name-dl">かわい</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|36|607|<span class="rank-name-dl">Sakuma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|37|600|<span class="rank-name-dl">Yuki Ushijima</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|38|593|<span class="rank-name-dl">SOILの人</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|38|593|<span class="rank-name-dl">りょへ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|40|575|<span class="rank-name-dl">あか</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|41|574|<span class="rank-name-dl">てーま</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|42|571|<span class="rank-name-dl">monaka</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|43|564|<span class="rank-name-dl">J.Y.Park</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|44|561|<span class="rank-name-dl">NO NAME 9942</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|44|561|<span class="rank-name-dl">きば</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|46|560|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|47|556|<span class="rank-name-dl">TACT</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|48|552|<span class="rank-name-dl">たけこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|49|551|<span class="rank-name-dl">Kengo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|50|548|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|51|546|<span class="rank-name-dl">桃发</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|52|538|<span class="rank-name-dl">ryo-ma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|52|538|<span class="rank-name-dl">店番トキワ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|54|536|<span class="rank-name-dl">ABARTH595compe↗</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|55|535|<span class="rank-name-dl">APRI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|56|533|<span class="rank-name-dl">ありてぃー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|57|529|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|58|527|<span class="rank-name-dl">BULL 牛MASTER</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|59|522|<span class="rank-name-dl">rEINN</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|60|516|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|61|508|<span class="rank-name-dl">ジグそう</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|62|504|<span class="rank-name-dl">ぱちりす</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|63|500|<span class="rank-name-dl">αρχη</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|64|499|<span class="rank-name-dl">t_taku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|65|495|<span class="rank-name-dl">ワジ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店 カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|66|486|<span class="rank-name-dl">param</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|67|483|<span class="rank-name-dl">こ〜んに〜ちわ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|68|474|<span class="rank-name-dl">no name</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|69|470|<span class="rank-name-dl">wow</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|70|454|<span class="rank-name-dl">エレフィ品保</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|71|450|<span class="rank-name-dl">K.nabechan</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|72|427|<span class="rank-name-dl">MASAYOSHI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
-|73|292|<span class="rank-name-dl">工口</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|13|739|<span class="rank-name-dl">Lyun</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|14|714|<span class="rank-name-dl">メイスーン</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|15|705|<span class="rank-name-dl">(momo)</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|15|705|<span class="rank-name-dl">▲メイスーン▽</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|17|703|<span class="rank-name-dl">ゆーや@赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|18|691|<span class="rank-name-dl">tkkn</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|19|685|<span class="rank-name-dl">なかじー（momo）</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|20|684|<span class="rank-name-dl">けーた</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|21|678|<span class="rank-name-dl">たも</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|22|670|<span class="rank-name-dl">なかじーmomo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|23|650|<span class="rank-name-dl">D.O.D</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|24|645|<span class="rank-name-dl">たらちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|25|642|<span class="rank-name-dl">本多 佑匡</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|26|637|<span class="rank-name-dl">やーな</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|27|636|<span class="rank-name-dl">パピプペポパプ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|28|628|<span class="rank-name-dl">ほん うんちぇ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|29|622|<span class="rank-name-dl">赤っぱぢ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|30|621|<span class="rank-name-dl">コダマ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|31|617|<span class="rank-name-dl">ばっとたらまる</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|31|617|<span class="rank-name-dl">海野</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|33|616|<span class="rank-name-dl">かわい</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|34|607|<span class="rank-name-dl">Sakuma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|35|600|<span class="rank-name-dl">Yuki Ushijima</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|36|593|<span class="rank-name-dl">SOILの人</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|36|593|<span class="rank-name-dl">りょへ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|38|575|<span class="rank-name-dl">あか</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|39|574|<span class="rank-name-dl">てーま</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|40|571|<span class="rank-name-dl">monaka</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|41|564|<span class="rank-name-dl">J.Y.Park</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|42|561|<span class="rank-name-dl">NO NAME 9942</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|42|561|<span class="rank-name-dl">きば</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|44|560|<span class="rank-name-dl">牡蠣</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|45|556|<span class="rank-name-dl">TACT</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|46|552|<span class="rank-name-dl">たけこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|47|551|<span class="rank-name-dl">Kengo</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|48|548|<span class="rank-name-dl">riku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|49|546|<span class="rank-name-dl">桃发</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|50|538|<span class="rank-name-dl">ryo-ma</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|50|538|<span class="rank-name-dl">店番トキワ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|52|536|<span class="rank-name-dl">ABARTH595compe↗</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|53|535|<span class="rank-name-dl">APRI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|54|533|<span class="rank-name-dl">ありてぃー</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|55|527|<span class="rank-name-dl">BULL 牛MASTER</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|56|522|<span class="rank-name-dl">rEINN</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|57|516|<span class="rank-name-dl">アラレちゃん</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|58|508|<span class="rank-name-dl">ジグそう</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|59|504|<span class="rank-name-dl">ぱちりす</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|60|500|<span class="rank-name-dl">αρχη</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|61|499|<span class="rank-name-dl">t_taku</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|62|495|<span class="rank-name-dl">ワジ</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|63|486|<span class="rank-name-dl">param</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|64|483|<span class="rank-name-dl">こ〜んに〜ちわ〜</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|65|474|<span class="rank-name-dl">no name</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|66|470|<span class="rank-name-dl">wow</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|67|454|<span class="rank-name-dl">エレフィ品保</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|68|450|<span class="rank-name-dl">K.nabechan</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|69|427|<span class="rank-name-dl">MASAYOSHI</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|70|292|<span class="rank-name-dl">工口</span>|<a href="https://search.dartslive.com/jp/shop/048d7be1e016ec5b28032249b44395af">カラオケ ジョイジョイ 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
 
 
 #### PHOENIXDARTS TOP 100

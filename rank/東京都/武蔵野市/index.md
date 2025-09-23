@@ -26,103 +26,103 @@ ___
 |1|1200|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 |1|1200|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 |1|1200|<span class="rank-name-dl">シマ猫†猫族</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|1|1200|<span class="rank-name-dl">シマ猫†猫族</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|5|1196|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|6|1158|<span class="rank-name-dl">NO NAME 7655</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|7|1155|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|8|1140|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|9|1132|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|9|1132|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|11|1131|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|12|1130|<span class="rank-name-dl">ぱっくん@NEO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|13|1128|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|14|1126|<span class="rank-name-dl">soyo</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|15|1125|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|16|1122|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|17|1120|<span class="rank-name-dl">いたプリオ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|18|1119|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店 ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|19|1115|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆 投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|20|1113|<span class="rank-name-dl">アオ助　すけ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|21|1112|<span class="rank-name-dl">太尊@MIRARCH</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|22|1107|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|23|1106|<span class="rank-name-dl">tips</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|24|1104|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|24|1104|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|26|1100|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|27|1088|<span class="rank-name-dl">ラムネ王子</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|28|1087|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆 投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|28|1087|<span class="rank-name-pd">尿酸値高め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9777?s_seq=9777">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|30|1085|<span class="rank-name-dl">アオです</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|31|1084|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|31|1084|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|33|1082|<span class="rank-name-dl">ぷう</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店 ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|34|1081|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|35|1079|<span class="rank-name-pd">平内 和之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9777?s_seq=9777">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|35|1079|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|37|1077|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|38|1075|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|39|1074|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|40|1072|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|41|1069|<span class="rank-name-dl">DALE</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|41|1069|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|43|1067|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|44|1062|<span class="rank-name-dl">浅見 友貴</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|45|1061|<span class="rank-name-dl">そば派ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|45|1061|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|47|1059|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|48|1058|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|48|1058|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|50|1057|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|50|1057|<span class="rank-name-dl">ONE FOR ALL</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|52|1056|<span class="rank-name-dl">シビック</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|52|1056|<span class="rank-name-dl">野口 隆弘</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|52|1056|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|55|1052|<span class="rank-name-dl">アオ祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|55|1052|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|57|1051|<span class="rank-name-dl">20代でも腰が痛え</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|57|1051|<span class="rank-name-dl">シマ猫☪︎K-CREW</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|59|1050|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|59|1050|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|59|1050|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|62|1049|<span class="rank-name-dl">NKM</span>|<a href="https://search.dartslive.com/jp/shop/c19ac0203139b6750d9b047a20a7ba1e">三鷹OWL</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|63|1046|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|63|1046|<span class="rank-name-dl">反省中ズッキーニ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1045|<span class="rank-name-dl">マル久豆腐店</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1045|<span class="rank-name-pd">今野</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52053?s_seq=52053">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|67|1043|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|68|1042|<span class="rank-name-dl">Hatoooo</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|68|1042|<span class="rank-name-dl">kuon</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|68|1042|<span class="rank-name-dl">だて</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|68|1042|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|68|1042|<span class="rank-name-dl">ｎｏｂｕｎａｇａ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|73|1041|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|74|1040|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|74|1040|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/ab7d01d094b3f17bb21333aee1bd51e4">ﾋﾞｱﾎﾟﾝﾊﾞｰGROVE吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|76|1038|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|76|1038|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/0def534f7f08f06a0d9b047a20a7ba1e">BAR SENSE</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|78|1037|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|78|1037|<span class="rank-name-dl">青木 大祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|80|1036|<span class="rank-name-dl">moAんざい</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|80|1036|<span class="rank-name-dl">だぁさん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|80|1036|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|80|1036|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|84|1035|<span class="rank-name-dl">はるぺん</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|84|1035|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|84|1035|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|87|1034|<span class="rank-name-dl">kaz</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|87|1034|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/4f2928206330a6f80d9b047a20a7ba1e">境ダーツ</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|89|1033|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|89|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|89|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|92|1031|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|93|1030|<span class="rank-name-dl">アオだ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|94|1029|<span class="rank-name-dl">みつたか</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|94|1029|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|94|1029|<span class="rank-name-dl">アオ　1周年</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|97|1028|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|97|1028|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|99|1027|<span class="rank-name-dl">きーくん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|100|1026|<span class="rank-name-dl">P. Mahomes</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|4|1196|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|5|1158|<span class="rank-name-dl">NO NAME 7655</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|6|1155|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|7|1140|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|8|1132|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|8|1132|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|10|1131|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|11|1130|<span class="rank-name-dl">ぱっくん@NEO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|12|1128|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|13|1126|<span class="rank-name-dl">soyo</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|14|1125|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|15|1122|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|16|1120|<span class="rank-name-dl">いたプリオ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|17|1119|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|18|1115|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|19|1113|<span class="rank-name-dl">アオ助　すけ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|20|1112|<span class="rank-name-dl">太尊@MIRARCH</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|21|1107|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|22|1106|<span class="rank-name-dl">tips</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|23|1104|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|24|1100|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|25|1088|<span class="rank-name-dl">ラムネ王子</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|26|1087|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|26|1087|<span class="rank-name-pd">尿酸値高め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9777?s_seq=9777">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|28|1085|<span class="rank-name-dl">アオです</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|29|1084|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|29|1084|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|31|1082|<span class="rank-name-dl">ぷう</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|32|1081|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|33|1079|<span class="rank-name-pd">平内 和之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9777?s_seq=9777">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|33|1079|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|35|1077|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|36|1075|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|37|1074|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|38|1072|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|39|1069|<span class="rank-name-dl">DALE</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|39|1069|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|41|1067|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|42|1062|<span class="rank-name-dl">浅見 友貴</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|43|1061|<span class="rank-name-dl">そば派ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|43|1061|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|45|1059|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|46|1058|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|46|1058|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|48|1057|<span class="rank-name-dl">ONE FOR ALL</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|49|1056|<span class="rank-name-dl">シビック</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|49|1056|<span class="rank-name-dl">野口 隆弘</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|49|1056|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|52|1052|<span class="rank-name-dl">アオ祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|52|1052|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|54|1051|<span class="rank-name-dl">20代でも腰が痛え</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|54|1051|<span class="rank-name-dl">シマ猫☪︎K-CREW</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|56|1050|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|56|1050|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|56|1050|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|59|1049|<span class="rank-name-dl">NKM</span>|<a href="https://search.dartslive.com/jp/shop/c19ac0203139b6750d9b047a20a7ba1e">三鷹OWL</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|60|1046|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|60|1046|<span class="rank-name-dl">反省中ズッキーニ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1045|<span class="rank-name-dl">マル久豆腐店</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1045|<span class="rank-name-pd">今野</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52053?s_seq=52053">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|64|1043|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|65|1042|<span class="rank-name-dl">Hatoooo</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|65|1042|<span class="rank-name-dl">kuon</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|65|1042|<span class="rank-name-dl">だて</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|65|1042|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|65|1042|<span class="rank-name-dl">ｎｏｂｕｎａｇａ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|70|1041|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|71|1040|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/ab7d01d094b3f17bb21333aee1bd51e4">ﾋﾞｱﾎﾟﾝﾊﾞｰGROVE吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|72|1038|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/0def534f7f08f06a0d9b047a20a7ba1e">BAR SENSE</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|73|1037|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|73|1037|<span class="rank-name-dl">青木 大祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|75|1036|<span class="rank-name-dl">moAんざい</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|75|1036|<span class="rank-name-dl">だぁさん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|75|1036|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|75|1036|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|79|1035|<span class="rank-name-dl">はるぺん</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|79|1035|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|81|1034|<span class="rank-name-dl">kaz</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|81|1034|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/4f2928206330a6f80d9b047a20a7ba1e">境ダーツ</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|83|1033|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|83|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|83|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|86|1031|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|87|1030|<span class="rank-name-dl">アオだ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|88|1029|<span class="rank-name-dl">みつたか</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|88|1029|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|88|1029|<span class="rank-name-dl">アオ　1周年</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|91|1028|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|91|1028|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|93|1027|<span class="rank-name-dl">きーくん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|94|1026|<span class="rank-name-dl">P. Mahomes</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|95|1025|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|95|1025|<span class="rank-name-dl">田中 健嗣</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|97|1023|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|97|1023|<span class="rank-name-dl">Yuya Akahori</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|97|1023|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|100|1022|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1200|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 |1|1200|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 |1|1200|<span class="rank-name-dl">シマ猫†猫族</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|1|1200|<span class="rank-name-dl">シマ猫†猫族</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|5|1196|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|6|1158|<span class="rank-name-dl">NO NAME 7655</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|7|1155|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|8|1140|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|9|1132|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|9|1132|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|11|1131|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|12|1130|<span class="rank-name-dl">ぱっくん@NEO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|13|1128|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|14|1126|<span class="rank-name-dl">soyo</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|15|1125|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|16|1122|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|17|1120|<span class="rank-name-dl">いたプリオ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|18|1119|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店 ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|19|1115|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆 投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|20|1113|<span class="rank-name-dl">アオ助　すけ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|21|1112|<span class="rank-name-dl">太尊@MIRARCH</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|22|1107|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|23|1106|<span class="rank-name-dl">tips</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|24|1104|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|24|1104|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|26|1100|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|27|1088|<span class="rank-name-dl">ラムネ王子</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|28|1087|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆 投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|29|1085|<span class="rank-name-dl">アオです</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|30|1084|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|30|1084|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|32|1082|<span class="rank-name-dl">ぷう</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店 ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|33|1081|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|34|1079|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|35|1077|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|36|1075|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|37|1074|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|38|1072|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|39|1069|<span class="rank-name-dl">DALE</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|39|1069|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|41|1067|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|42|1062|<span class="rank-name-dl">浅見 友貴</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|43|1061|<span class="rank-name-dl">そば派ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|43|1061|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|45|1059|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|46|1058|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|46|1058|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|48|1057|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|48|1057|<span class="rank-name-dl">ONE FOR ALL</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|50|1056|<span class="rank-name-dl">シビック</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|50|1056|<span class="rank-name-dl">野口 隆弘</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|50|1056|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|53|1052|<span class="rank-name-dl">アオ祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|53|1052|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|55|1051|<span class="rank-name-dl">20代でも腰が痛え</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|55|1051|<span class="rank-name-dl">シマ猫☪︎K-CREW</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|57|1050|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|57|1050|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|57|1050|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|60|1049|<span class="rank-name-dl">NKM</span>|<a href="https://search.dartslive.com/jp/shop/c19ac0203139b6750d9b047a20a7ba1e">三鷹OWL</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|61|1046|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|61|1046|<span class="rank-name-dl">反省中ズッキーニ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|63|1045|<span class="rank-name-dl">マル久豆腐店</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|64|1043|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1042|<span class="rank-name-dl">Hatoooo</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1042|<span class="rank-name-dl">kuon</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1042|<span class="rank-name-dl">だて</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1042|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|65|1042|<span class="rank-name-dl">ｎｏｂｕｎａｇａ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|70|1041|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|71|1040|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|71|1040|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/ab7d01d094b3f17bb21333aee1bd51e4">ﾋﾞｱﾎﾟﾝﾊﾞｰGROVE吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|73|1038|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|73|1038|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/0def534f7f08f06a0d9b047a20a7ba1e">BAR SENSE</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|75|1037|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|75|1037|<span class="rank-name-dl">青木 大祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|77|1036|<span class="rank-name-dl">moAんざい</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|77|1036|<span class="rank-name-dl">だぁさん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|77|1036|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|77|1036|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|81|1035|<span class="rank-name-dl">はるぺん</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺 Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|81|1035|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|81|1035|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|84|1034|<span class="rank-name-dl">kaz</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|84|1034|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/4f2928206330a6f80d9b047a20a7ba1e">境ダーツ</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|86|1033|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|86|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺 BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|86|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店) ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|89|1031|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|90|1030|<span class="rank-name-dl">アオだ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|91|1029|<span class="rank-name-dl">みつたか</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|91|1029|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|91|1029|<span class="rank-name-dl">アオ　1周年</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|94|1028|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|94|1028|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|96|1027|<span class="rank-name-dl">きーくん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|97|1026|<span class="rank-name-dl">P. Mahomes</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|98|1025|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店 ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|98|1025|<span class="rank-name-dl">田中 健嗣</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
-|100|1023|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|4|1196|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|5|1158|<span class="rank-name-dl">NO NAME 7655</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|6|1155|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|7|1140|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|8|1132|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|8|1132|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|10|1131|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|11|1130|<span class="rank-name-dl">ぱっくん@NEO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|12|1128|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|13|1126|<span class="rank-name-dl">soyo</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|14|1125|<span class="rank-name-dl">さかひ卍Harrows</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|15|1122|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|16|1120|<span class="rank-name-dl">いたプリオ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|17|1119|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|18|1115|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|19|1113|<span class="rank-name-dl">アオ助　すけ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|20|1112|<span class="rank-name-dl">太尊@MIRARCH</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|21|1107|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|22|1106|<span class="rank-name-dl">tips</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|23|1104|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|24|1100|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|25|1088|<span class="rank-name-dl">ラムネ王子</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|26|1087|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|27|1085|<span class="rank-name-dl">アオです</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|28|1084|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|28|1084|<span class="rank-name-dl">NO CHO</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|30|1082|<span class="rank-name-dl">ぷう</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|31|1081|<span class="rank-name-dl">★ＴＥＴＳＵ★</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|32|1079|<span class="rank-name-dl">杉山　晃紀</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|33|1077|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|34|1075|<span class="rank-name-dl">イナパン本仕込み</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|35|1074|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|36|1072|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|37|1069|<span class="rank-name-dl">DALE</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|37|1069|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|39|1067|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|40|1062|<span class="rank-name-dl">浅見 友貴</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|41|1061|<span class="rank-name-dl">そば派ﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|41|1061|<span class="rank-name-dl">音色 :)</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|43|1059|<span class="rank-name-dl">しゅへ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|44|1058|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|44|1058|<span class="rank-name-dl">初代・近藤務</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|46|1057|<span class="rank-name-dl">ONE FOR ALL</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|47|1056|<span class="rank-name-dl">シビック</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|47|1056|<span class="rank-name-dl">野口 隆弘</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|47|1056|<span class="rank-name-dl">ｶｽﾞﾏﾙ(p´･ω･`)p</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|50|1052|<span class="rank-name-dl">アオ祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|50|1052|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|52|1051|<span class="rank-name-dl">20代でも腰が痛え</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|52|1051|<span class="rank-name-dl">シマ猫☪︎K-CREW</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|54|1050|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|54|1050|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|54|1050|<span class="rank-name-dl">アオあお青</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|57|1049|<span class="rank-name-dl">NKM</span>|<a href="https://search.dartslive.com/jp/shop/c19ac0203139b6750d9b047a20a7ba1e">三鷹OWL</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|58|1046|<span class="rank-name-dl">NO</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|58|1046|<span class="rank-name-dl">反省中ズッキーニ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|60|1045|<span class="rank-name-dl">マル久豆腐店</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|61|1043|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1042|<span class="rank-name-dl">Hatoooo</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1042|<span class="rank-name-dl">kuon</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1042|<span class="rank-name-dl">だて</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1042|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|62|1042|<span class="rank-name-dl">ｎｏｂｕｎａｇａ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|67|1041|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|68|1040|<span class="rank-name-dl">アオ</span>|<a href="https://search.dartslive.com/jp/shop/ab7d01d094b3f17bb21333aee1bd51e4">ﾋﾞｱﾎﾟﾝﾊﾞｰGROVE吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|69|1038|<span class="rank-name-dl">半蔵§FreeDom62</span>|<a href="https://search.dartslive.com/jp/shop/0def534f7f08f06a0d9b047a20a7ba1e">BAR SENSE</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|70|1037|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|70|1037|<span class="rank-name-dl">青木 大祐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|72|1036|<span class="rank-name-dl">moAんざい</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|72|1036|<span class="rank-name-dl">だぁさん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|72|1036|<span class="rank-name-dl">平内　和之</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|72|1036|<span class="rank-name-dl">酒井　剛</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|76|1035|<span class="rank-name-dl">はるぺん</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|76|1035|<span class="rank-name-dl">ホッピー小笠原</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|78|1034|<span class="rank-name-dl">kaz</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|78|1034|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/4f2928206330a6f80d9b047a20a7ba1e">境ダーツ</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|80|1033|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/3e4a9b0b1aa3ead40d9b047a20a7ba1e">Thumbs up</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|80|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|80|1033|<span class="rank-name-dl">たちこま少佐</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|83|1031|<span class="rank-name-dl">鈴木健太郎</span>|<a href="https://search.dartslive.com/jp/shop/47d99ca3d022eda30d9b047a20a7ba1e">投処 絆</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|84|1030|<span class="rank-name-dl">アオだ</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|85|1029|<span class="rank-name-dl">みつたか</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|85|1029|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/1594b2c8a7a235890d9b047a20a7ba1e">K-CREW</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|85|1029|<span class="rank-name-dl">アオ　1周年</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|88|1028|<span class="rank-name-dl">KEY</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|88|1028|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1911825caf1e8acb0d9b047a20a7ba1e">Bane BAGUS-バネバグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|90|1027|<span class="rank-name-dl">きーくん</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|91|1026|<span class="rank-name-dl">P. Mahomes</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|92|1025|<span class="rank-name-dl">THE WORLD 2014</span>|<a href="https://search.dartslive.com/jp/shop/28dee2a1dc725be50d9b047a20a7ba1e">ラウンドワン吉祥寺店</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|92|1025|<span class="rank-name-dl">田中 健嗣</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|94|1023|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|94|1023|<span class="rank-name-dl">Yuya Akahori</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|94|1023|<span class="rank-name-dl">まいき</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|97|1022|<span class="rank-name-dl">だ</span>|<a href="https://search.dartslive.com/jp/shop/1e65a2dcc392492f0d9b047a20a7ba1e">ダーツカフェデルタ吉祥寺店(DartsCafeDELTA吉祥寺店)</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|97|1022|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/85ccbdff6196e4640d9b047a20a7ba1e">First Piece</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|99|1021|<span class="rank-name-dl">M.Quincy.R</span>|<a href="https://search.dartslive.com/jp/shop/bc2c2f3059578d80774c926eb736cb5a">UP吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
+|99|1021|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/2a15ab958e1714b00d9b047a20a7ba1e">BAGUS-バグース-吉祥寺</a>|<a href="/darts/rank/東京都/武蔵野市">東京都武蔵野市</a>|
 
 
 #### PHOENIXDARTS TOP 100

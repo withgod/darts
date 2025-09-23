@@ -36,93 +36,93 @@ ___
 |11|1120|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 |12|1119|<span class="rank-name-dl">LOOP OPEN</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 |13|1118|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|14|1113|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|15|1102|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|16|1101|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|17|1084|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|18|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|19|1081|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|20|1080|<span class="rank-name-dl">ｼﾞｬｲｱﾝ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|21|1077|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|22|1075|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|22|1075|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|24|1071|<span class="rank-name-dl">ぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|25|1070|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|26|1065|<span class="rank-name-dl">LOOP☆Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|26|1065|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|28|1062|<span class="rank-name-dl">masa@L</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|28|1062|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台 Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|30|1061|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|31|1054|<span class="rank-name-dl">LOOP$$$$</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|31|1054|<span class="rank-name-dl">LOOP‪☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|33|1052|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|34|1051|<span class="rank-name-dl">★shinobu★</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|35|1049|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|36|1046|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53462?s_seq=53462">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|37|1044|<span class="rank-name-pd">ARI0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53462?s_seq=53462">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|38|1043|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|39|1039|<span class="rank-name-dl">Hopperとぅるたま</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|39|1039|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|41|1036|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|42|1034|<span class="rank-name-dl">伊豆SaintLaurent</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|43|1032|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|44|1031|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|45|1030|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|46|1029|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|46|1029|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|48|1028|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|49|1024|<span class="rank-name-dl">ぎんや</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|50|1016|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|51|1013|<span class="rank-name-dl">YAKEISHI@Joker</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|51|1013|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|53|1011|<span class="rank-name-dl">合力 裕剛</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|53|1011|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|53|1011|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|56|1010|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|57|1009|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|57|1009|<span class="rank-name-dl">ネコ田ぽち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|57|1009|<span class="rank-name-dl">俺の塩 鎗田</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|60|1007|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|61|1006|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|61|1006|<span class="rank-name-dl">ﾐﾎたろ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|63|1005|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|64|1003|<span class="rank-name-dl">まさと[はんたま]</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|64|1003|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|66|1001|<span class="rank-name-dl">ナガネギマン</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|66|1001|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|68|1000|<span class="rank-name-dl">LOOP☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|69|988|<span class="rank-name-dl">豪</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|70|986|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|71|980|<span class="rank-name-dl">BanGaRanG僕です</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|71|980|<span class="rank-name-dl">ω･)Ｔ∀Ｋ∀(･ω</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|73|976|<span class="rank-name-dl">和</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|74|975|<span class="rank-name-pd">大竹  真吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58506?s_seq=58506">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|75|974|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|76|973|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|76|973|<span class="rank-name-pd">高橋 亮【ぶる】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93487?s_seq=93487">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|78|972|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|78|972|<span class="rank-name-dl">LOOP ちゃんあき</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|80|970|<span class="rank-name-dl">JOKER✿北山稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|81|968|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|82|966|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|83|961|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|84|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>坂本 真翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58506?s_seq=58506">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|85|959|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|86|958|<span class="rank-name-dl">choco侍＠要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|86|958|<span class="rank-name-dl">華々山々</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|88|957|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|88|957|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|90|955|<span class="rank-name-dl">マグナム吉田</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|91|954|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|92|953|<span class="rank-name-dl">フェルナンド</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|92|953|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|94|952|<span class="rank-name-dl">豊田 光威</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|94|952|<span class="rank-name-dl">ｱﾅﾙﾌｧｯｷﾝGuy玉男</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|96|951|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|97|950|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93487?s_seq=93487">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|97|950|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|99|947|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|100|946|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|14|1102|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|15|1101|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|16|1084|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|17|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|18|1081|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|19|1080|<span class="rank-name-dl">ｼﾞｬｲｱﾝ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|20|1077|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|21|1075|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|21|1075|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|23|1071|<span class="rank-name-dl">ぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|24|1070|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|25|1065|<span class="rank-name-dl">LOOP☆Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|25|1065|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|27|1062|<span class="rank-name-dl">masa@L</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|27|1062|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|29|1061|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|30|1054|<span class="rank-name-dl">LOOP$$$$</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|30|1054|<span class="rank-name-dl">LOOP‪☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|32|1052|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|33|1051|<span class="rank-name-dl">★shinobu★</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|34|1049|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|35|1046|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53462?s_seq=53462">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|36|1044|<span class="rank-name-pd">ARI0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53462?s_seq=53462">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|37|1043|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|38|1039|<span class="rank-name-dl">Hopperとぅるたま</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|38|1039|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|40|1036|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|41|1034|<span class="rank-name-dl">伊豆SaintLaurent</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|42|1032|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|43|1031|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|44|1030|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|45|1029|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|46|1028|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|47|1024|<span class="rank-name-dl">ぎんや</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|48|1016|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|49|1013|<span class="rank-name-dl">YAKEISHI@Joker</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|50|1011|<span class="rank-name-dl">合力 裕剛</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|50|1011|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|52|1010|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|53|1009|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|53|1009|<span class="rank-name-dl">ネコ田ぽち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|53|1009|<span class="rank-name-dl">俺の塩 鎗田</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|56|1007|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|57|1006|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|57|1006|<span class="rank-name-dl">ﾐﾎたろ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|59|1005|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|60|1003|<span class="rank-name-dl">まさと[はんたま]</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|60|1003|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|62|1001|<span class="rank-name-dl">ナガネギマン</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|62|1001|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|64|1000|<span class="rank-name-dl">LOOP☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|65|988|<span class="rank-name-dl">豪</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|66|986|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|67|980|<span class="rank-name-dl">BanGaRanG僕です</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|67|980|<span class="rank-name-dl">ω･)Ｔ∀Ｋ∀(･ω</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|69|976|<span class="rank-name-dl">和</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|70|975|<span class="rank-name-pd">大竹  真吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58506?s_seq=58506">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|71|973|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|71|973|<span class="rank-name-pd">高橋 亮【ぶる】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93487?s_seq=93487">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|73|972|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|73|972|<span class="rank-name-dl">LOOP ちゃんあき</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|75|970|<span class="rank-name-dl">JOKER✿北山稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|76|968|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|77|966|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|78|961|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|79|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>坂本 真翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58506?s_seq=58506">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|80|959|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|81|958|<span class="rank-name-dl">choco侍＠要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|81|958|<span class="rank-name-dl">華々山々</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|83|957|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|83|957|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|85|955|<span class="rank-name-dl">マグナム吉田</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|86|953|<span class="rank-name-dl">フェルナンド</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|86|953|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|88|952|<span class="rank-name-dl">豊田 光威</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|88|952|<span class="rank-name-dl">ｱﾅﾙﾌｧｯｷﾝGuy玉男</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|90|951|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|91|950|<span class="rank-name-pd">SHINOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93487?s_seq=93487">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|91|950|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|93|947|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|94|946|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|95|945|<span class="rank-name-pd">0198_1109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58506?s_seq=58506">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|95|945|<span class="rank-name-dl">yuu-</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|95|945|<span class="rank-name-dl">尾形 亮太 @P_A_B</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|98|943|<span class="rank-name-dl">D-BULL☆☆★</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|99|942|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|99|942|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -144,94 +144,94 @@ ___
 |10|1120|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 |11|1119|<span class="rank-name-dl">LOOP OPEN</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 |12|1118|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|13|1113|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|14|1102|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|15|1101|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|16|1084|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|17|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|18|1081|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|19|1080|<span class="rank-name-dl">ｼﾞｬｲｱﾝ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|20|1077|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|21|1075|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|21|1075|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|23|1071|<span class="rank-name-dl">ぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|24|1070|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|25|1065|<span class="rank-name-dl">LOOP☆Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|25|1065|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|27|1062|<span class="rank-name-dl">masa@L</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|27|1062|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台 Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|29|1061|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|30|1054|<span class="rank-name-dl">LOOP$$$$</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|30|1054|<span class="rank-name-dl">LOOP‪☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|32|1052|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|33|1051|<span class="rank-name-dl">★shinobu★</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|34|1049|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|35|1043|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|36|1039|<span class="rank-name-dl">Hopperとぅるたま</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|36|1039|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|38|1036|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|39|1034|<span class="rank-name-dl">伊豆SaintLaurent</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|40|1032|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|41|1031|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|42|1030|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|43|1029|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|43|1029|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|45|1028|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|46|1024|<span class="rank-name-dl">ぎんや</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|47|1016|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|48|1013|<span class="rank-name-dl">YAKEISHI@Joker</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|48|1013|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|50|1011|<span class="rank-name-dl">合力 裕剛</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|50|1011|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|50|1011|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|53|1010|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|54|1009|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|54|1009|<span class="rank-name-dl">ネコ田ぽち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|54|1009|<span class="rank-name-dl">俺の塩 鎗田</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|57|1007|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|58|1006|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|58|1006|<span class="rank-name-dl">ﾐﾎたろ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|60|1005|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|61|1003|<span class="rank-name-dl">まさと[はんたま]</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|61|1003|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|63|1001|<span class="rank-name-dl">ナガネギマン</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|63|1001|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|65|1000|<span class="rank-name-dl">LOOP☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|66|988|<span class="rank-name-dl">豪</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|67|986|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|68|980|<span class="rank-name-dl">BanGaRanG僕です</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|68|980|<span class="rank-name-dl">ω･)Ｔ∀Ｋ∀(･ω</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|70|976|<span class="rank-name-dl">和</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|71|974|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|72|973|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|73|972|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|73|972|<span class="rank-name-dl">LOOP ちゃんあき</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|75|970|<span class="rank-name-dl">JOKER✿北山稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|76|968|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|77|966|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|78|961|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|79|959|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|80|958|<span class="rank-name-dl">choco侍＠要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|80|958|<span class="rank-name-dl">華々山々</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|82|957|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|82|957|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|84|955|<span class="rank-name-dl">マグナム吉田</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|85|954|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|86|953|<span class="rank-name-dl">フェルナンド</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|86|953|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|88|952|<span class="rank-name-dl">豊田 光威</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|88|952|<span class="rank-name-dl">ｱﾅﾙﾌｧｯｷﾝGuy玉男</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|90|951|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|91|950|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|92|947|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|93|946|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|93|946|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|95|945|<span class="rank-name-dl">yuu-</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|95|945|<span class="rank-name-dl">尾形 亮太 @P_A_B</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|97|943|<span class="rank-name-dl">D-BULL☆☆★</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|98|942|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|98|942|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
-|100|938|<span class="rank-name-dl">はせっち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|13|1102|<span class="rank-name-dl">ありちゃん</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|14|1101|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|15|1084|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|16|1082|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|17|1081|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|18|1080|<span class="rank-name-dl">ｼﾞｬｲｱﾝ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|19|1077|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|20|1075|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|20|1075|<span class="rank-name-dl">山根　裕汰</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|22|1071|<span class="rank-name-dl">ぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|23|1070|<span class="rank-name-dl">しょうたろう92長</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|24|1065|<span class="rank-name-dl">LOOP☆Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|24|1065|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|26|1062|<span class="rank-name-dl">masa@L</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|26|1062|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|28|1061|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|29|1054|<span class="rank-name-dl">LOOP$$$$</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|29|1054|<span class="rank-name-dl">LOOP‪☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|31|1052|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|32|1051|<span class="rank-name-dl">★shinobu★</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|33|1049|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|34|1043|<span class="rank-name-dl">黒猫＊百花繚乱＊</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|35|1039|<span class="rank-name-dl">Hopperとぅるたま</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|35|1039|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|37|1036|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|38|1034|<span class="rank-name-dl">伊豆SaintLaurent</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|39|1032|<span class="rank-name-dl">Usu犬✯百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|40|1031|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|41|1030|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|42|1029|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|43|1028|<span class="rank-name-dl">大竹 真吾</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|44|1024|<span class="rank-name-dl">ぎんや</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|45|1016|<span class="rank-name-dl">K.M☆家無</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|46|1013|<span class="rank-name-dl">YAKEISHI@Joker</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|47|1011|<span class="rank-name-dl">合力 裕剛</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|47|1011|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|49|1010|<span class="rank-name-dl">たかはし　りょう</span>|<a href="https://search.dartslive.com/jp/shop/eab19f44ccba56af0d9b047a20a7ba1e">BAR Z</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|50|1009|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|50|1009|<span class="rank-name-dl">ネコ田ぽち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|50|1009|<span class="rank-name-dl">俺の塩 鎗田</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|53|1007|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|54|1006|<span class="rank-name-dl">しょうたろう</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|54|1006|<span class="rank-name-dl">ﾐﾎたろ★百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|56|1005|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|57|1003|<span class="rank-name-dl">まさと[はんたま]</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|57|1003|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|59|1001|<span class="rank-name-dl">ナガネギマン</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|59|1001|<span class="rank-name-dl">折井　拓仁</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|61|1000|<span class="rank-name-dl">LOOP☆R Lp</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|62|988|<span class="rank-name-dl">豪</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|63|986|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|64|980|<span class="rank-name-dl">BanGaRanG僕です</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|64|980|<span class="rank-name-dl">ω･)Ｔ∀Ｋ∀(･ω</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|66|976|<span class="rank-name-dl">和</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|67|973|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|68|972|<span class="rank-name-dl">KAZUMA</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|68|972|<span class="rank-name-dl">LOOP ちゃんあき</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|70|970|<span class="rank-name-dl">JOKER✿北山稀士</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|71|968|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|72|966|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|73|961|<span class="rank-name-dl">吉田翔太</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|74|959|<span class="rank-name-dl">K.M</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|75|958|<span class="rank-name-dl">choco侍＠要ノ鳥</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|75|958|<span class="rank-name-dl">華々山々</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|77|957|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|77|957|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|79|955|<span class="rank-name-dl">マグナム吉田</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|80|953|<span class="rank-name-dl">フェルナンド</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|80|953|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|82|952|<span class="rank-name-dl">豊田 光威</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|82|952|<span class="rank-name-dl">ｱﾅﾙﾌｧｯｷﾝGuy玉男</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|84|951|<span class="rank-name-dl">えりぴぴ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|85|950|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|86|947|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/7dc3acdeea8b72d10d9b047a20a7ba1e">Cafe&Bar MASSE</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|87|946|<span class="rank-name-dl">おがぴ-FOKS!-</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|88|945|<span class="rank-name-dl">yuu-</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|88|945|<span class="rank-name-dl">尾形 亮太 @P_A_B</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|90|943|<span class="rank-name-dl">D-BULL☆☆★</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|91|942|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|91|942|<span class="rank-name-dl">ゐけだ</span>|<a href="https://search.dartslive.com/jp/shop/dfe4b7d69604f3770d9b047a20a7ba1e">TAKO TACO ISLAND</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|93|938|<span class="rank-name-dl">はせっち</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|94|935|<span class="rank-name-dl">きーやん</span>|<a href="https://search.dartslive.com/jp/shop/75d02533500fc9300d9b047a20a7ba1e">シルバーバック</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|95|934|<span class="rank-name-dl">稲葉也</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|96|933|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|96|933|<span class="rank-name-dl">前田 志一</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|98|929|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|99|928|<span class="rank-name-dl">Uくん⌒➴</span>|<a href="https://search.dartslive.com/jp/shop/c36c372ef82f1e880d9b047a20a7ba1e">Cafe&Darts LOOP</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
+|99|928|<span class="rank-name-dl">武井 一也</span>|<a href="https://search.dartslive.com/jp/shop/ef684845ab2ec9a80d9b047a20a7ba1e">Arca 八千代台</a>|<a href="/darts/rank/千葉県/八千代市">千葉県八千代市</a>|
 
 
 #### PHOENIXDARTS TOP 100

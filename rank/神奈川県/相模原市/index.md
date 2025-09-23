@@ -36,9 +36,9 @@ ___
 |11|1123|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |12|1122|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |12|1122|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|14|1120|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|14|1120|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |15|1119|<span class="rank-name-dl">みどりんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|16|1118|<span class="rank-name-dl">まっきー毎日新手</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|16|1118|<span class="rank-name-dl">まっきー毎日新手</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |17|1112|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |18|1111|<span class="rank-name-dl">Rinkapapa</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |18|1111|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
@@ -48,7 +48,7 @@ ___
 |22|1106|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |24|1105|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |24|1105|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|26|1103|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|26|1103|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |26|1103|<span class="rank-name-dl">ほーくふぉーる</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |28|1100|<span class="rank-name-dl">HawkFall</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |28|1100|<span class="rank-name-dl">Leo</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
@@ -58,71 +58,71 @@ ___
 |32|1093|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |34|1092|<span class="rank-name-dl">チョンチー</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |35|1091|<span class="rank-name-dl">東雲青空</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|36|1088|<span class="rank-name-dl">北海道の魔物</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店 快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|36|1088|<span class="rank-name-dl">北海道の魔物</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |36|1088|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |38|1086|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |38|1086|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|40|1081|<span class="rank-name-dl">Be.sang</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|40|1081|<span class="rank-name-dl">Be.sang</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |40|1081|<span class="rank-name-dl">ふっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|42|1080|<span class="rank-name-dl">MAKØCHI/Quest∞</span>|<a href="https://search.dartslive.com/jp/shop/55c8b8eb62683cd20d9b047a20a7ba1e">Amusement Bar Quest Amusement Bar Quest</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|43|1079|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">NO NAME 0407</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">Smi1e</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店 快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|47|1075|<span class="rank-name-dl">ふとんだいすき</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|48|1073|<span class="rank-name-pd">りんかパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9573?s_seq=9573">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|49|1069|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/ebc36a8e1ae2e8ae0d9b047a20a7ba1e">Dining Bar Bond 相模原駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|50|1068|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|51|1066|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|52|1064|<span class="rank-name-dl">アデリー　セパ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|53|1063|<span class="rank-name-dl">SPONGEBOB</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|54|1062|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/f6e295309958bdcf790ab824ce8730e5">福BON</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|55|1061|<span class="rank-name-dl">のべんちゅ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|55|1061|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|55|1061|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|58|1059|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|59|1058|<span class="rank-name-dl">&quot;NADER&quot;猛武闘賊&quot;</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|59|1058|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|59|1058|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|62|1056|<span class="rank-name-dl">坂場 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|63|1055|<span class="rank-name-dl">000007</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|63|1055|<span class="rank-name-dl">R･N･D:柿澤翔太</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|63|1055|<span class="rank-name-dl">こへ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|63|1055|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|67|1054|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原 Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|67|1054|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|69|1052|<span class="rank-name-dl">夜天∞DAI3</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|70|1051|<span class="rank-name-dl">ナナクチ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|70|1051|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|72|1050|<span class="rank-name-dl">kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|72|1050|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|72|1050|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-dl">SinZi☆RustyNaiL</span>|<a href="https://search.dartslive.com/jp/shop/07d552b5b63b796b0d9b047a20a7ba1e">RustyNail-RND- RustyNail-RND-</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-dl">go</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-pd">清水 嘉洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66353?s_seq=66353">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-dl">西山 純平</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|75|1049|<span class="rank-name-pd">近衞宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48463?s_seq=48463">快活CLUB相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|81|1048|<span class="rank-name-dl">コチチョロ</span>|<a href="https://search.dartslive.com/jp/shop/a62362e24d27486b0d9b047a20a7ba1e">Dining Bar Bond 淵野辺本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|81|1048|<span class="rank-name-dl">パンダーツ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|83|1047|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|83|1047|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1046|<span class="rank-name-dl">KAZOO</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1046|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1046|<span class="rank-name-dl">サンティ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|88|1045|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|88|1045|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店 快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|88|1045|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/2991729331e357490d9b047a20a7ba1e">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|88|1045|<span class="rank-name-dl">ｓｈａｒａ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|92|1044|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|92|1044|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|94|1043|<span class="rank-name-dl">2336</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|94|1043|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|96|1042|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|96|1042|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|96|1042|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|99|1041|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|99|1041|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|42|1080|<span class="rank-name-dl">MAKØCHI/Quest∞</span>|<a href="https://search.dartslive.com/jp/shop/55c8b8eb62683cd20d9b047a20a7ba1e">Amusement Bar Quest</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">NO NAME 0407</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">Smi1e</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|46|1075|<span class="rank-name-dl">ふとんだいすき</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|47|1073|<span class="rank-name-pd">りんかパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9573?s_seq=9573">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|48|1069|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/ebc36a8e1ae2e8ae0d9b047a20a7ba1e">Dining Bar Bond 相模原駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|49|1068|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|50|1066|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|51|1064|<span class="rank-name-dl">アデリー　セパ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|52|1063|<span class="rank-name-dl">SPONGEBOB</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|53|1062|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/f6e295309958bdcf790ab824ce8730e5">福BON</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|54|1061|<span class="rank-name-dl">のべんちゅ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|54|1061|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|56|1058|<span class="rank-name-dl">&quot;NADER&quot;猛武闘賊&quot;</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|56|1058|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|56|1058|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|59|1056|<span class="rank-name-dl">坂場 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|60|1055|<span class="rank-name-dl">000007</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|60|1055|<span class="rank-name-dl">R･N･D:柿澤翔太</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|60|1055|<span class="rank-name-dl">こへ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|60|1055|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|64|1052|<span class="rank-name-dl">夜天∞DAI3</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|65|1051|<span class="rank-name-dl">ナナクチ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|65|1051|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|67|1050|<span class="rank-name-dl">kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|67|1050|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|67|1050|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-dl">SinZi☆RustyNaiL</span>|<a href="https://search.dartslive.com/jp/shop/07d552b5b63b796b0d9b047a20a7ba1e">RustyNail-RND-</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-dl">go</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-pd">清水 嘉洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66353?s_seq=66353">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-dl">西山 純平</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|70|1049|<span class="rank-name-pd">近衞宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48463?s_seq=48463">快活CLUB相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|76|1048|<span class="rank-name-dl">コチチョロ</span>|<a href="https://search.dartslive.com/jp/shop/a62362e24d27486b0d9b047a20a7ba1e">Dining Bar Bond 淵野辺本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|76|1048|<span class="rank-name-dl">パンダーツ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|78|1047|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|78|1047|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|80|1046|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|80|1046|<span class="rank-name-dl">サンティ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|82|1045|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|82|1045|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/2991729331e357490d9b047a20a7ba1e">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|82|1045|<span class="rank-name-dl">ｓｈａｒａ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|85|1044|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|85|1044|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|87|1043|<span class="rank-name-dl">2336</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|87|1043|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|89|1042|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|89|1042|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|89|1042|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|92|1041|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|92|1041|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|94|1040|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|95|1039|<span class="rank-name-dl">Kazuki.py</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|96|1036|<span class="rank-name-dl">Yasu★龜藏商店</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|96|1036|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|96|1036|<span class="rank-name-pd">チェケラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48463?s_seq=48463">快活CLUB相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|99|1035|<span class="rank-name-dl">あきー</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|100|1033|<span class="rank-name-dl">KAZOO</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -145,9 +145,9 @@ ___
 |11|1123|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |12|1122|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |12|1122|<span class="rank-name-dl">伊藤　パンダ</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|14|1120|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|14|1120|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |15|1119|<span class="rank-name-dl">みどりんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|16|1118|<span class="rank-name-dl">まっきー毎日新手</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|16|1118|<span class="rank-name-dl">まっきー毎日新手</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |17|1112|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |18|1111|<span class="rank-name-dl">Rinkapapa</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |18|1111|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
@@ -157,7 +157,7 @@ ___
 |22|1106|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |24|1105|<span class="rank-name-dl">KYO</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |24|1105|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|26|1103|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|26|1103|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |26|1103|<span class="rank-name-dl">ほーくふぉーる</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |28|1100|<span class="rank-name-dl">HawkFall</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |28|1100|<span class="rank-name-dl">Leo</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
@@ -167,71 +167,71 @@ ___
 |32|1093|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |34|1092|<span class="rank-name-dl">チョンチー</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |35|1091|<span class="rank-name-dl">東雲青空</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|36|1088|<span class="rank-name-dl">北海道の魔物</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店 快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|36|1088|<span class="rank-name-dl">北海道の魔物</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |36|1088|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |38|1086|<span class="rank-name-dl">KOUTA</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |38|1086|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|40|1081|<span class="rank-name-dl">Be.sang</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|40|1081|<span class="rank-name-dl">Be.sang</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 |40|1081|<span class="rank-name-dl">ふっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|42|1080|<span class="rank-name-dl">MAKØCHI/Quest∞</span>|<a href="https://search.dartslive.com/jp/shop/55c8b8eb62683cd20d9b047a20a7ba1e">Amusement Bar Quest Amusement Bar Quest</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|43|1079|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">NO NAME 0407</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">Smi1e</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|44|1078|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店 快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|47|1075|<span class="rank-name-dl">ふとんだいすき</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|48|1069|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/ebc36a8e1ae2e8ae0d9b047a20a7ba1e">Dining Bar Bond 相模原駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|49|1068|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|50|1066|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|51|1064|<span class="rank-name-dl">アデリー　セパ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|52|1063|<span class="rank-name-dl">SPONGEBOB</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|53|1062|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/f6e295309958bdcf790ab824ce8730e5">福BON</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|54|1061|<span class="rank-name-dl">のべんちゅ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|54|1061|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|54|1061|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|57|1059|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|58|1058|<span class="rank-name-dl">&quot;NADER&quot;猛武闘賊&quot;</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|58|1058|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|58|1058|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|61|1056|<span class="rank-name-dl">坂場 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|62|1055|<span class="rank-name-dl">000007</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|62|1055|<span class="rank-name-dl">R･N･D:柿澤翔太</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|62|1055|<span class="rank-name-dl">こへ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|62|1055|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|66|1054|<span class="rank-name-dl">りんかぱぱ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原 Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|66|1054|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|68|1052|<span class="rank-name-dl">夜天∞DAI3</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|69|1051|<span class="rank-name-dl">ナナクチ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|69|1051|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|71|1050|<span class="rank-name-dl">kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|71|1050|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|71|1050|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|74|1049|<span class="rank-name-dl">SinZi☆RustyNaiL</span>|<a href="https://search.dartslive.com/jp/shop/07d552b5b63b796b0d9b047a20a7ba1e">RustyNail-RND- RustyNail-RND-</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|74|1049|<span class="rank-name-dl">go</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|74|1049|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|74|1049|<span class="rank-name-dl">西山 純平</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|78|1048|<span class="rank-name-dl">コチチョロ</span>|<a href="https://search.dartslive.com/jp/shop/a62362e24d27486b0d9b047a20a7ba1e">Dining Bar Bond 淵野辺本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|78|1048|<span class="rank-name-dl">パンダーツ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|80|1047|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|80|1047|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|82|1046|<span class="rank-name-dl">KAZOO</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店 快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|82|1046|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|82|1046|<span class="rank-name-dl">サンティ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1045|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1045|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店 快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1045|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/2991729331e357490d9b047a20a7ba1e">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|85|1045|<span class="rank-name-dl">ｓｈａｒａ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|89|1044|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|89|1044|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|91|1043|<span class="rank-name-dl">2336</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|91|1043|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|93|1042|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店 PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|93|1042|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|93|1042|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|96|1041|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|96|1041|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|98|1040|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|99|1039|<span class="rank-name-dl">Kazuki.py</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
-|100|1036|<span class="rank-name-dl">Yasu★龜藏商店</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|42|1080|<span class="rank-name-dl">MAKØCHI/Quest∞</span>|<a href="https://search.dartslive.com/jp/shop/55c8b8eb62683cd20d9b047a20a7ba1e">Amusement Bar Quest</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">NO NAME 0407</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">Smi1e</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|43|1078|<span class="rank-name-dl">タマヤン</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|46|1075|<span class="rank-name-dl">ふとんだいすき</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|47|1069|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/ebc36a8e1ae2e8ae0d9b047a20a7ba1e">Dining Bar Bond 相模原駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|48|1068|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|49|1066|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|50|1064|<span class="rank-name-dl">アデリー　セパ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|51|1063|<span class="rank-name-dl">SPONGEBOB</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|52|1062|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/f6e295309958bdcf790ab824ce8730e5">福BON</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|53|1061|<span class="rank-name-dl">のべんちゅ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|53|1061|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|55|1058|<span class="rank-name-dl">&quot;NADER&quot;猛武闘賊&quot;</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|55|1058|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|55|1058|<span class="rank-name-dl">ビビ</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|58|1056|<span class="rank-name-dl">坂場 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|59|1055|<span class="rank-name-dl">000007</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|59|1055|<span class="rank-name-dl">R･N･D:柿澤翔太</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|59|1055|<span class="rank-name-dl">こへ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|59|1055|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|63|1052|<span class="rank-name-dl">夜天∞DAI3</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|64|1051|<span class="rank-name-dl">ナナクチ</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|64|1051|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|66|1050|<span class="rank-name-dl">kotaro</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|66|1050|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/c136d51eb2e9b8d0790ab824ce8730e5">Link相模原</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|66|1050|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|69|1049|<span class="rank-name-dl">SinZi☆RustyNaiL</span>|<a href="https://search.dartslive.com/jp/shop/07d552b5b63b796b0d9b047a20a7ba1e">RustyNail-RND-</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|69|1049|<span class="rank-name-dl">go</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|69|1049|<span class="rank-name-dl">チャオ ホン ワイ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|69|1049|<span class="rank-name-dl">西山 純平</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|73|1048|<span class="rank-name-dl">コチチョロ</span>|<a href="https://search.dartslive.com/jp/shop/a62362e24d27486b0d9b047a20a7ba1e">Dining Bar Bond 淵野辺本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|73|1048|<span class="rank-name-dl">パンダーツ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|75|1047|<span class="rank-name-dl">sak</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|75|1047|<span class="rank-name-dl">おいら</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|77|1046|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|77|1046|<span class="rank-name-dl">サンティ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|79|1045|<span class="rank-name-dl">カワウソの胸騒ぎ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|79|1045|<span class="rank-name-dl">佐藤健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/2991729331e357490d9b047a20a7ba1e">PlayGarden 小田急相模原店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|79|1045|<span class="rank-name-dl">ｓｈａｒａ</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|82|1044|<span class="rank-name-dl">けい</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|82|1044|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|84|1043|<span class="rank-name-dl">2336</span>|<a href="https://search.dartslive.com/jp/shop/50fb3ba78d00b039fec1ae84bb28bd87">快活CLUB 16号相模原大野台店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|84|1043|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|86|1042|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/a381a6cb31fb60660d9b047a20a7ba1e">PooL＆Dartｓ RALLY 淵野辺店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|86|1042|<span class="rank-name-dl">ブースカ</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|86|1042|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|89|1041|<span class="rank-name-dl">Hawk Fall</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|89|1041|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/73bf75dc654e3a880d9b047a20a7ba1e">GAPS</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|91|1040|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/47759abfc516a578774c926eb736cb5a">カラオケクラブダム・B-GARAGE 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|92|1039|<span class="rank-name-dl">Kazuki.py</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|93|1036|<span class="rank-name-dl">Yasu★龜藏商店</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|93|1036|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/f83587e81c59cd32a3f63593b5358cc4">快活CLUB 古淵駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|95|1035|<span class="rank-name-dl">あきー</span>|<a href="https://search.dartslive.com/jp/shop/5b59942c0483b7310d9b047a20a7ba1e">Trouble Maker</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|96|1033|<span class="rank-name-dl">KAZOO</span>|<a href="https://search.dartslive.com/jp/shop/5f0aefa589ebd38e58d385ea46352d8f">快活CLUB 橋本店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|96|1033|<span class="rank-name-dl">マークリオ</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|98|1032|<span class="rank-name-dl">利夢U^ｪ^U</span>|<a href="https://search.dartslive.com/jp/shop/7385967fc7176aada3f63593b5358cc4">快活CLUB 相模原中央店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|99|1031|<span class="rank-name-dl">七歩</span>|<a href="https://search.dartslive.com/jp/shop/58653a000108e3bb5f9f3321c1147265">快活CLUB 相模大野駅前店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
+|100|1030|<span class="rank-name-dl">たけまる</span>|<a href="https://search.dartslive.com/jp/shop/f9b9c87c4798a8d90d9b047a20a7ba1e">JACK 相模大野店</a>|<a href="/darts/rank/神奈川県/相模原市">神奈川県相模原市</a>|
 
 
 #### PHOENIXDARTS TOP 100

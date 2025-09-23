@@ -29,100 +29,100 @@ ___
 |4|1115|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 |5|1107|<span class="rank-name-pd">だいさっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 |6|1102|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|7|1085|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|8|1075|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|9|1070|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|10|1058|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|11|1054|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|11|1054|<span class="rank-name-dl">ペイの字</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|13|1052|<span class="rank-name-dl">Souta</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|14|1048|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|14|1048|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|16|1044|<span class="rank-name-dl">dou</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|17|1037|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|18|1030|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川田 夏理武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|18|1030|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|20|1028|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|21|1027|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|22|1022|<span class="rank-name-dl">satokko</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|23|1017|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|24|1016|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|25|1014|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|26|1011|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|27|1006|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|28|1005|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|29|997|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|30|977|<span class="rank-name-dl">y.kaiton</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|30|977|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|32|974|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|33|971|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|34|969|<span class="rank-name-dl">ZureHIKO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|34|969|<span class="rank-name-dl">みき坊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|36|967|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|36|967|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|36|967|<span class="rank-name-pd">下のやつハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|39|964|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|40|959|<span class="rank-name-pd">tiAra@T-cha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|41|957|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|42|956|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|43|951|<span class="rank-name-pd">いっせー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|44|950|<span class="rank-name-dl">ヒゲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|45|946|<span class="rank-name-pd">ＧＯＲＩＬＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|46|943|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|47|942|<span class="rank-name-dl">ひろぐ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|48|939|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|49|937|<span class="rank-name-dl">pirosyu</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|49|937|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|51|936|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|52|935|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|53|934|<span class="rank-name-pd">アツアツハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|54|932|<span class="rank-name-pd">ま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|55|929|<span class="rank-name-dl">K-GOΣ(￣□￣;)</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|55|929|<span class="rank-name-dl">なんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|55|929|<span class="rank-name-dl">みき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|58|927|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|58|927|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|60|926|<span class="rank-name-pd">けーたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|61|923|<span class="rank-name-dl">ぺーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|62|919|<span class="rank-name-dl">☆T@Kayan☆</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|63|916|<span class="rank-name-dl">でんかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|63|916|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|65|914|<span class="rank-name-pd">RIMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|65|914|<span class="rank-name-pd">涙目のルカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|67|913|<span class="rank-name-dl">サバ缶</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|68|912|<span class="rank-name-pd">ロック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|69|909|<span class="rank-name-dl">おやじキングLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|70|902|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|71|900|<span class="rank-name-pd">Ki-CH4N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|71|900|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|73|899|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|74|898|<span class="rank-name-dl">Masaaki Nemoto</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|75|894|<span class="rank-name-dl">k.masafumi</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|75|894|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|77|890|<span class="rank-name-dl">Naoya*</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|78|888|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|78|888|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|80|887|<span class="rank-name-dl">深津</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|81|885|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|82|884|<span class="rank-name-pd">3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|83|883|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|84|882|<span class="rank-name-pd">IM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|84|882|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|86|881|<span class="rank-name-dl">sh</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|87|877|<span class="rank-name-dl">ハマリンゴ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|88|872|<span class="rank-name-dl">SSK　52614</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|89|870|<span class="rank-name-dl">ゴリランダー渡邊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|90|869|<span class="rank-name-pd">KOUDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|91|868|<span class="rank-name-pd">Koji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|867|<span class="rank-name-pd">MIKIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|867|<span class="rank-name-dl">Morin</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|867|<span class="rank-name-pd">アツアツハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|867|<span class="rank-name-dl">超みっきー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|96|866|<span class="rank-name-pd">Ki-CH4N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|96|866|<span class="rank-name-dl">Kouki</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|98|864|<span class="rank-name-pd">MOCCHI05</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|98|864|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|98|864|<span class="rank-name-dl">るー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|7|1075|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|8|1070|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|9|1058|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|10|1054|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|10|1054|<span class="rank-name-dl">ペイの字</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|12|1052|<span class="rank-name-dl">Souta</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|13|1048|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|13|1048|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|15|1044|<span class="rank-name-dl">dou</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|16|1037|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|17|1030|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川田 夏理武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|17|1030|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|19|1028|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|20|1027|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|21|1022|<span class="rank-name-dl">satokko</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|22|1017|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|23|1016|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|24|1011|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|25|1006|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|26|1005|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|27|997|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|28|977|<span class="rank-name-dl">y.kaiton</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|29|974|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|30|971|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|31|969|<span class="rank-name-dl">ZureHIKO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|31|969|<span class="rank-name-dl">みき坊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|33|967|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|33|967|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|33|967|<span class="rank-name-pd">下のやつハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|36|964|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|37|959|<span class="rank-name-pd">tiAra@T-cha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|38|957|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|39|956|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|40|951|<span class="rank-name-pd">いっせー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|41|950|<span class="rank-name-dl">ヒゲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|42|946|<span class="rank-name-pd">ＧＯＲＩＬＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|43|942|<span class="rank-name-dl">ひろぐ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|44|939|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|45|937|<span class="rank-name-dl">pirosyu</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|45|937|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|47|936|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|48|935|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|49|934|<span class="rank-name-pd">アツアツハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|50|932|<span class="rank-name-pd">ま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|51|929|<span class="rank-name-dl">K-GOΣ(￣□￣;)</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|51|929|<span class="rank-name-dl">なんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|51|929|<span class="rank-name-dl">みき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|54|927|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|54|927|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|56|926|<span class="rank-name-pd">けーたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|57|923|<span class="rank-name-dl">ぺーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|58|919|<span class="rank-name-dl">☆T@Kayan☆</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|59|916|<span class="rank-name-dl">でんかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|59|916|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|61|914|<span class="rank-name-pd">RIMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|61|914|<span class="rank-name-pd">涙目のルカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|63|913|<span class="rank-name-dl">サバ缶</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|64|912|<span class="rank-name-pd">ロック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|65|909|<span class="rank-name-dl">おやじキングLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|66|902|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|67|900|<span class="rank-name-pd">Ki-CH4N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|67|900|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|69|899|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|70|898|<span class="rank-name-dl">Masaaki Nemoto</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|71|894|<span class="rank-name-dl">k.masafumi</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|71|894|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|73|890|<span class="rank-name-dl">Naoya*</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|74|888|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|74|888|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|76|887|<span class="rank-name-dl">深津</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|77|885|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|78|884|<span class="rank-name-pd">3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|79|883|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|80|882|<span class="rank-name-pd">IM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|80|882|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|82|881|<span class="rank-name-dl">sh</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|83|877|<span class="rank-name-dl">ハマリンゴ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|84|872|<span class="rank-name-dl">SSK　52614</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|85|870|<span class="rank-name-dl">ゴリランダー渡邊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|86|869|<span class="rank-name-pd">KOUDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|87|868|<span class="rank-name-pd">Koji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6319?s_seq=6319">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|867|<span class="rank-name-pd">MIKIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|867|<span class="rank-name-dl">Morin</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|867|<span class="rank-name-pd">アツアツハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58442?s_seq=58442">亜熱帯 西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|867|<span class="rank-name-dl">超みっきー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|92|866|<span class="rank-name-pd">Ki-CH4N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|92|866|<span class="rank-name-dl">Kouki</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|94|864|<span class="rank-name-pd">MOCCHI05</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|94|864|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|94|864|<span class="rank-name-dl">るー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|94|864|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|98|863|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|98|863|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|98|863|<span class="rank-name-dl">正</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1200|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 |2|1115|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 |3|1102|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|4|1085|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|5|1075|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|6|1070|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|7|1058|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|8|1054|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|8|1054|<span class="rank-name-dl">ペイの字</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|10|1052|<span class="rank-name-dl">Souta</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|11|1048|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|11|1048|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|13|1044|<span class="rank-name-dl">dou</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|14|1037|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|15|1030|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|16|1028|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|17|1027|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|18|1022|<span class="rank-name-dl">satokko</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|19|1017|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|20|1016|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|21|1014|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|22|1011|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|23|1006|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|24|1005|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|25|997|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|26|977|<span class="rank-name-dl">y.kaiton</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|26|977|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|28|974|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|29|971|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|30|969|<span class="rank-name-dl">ZureHIKO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|30|969|<span class="rank-name-dl">みき坊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|32|967|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|32|967|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|34|964|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|35|957|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|36|956|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|37|950|<span class="rank-name-dl">ヒゲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|38|946|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|39|943|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|40|942|<span class="rank-name-dl">ひろぐ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|41|939|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|42|937|<span class="rank-name-dl">pirosyu</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|42|937|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|44|936|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|45|935|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|46|929|<span class="rank-name-dl">K-GOΣ(￣□￣;)</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|46|929|<span class="rank-name-dl">なんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|46|929|<span class="rank-name-dl">みき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|49|927|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|50|923|<span class="rank-name-dl">ぺーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|51|919|<span class="rank-name-dl">☆T@Kayan☆</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|52|916|<span class="rank-name-dl">でんかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|52|916|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|54|913|<span class="rank-name-dl">サバ缶</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|55|909|<span class="rank-name-dl">おやじキングLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|55|909|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|57|902|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|58|900|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|59|899|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|60|898|<span class="rank-name-dl">Masaaki Nemoto</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|61|894|<span class="rank-name-dl">k.masafumi</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|61|894|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|63|890|<span class="rank-name-dl">Naoya*</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|64|888|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|64|888|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|66|887|<span class="rank-name-dl">深津</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|67|885|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|68|883|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|69|882|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|70|881|<span class="rank-name-dl">sh</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|71|877|<span class="rank-name-dl">ハマリンゴ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|72|872|<span class="rank-name-dl">SSK　52614</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|73|870|<span class="rank-name-dl">ゴリランダー渡邊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|74|867|<span class="rank-name-dl">Morin</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|74|867|<span class="rank-name-dl">超みっきー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|76|866|<span class="rank-name-dl">Kouki</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店 快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|77|864|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|77|864|<span class="rank-name-dl">るー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|77|864|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|80|863|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|80|863|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|80|863|<span class="rank-name-dl">正</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|83|862|<span class="rank-name-dl">もっくん@鯉桜</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|84|859|<span class="rank-name-dl">けいさん@月猫</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|85|858|<span class="rank-name-dl">リムＺ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|86|856|<span class="rank-name-dl">chiba</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|87|855|<span class="rank-name-dl">ちょこさん</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|87|855|<span class="rank-name-dl">大チャソ@元蜂</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|89|854|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|90|852|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|91|851|<span class="rank-name-dl">えのき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|850|<span class="rank-name-dl">SSK</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|92|850|<span class="rank-name-dl">おやじきんぐLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|94|849|<span class="rank-name-dl">くわっちー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|94|849|<span class="rank-name-dl">まるひさ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|96|847|<span class="rank-name-dl">いっせー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|97|846|<span class="rank-name-dl">の〜り〜</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|98|844|<span class="rank-name-dl">きゅう</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|99|843|<span class="rank-name-dl">さりおぶざいやー</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店 亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|99|843|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|4|1075|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|5|1070|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|6|1058|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|7|1054|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|7|1054|<span class="rank-name-dl">ペイの字</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|9|1052|<span class="rank-name-dl">Souta</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|10|1048|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|10|1048|<span class="rank-name-dl">ﾅﾆ″ﾚヽ､ﾅっ＜ω</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|12|1044|<span class="rank-name-dl">dou</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|13|1037|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|14|1030|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|15|1028|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|16|1027|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|17|1022|<span class="rank-name-dl">satokko</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|18|1017|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|19|1016|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|20|1014|<span class="rank-name-dl">だいさっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|21|1011|<span class="rank-name-dl">たっくん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|22|1006|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|23|1005|<span class="rank-name-dl">大城　一平</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|24|997|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|25|977|<span class="rank-name-dl">y.kaiton</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|26|974|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|27|971|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|28|969|<span class="rank-name-dl">ZureHIKO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|28|969|<span class="rank-name-dl">みき坊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|30|967|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|30|967|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|32|964|<span class="rank-name-dl">こーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|33|957|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|34|956|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|35|950|<span class="rank-name-dl">ヒゲ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|36|942|<span class="rank-name-dl">ひろぐ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|37|939|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|38|937|<span class="rank-name-dl">pirosyu</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|38|937|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|40|936|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|41|935|<span class="rank-name-dl">Keikun</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|42|929|<span class="rank-name-dl">K-GOΣ(￣□￣;)</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|42|929|<span class="rank-name-dl">なんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|42|929|<span class="rank-name-dl">みき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|45|927|<span class="rank-name-dl">ごんた</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|46|923|<span class="rank-name-dl">ぺーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|47|919|<span class="rank-name-dl">☆T@Kayan☆</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|48|916|<span class="rank-name-dl">でんかちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|48|916|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|50|913|<span class="rank-name-dl">サバ缶</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|51|909|<span class="rank-name-dl">おやじキングLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|51|909|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|53|902|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|54|900|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|55|899|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|56|898|<span class="rank-name-dl">Masaaki Nemoto</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|57|894|<span class="rank-name-dl">k.masafumi</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|57|894|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|59|890|<span class="rank-name-dl">Naoya*</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|60|888|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|60|888|<span class="rank-name-dl">えん</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|62|887|<span class="rank-name-dl">深津</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|63|885|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|64|883|<span class="rank-name-dl">みっきー@ﾁｭｷﾀﾞｰﾂ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|65|882|<span class="rank-name-dl">REO</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|66|881|<span class="rank-name-dl">sh</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|67|877|<span class="rank-name-dl">ハマリンゴ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|68|872|<span class="rank-name-dl">SSK　52614</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|69|870|<span class="rank-name-dl">ゴリランダー渡邊</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|70|867|<span class="rank-name-dl">Morin</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|70|867|<span class="rank-name-dl">超みっきー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|72|866|<span class="rank-name-dl">Kouki</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|73|864|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|73|864|<span class="rank-name-dl">るー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|73|864|<span class="rank-name-dl">風凪✐☻</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|76|863|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|76|863|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|76|863|<span class="rank-name-dl">正</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|79|862|<span class="rank-name-dl">もっくん@鯉桜</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|80|859|<span class="rank-name-dl">けいさん@月猫</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|81|858|<span class="rank-name-dl">リムＺ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|82|856|<span class="rank-name-dl">chiba</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|83|855|<span class="rank-name-dl">ちょこさん</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|83|855|<span class="rank-name-dl">大チャソ@元蜂</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|85|854|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|86|852|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|87|851|<span class="rank-name-dl">えのき</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|850|<span class="rank-name-dl">SSK</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|88|850|<span class="rank-name-dl">おやじきんぐLv1</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|90|849|<span class="rank-name-dl">くわっちー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|90|849|<span class="rank-name-dl">まるひさ</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|92|847|<span class="rank-name-dl">いっせー</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|93|846|<span class="rank-name-dl">の〜り〜</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|94|844|<span class="rank-name-dl">きゅう</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|95|843|<span class="rank-name-dl">さりおぶざいやー</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|95|843|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/b5f3143369be3ed15f9f3321c1147265">快活CLUB 西尾店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|97|842|<span class="rank-name-dl">Souta</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|97|842|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/c4062c4f4df5ddbb58d385ea46352d8f">亜熱帯西尾駅前店</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|99|837|<span class="rank-name-dl">ゴリ乱打</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|100|834|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
 
 
 #### PHOENIXDARTS TOP 100

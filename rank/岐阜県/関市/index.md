@@ -27,102 +27,102 @@ ___
 |2|1087|<span class="rank-name-pd">モユキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |3|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |4|1016|<span class="rank-name-dl">ケーティー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|5|1014|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|5|1014|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |6|1010|<span class="rank-name-dl">飛騨のTAKUMI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |7|976|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |8|965|<span class="rank-name-dl">和空</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |9|958|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |9|958|<span class="rank-name-pd">小栗つくね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |11|957|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|12|950|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|13|949|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|14|948|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|15|942|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|16|923|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|17|914|<span class="rank-name-dl">小栗つくねDx3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|18|907|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|19|906|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|20|882|<span class="rank-name-pd">YOU  K☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|21|881|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|22|875|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|23|874|<span class="rank-name-dl">なべつー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|24|872|<span class="rank-name-pd">フロネ申</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|25|870|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|26|862|<span class="rank-name-pd">じゅり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|27|860|<span class="rank-name-pd">0158_8916</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|28|842|<span class="rank-name-dl">海老カラス</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|29|836|<span class="rank-name-pd">☆N☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|30|834|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|31|830|<span class="rank-name-dl">ゆごう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|32|825|<span class="rank-name-pd"><span class="pro-icon-pd"></span>纐纈 友行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|33|824|<span class="rank-name-dl">(・ω・)ﾉ ﾏﾘﾓｺﾘ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|33|824|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|35|823|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|36|819|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|37|802|<span class="rank-name-pd">小林将大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|38|799|<span class="rank-name-pd">あびる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|39|796|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|40|792|<span class="rank-name-pd">タオパイパイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|40|792|<span class="rank-name-dl">昂平-KOUHEI-</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|42|776|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|43|768|<span class="rank-name-dl">HEPPO-KOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|44|767|<span class="rank-name-dl">やっすー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|45|766|<span class="rank-name-pd">USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|46|765|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|47|764|<span class="rank-name-dl">エルボガード</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|48|763|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|49|762|<span class="rank-name-dl">NO NAME 9561</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|50|755|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|51|750|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|51|750|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|53|749|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|54|744|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|55|739|<span class="rank-name-dl">Ryo-G</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|55|739|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|57|738|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|58|736|<span class="rank-name-dl">NO NAME 6054</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|58|736|<span class="rank-name-dl">小栗つくね</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|60|735|<span class="rank-name-dl">@かっちｸﾝ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|61|734|<span class="rank-name-dl">ごま</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|62|731|<span class="rank-name-pd">華丸マルモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|62|731|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|64|729|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|65|728|<span class="rank-name-dl">ｷｬﾁｺﾐのユリ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|66|726|<span class="rank-name-pd">shooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|66|726|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|68|725|<span class="rank-name-dl">KOUHEI-HEPPOKO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|69|724|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|70|723|<span class="rank-name-pd">昂平-酒雑魚-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|71|715|<span class="rank-name-dl">エビ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|72|710|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|73|707|<span class="rank-name-dl">@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|74|705|<span class="rank-name-dl">たけすぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|74|705|<span class="rank-name-dl">アッシ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|76|702|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|77|701|<span class="rank-name-dl">K-TIN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|78|700|<span class="rank-name-dl">RENA</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|79|693|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|80|692|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|81|691|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|82|686|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|83|685|<span class="rank-name-dl">HEPPOKOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|84|677|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|85|674|<span class="rank-name-dl">A01</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|85|674|<span class="rank-name-pd">★とど★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|87|667|<span class="rank-name-dl">sma</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|88|666|<span class="rank-name-pd">㌢㌧㌢㌧㍗㌔㍗㌔㌍㌧</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|89|664|<span class="rank-name-dl">NY18</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|89|664|<span class="rank-name-pd">ayumix</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|91|661|<span class="rank-name-pd">やっすー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|92|660|<span class="rank-name-dl">High Wing リョウ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|92|660|<span class="rank-name-pd">Ren</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|92|660|<span class="rank-name-dl">ひいらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|95|659|<span class="rank-name-pd">ダルタニアン濱口</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|96|658|<span class="rank-name-dl">HighWing@カチ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|96|658|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|98|655|<span class="rank-name-pd">MASA_007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|98|655|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|98|655|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|12|949|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|13|948|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|14|923|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|15|914|<span class="rank-name-dl">小栗つくねDx3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|16|907|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|17|906|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|18|882|<span class="rank-name-pd">YOU  K☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|19|881|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|20|875|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|21|874|<span class="rank-name-dl">なべつー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|22|872|<span class="rank-name-pd">フロネ申</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|23|870|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|24|862|<span class="rank-name-pd">じゅり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|25|860|<span class="rank-name-pd">0158_8916</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|26|842|<span class="rank-name-dl">海老カラス</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|27|836|<span class="rank-name-pd">☆N☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|28|834|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|29|830|<span class="rank-name-dl">ゆごう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|30|825|<span class="rank-name-pd"><span class="pro-icon-pd"></span>纐纈 友行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|31|824|<span class="rank-name-dl">(・ω・)ﾉ ﾏﾘﾓｺﾘ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|31|824|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|33|823|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|34|819|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|35|802|<span class="rank-name-pd">小林将大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|36|799|<span class="rank-name-pd">あびる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|37|792|<span class="rank-name-pd">タオパイパイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|37|792|<span class="rank-name-dl">昂平-KOUHEI-</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|39|776|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|40|768|<span class="rank-name-dl">HEPPO-KOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|41|767|<span class="rank-name-dl">やっすー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|42|766|<span class="rank-name-pd">USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|43|765|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|44|764|<span class="rank-name-dl">エルボガード</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|45|763|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|46|762|<span class="rank-name-dl">NO NAME 9561</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|47|755|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|48|750|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|48|750|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|50|749|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|51|744|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|52|739|<span class="rank-name-dl">Ryo-G</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|53|738|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|54|736|<span class="rank-name-dl">NO NAME 6054</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|54|736|<span class="rank-name-dl">小栗つくね</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|56|735|<span class="rank-name-dl">@かっちｸﾝ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|57|734|<span class="rank-name-dl">ごま</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|58|731|<span class="rank-name-pd">華丸マルモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|58|731|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|60|729|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|61|728|<span class="rank-name-dl">ｷｬﾁｺﾐのユリ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|62|726|<span class="rank-name-pd">shooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|62|726|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|64|725|<span class="rank-name-dl">KOUHEI-HEPPOKO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|65|724|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|66|723|<span class="rank-name-pd">昂平-酒雑魚-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|67|715|<span class="rank-name-dl">エビ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|68|710|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|69|707|<span class="rank-name-dl">@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|70|705|<span class="rank-name-dl">たけすぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|70|705|<span class="rank-name-dl">アッシ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|72|702|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|73|701|<span class="rank-name-dl">K-TIN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|74|700|<span class="rank-name-dl">RENA</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|75|693|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|76|692|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|77|691|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|78|686|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|79|685|<span class="rank-name-dl">HEPPOKOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|80|677|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|81|674|<span class="rank-name-dl">A01</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|81|674|<span class="rank-name-pd">★とど★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|83|667|<span class="rank-name-dl">sma</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|84|666|<span class="rank-name-pd">㌢㌧㌢㌧㍗㌔㍗㌔㌍㌧</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|85|664|<span class="rank-name-dl">NY18</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|85|664|<span class="rank-name-pd">ayumix</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|87|661|<span class="rank-name-pd">やっすー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|88|660|<span class="rank-name-dl">High Wing リョウ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|88|660|<span class="rank-name-pd">Ren</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|88|660|<span class="rank-name-dl">ひいらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|91|659|<span class="rank-name-pd">ダルタニアン濱口</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|92|658|<span class="rank-name-dl">HighWing@カチ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|92|658|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|94|655|<span class="rank-name-pd">MASA_007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|94|655|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|94|655|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|97|654|<span class="rank-name-pd">BC☆月詠☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|98|652|<span class="rank-name-dl">きよる★￦ёёd</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|99|651|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|100|647|<span class="rank-name-dl">HighWingハルキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,104 +134,104 @@ ___
 |---|---|---|---|---|
 |1|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |2|1016|<span class="rank-name-dl">ケーティー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|3|1014|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|3|1014|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |4|1010|<span class="rank-name-dl">飛騨のTAKUMI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |5|976|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |6|965|<span class="rank-name-dl">和空</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |7|958|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 |8|957|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|9|950|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|10|949|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|11|942|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|12|923|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|13|914|<span class="rank-name-dl">小栗つくねDx3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|14|907|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|15|906|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|16|875|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|17|874|<span class="rank-name-dl">なべつー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|18|870|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|19|842|<span class="rank-name-dl">海老カラス</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|20|834|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|21|830|<span class="rank-name-dl">ゆごう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|22|824|<span class="rank-name-dl">(・ω・)ﾉ ﾏﾘﾓｺﾘ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|22|824|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|24|823|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|25|819|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|26|796|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|27|792|<span class="rank-name-dl">昂平-KOUHEI-</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|28|776|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|29|768|<span class="rank-name-dl">HEPPO-KOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|30|767|<span class="rank-name-dl">やっすー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|31|765|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|32|764|<span class="rank-name-dl">エルボガード</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|33|763|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|34|762|<span class="rank-name-dl">NO NAME 9561</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|35|755|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|36|750|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|36|750|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|38|749|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|39|744|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|40|739|<span class="rank-name-dl">Ryo-G</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|40|739|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|42|738|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|43|736|<span class="rank-name-dl">NO NAME 6054</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|43|736|<span class="rank-name-dl">小栗つくね</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|45|735|<span class="rank-name-dl">@かっちｸﾝ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|46|734|<span class="rank-name-dl">ごま</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|47|731|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|48|729|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|49|728|<span class="rank-name-dl">ｷｬﾁｺﾐのユリ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|50|726|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|51|725|<span class="rank-name-dl">KOUHEI-HEPPOKO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|52|724|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|53|715|<span class="rank-name-dl">エビ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|54|710|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|55|707|<span class="rank-name-dl">@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|56|705|<span class="rank-name-dl">たけすぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|56|705|<span class="rank-name-dl">アッシ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|58|702|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|59|701|<span class="rank-name-dl">K-TIN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|60|700|<span class="rank-name-dl">RENA</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|61|693|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|62|692|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|63|691|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|64|686|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|65|685|<span class="rank-name-dl">HEPPOKOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|66|677|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|67|674|<span class="rank-name-dl">A01</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|68|667|<span class="rank-name-dl">sma</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|69|664|<span class="rank-name-dl">NY18</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|70|660|<span class="rank-name-dl">High Wing リョウ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|70|660|<span class="rank-name-dl">ひいらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|72|658|<span class="rank-name-dl">HighWing@カチ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|72|658|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|74|655|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|74|655|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|76|652|<span class="rank-name-dl">きよる★￦ёёd</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|77|651|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|78|647|<span class="rank-name-dl">HighWingハルキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|79|645|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|80|644|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|81|641|<span class="rank-name-dl">こーき</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|82|629|<span class="rank-name-dl">ゆごう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|83|627|<span class="rank-name-dl">神崎真夜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|84|625|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|84|625|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|86|621|<span class="rank-name-dl">8mura（せぱ）</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|86|621|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|88|617|<span class="rank-name-dl">ren</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|89|612|<span class="rank-name-dl">エビ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|90|611|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店 JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|91|610|<span class="rank-name-dl">ひー</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|92|607|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|93|606|<span class="rank-name-dl">＠ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|94|602|<span class="rank-name-dl">MayD</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|95|597|<span class="rank-name-dl">みっくす</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|96|589|<span class="rank-name-dl">光軍一一→◎</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|97|583|<span class="rank-name-dl">HighWingハルキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|97|583|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|97|583|<span class="rank-name-dl">☆あさこ☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|100|549|<span class="rank-name-dl">Rちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|9|949|<span class="rank-name-dl">☆N☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|10|923|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|11|914|<span class="rank-name-dl">小栗つくねDx3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|12|907|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|13|906|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|14|875|<span class="rank-name-dl">maRyo</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|15|874|<span class="rank-name-dl">なべつー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|16|870|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|17|842|<span class="rank-name-dl">海老カラス</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|18|834|<span class="rank-name-dl">Ruua</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|19|830|<span class="rank-name-dl">ゆごう</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|20|824|<span class="rank-name-dl">(・ω・)ﾉ ﾏﾘﾓｺﾘ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|20|824|<span class="rank-name-dl">KJ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|22|823|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|23|819|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|24|792|<span class="rank-name-dl">昂平-KOUHEI-</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|25|776|<span class="rank-name-dl">ウサ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|26|768|<span class="rank-name-dl">HEPPO-KOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|27|767|<span class="rank-name-dl">やっすー</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|28|765|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|29|764|<span class="rank-name-dl">エルボガード</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|30|763|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|31|762|<span class="rank-name-dl">NO NAME 9561</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|32|755|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|33|750|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|33|750|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|35|749|<span class="rank-name-dl">HighWing@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|36|744|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|37|739|<span class="rank-name-dl">Ryo-G</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|38|738|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|39|736|<span class="rank-name-dl">NO NAME 6054</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|39|736|<span class="rank-name-dl">小栗つくね</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|41|735|<span class="rank-name-dl">@かっちｸﾝ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|42|734|<span class="rank-name-dl">ごま</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|43|731|<span class="rank-name-dl">虹#ドテコ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|44|729|<span class="rank-name-dl">ｲﾝﾃﾞｨ 71</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|45|728|<span class="rank-name-dl">ｷｬﾁｺﾐのユリ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|46|726|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|47|725|<span class="rank-name-dl">KOUHEI-HEPPOKO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|48|724|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|49|715|<span class="rank-name-dl">エビ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|50|710|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|51|707|<span class="rank-name-dl">@かち</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|52|705|<span class="rank-name-dl">たけすぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|52|705|<span class="rank-name-dl">アッシ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|54|702|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|55|701|<span class="rank-name-dl">K-TIN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|56|700|<span class="rank-name-dl">RENA</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|57|693|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|58|692|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|59|691|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|60|686|<span class="rank-name-dl">U</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|61|685|<span class="rank-name-dl">HEPPOKOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|62|677|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|63|674|<span class="rank-name-dl">A01</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|64|667|<span class="rank-name-dl">sma</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|65|664|<span class="rank-name-dl">NY18</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|66|660|<span class="rank-name-dl">High Wing リョウ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|66|660|<span class="rank-name-dl">ひいらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|68|658|<span class="rank-name-dl">HighWing@カチ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|68|658|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|70|655|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|70|655|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|72|652|<span class="rank-name-dl">きよる★￦ёёd</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|73|651|<span class="rank-name-dl">ｺﾘﾝ ⑦①</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|74|647|<span class="rank-name-dl">HighWingハルキ</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|75|641|<span class="rank-name-dl">こーき</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|76|627|<span class="rank-name-dl">神崎真夜</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|77|625|<span class="rank-name-dl">Y.SKN</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|77|625|<span class="rank-name-dl">かわchan</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|79|621|<span class="rank-name-dl">8mura（せぱ）</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|80|617|<span class="rank-name-dl">ren</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|81|611|<span class="rank-name-dl">猿コアラ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|82|610|<span class="rank-name-dl">ひー</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|83|606|<span class="rank-name-dl">＠ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|84|602|<span class="rank-name-dl">MayD</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|85|597|<span class="rank-name-dl">みっくす</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|86|589|<span class="rank-name-dl">光軍一一→◎</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|87|583|<span class="rank-name-dl">HighWingハルキ</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|87|583|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|87|583|<span class="rank-name-dl">☆あさこ☆</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|90|549|<span class="rank-name-dl">Rちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|91|548|<span class="rank-name-dl">アレックス</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|92|545|<span class="rank-name-dl">にーき</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|93|543|<span class="rank-name-dl">(・ω・)ﾉＲ9299</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|94|540|<span class="rank-name-dl">サワガニゆか</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|95|539|<span class="rank-name-dl">銀次</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|95|539|<span class="rank-name-dl">＠ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|97|538|<span class="rank-name-dl">Rabe</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|98|531|<span class="rank-name-dl">なずな</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|99|520|<span class="rank-name-dl">よし</span>|<a href="https://search.dartslive.com/jp/shop/ee1a738a3a6abd1c790ab824ce8730e5">JOYJOY岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|100|519|<span class="rank-name-dl">HighWing店長</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
 
 
 #### PHOENIXDARTS TOP 100

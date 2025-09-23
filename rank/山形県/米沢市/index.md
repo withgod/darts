@@ -31,98 +31,98 @@ ___
 |6|1102|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |7|1089|<span class="rank-name-pd">0224_6572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |8|1084|<span class="rank-name-pd">zz9x3829204c44</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|9|1082|<span class="rank-name-dl">じぇい★じぇい</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|9|1082|<span class="rank-name-dl">じぇい★じぇい</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |9|1082|<span class="rank-name-pd">ＫＪＭ ☆SBYO☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |11|1069|<span class="rank-name-pd">G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |12|1065|<span class="rank-name-pd">内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |13|1059|<span class="rank-name-dl">Yutaro Kojima</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |14|1058|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95998?s_seq=95998">HEAVEN</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|15|1044|<span class="rank-name-dl">わいてぃあーる☆</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|16|1020|<span class="rank-name-pd">たなぼた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|17|1018|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|18|1015|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|18|1015|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|20|1011|<span class="rank-name-dl">忍人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|21|1009|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|22|1008|<span class="rank-name-dl">tama</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|22|1008|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|24|1007|<span class="rank-name-pd">Ko-太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|25|1006|<span class="rank-name-dl">こうた</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|26|1005|<span class="rank-name-dl">しゃちく@週末R1</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|27|1004|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|28|1003|<span class="rank-name-dl">Voo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|29|1001|<span class="rank-name-pd"><span class="pro-icon-pd"></span>沼倉 真理子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|30|1000|<span class="rank-name-dl">YOSHI PTS</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|30|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙野 良彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|32|986|<span class="rank-name-dl">Vooo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|33|981|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|34|979|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|35|978|<span class="rank-name-pd">内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|36|976|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|36|976|<span class="rank-name-pd">優樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|38|975|<span class="rank-name-pd">Shin矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|39|973|<span class="rank-name-pd">.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|39|973|<span class="rank-name-dl">☆龍兎蛇☆⇒M†S</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|39|973|<span class="rank-name-pd">里ｻｰﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|42|972|<span class="rank-name-pd">いがんなね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|43|968|<span class="rank-name-dl">TakE</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|43|968|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|45|966|<span class="rank-name-dl">Noname</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|46|965|<span class="rank-name-pd">Dr.源</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|46|965|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|48|964|<span class="rank-name-pd">梅音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|49|963|<span class="rank-name-pd">ノックリーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|50|961|<span class="rank-name-pd">里ｻｰﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|51|960|<span class="rank-name-dl">百鬼Ｐ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|52|959|<span class="rank-name-pd">TONTON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|53|958|<span class="rank-name-dl">りー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|54|955|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95998?s_seq=95998">HEAVEN</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|55|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|56|950|<span class="rank-name-pd">Dr.源</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|57|947|<span class="rank-name-pd">内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|57|947|<span class="rank-name-pd">ＫＪＭ ☆SBYO☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|59|946|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|59|946|<span class="rank-name-pd">GIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|61|941|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|61|941|<span class="rank-name-pd">ヤゲン軟骨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|63|932|<span class="rank-name-pd"><span class="pro-icon-pd"></span>内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95998?s_seq=95998">HEAVEN</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|64|931|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|65|930|<span class="rank-name-pd">まめ 【SHAR WARS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|66|927|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|67|926|<span class="rank-name-pd">ヨシカズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|68|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋 吉彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|68|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙橋 柊人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|70|923|<span class="rank-name-pd">じゅんぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|71|919|<span class="rank-name-pd">SAME[slump]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|72|918|<span class="rank-name-pd">え</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|73|917|<span class="rank-name-pd">ヨシ蚊ズ　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|73|917|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|75|916|<span class="rank-name-pd">Shin矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|75|916|<span class="rank-name-dl">YOSHI PT</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|77|915|<span class="rank-name-dl">TAKA　DLO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|78|913|<span class="rank-name-dl">ツノポリボウズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|79|911|<span class="rank-name-pd">和真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|80|906|<span class="rank-name-dl">η.ο★８CH</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|80|906|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|82|902|<span class="rank-name-dl">んぺ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|83|901|<span class="rank-name-pd">左大臣ヤニカスくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|84|900|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|85|899|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|86|898|<span class="rank-name-dl">古の狩人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|87|897|<span class="rank-name-dl">源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|88|896|<span class="rank-name-pd">古狩人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|89|893|<span class="rank-name-dl">虎屋</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|90|891|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|91|890|<span class="rank-name-dl">PUu322</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|92|885|<span class="rank-name-dl">KEN-梵</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|93|879|<span class="rank-name-dl">ねぇむ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|94|877|<span class="rank-name-pd">鈴木 裕介【狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|95|876|<span class="rank-name-dl">ヨシ蚊ズα</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|96|871|<span class="rank-name-dl">ヨ　シ　蚊　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|97|865|<span class="rank-name-pd">HEAVEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|97|865|<span class="rank-name-pd">TONTON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|99|863|<span class="rank-name-dl">やまいち</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|100|859|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|15|1020|<span class="rank-name-pd">たなぼた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|16|1018|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|17|1015|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|17|1015|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|19|1011|<span class="rank-name-dl">忍人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|20|1008|<span class="rank-name-dl">tama</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|20|1008|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|22|1007|<span class="rank-name-pd">Ko-太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|23|1006|<span class="rank-name-dl">こうた</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|24|1005|<span class="rank-name-dl">しゃちく@週末R1</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|25|1004|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|26|1003|<span class="rank-name-dl">Voo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|27|1001|<span class="rank-name-pd"><span class="pro-icon-pd"></span>沼倉 真理子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|28|1000|<span class="rank-name-dl">YOSHI PTS</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|28|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙野 良彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|30|986|<span class="rank-name-dl">Vooo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|31|981|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|32|979|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|33|978|<span class="rank-name-pd">内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|34|976|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|34|976|<span class="rank-name-pd">優樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|36|975|<span class="rank-name-pd">Shin矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|37|973|<span class="rank-name-pd">.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|37|973|<span class="rank-name-dl">☆龍兎蛇☆⇒M†S</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|39|972|<span class="rank-name-pd">いがんなね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|40|968|<span class="rank-name-dl">TakE</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|40|968|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|42|966|<span class="rank-name-dl">Noname</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|43|965|<span class="rank-name-pd">Dr.源</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|43|965|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|45|964|<span class="rank-name-pd">梅音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|46|963|<span class="rank-name-pd">ノックリーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|47|961|<span class="rank-name-pd">里ｻｰﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|48|960|<span class="rank-name-dl">百鬼Ｐ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|49|959|<span class="rank-name-pd">TONTON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|50|958|<span class="rank-name-dl">りー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|51|955|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95998?s_seq=95998">HEAVEN</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|52|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95777?s_seq=95777">ダーツBAR one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|53|950|<span class="rank-name-pd">Dr.源</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|54|947|<span class="rank-name-pd">内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|54|947|<span class="rank-name-pd">ＫＪＭ ☆SBYO☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|56|946|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|56|946|<span class="rank-name-pd">GIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|58|941|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|58|941|<span class="rank-name-pd">ヤゲン軟骨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|60|932|<span class="rank-name-pd"><span class="pro-icon-pd"></span>内藤 彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95998?s_seq=95998">HEAVEN</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|61|931|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|62|930|<span class="rank-name-pd">まめ 【SHAR WARS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|63|927|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|64|926|<span class="rank-name-pd">ヨシカズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|65|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋 吉彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|65|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙橋 柊人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|67|923|<span class="rank-name-pd">じゅんぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|68|919|<span class="rank-name-pd">SAME[slump]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|69|918|<span class="rank-name-pd">え</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|70|917|<span class="rank-name-pd">ヨシ蚊ズ　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|70|917|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|72|916|<span class="rank-name-pd">Shin矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|72|916|<span class="rank-name-dl">YOSHI PT</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|74|915|<span class="rank-name-dl">TAKA　DLO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|75|913|<span class="rank-name-dl">ツノポリボウズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|76|911|<span class="rank-name-pd">和真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|77|906|<span class="rank-name-dl">η.ο★８CH</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|77|906|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|79|902|<span class="rank-name-dl">んぺ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|80|901|<span class="rank-name-pd">左大臣ヤニカスくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|81|900|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|82|899|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松田 直人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91498?s_seq=91498">ZERO STAGE</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|83|898|<span class="rank-name-dl">古の狩人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|84|897|<span class="rank-name-dl">源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|85|896|<span class="rank-name-pd">古狩人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|86|893|<span class="rank-name-dl">虎屋</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|87|891|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|88|890|<span class="rank-name-dl">PUu322</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|89|885|<span class="rank-name-dl">KEN-梵</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|90|879|<span class="rank-name-dl">ねぇむ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|91|877|<span class="rank-name-pd">鈴木 裕介【狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|92|876|<span class="rank-name-dl">ヨシ蚊ズα</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|93|871|<span class="rank-name-dl">ヨ　シ　蚊　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|94|865|<span class="rank-name-pd">HEAVEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|94|865|<span class="rank-name-pd">TONTON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91499?s_seq=91499">Bar＆Darts Luz</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|96|863|<span class="rank-name-dl">やまいち</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|97|859|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|97|859|<span class="rank-name-dl">ヨ　シ　カ　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|97|859|<span class="rank-name-pd">ヨシ蚊ズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40941?s_seq=40941">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|97|859|<span class="rank-name-dl">ＳＡＭＥ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,101 +137,101 @@ ___
 |3|1153|<span class="rank-name-dl">おニャンコ侍</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |4|1107|<span class="rank-name-dl">芳賀 智大</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |5|1102|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|6|1082|<span class="rank-name-dl">じぇい★じぇい</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|6|1082|<span class="rank-name-dl">じぇい★じぇい</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 |7|1059|<span class="rank-name-dl">Yutaro Kojima</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|8|1044|<span class="rank-name-dl">わいてぃあーる☆</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|9|1018|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|10|1015|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|11|1011|<span class="rank-name-dl">忍人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|12|1009|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|13|1008|<span class="rank-name-dl">tama</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|13|1008|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|15|1006|<span class="rank-name-dl">こうた</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|16|1005|<span class="rank-name-dl">しゃちく@週末R1</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|17|1004|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|18|1003|<span class="rank-name-dl">Voo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|19|1000|<span class="rank-name-dl">YOSHI PTS</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|20|986|<span class="rank-name-dl">Vooo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|21|979|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|22|976|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|23|973|<span class="rank-name-dl">☆龍兎蛇☆⇒M†S</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|24|968|<span class="rank-name-dl">TakE</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|25|966|<span class="rank-name-dl">Noname</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|26|965|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|27|960|<span class="rank-name-dl">百鬼Ｐ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|28|958|<span class="rank-name-dl">りー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|29|946|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|30|944|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|31|941|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|32|931|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|33|927|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|34|916|<span class="rank-name-dl">YOSHI PT</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|35|915|<span class="rank-name-dl">TAKA　DLO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|36|913|<span class="rank-name-dl">ツノポリボウズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|37|906|<span class="rank-name-dl">η.ο★８CH</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|37|906|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|39|902|<span class="rank-name-dl">んぺ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|40|900|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|41|898|<span class="rank-name-dl">古の狩人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|42|897|<span class="rank-name-dl">源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|43|893|<span class="rank-name-dl">虎屋</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|44|890|<span class="rank-name-dl">PUu322</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|45|885|<span class="rank-name-dl">KEN-梵</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|46|879|<span class="rank-name-dl">ねぇむ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|47|876|<span class="rank-name-dl">ヨシ蚊ズα</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|48|871|<span class="rank-name-dl">ヨ　シ　蚊　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|49|863|<span class="rank-name-dl">やまいち</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|50|859|<span class="rank-name-dl">ヨ　シ　カ　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|50|859|<span class="rank-name-dl">ＳＡＭＥ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|52|857|<span class="rank-name-dl">YOSHI 20</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|53|852|<span class="rank-name-dl">優樹</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|54|851|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|55|843|<span class="rank-name-dl">kanata</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|56|842|<span class="rank-name-dl">赤</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|57|827|<span class="rank-name-dl">トビー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|58|825|<span class="rank-name-dl">え～つ～し～！</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|59|820|<span class="rank-name-dl">梅音</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|60|818|<span class="rank-name-dl">サボテン</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|61|814|<span class="rank-name-dl">Mykeych</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|62|812|<span class="rank-name-dl">和真</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|63|790|<span class="rank-name-dl">なるかみ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|64|788|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|65|784|<span class="rank-name-dl">ヨシ蚊ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店 快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|66|778|<span class="rank-name-dl">＊大和撫子☆姫＊</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|67|770|<span class="rank-name-dl">かげちよ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|68|768|<span class="rank-name-dl">ピカル</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|69|755|<span class="rank-name-dl">kam_bot</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|70|733|<span class="rank-name-dl">○y☆</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|71|728|<span class="rank-name-dl">HEAVEN</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|72|727|<span class="rank-name-dl">ヒロシーー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|73|725|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|74|723|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|74|723|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|76|712|<span class="rank-name-dl">ヤゲン軟骨</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|77|694|<span class="rank-name-dl">K.SHIMIZU</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|78|666|<span class="rank-name-dl">ﾘｭﾏｼ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|79|653|<span class="rank-name-dl">とんとん</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|80|647|<span class="rank-name-dl">TARO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|81|632|<span class="rank-name-dl">りぃたろ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|82|622|<span class="rank-name-dl">けろぴ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|83|615|<span class="rank-name-dl">かっつ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|84|580|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|85|568|<span class="rank-name-dl">れいな氏</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|86|562|<span class="rank-name-dl">MENMA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|87|551|<span class="rank-name-dl">千</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|88|550|<span class="rank-name-dl">Donタコス</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|89|538|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|90|522|<span class="rank-name-dl">STELLA AYAKA</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|91|514|<span class="rank-name-dl">POSEIDON</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|92|511|<span class="rank-name-dl">STELLA AYAKA</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|93|503|<span class="rank-name-dl">maple</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|94|495|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|94|495|<span class="rank-name-dl">大原 美里</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|96|475|<span class="rank-name-dl">Nニア</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|96|475|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|98|471|<span class="rank-name-dl">ねむお</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|99|461|<span class="rank-name-dl">NO NAME 9062</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
-|100|458|<span class="rank-name-dl">Miico</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|8|1018|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|9|1015|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|10|1011|<span class="rank-name-dl">忍人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|11|1008|<span class="rank-name-dl">tama</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|11|1008|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|13|1006|<span class="rank-name-dl">こうた</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|14|1005|<span class="rank-name-dl">しゃちく@週末R1</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|15|1004|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|16|1003|<span class="rank-name-dl">Voo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|17|1000|<span class="rank-name-dl">YOSHI PTS</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|18|986|<span class="rank-name-dl">Vooo</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|19|979|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|20|976|<span class="rank-name-dl">れ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|21|973|<span class="rank-name-dl">☆龍兎蛇☆⇒M†S</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|22|968|<span class="rank-name-dl">TakE</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|23|966|<span class="rank-name-dl">Noname</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|24|965|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|25|960|<span class="rank-name-dl">百鬼Ｐ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|26|958|<span class="rank-name-dl">りー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|27|946|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|28|944|<span class="rank-name-dl">内藤 彰</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|29|941|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|30|931|<span class="rank-name-dl">Dr.源</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|31|927|<span class="rank-name-dl">とっち</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|32|916|<span class="rank-name-dl">YOSHI PT</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|33|915|<span class="rank-name-dl">TAKA　DLO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|34|913|<span class="rank-name-dl">ツノポリボウズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|35|906|<span class="rank-name-dl">η.ο★８CH</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|35|906|<span class="rank-name-dl">里ｻｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|37|902|<span class="rank-name-dl">んぺ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|38|900|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|39|898|<span class="rank-name-dl">古の狩人</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|40|897|<span class="rank-name-dl">源</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|41|893|<span class="rank-name-dl">虎屋</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|42|890|<span class="rank-name-dl">PUu322</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|43|885|<span class="rank-name-dl">KEN-梵</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|44|879|<span class="rank-name-dl">ねぇむ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|45|876|<span class="rank-name-dl">ヨシ蚊ズα</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|46|871|<span class="rank-name-dl">ヨ　シ　蚊　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|47|863|<span class="rank-name-dl">やまいち</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|48|859|<span class="rank-name-dl">ヨ　シ　カ　ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|48|859|<span class="rank-name-dl">ＳＡＭＥ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|50|857|<span class="rank-name-dl">YOSHI 20</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|51|852|<span class="rank-name-dl">優樹</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|52|851|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|53|843|<span class="rank-name-dl">kanata</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|54|842|<span class="rank-name-dl">赤</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|55|827|<span class="rank-name-dl">トビー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|56|825|<span class="rank-name-dl">え～つ～し～！</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|57|820|<span class="rank-name-dl">梅音</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|58|818|<span class="rank-name-dl">サボテン</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|59|814|<span class="rank-name-dl">Mykeych</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|60|812|<span class="rank-name-dl">和真</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|61|790|<span class="rank-name-dl">なるかみ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|62|784|<span class="rank-name-dl">ヨシ蚊ズ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|63|778|<span class="rank-name-dl">＊大和撫子☆姫＊</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|64|770|<span class="rank-name-dl">かげちよ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|65|768|<span class="rank-name-dl">ピカル</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|66|755|<span class="rank-name-dl">kam_bot</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|67|733|<span class="rank-name-dl">○y☆</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|68|728|<span class="rank-name-dl">HEAVEN</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|69|727|<span class="rank-name-dl">ヒロシーー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|70|725|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|71|723|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|71|723|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|73|712|<span class="rank-name-dl">ヤゲン軟骨</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|74|694|<span class="rank-name-dl">K.SHIMIZU</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|75|666|<span class="rank-name-dl">ﾘｭﾏｼ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|76|653|<span class="rank-name-dl">とんとん</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|77|647|<span class="rank-name-dl">TARO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|78|632|<span class="rank-name-dl">りぃたろ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|79|622|<span class="rank-name-dl">けろぴ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|80|615|<span class="rank-name-dl">かっつ</span>|<a href="https://search.dartslive.com/jp/shop/ddf58f753875c0510d9b047a20a7ba1e">Darts bar one throw Darts bar one throw</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|81|580|<span class="rank-name-dl">ERIBO</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|82|568|<span class="rank-name-dl">れいな氏</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|83|562|<span class="rank-name-dl">MENMA</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|84|551|<span class="rank-name-dl">千</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|85|550|<span class="rank-name-dl">Donタコス</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|86|538|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|87|522|<span class="rank-name-dl">STELLA AYAKA</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|88|514|<span class="rank-name-dl">POSEIDON</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|89|503|<span class="rank-name-dl">maple</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|90|495|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|90|495|<span class="rank-name-dl">大原 美里</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|92|475|<span class="rank-name-dl">Nニア</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|92|475|<span class="rank-name-dl">スナフ</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|94|471|<span class="rank-name-dl">ねむお</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|95|461|<span class="rank-name-dl">NO NAME 9062</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|96|458|<span class="rank-name-dl">Miico</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|96|458|<span class="rank-name-dl">Taaaaaakuma</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|96|458|<span class="rank-name-dl">YUME</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|99|454|<span class="rank-name-dl">咲</span>|<a href="https://search.dartslive.com/jp/shop/1948f37c762e83f758d385ea46352d8f">快活CLUB 米沢店</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
+|100|451|<span class="rank-name-dl">NO NAME 1497</span>|<a href="https://search.dartslive.com/jp/shop/1dd47b46306a62140d9b047a20a7ba1e">STELLA</a>|<a href="/darts/rank/山形県/米沢市">山形県米沢市</a>|
 
 
 #### PHOENIXDARTS TOP 100

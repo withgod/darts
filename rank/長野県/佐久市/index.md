@@ -54,75 +54,75 @@ ___
 |29|991|<span class="rank-name-dl">masaken☆白狼會</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 |30|987|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 |31|984|<span class="rank-name-pd">あず兄@dym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|32|983|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|33|981|<span class="rank-name-dl">NO NAME 7539</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|34|980|<span class="rank-name-pd">N.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|34|980|<span class="rank-name-dl">吉田のゴルゴ13</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|36|979|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|37|977|<span class="rank-name-dl">Crow</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|37|977|<span class="rank-name-pd">kana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|39|971|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|40|966|<span class="rank-name-pd">かめた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|41|965|<span class="rank-name-pd">No.58044</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|41|965|<span class="rank-name-pd">YES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|43|962|<span class="rank-name-pd">SK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|44|961|<span class="rank-name-pd">あず兄@Bar_Dym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|45|960|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|46|953|<span class="rank-name-pd">ファトブル太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|47|951|<span class="rank-name-dl">YOHEI</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|47|951|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|49|949|<span class="rank-name-dl">Leopard</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|50|943|<span class="rank-name-dl">MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|51|941|<span class="rank-name-pd">T@M@KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|52|936|<span class="rank-name-pd">midoXonX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|52|936|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|54|934|<span class="rank-name-pd">にゃんたまころがし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|55|931|<span class="rank-name-dl">ひらっち_MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|56|929|<span class="rank-name-dl">NO NAME 2567</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|56|929|<span class="rank-name-pd">かずきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|56|929|<span class="rank-name-pd">ピーマル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|59|927|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|60|926|<span class="rank-name-dl">、、、</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|61|925|<span class="rank-name-pd">佐藤 舜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|61|925|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|63|924|<span class="rank-name-dl">midoXonX</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|63|924|<span class="rank-name-dl">ぶるお</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|65|922|<span class="rank-name-pd">オオシロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|65|922|<span class="rank-name-dl">ジーコ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|67|917|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|68|916|<span class="rank-name-dl">kazu8823</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|69|915|<span class="rank-name-dl">P 2期</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|69|915|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|71|914|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|72|912|<span class="rank-name-dl">マスザウルス*</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|72|912|<span class="rank-name-pd">響†楽《雫》</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|74|910|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|75|909|<span class="rank-name-dl">ねここ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|76|908|<span class="rank-name-pd">かい15kg</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|77|902|<span class="rank-name-dl">YES</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|78|901|<span class="rank-name-pd">FILLMORE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|79|899|<span class="rank-name-pd">(GrandLine)けってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|79|899|<span class="rank-name-pd">ポーンコタージュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|81|897|<span class="rank-name-dl">NO NAME 9919</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|82|895|<span class="rank-name-pd">こばじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|82|895|<span class="rank-name-pd">レレレ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|84|894|<span class="rank-name-pd">(GrandLine)けってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|85|890|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|86|888|<span class="rank-name-pd">Crow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|86|888|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|88|887|<span class="rank-name-pd">メガちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|89|886|<span class="rank-name-pd">じょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|89|886|<span class="rank-name-dl">も@MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|91|881|<span class="rank-name-pd">Futa8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|91|881|<span class="rank-name-dl">★√YaaaaSHu!!♪</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|93|877|<span class="rank-name-pd">かずにぃ(๑´^`๑)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|93|877|<span class="rank-name-pd">不安定ニキ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|95|872|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|95|872|<span class="rank-name-pd">ジーコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|97|870|<span class="rank-name-pd">うらぽよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|98|866|<span class="rank-name-pd">あず兄@Bar_Dym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|98|866|<span class="rank-name-pd">ハリセンボーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|100|865|<span class="rank-name-pd">京楽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|32|981|<span class="rank-name-dl">NO NAME 7539</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|33|980|<span class="rank-name-pd">N.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|33|980|<span class="rank-name-dl">吉田のゴルゴ13</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|35|979|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|36|977|<span class="rank-name-dl">Crow</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|36|977|<span class="rank-name-pd">kana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|38|971|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|39|966|<span class="rank-name-pd">かめた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|40|965|<span class="rank-name-pd">No.58044</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|40|965|<span class="rank-name-pd">YES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|42|962|<span class="rank-name-pd">SK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|43|961|<span class="rank-name-pd">あず兄@Bar_Dym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|44|960|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|45|953|<span class="rank-name-pd">ファトブル太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|46|951|<span class="rank-name-dl">YOHEI</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|46|951|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|48|949|<span class="rank-name-dl">Leopard</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|49|943|<span class="rank-name-dl">MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|50|941|<span class="rank-name-pd">T@M@KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|51|936|<span class="rank-name-pd">midoXonX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|51|936|<span class="rank-name-pd">みーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|53|934|<span class="rank-name-pd">にゃんたまころがし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|54|931|<span class="rank-name-dl">ひらっち_MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|55|929|<span class="rank-name-dl">NO NAME 2567</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|55|929|<span class="rank-name-pd">かずきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|55|929|<span class="rank-name-pd">ピーマル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|58|927|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|59|926|<span class="rank-name-dl">、、、</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|60|925|<span class="rank-name-pd">佐藤 舜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|60|925|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|62|924|<span class="rank-name-dl">midoXonX</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|62|924|<span class="rank-name-dl">ぶるお</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|64|922|<span class="rank-name-pd">オオシロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|64|922|<span class="rank-name-dl">ジーコ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|66|917|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|67|916|<span class="rank-name-dl">kazu8823</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|68|915|<span class="rank-name-dl">P 2期</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|69|914|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|70|912|<span class="rank-name-dl">マスザウルス*</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|70|912|<span class="rank-name-pd">響†楽《雫》</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|72|909|<span class="rank-name-dl">ねここ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|73|908|<span class="rank-name-pd">かい15kg</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|74|902|<span class="rank-name-dl">YES</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|75|901|<span class="rank-name-pd">FILLMORE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|76|899|<span class="rank-name-pd">(GrandLine)けってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|76|899|<span class="rank-name-pd">ポーンコタージュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|78|897|<span class="rank-name-dl">NO NAME 9919</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|79|895|<span class="rank-name-pd">こばじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|79|895|<span class="rank-name-pd">レレレ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|81|894|<span class="rank-name-pd">(GrandLine)けってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|82|890|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|83|888|<span class="rank-name-pd">Crow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|83|888|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|85|887|<span class="rank-name-pd">メガちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|86|886|<span class="rank-name-pd">じょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|86|886|<span class="rank-name-dl">も@MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|88|881|<span class="rank-name-pd">Futa8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|88|881|<span class="rank-name-dl">★√YaaaaSHu!!♪</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|90|877|<span class="rank-name-pd">かずにぃ(๑´^`๑)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|90|877|<span class="rank-name-pd">不安定ニキ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|92|872|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|92|872|<span class="rank-name-pd">ジーコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|94|870|<span class="rank-name-pd">うらぽよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|95|866|<span class="rank-name-pd">あず兄@Bar_Dym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|95|866|<span class="rank-name-pd">ハリセンボーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|97|865|<span class="rank-name-pd">京楽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8729?s_seq=8729">自遊空間 佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|98|863|<span class="rank-name-pd">0123_7561</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10432?s_seq=10432">Grand Line</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|98|863|<span class="rank-name-dl">miyasan</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|100|861|<span class="rank-name-dl">ユウ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -143,95 +143,95 @@ ___
 |9|992|<span class="rank-name-dl">MORY@SOBAR</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 |10|991|<span class="rank-name-dl">masaken☆白狼會</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 |11|987|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|12|983|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|13|981|<span class="rank-name-dl">NO NAME 7539</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|14|980|<span class="rank-name-dl">吉田のゴルゴ13</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|15|977|<span class="rank-name-dl">Crow</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|16|951|<span class="rank-name-dl">YOHEI</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|16|951|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|18|949|<span class="rank-name-dl">Leopard</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|19|943|<span class="rank-name-dl">MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|20|931|<span class="rank-name-dl">ひらっち_MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|21|929|<span class="rank-name-dl">NO NAME 2567</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|22|926|<span class="rank-name-dl">、、、</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|23|925|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|24|924|<span class="rank-name-dl">midoXonX</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|24|924|<span class="rank-name-dl">ぶるお</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|26|922|<span class="rank-name-dl">ジーコ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|27|917|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|28|916|<span class="rank-name-dl">kazu8823</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|29|915|<span class="rank-name-dl">P 2期</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|29|915|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|31|914|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|32|912|<span class="rank-name-dl">マスザウルス*</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|33|910|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|34|909|<span class="rank-name-dl">ねここ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|35|902|<span class="rank-name-dl">YES</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|36|897|<span class="rank-name-dl">NO NAME 9919</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|37|890|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|38|888|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|39|886|<span class="rank-name-dl">も@MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|40|881|<span class="rank-name-dl">★√YaaaaSHu!!♪</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|41|872|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|42|863|<span class="rank-name-dl">miyasan</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|43|861|<span class="rank-name-dl">ユウ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|44|852|<span class="rank-name-dl">ひろさん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|45|851|<span class="rank-name-dl">不安定ニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|46|849|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|47|848|<span class="rank-name-dl">ハリセンボーマス</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|48|846|<span class="rank-name-dl">ずー</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|49|842|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|49|842|<span class="rank-name-dl">も@MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|51|839|<span class="rank-name-dl">けいたろ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|52|836|<span class="rank-name-dl">FILLMORE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|53|835|<span class="rank-name-dl">⁂yasuke⁂</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|54|834|<span class="rank-name-dl">らいてい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|55|832|<span class="rank-name-dl">NO NAME 1927</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|56|831|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|56|831|<span class="rank-name-dl">u-ske@弍號機</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|58|827|<span class="rank-name-dl">いけちゃん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店 自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|59|826|<span class="rank-name-dl">☆GAN☆</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|60|818|<span class="rank-name-dl">ryosei</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|61|817|<span class="rank-name-dl">fire lion</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|62|816|<span class="rank-name-dl">Crow_Sepa</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|63|814|<span class="rank-name-dl">P 2期</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|64|809|<span class="rank-name-dl">JOUTA</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|65|805|<span class="rank-name-dl">kenpi_yui</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|65|805|<span class="rank-name-dl">かめた</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|67|773|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|68|767|<span class="rank-name-dl">不安定ニキ改</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|69|765|<span class="rank-name-dl">Uwan</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|69|765|<span class="rank-name-dl">あずにい_dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|71|764|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|72|750|<span class="rank-name-dl">あずにい_dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|73|745|<span class="rank-name-dl">台パンニキ2</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|74|733|<span class="rank-name-dl">Ultra Deb</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|74|733|<span class="rank-name-dl">とく</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|76|713|<span class="rank-name-dl">たけゆ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|77|705|<span class="rank-name-dl">カミカゼ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|78|691|<span class="rank-name-dl">イップス先生</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|78|691|<span class="rank-name-dl">不安定ニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|80|686|<span class="rank-name-dl">ちゃんちゃか</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|81|683|<span class="rank-name-dl">不安定ニキ改</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|82|673|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|83|663|<span class="rank-name-dl">バナナ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|84|659|<span class="rank-name-dl">Revolution.</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|85|644|<span class="rank-name-dl">イップス先生</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|86|620|<span class="rank-name-dl">Ultra Deb</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|87|614|<span class="rank-name-dl">モカ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|88|610|<span class="rank-name-dl">ぴまるーん</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|89|609|<span class="rank-name-dl">tomomi</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|89|609|<span class="rank-name-dl">♛ﾏｲｷﾝﾏﾝ♛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|91|605|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|92|597|<span class="rank-name-dl">すけすけ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|93|589|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|94|575|<span class="rank-name-dl">すけすけ@サブ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|95|556|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|96|555|<span class="rank-name-dl">chan HAGI</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|96|555|<span class="rank-name-dl">ぶこ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|98|553|<span class="rank-name-dl">クロップ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|99|549|<span class="rank-name-dl">LLENN</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|100|532|<span class="rank-name-dl">Sobagarasu</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|12|981|<span class="rank-name-dl">NO NAME 7539</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|13|980|<span class="rank-name-dl">吉田のゴルゴ13</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|14|977|<span class="rank-name-dl">Crow</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|15|951|<span class="rank-name-dl">YOHEI</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|15|951|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|17|949|<span class="rank-name-dl">Leopard</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|18|943|<span class="rank-name-dl">MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|19|931|<span class="rank-name-dl">ひらっち_MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|20|929|<span class="rank-name-dl">NO NAME 2567</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|21|926|<span class="rank-name-dl">、、、</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|22|925|<span class="rank-name-dl">響†楽《雫》</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|23|924|<span class="rank-name-dl">midoXonX</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|23|924|<span class="rank-name-dl">ぶるお</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|25|922|<span class="rank-name-dl">ジーコ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|26|917|<span class="rank-name-dl">あず兄dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|27|916|<span class="rank-name-dl">kazu8823</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|28|915|<span class="rank-name-dl">P 2期</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|29|914|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|30|912|<span class="rank-name-dl">マスザウルス*</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|31|909|<span class="rank-name-dl">ねここ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|32|902|<span class="rank-name-dl">YES</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|33|897|<span class="rank-name-dl">NO NAME 9919</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|34|890|<span class="rank-name-dl">ぶぎじょに</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|35|888|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|36|886|<span class="rank-name-dl">も@MICCLE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|37|881|<span class="rank-name-dl">★√YaaaaSHu!!♪</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|38|872|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|39|863|<span class="rank-name-dl">miyasan</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|40|861|<span class="rank-name-dl">ユウ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|41|852|<span class="rank-name-dl">ひろさん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|42|851|<span class="rank-name-dl">不安定ニキ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|43|849|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|44|848|<span class="rank-name-dl">ハリセンボーマス</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|45|846|<span class="rank-name-dl">ずー</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|46|842|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|47|839|<span class="rank-name-dl">けいたろ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|48|836|<span class="rank-name-dl">FILLMORE</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|49|835|<span class="rank-name-dl">⁂yasuke⁂</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|50|834|<span class="rank-name-dl">らいてい</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|51|832|<span class="rank-name-dl">NO NAME 1927</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|52|831|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|52|831|<span class="rank-name-dl">u-ske@弍號機</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|54|827|<span class="rank-name-dl">いけちゃん</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|55|826|<span class="rank-name-dl">☆GAN☆</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|56|818|<span class="rank-name-dl">ryosei</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|57|817|<span class="rank-name-dl">fire lion</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|58|816|<span class="rank-name-dl">Crow_Sepa</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|59|809|<span class="rank-name-dl">JOUTA</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|60|805|<span class="rank-name-dl">kenpi_yui</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|60|805|<span class="rank-name-dl">かめた</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|62|773|<span class="rank-name-dl">みやぞん</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|63|767|<span class="rank-name-dl">不安定ニキ改</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|64|765|<span class="rank-name-dl">Uwan</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|64|765|<span class="rank-name-dl">あずにい_dymニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|66|764|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|67|745|<span class="rank-name-dl">台パンニキ2</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|68|733|<span class="rank-name-dl">Ultra Deb</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|68|733|<span class="rank-name-dl">とく</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|70|713|<span class="rank-name-dl">たけゆ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|71|705|<span class="rank-name-dl">カミカゼ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|72|691|<span class="rank-name-dl">イップス先生</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|72|691|<span class="rank-name-dl">不安定ニキ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|74|686|<span class="rank-name-dl">ちゃんちゃか</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|75|683|<span class="rank-name-dl">不安定ニキ改</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|76|663|<span class="rank-name-dl">バナナ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|77|659|<span class="rank-name-dl">Revolution.</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|78|620|<span class="rank-name-dl">Ultra Deb</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|79|614|<span class="rank-name-dl">モカ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|80|610|<span class="rank-name-dl">ぴまるーん</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|81|609|<span class="rank-name-dl">tomomi</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|81|609|<span class="rank-name-dl">♛ﾏｲｷﾝﾏﾝ♛</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|83|605|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|84|597|<span class="rank-name-dl">すけすけ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|85|589|<span class="rank-name-dl">NO NAME 2231</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|86|575|<span class="rank-name-dl">すけすけ@サブ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|87|556|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|88|555|<span class="rank-name-dl">chan HAGI</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|88|555|<span class="rank-name-dl">ぶこ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|90|553|<span class="rank-name-dl">クロップ</span>|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|91|549|<span class="rank-name-dl">LLENN</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|92|532|<span class="rank-name-dl">Sobagarasu</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|93|530|<span class="rank-name-dl">がわ</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|94|524|<span class="rank-name-dl">kaishi</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|95|502|<span class="rank-name-dl">ドS</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|96|486|<span class="rank-name-dl">ゆいね</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|97|472|<span class="rank-name-dl">まみたす</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|98|467|<span class="rank-name-dl">ドM</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|99|465|<span class="rank-name-dl">みー♡</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|100|461|<span class="rank-name-dl">R.K</span>|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 
 
 #### PHOENIXDARTS TOP 100

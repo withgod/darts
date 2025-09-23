@@ -47,102 +47,102 @@ ___
 |2|1208|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 |3|1200|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">トド｡♛Ｇalleria</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|3|1200|<span class="rank-name-dl">ヤマモト トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店 自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|3|1200|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1200|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店 亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|3|1200|<span class="rank-name-dl">ヤマモト トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|3|1200|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 |3|1200|<span class="rank-name-dl">龍波 光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1200|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|12|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|13|1169|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|14|1168|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|15|1165|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|16|1164|<span class="rank-name-dl">龍波光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|17|1161|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|18|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|19|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|20|1147|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|21|1136|<span class="rank-name-dl">トド｡♛Ｇalleria</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|21|1136|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|21|1136|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|24|1134|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|25|1131|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|25|1131|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|27|1130|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|28|1127|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|28|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|30|1126|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|31|1122|<span class="rank-name-pd">溝口　幹浩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8738?s_seq=8738">REVEL 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|31|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|33|1121|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|34|1120|<span class="rank-name-pd">ΨカジュΨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8738?s_seq=8738">REVEL 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|35|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|35|1119|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|37|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|37|1117|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|39|1115|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|39|1115|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|41|1113|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|42|1112|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|43|1110|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|43|1110|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|43|1110|<span class="rank-name-dl">竹本 隆秀</span>|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|46|1106|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|47|1104|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|48|1102|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/8713a0e9db3dc34425d56fb0e5c39bac">夜ふかし 夜ふかし</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|48|1102|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|50|1101|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|51|1100|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店 自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|51|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|51|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|51|1100|<span class="rank-name-dl">川合 由郎</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|55|1097|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|56|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|57|1093|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|58|1091|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|58|1091|<span class="rank-name-dl">若旦那(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|60|1088|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|61|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|61|1087|<span class="rank-name-pd">モユキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|63|1086|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|64|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|64|1085|<span class="rank-name-dl">К - ②</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|66|1084|<span class="rank-name-dl">都筑　稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|67|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|67|1083|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|69|1082|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|69|1082|<span class="rank-name-dl">龍波 光彦 Sunny</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|69|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|72|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|73|1078|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|73|1078|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|75|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|76|1074|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|77|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|78|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|78|1072|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|80|1071|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|81|1069|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|81|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|83|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|83|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|85|1066|<span class="rank-name-dl">はせてん</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|85|1066|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|85|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|88|1065|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|89|1064|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|90|1062|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|91|1061|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|92|1060|<span class="rank-name-dl">おしん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|93|1058|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|93|1058|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|93|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|93|1058|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|97|1057|<span class="rank-name-dl">くっしー</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|97|1057|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|97|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|97|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|10|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|11|1169|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|12|1168|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|13|1165|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|14|1164|<span class="rank-name-dl">龍波光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|15|1161|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|16|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|17|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|18|1147|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|19|1136|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|19|1136|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|21|1131|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|21|1131|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|23|1130|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|24|1127|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|24|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1126|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|27|1122|<span class="rank-name-pd">溝口　幹浩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8738?s_seq=8738">REVEL 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|27|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|29|1121|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|30|1120|<span class="rank-name-pd">ΨカジュΨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8738?s_seq=8738">REVEL 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|31|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|31|1119|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|33|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|33|1117|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|35|1115|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|35|1115|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|37|1113|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|38|1110|<span class="rank-name-dl">竹本 隆秀</span>|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|39|1106|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|40|1104|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|41|1102|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/8713a0e9db3dc34425d56fb0e5c39bac">夜ふかし 夜ふかし</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|42|1101|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|43|1100|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|43|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|43|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|43|1100|<span class="rank-name-dl">川合 由郎</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|47|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|48|1093|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|49|1091|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|49|1091|<span class="rank-name-dl">若旦那(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|51|1088|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|52|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|52|1087|<span class="rank-name-pd">モユキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51020?s_seq=51020">JOYJOY 岐阜関店</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|54|1086|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|55|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|55|1085|<span class="rank-name-dl">К - ②</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|57|1084|<span class="rank-name-dl">都筑　稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|58|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|58|1083|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|60|1082|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|60|1082|<span class="rank-name-dl">龍波 光彦 Sunny</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|60|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|63|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|64|1078|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|64|1078|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|66|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|67|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|68|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|68|1072|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|70|1071|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|71|1069|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|71|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|73|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|74|1066|<span class="rank-name-dl">はせてん</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|74|1066|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|74|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|77|1065|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|78|1064|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|79|1062|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|80|1061|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|81|1060|<span class="rank-name-dl">おしん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|82|1058|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|82|1058|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|82|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|82|1058|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|86|1057|<span class="rank-name-dl">くっしー</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|86|1057|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|86|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|86|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|90|1056|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|91|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|91|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|93|1054|<span class="rank-name-dl">†K.A†Antarou</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|94|1053|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|94|1053|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|96|1052|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|96|1052|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|96|1052|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|96|1052|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|96|1052|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -156,102 +156,102 @@ ___
 |2|1208|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
 |3|1200|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">トド｡♛Ｇalleria</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|3|1200|<span class="rank-name-dl">ヤマモト トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店 自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|3|1200|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1200|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店 亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|3|1200|<span class="rank-name-dl">ヤマモト トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|3|1200|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 |3|1200|<span class="rank-name-dl">龍波 光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1200|<span class="rank-name-dl">龍波　光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |3|1200|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|12|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|13|1169|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|14|1168|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|15|1165|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|16|1164|<span class="rank-name-dl">龍波光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|17|1161|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|18|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|19|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|20|1147|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|21|1136|<span class="rank-name-dl">トド｡♛Ｇalleria</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|21|1136|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|21|1136|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|24|1134|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|25|1131|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|25|1131|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|27|1130|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|28|1127|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|28|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|30|1126|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|31|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|32|1121|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|33|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|34|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|34|1117|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|36|1115|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|36|1115|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|38|1113|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|39|1112|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|40|1110|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|40|1110|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|40|1110|<span class="rank-name-dl">竹本 隆秀</span>|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|43|1106|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|44|1104|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|45|1102|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/8713a0e9db3dc34425d56fb0e5c39bac">夜ふかし 夜ふかし</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|45|1102|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|47|1101|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|48|1100|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店 自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|48|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|48|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71 BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|48|1100|<span class="rank-name-dl">川合 由郎</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|52|1097|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|53|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|54|1093|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|55|1091|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|55|1091|<span class="rank-name-dl">若旦那(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|57|1088|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|58|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|59|1086|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|60|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|60|1085|<span class="rank-name-dl">К - ②</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|62|1084|<span class="rank-name-dl">都筑　稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|63|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店 Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|63|1083|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|65|1082|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|65|1082|<span class="rank-name-dl">龍波 光彦 Sunny</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|65|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|68|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|69|1078|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|69|1078|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|71|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
-|72|1074|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|73|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|74|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|74|1072|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|76|1071|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|77|1069|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|77|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|79|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|79|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|81|1066|<span class="rank-name-dl">はせてん</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
-|81|1066|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|81|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|84|1065|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|85|1064|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|86|1062|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|87|1061|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|88|1060|<span class="rank-name-dl">おしん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|89|1058|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
-|89|1058|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|89|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|89|1058|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|93|1057|<span class="rank-name-dl">くっしー</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|93|1057|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|93|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|93|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|97|1056|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|98|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
-|98|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店 インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
-|100|1054|<span class="rank-name-dl">†K.A†Antarou</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店 快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|10|1170|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|11|1169|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|12|1168|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|13|1165|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|14|1164|<span class="rank-name-dl">龍波光彦</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|15|1161|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|16|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|17|1153|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|18|1147|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|19|1136|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|19|1136|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|21|1131|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|21|1131|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|23|1130|<span class="rank-name-dl">KAZUKI</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|24|1127|<span class="rank-name-dl">マモズの番犬</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|24|1127|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|26|1126|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|27|1122|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|28|1121|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|29|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|30|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|30|1117|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|32|1115|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|32|1115|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|34|1113|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|35|1110|<span class="rank-name-dl">竹本 隆秀</span>|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|36|1106|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|37|1104|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|38|1102|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/8713a0e9db3dc34425d56fb0e5c39bac">夜ふかし 夜ふかし</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|39|1101|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|40|1100|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|40|1100|<span class="rank-name-dl">Massy</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|40|1100|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|40|1100|<span class="rank-name-dl">川合 由郎</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|44|1095|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|45|1093|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|46|1091|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|46|1091|<span class="rank-name-dl">若旦那(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|48|1088|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|49|1087|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|50|1086|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|51|1085|<span class="rank-name-dl">Tetsuya Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|51|1085|<span class="rank-name-dl">К - ②</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|53|1084|<span class="rank-name-dl">都筑　稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|54|1083|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/1936c503638c7bf7b21333aee1bd51e4">Play Garden 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|54|1083|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|56|1082|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|56|1082|<span class="rank-name-dl">龍波 光彦 Sunny</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|56|1082|<span class="rank-name-dl">＜＜＜雅＞＞＞</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|59|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|60|1078|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間 多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|60|1078|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|62|1076|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/fd4e8af1d48bbc59b21333aee1bd51e4">High Wing</a>|<a href="/darts/rank/岐阜県/関市">岐阜県関市</a>|
+|63|1073|<span class="rank-name-dl">うひー</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|1072|<span class="rank-name-dl">YOSSHIY♪</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|64|1072|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|66|1071|<span class="rank-name-dl">白井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|67|1069|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|67|1069|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|69|1068|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|70|1066|<span class="rank-name-dl">はせてん</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|70|1066|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|70|1066|<span class="rank-name-dl">森谷　司</span>|<a href="https://search.dartslive.com/jp/shop/6924062aeac30a7128032249b44395af">快活CLUB 大垣店</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|73|1065|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|74|1064|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|75|1062|<span class="rank-name-dl">ドテチン</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|76|1061|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|77|1060|<span class="rank-name-dl">おしん</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|78|1058|<span class="rank-name-dl">☆Noel☆</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|78|1058|<span class="rank-name-dl">てった</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|78|1058|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/ee143133ff4e8d030d9b047a20a7ba1e">BAR 71</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|78|1058|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|82|1057|<span class="rank-name-dl">くっしー</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|82|1057|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|82|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|82|1057|<span class="rank-name-dl">雅</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|86|1056|<span class="rank-name-dl">元々あっくん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|87|1055|<span class="rank-name-dl">もずく</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS＆Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|87|1055|<span class="rank-name-dl">失神壱号機</span>|<a href="https://search.dartslive.com/jp/shop/68ba088f1a9aaa785f9f3321c1147265">インターネット・まんが喫茶 亜熱帯 各務原IC店</a>|<a href="/darts/rank/岐阜県/各務原市">岐阜県各務原市</a>|
+|89|1054|<span class="rank-name-dl">†K.A†Antarou</span>|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|90|1053|<span class="rank-name-dl">ブラック☆矢的魂</span>|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|90|1053|<span class="rank-name-dl">森谷 司</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|92|1052|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|92|1052|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|92|1052|<span class="rank-name-dl">ぴっぴさん@Nova</span>|<a href="https://search.dartslive.com/jp/shop/d8ef73efd8ddbd540d9b047a20a7ba1e">DARTS&Bar Nova</a>|<a href="/darts/rank/岐阜県/大垣市">岐阜県大垣市</a>|
+|92|1052|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/a96c64f0274e892625d56fb0e5c39bac">DINING&SPORTS BAR 88</a>|<a href="/darts/rank/岐阜県/中津川市">岐阜県中津川市</a>|
+|92|1052|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|97|1051|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|97|1051|<span class="rank-name-dl">ㅤ</span>|<a href="https://search.dartslive.com/jp/shop/44b788976a7a2ed80d9b047a20a7ba1e">自遊空間　多治見店</a>|<a href="/darts/rank/岐阜県/多治見市">岐阜県多治見市</a>|
+|97|1051|<span class="rank-name-dl">安井 映良</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|97|1051|<span class="rank-name-dl">鳥の素</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

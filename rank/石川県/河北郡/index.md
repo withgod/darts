@@ -26,10 +26,10 @@ ___
 |1|1104|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 知也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |2|1078|<span class="rank-name-pd">kogu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |3|1059|<span class="rank-name-pd">多田見 ライオネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|4|1055|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|4|1055|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |5|1042|<span class="rank-name-pd">マカロニサラダ【絶狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |6|1032|<span class="rank-name-pd"><span class="pro-icon-pd"></span>多田見 ライオネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|7|1028|<span class="rank-name-dl">亞忌</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|7|1028|<span class="rank-name-dl">亞忌</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |8|1025|<span class="rank-name-pd">たいがちゅん∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |9|1024|<span class="rank-name-pd"><span class="pro-icon-pd"></span>島崎 雄輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |10|1010|<span class="rank-name-pd">カワカミさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
@@ -61,9 +61,9 @@ ___
 |36|875|<span class="rank-name-pd">CIRON!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |37|872|<span class="rank-name-pd">ヤザクぱぴこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |38|864|<span class="rank-name-pd">Yasuo momo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|38|864|<span class="rank-name-dl">yasu</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|38|864|<span class="rank-name-dl">yasu</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |38|864|<span class="rank-name-dl">クロミ</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|41|861|<span class="rank-name-dl">さとえもん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|41|861|<span class="rank-name-dl">さとえもん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |42|858|<span class="rank-name-pd">カオル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |43|854|<span class="rank-name-pd">ゴリラくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |44|850|<span class="rank-name-pd">Syouta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
@@ -76,53 +76,53 @@ ___
 |51|838|<span class="rank-name-pd">くまぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |52|830|<span class="rank-name-pd">つよぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |53|829|<span class="rank-name-dl">ゆたかっち</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|54|827|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|55|826|<span class="rank-name-pd">メガネ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|56|825|<span class="rank-name-pd">#sho#</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|56|825|<span class="rank-name-pd">たかなり。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|58|822|<span class="rank-name-pd">karin【絶狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|59|821|<span class="rank-name-pd">りょうちゃんみ2連休</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|60|819|<span class="rank-name-pd">ヨッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|61|818|<span class="rank-name-pd"><span class="pro-icon-pd"></span>紺谷 一樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|62|817|<span class="rank-name-pd">豊臣フェイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|63|816|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|64|809|<span class="rank-name-pd">IY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|65|808|<span class="rank-name-pd">REVO@N9A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|66|806|<span class="rank-name-pd">YU-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|67|803|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|68|802|<span class="rank-name-pd"><span class="pro-icon-pd"></span>櫻井 幸也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|69|801|<span class="rank-name-pd">n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|69|801|<span class="rank-name-pd">たぬきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|71|800|<span class="rank-name-pd">nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|72|799|<span class="rank-name-pd">りょうちゃんみ2連休［鶴香］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|73|794|<span class="rank-name-pd">おはみずせ～(*´ω｀*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|74|792|<span class="rank-name-pd">たぬきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|75|790|<span class="rank-name-pd">みを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|76|786|<span class="rank-name-pd">旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|77|784|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|77|784|<span class="rank-name-pd">よしお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|79|781|<span class="rank-name-pd">酒雑魚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|80|780|<span class="rank-name-pd">なまこ【絶狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|81|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|82|777|<span class="rank-name-pd">YUKITATAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|83|776|<span class="rank-name-pd">しまんちゅ【鶴香】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|83|776|<span class="rank-name-pd">気持ちよし。[サニー]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|85|775|<span class="rank-name-pd">ツバゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|86|768|<span class="rank-name-pd">Show</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|87|764|<span class="rank-name-dl">しょーーーーーた</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|87|764|<span class="rank-name-pd">しらさき・P・さとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|87|764|<span class="rank-name-dl">馨</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|90|762|<span class="rank-name-pd">UN-DEUX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|90|762|<span class="rank-name-pd">ぱんでも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|90|762|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|93|761|<span class="rank-name-pd">かなちゅん∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|94|758|<span class="rank-name-pd">あ〜ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|95|754|<span class="rank-name-pd">竜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|96|753|<span class="rank-name-pd">#sho#</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|96|753|<span class="rank-name-pd">キノコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|98|752|<span class="rank-name-pd">さとぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|99|751|<span class="rank-name-pd">くけこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|100|747|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|54|826|<span class="rank-name-pd">メガネ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|55|825|<span class="rank-name-pd">#sho#</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|55|825|<span class="rank-name-pd">たかなり。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|57|822|<span class="rank-name-pd">karin【絶狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|58|821|<span class="rank-name-pd">りょうちゃんみ2連休</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|59|819|<span class="rank-name-pd">ヨッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|60|818|<span class="rank-name-pd"><span class="pro-icon-pd"></span>紺谷 一樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|61|817|<span class="rank-name-pd">豊臣フェイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|62|816|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|63|809|<span class="rank-name-pd">IY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|64|808|<span class="rank-name-pd">REVO@N9A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|65|806|<span class="rank-name-pd">YU-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|66|803|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|67|802|<span class="rank-name-pd"><span class="pro-icon-pd"></span>櫻井 幸也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|68|801|<span class="rank-name-pd">n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|68|801|<span class="rank-name-pd">たぬきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|70|800|<span class="rank-name-pd">nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|71|799|<span class="rank-name-pd">りょうちゃんみ2連休［鶴香］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|72|794|<span class="rank-name-pd">おはみずせ～(*´ω｀*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|73|792|<span class="rank-name-pd">たぬきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|74|790|<span class="rank-name-pd">みを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|75|786|<span class="rank-name-pd">旦那</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|76|784|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|76|784|<span class="rank-name-pd">よしお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|78|781|<span class="rank-name-pd">酒雑魚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|79|780|<span class="rank-name-pd">なまこ【絶狼】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|80|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|81|777|<span class="rank-name-pd">YUKITATAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|82|776|<span class="rank-name-pd">しまんちゅ【鶴香】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|82|776|<span class="rank-name-pd">気持ちよし。[サニー]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|84|775|<span class="rank-name-pd">ツバゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|85|768|<span class="rank-name-pd">Show</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|86|764|<span class="rank-name-dl">しょーーーーーた</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|86|764|<span class="rank-name-pd">しらさき・P・さとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|86|764|<span class="rank-name-dl">馨</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|89|762|<span class="rank-name-pd">UN-DEUX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|89|762|<span class="rank-name-pd">ぱんでも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|89|762|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|92|761|<span class="rank-name-pd">かなちゅん∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|93|758|<span class="rank-name-pd">あ〜ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|94|754|<span class="rank-name-pd">竜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|95|753|<span class="rank-name-pd">#sho#</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|95|753|<span class="rank-name-pd">キノコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|97|752|<span class="rank-name-pd">さとぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|98|751|<span class="rank-name-pd">くけこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|99|747|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95368?s_seq=95368">かじゅあるばぁぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|100|746|<span class="rank-name-pd"><span class="pro-icon-pd"></span>木原 正貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9361?s_seq=9361">ももだーつ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,26 +132,23 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1055|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|2|1028|<span class="rank-name-dl">亞忌</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|1|1055|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|2|1028|<span class="rank-name-dl">亞忌</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |3|917|<span class="rank-name-dl">カワカミサン</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|4|864|<span class="rank-name-dl">yasu</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|4|864|<span class="rank-name-dl">yasu</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |4|864|<span class="rank-name-dl">クロミ</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|6|861|<span class="rank-name-dl">さとえもん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|6|861|<span class="rank-name-dl">さとえもん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 |7|829|<span class="rank-name-dl">ゆたかっち</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|8|827|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|9|816|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|10|803|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|11|764|<span class="rank-name-dl">しょーーーーーた</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|11|764|<span class="rank-name-dl">馨</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|13|762|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|14|745|<span class="rank-name-dl">ぽげーら</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|15|739|<span class="rank-name-dl">さとえもん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|16|732|<span class="rank-name-dl">νだいちゅーーん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|17|714|<span class="rank-name-dl">つよぽん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|18|707|<span class="rank-name-dl">しょーーーーーた</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|19|701|<span class="rank-name-dl">HAJIME</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
-|20|689|<span class="rank-name-dl">和哉＠0731</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。 かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|8|816|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|9|803|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|10|764|<span class="rank-name-dl">しょーーーーーた</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|10|764|<span class="rank-name-dl">馨</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|12|762|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|13|745|<span class="rank-name-dl">ぽげーら</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|14|732|<span class="rank-name-dl">νだいちゅーーん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|15|714|<span class="rank-name-dl">つよぽん</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|16|701|<span class="rank-name-dl">HAJIME</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
+|17|689|<span class="rank-name-dl">和哉＠0731</span>|<a href="https://search.dartslive.com/jp/shop/2358bbd55b3d4b7d0d9b047a20a7ba1e">かじゅあるばぁ ぜろ。</a>|<a href="/darts/rank/石川県/河北郡">石川県河北郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

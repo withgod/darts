@@ -38,91 +38,91 @@ ___
 |13|1064|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 |14|1057|<span class="rank-name-pd">zkxb37f3d7b689</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 |15|1056|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|16|1055|<span class="rank-name-dl">NO NAME 8688</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|17|1051|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|18|1046|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|19|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡戸 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|20|1038|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|21|1033|<span class="rank-name-pd">中村大善</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|22|1022|<span class="rank-name-pd">高橋　隼人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|23|1021|<span class="rank-name-pd">☆たけちゃんまん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|24|1018|<span class="rank-name-pd">DO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|25|1014|<span class="rank-name-dl">どすけん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|26|1008|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|27|1007|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|28|1006|<span class="rank-name-pd">0277_0061</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|29|1005|<span class="rank-name-pd">こー　pen@gin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|29|1005|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|31|1004|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|31|1004|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|33|1000|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|34|995|<span class="rank-name-pd">DOSDES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|35|987|<span class="rank-name-pd">むくちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|36|986|<span class="rank-name-pd">0210_4536</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|37|979|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|37|979|<span class="rank-name-pd">横綱  ブル男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|39|978|<span class="rank-name-pd">MnR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|39|978|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|41|974|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|41|974|<span class="rank-name-pd">TERATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|41|974|<span class="rank-name-pd">おおさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|44|973|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|45|972|<span class="rank-name-pd">マレス@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|46|968|<span class="rank-name-dl">REVEL ブル男</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|47|966|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|48|965|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|49|963|<span class="rank-name-dl">IIIIIIIIIIIIII</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|49|963|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|51|962|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|52|961|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|53|959|<span class="rank-name-dl">ｱﾝｼﾞｪﾗｱｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|54|955|<span class="rank-name-pd">DOSDES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|55|953|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|56|947|<span class="rank-name-dl">たかぎ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|57|945|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|58|944|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|59|931|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|60|930|<span class="rank-name-pd">SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|61|923|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|62|922|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|63|921|<span class="rank-name-pd">〆ゆーま〆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|63|921|<span class="rank-name-dl">よた</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|65|918|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|66|914|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|67|911|<span class="rank-name-pd">ぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|68|906|<span class="rank-name-dl">水野 智路</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|69|902|<span class="rank-name-pd">llllllllll</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|70|896|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|71|894|<span class="rank-name-pd">おすぎさん Ｌ❌Ｒ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|72|893|<span class="rank-name-dl">アオケンxWiz</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|73|892|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|74|887|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|74|887|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|76|884|<span class="rank-name-pd">あおけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|76|884|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|78|882|<span class="rank-name-pd">はーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|79|881|<span class="rank-name-pd">チバユウスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|80|880|<span class="rank-name-pd">小林将大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|81|873|<span class="rank-name-dl">はーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|82|871|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|83|870|<span class="rank-name-pd">おすぎさん Ｌ❌Ｒ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|84|869|<span class="rank-name-pd">KOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|85|868|<span class="rank-name-dl">6号艇</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|86|867|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|87|866|<span class="rank-name-pd">みさ @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|88|865|<span class="rank-name-pd">ＵＭＥ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|89|863|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|90|861|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|91|860|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|92|858|<span class="rank-name-dl">なぎスケ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|93|857|<span class="rank-name-dl">Bshi♠Ｋたろう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|94|854|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|95|849|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|96|848|<span class="rank-name-dl">pinky@TIARA/pibd</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|97|845|<span class="rank-name-dl">MASSIVE MONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|98|843|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|99|839|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|100|838|<span class="rank-name-pd">MassiveMonkey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|16|1055|<span class="rank-name-dl">NO NAME 8688</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|17|1046|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|18|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡戸 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|19|1038|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|20|1033|<span class="rank-name-pd">中村大善</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|21|1022|<span class="rank-name-pd">高橋　隼人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|22|1021|<span class="rank-name-pd">☆たけちゃんまん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|23|1018|<span class="rank-name-pd">DO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|24|1014|<span class="rank-name-dl">どすけん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|25|1008|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|26|1007|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|27|1006|<span class="rank-name-pd">0277_0061</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|28|1005|<span class="rank-name-pd">こー　pen@gin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|28|1005|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|30|1004|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|30|1004|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|32|995|<span class="rank-name-pd">DOSDES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|33|987|<span class="rank-name-pd">むくちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|34|986|<span class="rank-name-pd">0210_4536</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|35|979|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|35|979|<span class="rank-name-pd">横綱  ブル男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|37|978|<span class="rank-name-pd">MnR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|37|978|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|39|974|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|39|974|<span class="rank-name-pd">TERATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|39|974|<span class="rank-name-pd">おおさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|42|972|<span class="rank-name-pd">マレス@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|43|968|<span class="rank-name-dl">REVEL ブル男</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|44|965|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|45|963|<span class="rank-name-dl">IIIIIIIIIIIIII</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|45|963|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|47|962|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|48|961|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|49|959|<span class="rank-name-dl">ｱﾝｼﾞｪﾗｱｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|50|955|<span class="rank-name-pd">DOSDES</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|51|947|<span class="rank-name-dl">たかぎ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|52|945|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|53|944|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|54|931|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|55|930|<span class="rank-name-pd">SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|56|923|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|57|922|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|58|921|<span class="rank-name-pd">〆ゆーま〆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|58|921|<span class="rank-name-dl">よた</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|60|918|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|61|914|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|62|906|<span class="rank-name-dl">水野 智路</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|63|902|<span class="rank-name-pd">llllllllll</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|64|896|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|65|894|<span class="rank-name-pd">おすぎさん Ｌ❌Ｒ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|66|893|<span class="rank-name-dl">アオケンxWiz</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|67|892|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|68|887|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|68|887|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|70|884|<span class="rank-name-pd">あおけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|70|884|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|72|882|<span class="rank-name-pd">はーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|73|881|<span class="rank-name-pd">チバユウスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|74|880|<span class="rank-name-pd">小林将大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|75|871|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|76|870|<span class="rank-name-pd">おすぎさん Ｌ❌Ｒ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|77|869|<span class="rank-name-pd">KOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|78|868|<span class="rank-name-dl">6号艇</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|79|867|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|80|866|<span class="rank-name-pd">みさ @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|81|865|<span class="rank-name-pd">ＵＭＥ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|82|863|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|83|861|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|84|860|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|85|858|<span class="rank-name-dl">なぎスケ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|86|857|<span class="rank-name-dl">Bshi♠Ｋたろう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|87|854|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|88|849|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|89|848|<span class="rank-name-dl">pinky@TIARA/pibd</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|90|845|<span class="rank-name-dl">MASSIVE MONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|91|843|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|92|839|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|93|838|<span class="rank-name-pd">MassiveMonkey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|93|838|<span class="rank-name-dl">波平さん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|93|838|<span class="rank-name-pd">ＵＭＥ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|96|832|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|97|826|<span class="rank-name-dl">おすぎ Ｌ×Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|97|826|<span class="rank-name-pd">カラアゲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10211?s_seq=10211">REVEL 瀬戸店</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|99|824|<span class="rank-name-pd">坪井　裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|100|821|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -140,98 +140,98 @@ ___
 |6|1081|<span class="rank-name-dl">８ryusei８</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 |7|1070|<span class="rank-name-dl">マスオさん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 |8|1064|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|9|1055|<span class="rank-name-dl">NO NAME 8688</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|10|1051|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|11|1046|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|12|1027|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|13|1014|<span class="rank-name-dl">どすけん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|14|1008|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|15|1007|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|16|1005|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|17|1004|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|17|1004|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|19|1000|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|20|979|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|21|973|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|22|968|<span class="rank-name-dl">REVEL ブル男</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|23|967|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|24|966|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|25|965|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|26|963|<span class="rank-name-dl">IIIIIIIIIIIIII</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|26|963|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|28|962|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|29|959|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|29|959|<span class="rank-name-dl">ｱﾝｼﾞｪﾗｱｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|31|953|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|32|947|<span class="rank-name-dl">たかぎ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|33|945|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|34|931|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|35|928|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|36|923|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|37|921|<span class="rank-name-dl">よた</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|38|918|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|39|906|<span class="rank-name-dl">水野 智路</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|40|893|<span class="rank-name-dl">アオケンxWiz</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|41|892|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|42|887|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|43|873|<span class="rank-name-dl">はーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|44|871|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|45|868|<span class="rank-name-dl">6号艇</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|46|858|<span class="rank-name-dl">なぎスケ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|47|857|<span class="rank-name-dl">Bshi♠Ｋたろう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|48|849|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|49|848|<span class="rank-name-dl">pinky@TIARA/pibd</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|50|845|<span class="rank-name-dl">MASSIVE MONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|51|843|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|52|838|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|52|838|<span class="rank-name-dl">波平さん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|54|826|<span class="rank-name-dl">おすぎ Ｌ×Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|55|816|<span class="rank-name-dl">〆ゆかどの〆</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|56|806|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|57|801|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|57|801|<span class="rank-name-dl">くま兄</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|59|788|<span class="rank-name-dl">NO NAME 0064</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|60|769|<span class="rank-name-dl">たっつん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|61|762|<span class="rank-name-dl">翔吾[矢吉会]</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|62|761|<span class="rank-name-dl">のんちゃんまん！</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|63|757|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|64|751|<span class="rank-name-dl">NO NAME 6982</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|65|745|<span class="rank-name-dl">HARUO</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|66|743|<span class="rank-name-dl">U M E</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|67|732|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|68|706|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|69|704|<span class="rank-name-dl">けいこ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|70|694|<span class="rank-name-dl">いまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|71|690|<span class="rank-name-dl">Be-3</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|72|677|<span class="rank-name-dl">のんさん。</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|72|677|<span class="rank-name-dl">白米ao07(蜂王)</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|74|659|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|75|652|<span class="rank-name-dl">shampoo (蜂王)</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|76|648|<span class="rank-name-dl">Michi</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|77|636|<span class="rank-name-dl">わちゃけいこ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|78|631|<span class="rank-name-dl">NO NAME 0768</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|79|622|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|80|621|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|81|620|<span class="rank-name-dl">ともみん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|82|618|<span class="rank-name-dl">すぎし～ＬＥＩ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|83|614|<span class="rank-name-dl">わっしょい@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|84|611|<span class="rank-name-dl">世界の亀山</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|85|608|<span class="rank-name-dl">NOMU</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|86|605|<span class="rank-name-dl">かとーゆじ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|87|604|<span class="rank-name-dl">青山モアイshota</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|88|594|<span class="rank-name-dl">謙心のパパ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|89|593|<span class="rank-name-dl">ono</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|89|593|<span class="rank-name-dl">のん。</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|91|578|<span class="rank-name-dl">みとし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|91|578|<span class="rank-name-dl">ニンニン　L×R</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|93|570|<span class="rank-name-dl">a y k*´꒳`*ぁゃ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|94|568|<span class="rank-name-dl">やっほーーー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|95|555|<span class="rank-name-dl">のんさん。</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|96|548|<span class="rank-name-dl">魂ﾌﾙのゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|97|528|<span class="rank-name-dl">hi-no</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|98|524|<span class="rank-name-dl">Mとぅーん@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|99|520|<span class="rank-name-dl">1019</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|100|514|<span class="rank-name-dl">ohide</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|9|1055|<span class="rank-name-dl">NO NAME 8688</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|10|1046|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|11|1027|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|12|1014|<span class="rank-name-dl">どすけん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|13|1008|<span class="rank-name-dl">寺本 樹矢</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|14|1007|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|15|1005|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|16|1004|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|16|1004|<span class="rank-name-dl">ほりたけし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|18|979|<span class="rank-name-dl">たちゅひこ❤️</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|19|968|<span class="rank-name-dl">REVEL ブル男</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|20|967|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|21|965|<span class="rank-name-dl">ちばっちょ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|22|963|<span class="rank-name-dl">IIIIIIIIIIIIII</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|22|963|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|24|962|<span class="rank-name-dl">りょーちん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|25|959|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|25|959|<span class="rank-name-dl">ｱﾝｼﾞｪﾗｱｯｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|27|947|<span class="rank-name-dl">たかぎ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|28|945|<span class="rank-name-dl">寺本 樹矢 Tink</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|29|931|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|30|928|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|31|923|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|32|921|<span class="rank-name-dl">よた</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|33|918|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|34|906|<span class="rank-name-dl">水野 智路</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|35|893|<span class="rank-name-dl">アオケンxWiz</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|36|892|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|37|887|<span class="rank-name-dl">マレス【牛狩闇】</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|38|873|<span class="rank-name-dl">はーにゃ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|39|871|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|40|868|<span class="rank-name-dl">6号艇</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|41|858|<span class="rank-name-dl">なぎスケ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|42|857|<span class="rank-name-dl">Bshi♠Ｋたろう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|43|849|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|44|848|<span class="rank-name-dl">pinky@TIARA/pibd</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|45|845|<span class="rank-name-dl">MASSIVE MONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|46|843|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|47|838|<span class="rank-name-dl">波平さん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|48|826|<span class="rank-name-dl">おすぎ Ｌ×Ｒ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|49|816|<span class="rank-name-dl">〆ゆかどの〆</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|50|806|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|51|801|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|51|801|<span class="rank-name-dl">くま兄</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|53|788|<span class="rank-name-dl">NO NAME 0064</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|54|769|<span class="rank-name-dl">たっつん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|55|762|<span class="rank-name-dl">翔吾[矢吉会]</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|56|761|<span class="rank-name-dl">のんちゃんまん！</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|57|757|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|58|751|<span class="rank-name-dl">NO NAME 6982</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|59|745|<span class="rank-name-dl">HARUO</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|60|743|<span class="rank-name-dl">U M E</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|61|732|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|62|706|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|63|704|<span class="rank-name-dl">けいこ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|64|694|<span class="rank-name-dl">いまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|65|690|<span class="rank-name-dl">Be-3</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|66|677|<span class="rank-name-dl">のんさん。</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|66|677|<span class="rank-name-dl">白米ao07(蜂王)</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|68|659|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|69|652|<span class="rank-name-dl">shampoo (蜂王)</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|70|648|<span class="rank-name-dl">Michi</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|71|636|<span class="rank-name-dl">わちゃけいこ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|72|631|<span class="rank-name-dl">NO NAME 0768</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|73|622|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|74|621|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|75|620|<span class="rank-name-dl">ともみん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|76|618|<span class="rank-name-dl">すぎし～ＬＥＩ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|77|614|<span class="rank-name-dl">わっしょい@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|78|611|<span class="rank-name-dl">世界の亀山</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|79|608|<span class="rank-name-dl">NOMU</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|80|605|<span class="rank-name-dl">かとーゆじ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|81|604|<span class="rank-name-dl">青山モアイshota</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|82|594|<span class="rank-name-dl">謙心のパパ</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|83|593|<span class="rank-name-dl">ono</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|83|593|<span class="rank-name-dl">のん。</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|85|578|<span class="rank-name-dl">みとし</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|85|578|<span class="rank-name-dl">ニンニン　L×R</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|87|570|<span class="rank-name-dl">a y k*´꒳`*ぁゃ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|88|568|<span class="rank-name-dl">やっほーーー</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|89|555|<span class="rank-name-dl">のんさん。</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|90|548|<span class="rank-name-dl">魂ﾌﾙのゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|91|528|<span class="rank-name-dl">hi-no</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|92|524|<span class="rank-name-dl">Mとぅーん@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|93|520|<span class="rank-name-dl">1019</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|94|514|<span class="rank-name-dl">ohide</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|95|509|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|96|508|<span class="rank-name-dl">カナ</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|97|493|<span class="rank-name-dl">おはな</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|98|480|<span class="rank-name-dl">★SAKURA★</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|99|472|<span class="rank-name-dl">ゆっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|100|468|<span class="rank-name-dl">reina</span>|<a href="https://search.dartslive.com/jp/shop/3433a1f36913df31b21333aee1bd51e4">REVEL瀬戸</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
 
 
 #### PHOENIXDARTS TOP 100

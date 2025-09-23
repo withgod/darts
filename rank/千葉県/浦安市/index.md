@@ -26,7 +26,7 @@ ___
 |1|1119|<span class="rank-name-dl">極汁男優よしひろ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |2|1111|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |3|1090|<span class="rank-name-dl">迅君パパ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|4|1075|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest. スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|4|1075|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |5|1040|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |6|1037|<span class="rank-name-dl">村上拓矢　28歳</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |7|1017|<span class="rank-name-dl">M·A·KO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -37,8 +37,8 @@ ___
 |12|998|<span class="rank-name-dl">ぎいち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |13|978|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |13|978|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|15|974|<span class="rank-name-dl">宮澤鉄筋家族</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|16|973|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest. スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|15|974|<span class="rank-name-dl">宮澤鉄筋家族</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|16|973|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |17|972|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |18|968|<span class="rank-name-dl">外山　康介</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |19|967|<span class="rank-name-dl">redwing</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -52,7 +52,7 @@ ___
 |27|950|<span class="rank-name-dl">PJ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |28|949|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |29|944|<span class="rank-name-dl">Ｕ大</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|30|940|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|30|940|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |31|933|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |31|933|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |33|928|<span class="rank-name-dl">MASAKING☆Salud!</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -63,66 +63,66 @@ ___
 |37|920|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |39|916|<span class="rank-name-pd">いっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58481?s_seq=58481">ビリヤード パルコ</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |40|914|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|41|910|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|41|910|<span class="rank-name-dl">Ｕ大</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|43|906|<span class="rank-name-dl">cccksss</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|43|906|<span class="rank-name-dl">ys</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|43|906|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|46|905|<span class="rank-name-dl">ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|47|902|<span class="rank-name-dl">ますだです。</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|48|901|<span class="rank-name-dl">NO NAME 3760</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|48|901|<span class="rank-name-dl">たけらん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|50|900|<span class="rank-name-dl">増田 貴志,18</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|51|888|<span class="rank-name-dl">ゆかた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|51|888|<span class="rank-name-dl">アジ904×SBF</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|53|885|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|54|884|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|55|883|<span class="rank-name-dl">村上拓矢</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|55|883|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|57|881|<span class="rank-name-pd">雷切@silk hat</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58480?s_seq=58480">ビーパス浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|58|879|<span class="rank-name-dl">@Kmt</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|59|878|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|60|876|<span class="rank-name-dl">ぽよちゃん</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|60|876|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|62|869|<span class="rank-name-dl">オパチョ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|63|868|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|64|866|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|64|866|<span class="rank-name-dl">増田 貴志 23</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|66|863|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|67|860|<span class="rank-name-dl">Shigenory</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|67|860|<span class="rank-name-dl">きんぎょがにげた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|67|860|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/c284aa7f6c6288470d9b047a20a7ba1e">Music&Darts Jasminez</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|70|859|<span class="rank-name-dl">佐藤</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|71|857|<span class="rank-name-dl">CAZ@浦住隊</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|71|857|<span class="rank-name-pd">yossee♪@戦闘員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58481?s_seq=58481">ビリヤード パルコ</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|73|855|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|74|854|<span class="rank-name-dl">大谷翔平</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|75|852|<span class="rank-name-dl">しーなorしょへ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|75|852|<span class="rank-name-dl">明後日キララ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|77|851|<span class="rank-name-dl">くまくま</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|78|850|<span class="rank-name-dl">オボセン43</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|79|849|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|79|849|<span class="rank-name-dl">ｵﾆｵﾝﾍｯﾄﾞ平田</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|81|848|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|82|846|<span class="rank-name-dl">.HAPPY.</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|83|844|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|83|844|<span class="rank-name-dl">おまんくん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|85|843|<span class="rank-name-dl">TAKUYA8</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|86|842|<span class="rank-name-dl">チャッチャ系</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|87|841|<span class="rank-name-dl">MASAKING☆Salud!</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|87|841|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|89|831|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|90|829|<span class="rank-name-dl">DAAAAAAAl@乱舞</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|90|829|<span class="rank-name-dl">めんたるおとうふ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|90|829|<span class="rank-name-dl">マッキー㌠</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|93|827|<span class="rank-name-dl">Kiyooo</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|94|826|<span class="rank-name-dl">うーさん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|95|824|<span class="rank-name-dl">しげしげ♪</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|95|824|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|97|822|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|97|822|<span class="rank-name-dl">筋内</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|99|821|<span class="rank-name-dl">ふうた</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|99|821|<span class="rank-name-dl">ダンディ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|41|906|<span class="rank-name-dl">cccksss</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|41|906|<span class="rank-name-dl">ys</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|41|906|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|44|905|<span class="rank-name-dl">ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|45|902|<span class="rank-name-dl">ますだです。</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|46|901|<span class="rank-name-dl">NO NAME 3760</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|46|901|<span class="rank-name-dl">たけらん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|48|900|<span class="rank-name-dl">増田 貴志,18</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|49|888|<span class="rank-name-dl">ゆかた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|49|888|<span class="rank-name-dl">アジ904×SBF</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|51|885|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|52|884|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|53|883|<span class="rank-name-dl">村上拓矢</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|53|883|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|55|881|<span class="rank-name-pd">雷切@silk hat</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58480?s_seq=58480">ビーパス浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|56|879|<span class="rank-name-dl">@Kmt</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|57|878|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|58|876|<span class="rank-name-dl">ぽよちゃん</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|58|876|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|60|869|<span class="rank-name-dl">オパチョ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|61|868|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|62|866|<span class="rank-name-dl">増田 貴志 23</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|63|863|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|64|860|<span class="rank-name-dl">Shigenory</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|64|860|<span class="rank-name-dl">きんぎょがにげた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|64|860|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/c284aa7f6c6288470d9b047a20a7ba1e">Music&Darts Jasminez</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|67|859|<span class="rank-name-dl">佐藤</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|68|857|<span class="rank-name-dl">CAZ@浦住隊</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|68|857|<span class="rank-name-pd">yossee♪@戦闘員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58481?s_seq=58481">ビリヤード パルコ</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|70|854|<span class="rank-name-dl">大谷翔平</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|71|852|<span class="rank-name-dl">しーなorしょへ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|71|852|<span class="rank-name-dl">明後日キララ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|73|851|<span class="rank-name-dl">くまくま</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|74|850|<span class="rank-name-dl">オボセン43</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|75|849|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|75|849|<span class="rank-name-dl">ｵﾆｵﾝﾍｯﾄﾞ平田</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|77|848|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|78|846|<span class="rank-name-dl">.HAPPY.</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|79|844|<span class="rank-name-dl">おまんくん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|80|843|<span class="rank-name-dl">TAKUYA8</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|81|842|<span class="rank-name-dl">チャッチャ系</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|82|831|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|83|829|<span class="rank-name-dl">DAAAAAAAl@乱舞</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|83|829|<span class="rank-name-dl">めんたるおとうふ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|83|829|<span class="rank-name-dl">マッキー㌠</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|86|827|<span class="rank-name-dl">Kiyooo</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|87|826|<span class="rank-name-dl">うーさん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|88|824|<span class="rank-name-dl">しげしげ♪</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|88|824|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|90|822|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|90|822|<span class="rank-name-dl">筋内</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|92|821|<span class="rank-name-dl">ふうた</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|92|821|<span class="rank-name-dl">ダンディ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|94|819|<span class="rank-name-dl">トモーマン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|95|817|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|95|817|<span class="rank-name-dl">翔太@Seagull</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|97|816|<span class="rank-name-dl">ゆいちん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|98|815|<span class="rank-name-dl">安倍総理2号</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|99|811|<span class="rank-name-pd">yossee♪@戦闘員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58480?s_seq=58480">ビーパス浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|99|811|<span class="rank-name-dl">つの☆ScuderiA</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1119|<span class="rank-name-dl">極汁男優よしひろ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |2|1111|<span class="rank-name-dl">む〜</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |3|1090|<span class="rank-name-dl">迅君パパ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|4|1075|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest. スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|4|1075|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |5|1040|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |6|1037|<span class="rank-name-dl">村上拓矢　28歳</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |7|1017|<span class="rank-name-dl">M·A·KO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -146,8 +146,8 @@ ___
 |12|998|<span class="rank-name-dl">ぎいち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |13|978|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |13|978|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|15|974|<span class="rank-name-dl">宮澤鉄筋家族</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|16|973|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest. スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|15|974|<span class="rank-name-dl">宮澤鉄筋家族</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|16|973|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |17|972|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |18|968|<span class="rank-name-dl">外山　康介</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |19|967|<span class="rank-name-dl">redwing</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -161,7 +161,7 @@ ___
 |27|950|<span class="rank-name-dl">PJ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |28|949|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |29|944|<span class="rank-name-dl">Ｕ大</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|30|940|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|30|940|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |31|933|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |31|933|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |33|928|<span class="rank-name-dl">MASAKING☆Salud!</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
@@ -171,67 +171,67 @@ ___
 |37|920|<span class="rank-name-dl">たかひろ</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |37|920|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 |39|914|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|40|910|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|40|910|<span class="rank-name-dl">Ｕ大</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|42|906|<span class="rank-name-dl">cccksss</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|42|906|<span class="rank-name-dl">ys</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|42|906|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|45|905|<span class="rank-name-dl">ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|46|902|<span class="rank-name-dl">ますだです。</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|47|901|<span class="rank-name-dl">NO NAME 3760</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|47|901|<span class="rank-name-dl">たけらん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|49|900|<span class="rank-name-dl">増田 貴志,18</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|50|888|<span class="rank-name-dl">ゆかた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|50|888|<span class="rank-name-dl">アジ904×SBF</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|52|885|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|53|884|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|54|883|<span class="rank-name-dl">村上拓矢</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|54|883|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|56|879|<span class="rank-name-dl">@Kmt</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|57|878|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|58|876|<span class="rank-name-dl">ぽよちゃん</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|58|876|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|60|869|<span class="rank-name-dl">オパチョ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|61|868|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|62|866|<span class="rank-name-dl">Ayum-零</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|62|866|<span class="rank-name-dl">増田 貴志 23</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|64|863|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|65|860|<span class="rank-name-dl">Shigenory</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|65|860|<span class="rank-name-dl">きんぎょがにげた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|65|860|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/c284aa7f6c6288470d9b047a20a7ba1e">Music&Darts Jasminez</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|68|859|<span class="rank-name-dl">佐藤</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|69|857|<span class="rank-name-dl">CAZ@浦住隊</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|70|855|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|71|854|<span class="rank-name-dl">大谷翔平</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|72|852|<span class="rank-name-dl">しーなorしょへ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|72|852|<span class="rank-name-dl">明後日キララ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|74|851|<span class="rank-name-dl">くまくま</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|75|850|<span class="rank-name-dl">オボセン43</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|76|849|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|76|849|<span class="rank-name-dl">ｵﾆｵﾝﾍｯﾄﾞ平田</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|78|848|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|79|846|<span class="rank-name-dl">.HAPPY.</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|80|844|<span class="rank-name-dl">CP</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|80|844|<span class="rank-name-dl">おまんくん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|82|843|<span class="rank-name-dl">TAKUYA8</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|83|842|<span class="rank-name-dl">チャッチャ系</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|84|841|<span class="rank-name-dl">MASAKING☆Salud!</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|84|841|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|86|831|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|87|829|<span class="rank-name-dl">DAAAAAAAl@乱舞</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|87|829|<span class="rank-name-dl">めんたるおとうふ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|87|829|<span class="rank-name-dl">マッキー㌠</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|90|827|<span class="rank-name-dl">Kiyooo</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|91|826|<span class="rank-name-dl">うーさん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|92|824|<span class="rank-name-dl">しげしげ♪</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|92|824|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|94|822|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|94|822|<span class="rank-name-dl">筋内</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|96|821|<span class="rank-name-dl">ふうた</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|96|821|<span class="rank-name-dl">ダンディ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|98|819|<span class="rank-name-dl">トモーマン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|99|818|<span class="rank-name-dl">ぎいち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店 Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
-|100|817|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|40|906|<span class="rank-name-dl">cccksss</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|40|906|<span class="rank-name-dl">ys</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|40|906|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|43|905|<span class="rank-name-dl">ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|44|902|<span class="rank-name-dl">ますだです。</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|45|901|<span class="rank-name-dl">NO NAME 3760</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|45|901|<span class="rank-name-dl">たけらん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|47|900|<span class="rank-name-dl">増田 貴志,18</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|48|888|<span class="rank-name-dl">ゆかた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|48|888|<span class="rank-name-dl">アジ904×SBF</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|50|885|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|51|884|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|52|883|<span class="rank-name-dl">村上拓矢</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|52|883|<span class="rank-name-dl">ＴＡＡ【SP-L】</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|54|879|<span class="rank-name-dl">@Kmt</span>|<a href="https://search.dartslive.com/jp/shop/97f06678924758620d9b047a20a7ba1e">You&Me.co</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|55|878|<span class="rank-name-dl">宮本 忠博</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|56|876|<span class="rank-name-dl">ぽよちゃん</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|56|876|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|58|869|<span class="rank-name-dl">オパチョ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|59|868|<span class="rank-name-dl">けんと</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|60|866|<span class="rank-name-dl">増田 貴志 23</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|61|863|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|62|860|<span class="rank-name-dl">Shigenory</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|62|860|<span class="rank-name-dl">きんぎょがにげた</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|62|860|<span class="rank-name-dl">銀バナ</span>|<a href="https://search.dartslive.com/jp/shop/c284aa7f6c6288470d9b047a20a7ba1e">Music&Darts Jasminez</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|65|859|<span class="rank-name-dl">佐藤</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|66|857|<span class="rank-name-dl">CAZ@浦住隊</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|67|854|<span class="rank-name-dl">大谷翔平</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|68|852|<span class="rank-name-dl">しーなorしょへ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|68|852|<span class="rank-name-dl">明後日キララ</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|70|851|<span class="rank-name-dl">くまくま</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|71|850|<span class="rank-name-dl">オボセン43</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|72|849|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|72|849|<span class="rank-name-dl">ｵﾆｵﾝﾍｯﾄﾞ平田</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|74|848|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|75|846|<span class="rank-name-dl">.HAPPY.</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|76|844|<span class="rank-name-dl">おまんくん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|77|843|<span class="rank-name-dl">TAKUYA8</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|78|842|<span class="rank-name-dl">チャッチャ系</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|79|831|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|80|829|<span class="rank-name-dl">DAAAAAAAl@乱舞</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|80|829|<span class="rank-name-dl">めんたるおとうふ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|80|829|<span class="rank-name-dl">マッキー㌠</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|83|827|<span class="rank-name-dl">Kiyooo</span>|<a href="https://search.dartslive.com/jp/shop/4d17669e9b54b8c90d9b047a20a7ba1e">YELLOW</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|84|826|<span class="rank-name-dl">うーさん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|85|824|<span class="rank-name-dl">しげしげ♪</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|85|824|<span class="rank-name-dl">べっち</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|87|822|<span class="rank-name-dl">リオ(Other Side)</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|87|822|<span class="rank-name-dl">筋内</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|89|821|<span class="rank-name-dl">ふうた</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|89|821|<span class="rank-name-dl">ダンディ</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|91|819|<span class="rank-name-dl">トモーマン</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|92|817|<span class="rank-name-dl">よっしー#Prost</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|92|817|<span class="rank-name-dl">翔太@Seagull</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|94|816|<span class="rank-name-dl">ゆいちん</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|95|815|<span class="rank-name-dl">安倍総理2号</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|96|811|<span class="rank-name-dl">つの☆ScuderiA</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|97|808|<span class="rank-name-dl">しんごすたぁ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|97|808|<span class="rank-name-dl">ジェイ★くん</span>|<a href="https://search.dartslive.com/jp/shop/811f47dc8cd343ef0d9b047a20a7ba1e">Cheer's Cafe 浦安店</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|99|802|<span class="rank-name-dl">zu-ya</span>|<a href="https://search.dartslive.com/jp/shop/259d87ec2fb32ead28032249b44395af">スポーツ&ダーツバー Fest.</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
+|100|797|<span class="rank-name-dl">ゆうすけ@Aims</span>|<a href="https://search.dartslive.com/jp/shop/035c0e2eb61303ff0d9b047a20a7ba1e">POOL NEXT</a>|<a href="/darts/rank/千葉県/浦安市">千葉県浦安市</a>|
 
 
 #### PHOENIXDARTS TOP 100

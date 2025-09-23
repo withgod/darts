@@ -26,7 +26,7 @@ ___
 |1|1200|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |2|1031|<span class="rank-name-dl">悪い幸村</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |3|1019|<span class="rank-name-dl">ＲＩЙ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|4|968|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|4|968|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |5|965|<span class="rank-name-dl">rikuto</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |6|954|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |7|945|<span class="rank-name-dl">平野 陸翔</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
@@ -36,93 +36,93 @@ ___
 |11|894|<span class="rank-name-dl">ペペイン</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |12|878|<span class="rank-name-pd">teru ლ（´∀`ლ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |13|875|<span class="rank-name-pd">ねこじゃらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|14|869|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|14|869|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |15|868|<span class="rank-name-pd">NO NAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|16|865|<span class="rank-name-dl">Ti Amo</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|16|865|<span class="rank-name-dl">Ti Amo</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |17|858|<span class="rank-name-dl">丹羽 俊貴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |18|857|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |19|853|<span class="rank-name-dl">Manato</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|20|843|<span class="rank-name-dl">とまと@</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|20|843|<span class="rank-name-dl">とまと@</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |21|838|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|22|835|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|23|829|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|24|827|<span class="rank-name-pd">りくと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|25|825|<span class="rank-name-dl">teru(*ˊᵕˋ*)੭</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|26|820|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|27|819|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|28|818|<span class="rank-name-pd">ＲＩЙ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|29|814|<span class="rank-name-pd">rikuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|30|813|<span class="rank-name-dl">ＮＥＧ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|31|810|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|32|809|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|33|803|<span class="rank-name-pd">ホヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|34|798|<span class="rank-name-dl">rikuto（撃沈）</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|34|798|<span class="rank-name-dl">トト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|36|793|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|37|787|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|38|785|<span class="rank-name-dl">おじおじのおじ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|39|760|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|40|759|<span class="rank-name-dl">rick</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|40|759|<span class="rank-name-dl">ぬ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|42|755|<span class="rank-name-pd">リュウⅡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|43|750|<span class="rank-name-dl">こち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|44|744|<span class="rank-name-dl">おかめきけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|45|743|<span class="rank-name-pd">Vicke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|46|739|<span class="rank-name-dl">とー</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|47|738|<span class="rank-name-dl">ゆくん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|48|734|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|49|719|<span class="rank-name-dl">たじっち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|50|716|<span class="rank-name-dl">to=⁠_⁠=mi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|51|714|<span class="rank-name-pd">いわっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|52|705|<span class="rank-name-pd">タカシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|53|703|<span class="rank-name-dl">わん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|54|702|<span class="rank-name-dl">なっつん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|55|693|<span class="rank-name-dl">ぷにすけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|56|692|<span class="rank-name-dl">飛ぶtime</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|57|691|<span class="rank-name-pd">17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|58|689|<span class="rank-name-dl">タカシ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|59|687|<span class="rank-name-pd">kino</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|60|683|<span class="rank-name-dl">れぷ。</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|61|677|<span class="rank-name-pd">Manato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|62|676|<span class="rank-name-dl">舞蹴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|63|673|<span class="rank-name-dl">チト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|64|672|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|65|670|<span class="rank-name-dl">NO NAME 8632</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|66|668|<span class="rank-name-dl">UIF G</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|67|665|<span class="rank-name-dl">Manato</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|67|665|<span class="rank-name-dl">NO NAME 8249</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|67|665|<span class="rank-name-pd">和也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|70|661|<span class="rank-name-pd">TSURURU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|71|652|<span class="rank-name-pd">あちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|71|652|<span class="rank-name-pd">岩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|73|648|<span class="rank-name-pd">牙狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|74|645|<span class="rank-name-dl">STYLE×ツカ3号</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|75|641|<span class="rank-name-dl">Ka-Na.</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|76|633|<span class="rank-name-dl">Kusao</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|76|633|<span class="rank-name-dl">mae</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|76|633|<span class="rank-name-dl">きらら</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|79|627|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|80|626|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|80|626|<span class="rank-name-pd">riri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|82|624|<span class="rank-name-dl">パフェ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|83|620|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|84|618|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|85|614|<span class="rank-name-pd">mae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|86|609|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|87|606|<span class="rank-name-pd">4フィンガー用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|88|593|<span class="rank-name-pd">YUKI1051</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|89|588|<span class="rank-name-pd">トトロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|90|585|<span class="rank-name-pd">OKP-777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|91|583|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|92|575|<span class="rank-name-pd">miracle123</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|93|574|<span class="rank-name-pd">0232_6821</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|93|574|<span class="rank-name-pd">daiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|95|573|<span class="rank-name-dl">MaHiro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|95|573|<span class="rank-name-pd">ヤギネギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|97|571|<span class="rank-name-pd">k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|97|571|<span class="rank-name-pd">港のたそがれ番長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|99|570|<span class="rank-name-pd">麗彩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|100|569|<span class="rank-name-pd">➷たゃたにえん➷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|22|829|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|23|827|<span class="rank-name-pd">りくと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|24|825|<span class="rank-name-dl">teru(*ˊᵕˋ*)੭</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|25|820|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|26|819|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|27|818|<span class="rank-name-pd">ＲＩЙ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|28|814|<span class="rank-name-pd">rikuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|29|813|<span class="rank-name-dl">ＮＥＧ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|30|810|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|31|809|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|32|803|<span class="rank-name-pd">ホヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|33|798|<span class="rank-name-dl">rikuto（撃沈）</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|33|798|<span class="rank-name-dl">トト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|35|787|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|36|785|<span class="rank-name-dl">おじおじのおじ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|37|760|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|38|759|<span class="rank-name-dl">rick</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|38|759|<span class="rank-name-dl">ぬ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|40|755|<span class="rank-name-pd">リュウⅡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|41|750|<span class="rank-name-dl">こち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|42|744|<span class="rank-name-dl">おかめきけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|43|743|<span class="rank-name-pd">Vicke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|44|739|<span class="rank-name-dl">とー</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|45|738|<span class="rank-name-dl">ゆくん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|46|734|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|47|719|<span class="rank-name-dl">たじっち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|48|716|<span class="rank-name-dl">to=⁠_⁠=mi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|49|714|<span class="rank-name-pd">いわっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|50|705|<span class="rank-name-pd">タカシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|51|703|<span class="rank-name-dl">わん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|52|702|<span class="rank-name-dl">なっつん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|53|693|<span class="rank-name-dl">ぷにすけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|54|692|<span class="rank-name-dl">飛ぶtime</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|55|691|<span class="rank-name-pd">17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|56|689|<span class="rank-name-dl">タカシ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|57|687|<span class="rank-name-pd">kino</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|58|683|<span class="rank-name-dl">れぷ。</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|59|677|<span class="rank-name-pd">Manato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|60|676|<span class="rank-name-dl">舞蹴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|61|673|<span class="rank-name-dl">チト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|62|670|<span class="rank-name-dl">NO NAME 8632</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|63|668|<span class="rank-name-dl">UIF G</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|64|665|<span class="rank-name-dl">NO NAME 8249</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|64|665|<span class="rank-name-pd">和也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|66|661|<span class="rank-name-pd">TSURURU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|67|652|<span class="rank-name-pd">あちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|67|652|<span class="rank-name-pd">岩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|69|648|<span class="rank-name-pd">牙狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|70|645|<span class="rank-name-dl">STYLE×ツカ3号</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|71|641|<span class="rank-name-dl">Ka-Na.</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|72|633|<span class="rank-name-dl">Kusao</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|72|633|<span class="rank-name-dl">mae</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|72|633|<span class="rank-name-dl">きらら</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|75|627|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|76|626|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|76|626|<span class="rank-name-pd">riri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|78|624|<span class="rank-name-dl">パフェ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|79|620|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|80|618|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|81|614|<span class="rank-name-pd">mae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|82|609|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|83|606|<span class="rank-name-pd">4フィンガー用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|84|593|<span class="rank-name-pd">YUKI1051</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|85|588|<span class="rank-name-pd">トトロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|86|585|<span class="rank-name-pd">OKP-777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|87|583|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|88|575|<span class="rank-name-pd">miracle123</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|89|574|<span class="rank-name-pd">0232_6821</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|89|574|<span class="rank-name-pd">daiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|91|573|<span class="rank-name-dl">MaHiro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|91|573|<span class="rank-name-pd">ヤギネギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|93|571|<span class="rank-name-pd">k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|93|571|<span class="rank-name-pd">港のたそがれ番長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|95|570|<span class="rank-name-pd">麗彩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|96|569|<span class="rank-name-pd">➷たゃたにえん➷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|97|560|<span class="rank-name-pd">NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|98|557|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|99|556|<span class="rank-name-pd">ボティス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|100|550|<span class="rank-name-pd">☆みい☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10285?s_seq=10285">ラウンドワンさいたま・上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,90 +134,86 @@ ___
 |---|---|---|---|---|
 |1|1031|<span class="rank-name-dl">悪い幸村</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |2|1019|<span class="rank-name-dl">ＲＩЙ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|3|968|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|3|968|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |4|965|<span class="rank-name-dl">rikuto</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |5|954|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |6|945|<span class="rank-name-dl">平野 陸翔</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |7|911|<span class="rank-name-dl">7pairs</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |8|900|<span class="rank-name-dl">ＮＥＧ＠ﾘﾊﾋﾞﾘ中</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |9|894|<span class="rank-name-dl">ペペイン</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|10|869|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|11|865|<span class="rank-name-dl">Ti Amo</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|10|869|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|11|865|<span class="rank-name-dl">Ti Amo</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |12|858|<span class="rank-name-dl">丹羽 俊貴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |13|857|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 |14|853|<span class="rank-name-dl">Manato</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|15|843|<span class="rank-name-dl">とまと@</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|16|835|<span class="rank-name-dl">りくと</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|17|829|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|18|825|<span class="rank-name-dl">teru(*ˊᵕˋ*)੭</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|19|820|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|20|819|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|21|813|<span class="rank-name-dl">ＮＥＧ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|22|810|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|23|809|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|24|798|<span class="rank-name-dl">rikuto（撃沈）</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|24|798|<span class="rank-name-dl">トト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|26|793|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|27|787|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|28|785|<span class="rank-name-dl">おじおじのおじ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|29|760|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|30|759|<span class="rank-name-dl">rick</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|30|759|<span class="rank-name-dl">ぬ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|32|750|<span class="rank-name-dl">こち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|33|744|<span class="rank-name-dl">おかめきけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|34|739|<span class="rank-name-dl">とー</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|35|738|<span class="rank-name-dl">ゆくん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|36|734|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|37|719|<span class="rank-name-dl">たじっち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|38|716|<span class="rank-name-dl">to=⁠_⁠=mi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|39|703|<span class="rank-name-dl">わん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|40|702|<span class="rank-name-dl">なっつん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|41|693|<span class="rank-name-dl">ぷにすけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|42|692|<span class="rank-name-dl">飛ぶtime</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|43|689|<span class="rank-name-dl">タカシ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|44|683|<span class="rank-name-dl">れぷ。</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|45|676|<span class="rank-name-dl">舞蹴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|46|673|<span class="rank-name-dl">チト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|47|672|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|48|670|<span class="rank-name-dl">NO NAME 8632</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|49|668|<span class="rank-name-dl">UIF G</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|50|665|<span class="rank-name-dl">Manato</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|50|665|<span class="rank-name-dl">NO NAME 8249</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|52|645|<span class="rank-name-dl">STYLE×ツカ3号</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|53|641|<span class="rank-name-dl">Ka-Na.</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|54|633|<span class="rank-name-dl">Kusao</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|54|633|<span class="rank-name-dl">mae</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店 ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|54|633|<span class="rank-name-dl">きらら</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|57|627|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|58|626|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|59|624|<span class="rank-name-dl">パフェ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|60|620|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|61|618|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|62|583|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|63|573|<span class="rank-name-dl">MaHiro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|64|557|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|65|549|<span class="rank-name-dl">べったん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|66|533|<span class="rank-name-dl">からあげ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|67|529|<span class="rank-name-dl">ホヌ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|68|518|<span class="rank-name-dl">おじん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|69|513|<span class="rank-name-dl">masumi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|70|506|<span class="rank-name-dl">なっとう</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|71|503|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|72|495|<span class="rank-name-dl">イツキ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|73|481|<span class="rank-name-dl">リプトンネキ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|74|478|<span class="rank-name-dl">ハナカシラ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|75|467|<span class="rank-name-dl">Moni</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|76|458|<span class="rank-name-dl">kaeeeee！</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|76|458|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|78|456|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|79|450|<span class="rank-name-dl">リボナカ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|80|434|<span class="rank-name-dl">Kaeeeee2</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|81|415|<span class="rank-name-dl">deviso</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|82|403|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|83|387|<span class="rank-name-dl">色夜アリス</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|84|363|<span class="rank-name-dl">もち巾着</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|85|355|<span class="rank-name-dl">Eee</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
-|86|266|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|15|843|<span class="rank-name-dl">とまと@</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|16|829|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|17|825|<span class="rank-name-dl">teru(*ˊᵕˋ*)੭</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|18|820|<span class="rank-name-dl">ZZZ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|19|819|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|20|813|<span class="rank-name-dl">ＮＥＧ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|21|810|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|22|809|<span class="rank-name-dl">リュウ19</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|23|798|<span class="rank-name-dl">rikuto（撃沈）</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|23|798|<span class="rank-name-dl">トト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|25|787|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|26|785|<span class="rank-name-dl">おじおじのおじ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|27|760|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|28|759|<span class="rank-name-dl">rick</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|28|759|<span class="rank-name-dl">ぬ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|30|750|<span class="rank-name-dl">こち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|31|744|<span class="rank-name-dl">おかめきけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|32|739|<span class="rank-name-dl">とー</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|33|738|<span class="rank-name-dl">ゆくん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|34|734|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|35|719|<span class="rank-name-dl">たじっち</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|36|716|<span class="rank-name-dl">to=⁠_⁠=mi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|37|703|<span class="rank-name-dl">わん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|38|702|<span class="rank-name-dl">なっつん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|39|693|<span class="rank-name-dl">ぷにすけ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|40|692|<span class="rank-name-dl">飛ぶtime</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|41|689|<span class="rank-name-dl">タカシ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|42|683|<span class="rank-name-dl">れぷ。</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|43|676|<span class="rank-name-dl">舞蹴</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|44|673|<span class="rank-name-dl">チト</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|45|670|<span class="rank-name-dl">NO NAME 8632</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|46|668|<span class="rank-name-dl">UIF G</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|47|665|<span class="rank-name-dl">NO NAME 8249</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|48|645|<span class="rank-name-dl">STYLE×ツカ3号</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|49|641|<span class="rank-name-dl">Ka-Na.</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|50|633|<span class="rank-name-dl">Kusao</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|50|633|<span class="rank-name-dl">mae</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|50|633|<span class="rank-name-dl">きらら</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|53|627|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|54|626|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|55|624|<span class="rank-name-dl">パフェ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|56|620|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|57|618|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|58|583|<span class="rank-name-dl">☆伽美愛☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|59|573|<span class="rank-name-dl">MaHiro</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|60|557|<span class="rank-name-dl">Masa</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|61|549|<span class="rank-name-dl">べったん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|62|533|<span class="rank-name-dl">からあげ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|63|529|<span class="rank-name-dl">ホヌ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|64|518|<span class="rank-name-dl">おじん</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|65|513|<span class="rank-name-dl">masumi</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|66|506|<span class="rank-name-dl">なっとう</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|67|503|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|68|495|<span class="rank-name-dl">イツキ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|69|481|<span class="rank-name-dl">リプトンネキ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|70|478|<span class="rank-name-dl">ハナカシラ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|71|467|<span class="rank-name-dl">Moni</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|72|458|<span class="rank-name-dl">kaeeeee！</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|72|458|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|74|456|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|75|450|<span class="rank-name-dl">リボナカ</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|76|434|<span class="rank-name-dl">Kaeeeee2</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|77|415|<span class="rank-name-dl">deviso</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|78|403|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|79|387|<span class="rank-name-dl">色夜アリス</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|80|363|<span class="rank-name-dl">もち巾着</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|81|355|<span class="rank-name-dl">Eee</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
+|82|266|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5dad4fb29a01f4c60d9b047a20a7ba1e">ラウンドワンさいたま上里店</a>|<a href="/darts/rank/埼玉県/児玉郡">埼玉県児玉郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

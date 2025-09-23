@@ -26,103 +26,103 @@ ___
 |1|1204|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |1|1204|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |3|1169|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|4|1166|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|4|1166|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |5|1165|<span class="rank-name-dl">ｼｬｺﾏｽ</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|6|1161|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|6|1161|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |6|1161|<span class="rank-name-dl">８</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |8|1159|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |9|1153|<span class="rank-name-dl">正汚-masao-</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|10|1150|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|11|1140|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店 ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|12|1137|<span class="rank-name-dl">$HURA@LOWT</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|12|1137|<span class="rank-name-pd">ギョウザ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|14|1136|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|14|1136|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|16|1135|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|16|1135|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|18|1132|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|18|1132|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|20|1128|<span class="rank-name-dl">ファンキー村上</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|21|1127|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|21|1127|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|23|1124|<span class="rank-name-dl">8/8の８^ ^</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|23|1124|<span class="rank-name-dl">KEITA-FAT-T</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|23|1124|<span class="rank-name-dl">大将.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|26|1123|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|26|1123|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|26|1123|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|26|1123|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|26|1123|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|31|1122|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|32|1121|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|32|1121|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|34|1120|<span class="rank-name-dl">Ashen</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|34|1120|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|36|1119|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|37|1118|<span class="rank-name-dl">seiya【5XL】</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|37|1118|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|39|1115|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|40|1114|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|41|1110|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|42|1109|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|43|1103|<span class="rank-name-dl">いずみーにょ。</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|44|1101|<span class="rank-name-dl">tatsuya saito</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|45|1100|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|45|1100|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|45|1100|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|45|1100|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|49|1099|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|50|1094|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|50|1094|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1088|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1088|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店 自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|54|1087|<span class="rank-name-dl">NO NAME 5111</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|54|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|54|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|54|1087|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|54|1087|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">tatsuya kos 酔睦</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|59|1086|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|65|1085|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|65|1085|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|65|1085|<span class="rank-name-dl">けん坊</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|68|1084|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|68|1084|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1083|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|71|1082|<span class="rank-name-dl">DYNASTY2023</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-pd">カラヴァッジョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">ゴリバーマン</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|72|1080|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|80|1079|<span class="rank-name-dl">SSM@MIDZY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|80|1079|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|80|1079|<span class="rank-name-dl">卍なおきち卍</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|83|1078|<span class="rank-name-dl">Lemon</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|84|1077|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|84|1077|<span class="rank-name-pd">ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10009?s_seq=10009">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|86|1076|<span class="rank-name-pd">Rikiya Imaizumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|86|1076|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|86|1076|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|86|1076|<span class="rank-name-dl">どろろん</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|90|1074|<span class="rank-name-dl">TISY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|91|1071|<span class="rank-name-dl">トランプ伯爵だよ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|91|1071|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|93|1070|<span class="rank-name-dl">ぽん@Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|93|1070|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|95|1069|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|95|1069|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|97|1068|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|98|1067|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|99|1065|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|99|1065|<span class="rank-name-dl">ｻﾄﾙ</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|10|1137|<span class="rank-name-dl">$HURA@LOWT</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|10|1137|<span class="rank-name-pd">ギョウザ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|12|1136|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|12|1136|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|14|1135|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|14|1135|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|16|1132|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|17|1128|<span class="rank-name-dl">ファンキー村上</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|18|1127|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|18|1127|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|20|1124|<span class="rank-name-dl">8/8の８^ ^</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|20|1124|<span class="rank-name-dl">KEITA-FAT-T</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|20|1124|<span class="rank-name-dl">大将.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|23|1123|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|23|1123|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|23|1123|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|23|1123|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|23|1123|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|28|1122|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|29|1121|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|29|1121|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|31|1120|<span class="rank-name-dl">Ashen</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|31|1120|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|33|1119|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|34|1118|<span class="rank-name-dl">seiya【5XL】</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|34|1118|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|36|1115|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|37|1114|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|38|1109|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|39|1103|<span class="rank-name-dl">いずみーにょ。</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|40|1101|<span class="rank-name-dl">tatsuya saito</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|41|1100|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|41|1100|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|41|1100|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|44|1099|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|45|1094|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|45|1094|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1088|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1088|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|49|1087|<span class="rank-name-dl">NO NAME 5111</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|49|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|49|1087|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|49|1087|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">tatsuya kos 酔睦</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|53|1086|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|59|1085|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|59|1085|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|59|1085|<span class="rank-name-dl">けん坊</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|62|1084|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|62|1084|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1083|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|65|1082|<span class="rank-name-dl">DYNASTY2023</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-pd">カラヴァッジョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">ゴリバーマン</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|66|1080|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|74|1079|<span class="rank-name-dl">SSM@MIDZY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|74|1079|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|74|1079|<span class="rank-name-dl">卍なおきち卍</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|77|1078|<span class="rank-name-dl">Lemon</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|78|1077|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|78|1077|<span class="rank-name-pd">ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10009?s_seq=10009">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|80|1076|<span class="rank-name-pd">Rikiya Imaizumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64709?s_seq=64709">Raku Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|80|1076|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|80|1076|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|80|1076|<span class="rank-name-dl">どろろん</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|84|1074|<span class="rank-name-dl">TISY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|85|1071|<span class="rank-name-dl">トランプ伯爵だよ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|85|1071|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|87|1070|<span class="rank-name-dl">ぽん@Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|87|1070|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|89|1069|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|90|1068|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|91|1067|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|92|1065|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|92|1065|<span class="rank-name-dl">ｻﾄﾙ</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|94|1064|<span class="rank-name-dl">L☪Cてんしょう♍</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|94|1064|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|96|1063|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|97|1062|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|97|1062|<span class="rank-name-dl">あてんしょん</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|97|1062|<span class="rank-name-dl">あにぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|97|1062|<span class="rank-name-pd">さっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10009?s_seq=10009">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1204|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |1|1204|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |3|1169|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|4|1166|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|4|1166|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |5|1165|<span class="rank-name-dl">ｼｬｺﾏｽ</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|6|1161|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|6|1161|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |6|1161|<span class="rank-name-dl">８</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |8|1159|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |9|1153|<span class="rank-name-dl">正汚-masao-</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|10|1150|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|11|1140|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店 ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|12|1137|<span class="rank-name-dl">$HURA@LOWT</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|13|1136|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|13|1136|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|15|1135|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|15|1135|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|17|1132|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|17|1132|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|19|1128|<span class="rank-name-dl">ファンキー村上</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|20|1127|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|20|1127|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|22|1124|<span class="rank-name-dl">8/8の８^ ^</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|22|1124|<span class="rank-name-dl">KEITA-FAT-T</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|22|1124|<span class="rank-name-dl">大将.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|25|1123|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|25|1123|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|25|1123|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|25|1123|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|25|1123|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|30|1122|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|31|1121|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|31|1121|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|33|1120|<span class="rank-name-dl">Ashen</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|33|1120|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|35|1119|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|36|1118|<span class="rank-name-dl">seiya【5XL】</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|36|1118|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|38|1115|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|39|1114|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|40|1110|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|41|1109|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|42|1103|<span class="rank-name-dl">いずみーにょ。</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|43|1101|<span class="rank-name-dl">tatsuya saito</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|44|1100|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|44|1100|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|44|1100|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|44|1100|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|48|1094|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|48|1094|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|50|1088|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|50|1088|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店 自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1087|<span class="rank-name-dl">NO NAME 5111</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1087|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|52|1087|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">tatsuya kos 酔睦</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|57|1086|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|63|1085|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|63|1085|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|63|1085|<span class="rank-name-dl">けん坊</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|66|1084|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|66|1084|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店 快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|68|1083|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|69|1082|<span class="rank-name-dl">DYNASTY2023</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">ゴリバーマン</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|70|1080|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|77|1079|<span class="rank-name-dl">SSM@MIDZY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|77|1079|<span class="rank-name-dl">卍なおきち卍</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|79|1078|<span class="rank-name-dl">Lemon</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|80|1077|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|81|1076|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|81|1076|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|81|1076|<span class="rank-name-dl">どろろん</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|84|1074|<span class="rank-name-dl">TISY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|85|1071|<span class="rank-name-dl">トランプ伯爵だよ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|85|1071|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|87|1070|<span class="rank-name-dl">ぽん@Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|87|1070|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|89|1069|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|89|1069|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|91|1068|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|92|1067|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|93|1065|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|93|1065|<span class="rank-name-dl">ｻﾄﾙ</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|95|1064|<span class="rank-name-dl">L☪Cてんしょう♍</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|95|1064|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|97|1063|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|98|1062|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|98|1062|<span class="rank-name-dl">あてんしょん</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|98|1062|<span class="rank-name-dl">あにぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店 ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|10|1137|<span class="rank-name-dl">$HURA@LOWT</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|11|1136|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|11|1136|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|13|1135|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|13|1135|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|15|1132|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|16|1128|<span class="rank-name-dl">ファンキー村上</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|17|1127|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|17|1127|<span class="rank-name-dl">葵</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|19|1124|<span class="rank-name-dl">8/8の８^ ^</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|19|1124|<span class="rank-name-dl">KEITA-FAT-T</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|19|1124|<span class="rank-name-dl">大将.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|22|1123|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|22|1123|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|22|1123|<span class="rank-name-dl">HAYATO＠Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|22|1123|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|22|1123|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|27|1122|<span class="rank-name-dl">水星の魔女</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|28|1121|<span class="rank-name-dl">L☪Cᘔƕს꒭੭ੇ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|28|1121|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|30|1120|<span class="rank-name-dl">Ashen</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|30|1120|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|32|1119|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|33|1118|<span class="rank-name-dl">seiya【5XL】</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|33|1118|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|35|1115|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|36|1114|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|37|1109|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|38|1103|<span class="rank-name-dl">いずみーにょ。</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|39|1101|<span class="rank-name-dl">tatsuya saito</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|40|1100|<span class="rank-name-dl">D</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|40|1100|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|40|1100|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|43|1094|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|43|1094|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|45|1088|<span class="rank-name-dl">あっ2</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|45|1088|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1087|<span class="rank-name-dl">NO NAME 5111</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1087|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1087|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|47|1087|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">tatsuya kos 酔睦</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|51|1086|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|57|1085|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|57|1085|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|57|1085|<span class="rank-name-dl">けん坊</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|60|1084|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|60|1084|<span class="rank-name-dl">さっきー</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|62|1083|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|63|1082|<span class="rank-name-dl">DYNASTY2023</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/b2424bb7f4da07f90d9b047a20a7ba1e">FAT-T</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">かつや</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">ゴリバーマン</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|64|1080|<span class="rank-name-dl">龍星</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|71|1079|<span class="rank-name-dl">SSM@MIDZY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|71|1079|<span class="rank-name-dl">卍なおきち卍</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|73|1078|<span class="rank-name-dl">Lemon</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|74|1077|<span class="rank-name-dl">☆ichiro☆</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|75|1076|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|75|1076|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|75|1076|<span class="rank-name-dl">どろろん</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|78|1074|<span class="rank-name-dl">TISY</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|79|1071|<span class="rank-name-dl">トランプ伯爵だよ</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|79|1071|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|81|1070|<span class="rank-name-dl">ぽん@Hi㌍&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|81|1070|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|83|1069|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|84|1068|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|85|1067|<span class="rank-name-dl">前濱　秀斗</span>|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|86|1065|<span class="rank-name-dl">ゆーま@protein</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|86|1065|<span class="rank-name-dl">ｻﾄﾙ</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|88|1064|<span class="rank-name-dl">L☪Cてんしょう♍</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|88|1064|<span class="rank-name-dl">Shin⑤★resume☆</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|90|1063|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|91|1062|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|91|1062|<span class="rank-name-dl">あてんしょん</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|91|1062|<span class="rank-name-dl">あにぃ〜</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|91|1062|<span class="rank-name-dl">ス、スンスンです</span>|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|95|1061|<span class="rank-name-dl">卍なおきち卍</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|96|1060|<span class="rank-name-dl">高田　好明</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|97|1058|<span class="rank-name-dl">日本武尊</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|98|1056|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|99|1055|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|100|1054|<span class="rank-name-dl">くら</span>|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 
 
 #### PHOENIXDARTS TOP 100

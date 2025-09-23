@@ -31,15 +31,15 @@ ___
 |6|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>久木田 雄二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9428?s_seq=9428">DARTS BAR XYZ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |6|1167|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |8|1166|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|9|1129|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|9|1129|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |9|1129|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |11|1123|<span class="rank-name-dl">♚tofu✯prince♚</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |12|1122|<span class="rank-name-dl">福本藤隆 Dspt</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |13|1105|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |14|1104|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|15|1096|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|15|1096|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |16|1091|<span class="rank-name-dl">NOBO</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|16|1091|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|16|1091|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |18|1089|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |19|1087|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/36f5486e2abdaa9e58d385ea46352d8f">UP本厚木 UP本厚木</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |20|1086|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/b2dda9183d001726b21333aee1bd51e4">神奈川レジャーランド厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
@@ -50,79 +50,79 @@ ___
 |25|1077|<span class="rank-name-dl">^おすか^@Fleche*</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |25|1077|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |27|1076|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|28|1072|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|29|1070|<span class="rank-name-dl">ﾙﾝﾙﾝﾊﾞﾝﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|30|1063|<span class="rank-name-dl">NO NAME 4823</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|31|1062|<span class="rank-name-dl">やなぎ餅</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|32|1060|<span class="rank-name-dl">波方 涼-DPL</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|33|1059|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|34|1057|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|34|1057|<span class="rank-name-dl">Discipline.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|34|1057|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|37|1053|<span class="rank-name-dl">あんざいなおき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|37|1053|<span class="rank-name-dl">たじー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|37|1053|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|40|1051|<span class="rank-name-dl">おかしょー</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|40|1051|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|42|1048|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|42|1048|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|42|1048|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|45|1047|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|46|1046|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|47|1044|<span class="rank-name-pd">橋本(ソ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|48|1042|<span class="rank-name-dl">caffè e llatte</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|49|1041|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|49|1041|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|49|1041|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|49|1041|<span class="rank-name-dl">みやけん【極】</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|53|1040|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|54|1039|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|54|1039|<span class="rank-name-dl">おりけん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|54|1039|<span class="rank-name-dl">じゅにあ。</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|54|1039|<span class="rank-name-pd">やんまにー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|58|1035|<span class="rank-name-pd">和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9428?s_seq=9428">DARTS BAR XYZ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|59|1034|<span class="rank-name-pd">OBORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82081?s_seq=82081">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|60|1033|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|60|1033|<span class="rank-name-pd">T-KOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|60|1033|<span class="rank-name-pd">겐    이    치</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|63|1032|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|64|1030|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|65|1029|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/a04fd2fcc94963355f9f3321c1147265">コート・ダジュール 厚木林店 コート・ダジュール 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|66|1028|<span class="rank-name-dl">NOBU@Fleche</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|66|1028|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|66|1028|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店 ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|69|1027|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|69|1027|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|71|1026|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|71|1026|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|73|1025|<span class="rank-name-dl">ハプニング 清水</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|74|1021|<span class="rank-name-pd">檬稼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|75|1019|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|75|1019|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82081?s_seq=82081">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|77|1018|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|77|1018|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|79|1017|<span class="rank-name-dl">ゆうじろう</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1015|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1015|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|82|1014|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|83|1013|<span class="rank-name-dl">NOBU@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|83|1013|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|85|1012|<span class="rank-name-pd">GRX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|85|1012|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|87|1011|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|87|1011|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|89|1009|<span class="rank-name-dl">ｼﾞｭﾆ･ｳｨｯﾄﾛｯｸ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|90|1008|<span class="rank-name-dl">NO NAME 8897</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|90|1008|<span class="rank-name-dl">厚木の流れ星</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|90|1008|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|90|1008|<span class="rank-name-dl">ﾄﾓっｷｰDADDYDIRTY</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|94|1007|<span class="rank-name-dl">GOMAPAPA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|94|1007|<span class="rank-name-dl">おでぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|94|1007|<span class="rank-name-pd">小俣　祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|97|1006|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|98|1005|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|98|1005|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|100|1004|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|28|1070|<span class="rank-name-dl">ﾙﾝﾙﾝﾊﾞﾝﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|29|1063|<span class="rank-name-dl">NO NAME 4823</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|30|1062|<span class="rank-name-dl">やなぎ餅</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|31|1060|<span class="rank-name-dl">波方 涼-DPL</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|32|1059|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|33|1057|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|33|1057|<span class="rank-name-dl">Discipline.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|33|1057|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|36|1053|<span class="rank-name-dl">あんざいなおき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|36|1053|<span class="rank-name-dl">たじー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|36|1053|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|39|1051|<span class="rank-name-dl">おかしょー</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|39|1051|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|41|1048|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|41|1048|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|41|1048|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|44|1047|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|45|1046|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|46|1044|<span class="rank-name-pd">橋本(ソ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|47|1042|<span class="rank-name-dl">caffè e llatte</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1041|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1041|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1041|<span class="rank-name-dl">みやけん【極】</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|51|1040|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|52|1039|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|52|1039|<span class="rank-name-dl">おりけん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|52|1039|<span class="rank-name-dl">じゅにあ。</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|52|1039|<span class="rank-name-pd">やんまにー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|56|1035|<span class="rank-name-pd">和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9428?s_seq=9428">DARTS BAR XYZ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|57|1034|<span class="rank-name-pd">OBORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82081?s_seq=82081">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|58|1033|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|58|1033|<span class="rank-name-pd">T-KOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|58|1033|<span class="rank-name-pd">겐    이    치</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|61|1032|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|62|1030|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|63|1029|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/a04fd2fcc94963355f9f3321c1147265">コート・ダジュール 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|64|1028|<span class="rank-name-dl">NOBU@Fleche</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|64|1028|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|64|1028|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|67|1027|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|67|1027|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|69|1026|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|69|1026|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|71|1025|<span class="rank-name-dl">ハプニング 清水</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|72|1021|<span class="rank-name-pd">檬稼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|73|1019|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|73|1019|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 和輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82081?s_seq=82081">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|75|1018|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|75|1018|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|77|1017|<span class="rank-name-dl">ゆうじろう</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|78|1015|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|78|1015|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|80|1014|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|81|1013|<span class="rank-name-dl">NOBU@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|82|1012|<span class="rank-name-pd">GRX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|82|1012|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|84|1011|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|84|1011|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|86|1009|<span class="rank-name-dl">ｼﾞｭﾆ･ｳｨｯﾄﾛｯｸ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|87|1008|<span class="rank-name-dl">NO NAME 8897</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|87|1008|<span class="rank-name-dl">厚木の流れ星</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|87|1008|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|87|1008|<span class="rank-name-dl">ﾄﾓっｷｰDADDYDIRTY</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|91|1007|<span class="rank-name-dl">GOMAPAPA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|91|1007|<span class="rank-name-dl">おでぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|91|1007|<span class="rank-name-pd">小俣　祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9643?s_seq=9643">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|94|1006|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|95|1005|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|95|1005|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|97|1004|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|97|1004|<span class="rank-name-dl">ﾉｰﾈｰﾑ･ﾀﾆｸﾞﾁ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|99|1003|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|100|1002|<span class="rank-name-dl">Winteam</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,15 +139,15 @@ ___
 |5|1169|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |6|1167|<span class="rank-name-dl">鴉</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |7|1166|<span class="rank-name-dl">shinich</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|8|1129|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|8|1129|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |8|1129|<span class="rank-name-dl">のーねーむ2107</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |10|1123|<span class="rank-name-dl">♚tofu✯prince♚</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |11|1122|<span class="rank-name-dl">福本藤隆 Dspt</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |12|1105|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |13|1104|<span class="rank-name-dl">のーねーむ4664</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|14|1096|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|14|1096|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |15|1091|<span class="rank-name-dl">NOBO</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|15|1091|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|15|1091|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |17|1089|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |18|1087|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/36f5486e2abdaa9e58d385ea46352d8f">UP本厚木 UP本厚木</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |19|1086|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/b2dda9183d001726b21333aee1bd51e4">神奈川レジャーランド厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
@@ -157,81 +157,81 @@ ___
 |23|1077|<span class="rank-name-dl">^おすか^@Fleche*</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |23|1077|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 |25|1076|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|26|1072|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|27|1070|<span class="rank-name-dl">ﾙﾝﾙﾝﾊﾞﾝﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|28|1063|<span class="rank-name-dl">NO NAME 4823</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|29|1062|<span class="rank-name-dl">やなぎ餅</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|30|1060|<span class="rank-name-dl">波方 涼-DPL</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|31|1059|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|32|1057|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|32|1057|<span class="rank-name-dl">Discipline.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|32|1057|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|35|1053|<span class="rank-name-dl">あんざいなおき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|35|1053|<span class="rank-name-dl">たじー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|35|1053|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|38|1051|<span class="rank-name-dl">おかしょー</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|38|1051|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|40|1048|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|40|1048|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|40|1048|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|43|1047|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|44|1042|<span class="rank-name-dl">caffè e llatte</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|45|1041|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|45|1041|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|45|1041|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|45|1041|<span class="rank-name-dl">みやけん【極】</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|49|1040|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|50|1039|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|50|1039|<span class="rank-name-dl">おりけん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|50|1039|<span class="rank-name-dl">じゅにあ。</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|53|1033|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|54|1032|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|55|1030|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|56|1029|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/a04fd2fcc94963355f9f3321c1147265">コート・ダジュール 厚木林店 コート・ダジュール 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|57|1028|<span class="rank-name-dl">NOBU@Fleche</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|57|1028|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|57|1028|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|57|1028|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店 ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|61|1027|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|61|1027|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|63|1026|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|63|1026|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|65|1025|<span class="rank-name-dl">ハプニング 清水</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|66|1021|<span class="rank-name-dl">T-KOS</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|67|1019|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|68|1018|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店 快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|68|1018|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|70|1017|<span class="rank-name-dl">ゆうじろう</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|71|1015|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|71|1015|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|73|1014|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|74|1013|<span class="rank-name-dl">NOBU@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|74|1013|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|76|1012|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|77|1011|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|77|1011|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|79|1009|<span class="rank-name-dl">ｼﾞｭﾆ･ｳｨｯﾄﾛｯｸ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1008|<span class="rank-name-dl">NO NAME 8897</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1008|<span class="rank-name-dl">厚木の流れ星</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1008|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|80|1008|<span class="rank-name-dl">ﾄﾓっｷｰDADDYDIRTY</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|84|1007|<span class="rank-name-dl">GOMAPAPA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|84|1007|<span class="rank-name-dl">おでぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|86|1006|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|87|1005|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|87|1005|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|89|1004|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|89|1004|<span class="rank-name-dl">ﾉｰﾈｰﾑ･ﾀﾆｸﾞﾁ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|91|1003|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|92|1002|<span class="rank-name-dl">Winteam</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|92|1002|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|92|1002|<span class="rank-name-dl">白いの？</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|95|1001|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|96|1000|<span class="rank-name-dl">=DDD=</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|96|1000|<span class="rank-name-dl">=DDD=</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店 快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|96|1000|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|96|1000|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
-|96|1000|<span class="rank-name-dl">でん@Reck&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|26|1070|<span class="rank-name-dl">ﾙﾝﾙﾝﾊﾞﾝﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|27|1063|<span class="rank-name-dl">NO NAME 4823</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|28|1062|<span class="rank-name-dl">やなぎ餅</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|29|1060|<span class="rank-name-dl">波方 涼-DPL</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|30|1059|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|31|1057|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|31|1057|<span class="rank-name-dl">Discipline.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|31|1057|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|34|1053|<span class="rank-name-dl">あんざいなおき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|34|1053|<span class="rank-name-dl">たじー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|34|1053|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|37|1051|<span class="rank-name-dl">おかしょー</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|37|1051|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|39|1048|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|39|1048|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|39|1048|<span class="rank-name-dl">キャシャ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|42|1047|<span class="rank-name-dl">su-3</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|43|1042|<span class="rank-name-dl">caffè e llatte</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|44|1041|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|44|1041|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|44|1041|<span class="rank-name-dl">みやけん【極】</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|47|1040|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1039|<span class="rank-name-dl">IDEM</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1039|<span class="rank-name-dl">おりけん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|48|1039|<span class="rank-name-dl">じゅにあ。</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|51|1033|<span class="rank-name-dl">Junk</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|52|1032|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|53|1030|<span class="rank-name-dl">YAMANE DELUXE</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|54|1029|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/a04fd2fcc94963355f9f3321c1147265">コート・ダジュール 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|55|1028|<span class="rank-name-dl">NOBU@Fleche</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|55|1028|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|55|1028|<span class="rank-name-dl">鈴木 彬紘</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|55|1028|<span class="rank-name-dl">Ｍ.Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|59|1027|<span class="rank-name-dl">AVENTURA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|59|1027|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|61|1026|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|61|1026|<span class="rank-name-dl">TTiiggeerrss</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|63|1025|<span class="rank-name-dl">ハプニング 清水</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|64|1021|<span class="rank-name-dl">T-KOS</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|65|1019|<span class="rank-name-dl">☆INSURANCE☆</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|66|1018|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|66|1018|<span class="rank-name-dl">８剣ジーナさん</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|68|1017|<span class="rank-name-dl">ゆうじろう</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|69|1015|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|69|1015|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|71|1014|<span class="rank-name-dl">サバキン･Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|72|1013|<span class="rank-name-dl">NOBU@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|73|1012|<span class="rank-name-dl">しいさん</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|74|1011|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|74|1011|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|76|1009|<span class="rank-name-dl">ｼﾞｭﾆ･ｳｨｯﾄﾛｯｸ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|77|1008|<span class="rank-name-dl">NO NAME 8897</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|77|1008|<span class="rank-name-dl">厚木の流れ星</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|77|1008|<span class="rank-name-dl">安斉 直樹☆矢心</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|77|1008|<span class="rank-name-dl">ﾄﾓっｷｰDADDYDIRTY</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|81|1007|<span class="rank-name-dl">GOMAPAPA</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|81|1007|<span class="rank-name-dl">おでぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|83|1006|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|84|1005|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|84|1005|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|86|1004|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|86|1004|<span class="rank-name-dl">ﾉｰﾈｰﾑ･ﾀﾆｸﾞﾁ</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|88|1003|<span class="rank-name-dl">Kentaro Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|89|1002|<span class="rank-name-dl">Winteam</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|89|1002|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/5bb6bc0377b59fe60d9b047a20a7ba1e">フレーシェ</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|89|1002|<span class="rank-name-dl">白いの？</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|92|1001|<span class="rank-name-dl">すけぽよ</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">=DDD=</span>|<a href="https://search.dartslive.com/jp/shop/530aabfa1529e4135f9f3321c1147265">快活CLUB 厚木林店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">kentt#</span>|<a href="https://search.dartslive.com/jp/shop/ac75af39c629d6a6774c926eb736cb5a">快活CLUB 本厚木駅前店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">sido</span>|<a href="https://search.dartslive.com/jp/shop/93dba521bac7322e0d9b047a20a7ba1e">ディスポート</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">でん@Reck&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">ゆい</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">ﾉｰﾈｰﾑ・ﾀﾆｸﾞﾁ!!!</span>|<a href="https://search.dartslive.com/jp/shop/225ba1d749d2daef25d56fb0e5c39bac">ダーツショップReck's</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|93|1000|<span class="rank-name-dl">ﾕｽｹ【極】夜桜会</span>|<a href="https://search.dartslive.com/jp/shop/4b24ee4d674532c60d9b047a20a7ba1e">ASTRA</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
+|100|997|<span class="rank-name-dl">けーぽん</span>|<a href="https://search.dartslive.com/jp/shop/c5499ac532b237910d9b047a20a7ba1e">ネットルームマンボー本厚木店</a>|<a href="/darts/rank/神奈川県/厚木市">神奈川県厚木市</a>|
 
 
 #### PHOENIXDARTS TOP 100

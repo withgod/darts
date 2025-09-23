@@ -36,93 +36,93 @@ ___
 |11|1016|<span class="rank-name-pd">NNM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 |11|1016|<span class="rank-name-dl">ヤマタク</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 |13|1009|<span class="rank-name-pd">yamataku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|13|1009|<span class="rank-name-dl">ヤマタク</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|15|981|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|16|979|<span class="rank-name-pd">Diggy-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|17|964|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|18|961|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|19|960|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|20|959|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|21|958|<span class="rank-name-pd">Diggy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|22|955|<span class="rank-name-pd">まさき ☆ Hang out</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|23|949|<span class="rank-name-dl">MICHI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|24|946|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|25|943|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|26|942|<span class="rank-name-pd">✝︎☆MASA☆✝︎♂矢練♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|27|934|<span class="rank-name-dl">トビるんるん♪</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|28|933|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|29|932|<span class="rank-name-pd">N_o_y_.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|30|930|<span class="rank-name-pd">Diggy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|31|925|<span class="rank-name-pd">Ba☆Ge</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|32|924|<span class="rank-name-dl">KiKi.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|33|919|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|34|918|<span class="rank-name-dl">にこらす</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|35|915|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|36|914|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|37|911|<span class="rank-name-pd">M@T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|38|909|<span class="rank-name-pd">Simeji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|39|908|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|40|906|<span class="rank-name-dl">TRD</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|41|901|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|42|898|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|43|895|<span class="rank-name-dl">Kiki.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|44|893|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|45|889|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|46|888|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|47|887|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|47|887|<span class="rank-name-pd">輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|49|886|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|50|880|<span class="rank-name-dl">まさひ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|51|869|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|52|865|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|53|864|<span class="rank-name-pd">☆MASAKI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|54|862|<span class="rank-name-pd">Febry</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|55|857|<span class="rank-name-pd">たいがちゅん∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|56|854|<span class="rank-name-pd">✝︎☆MASA☆✝︎♂矢練♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|56|854|<span class="rank-name-pd">ミスド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|58|853|<span class="rank-name-pd">terute</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|59|852|<span class="rank-name-pd">ろーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|60|851|<span class="rank-name-dl">かみみみふ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|61|850|<span class="rank-name-pd">32 〜(゜▽゜〜)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|62|847|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|63|846|<span class="rank-name-pd">にこらす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|64|843|<span class="rank-name-pd">しょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|65|837|<span class="rank-name-dl">OL_Slime</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|65|837|<span class="rank-name-dl">ミスド</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|67|836|<span class="rank-name-pd">tsubasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|68|829|<span class="rank-name-pd">32 щ(゜▽゜щ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|69|828|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|70|827|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|71|824|<span class="rank-name-pd">m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|72|823|<span class="rank-name-pd">ToMMIE@901梅田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|72|823|<span class="rank-name-pd">yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|74|822|<span class="rank-name-dl">32щ(゜▽゜щ)</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|75|821|<span class="rank-name-dl">sai.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|76|817|<span class="rank-name-pd">しょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|77|815|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|77|815|<span class="rank-name-pd">sai.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|77|815|<span class="rank-name-pd">ジョイマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|80|813|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|81|809|<span class="rank-name-pd">ミスド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|81|809|<span class="rank-name-pd">全力な竹田さん(笑)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|83|808|<span class="rank-name-dl">ヒロト</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|84|807|<span class="rank-name-pd">しょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|85|806|<span class="rank-name-dl">HiRo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|85|806|<span class="rank-name-dl">Tさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|87|805|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|87|805|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|89|804|<span class="rank-name-pd">牙神幻十郎 †矢練†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|90|803|<span class="rank-name-pd">澤田 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|91|802|<span class="rank-name-pd">けんてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|92|799|<span class="rank-name-pd">3点☆BOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|93|797|<span class="rank-name-pd">32 щ(゜▽゜щ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|93|797|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|95|795|<span class="rank-name-pd">kit</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|96|792|<span class="rank-name-pd">はろぅみきてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|97|790|<span class="rank-name-pd">こーよー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|98|789|<span class="rank-name-pd">野良豚@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|99|788|<span class="rank-name-pd">けん太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|100|784|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|14|981|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|15|979|<span class="rank-name-pd">Diggy-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|16|964|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|17|961|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|18|960|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|19|959|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|20|958|<span class="rank-name-pd">Diggy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|21|955|<span class="rank-name-pd">まさき ☆ Hang out</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|22|949|<span class="rank-name-dl">MICHI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|23|946|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|24|942|<span class="rank-name-pd">✝︎☆MASA☆✝︎♂矢練♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|25|934|<span class="rank-name-dl">トビるんるん♪</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|26|933|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|27|932|<span class="rank-name-pd">N_o_y_.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|28|930|<span class="rank-name-pd">Diggy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|29|925|<span class="rank-name-pd">Ba☆Ge</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|30|924|<span class="rank-name-dl">KiKi.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|31|919|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|32|918|<span class="rank-name-dl">にこらす</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|33|915|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|34|914|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|35|911|<span class="rank-name-pd">M@T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|36|909|<span class="rank-name-pd">Simeji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|37|908|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|38|906|<span class="rank-name-dl">TRD</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|39|901|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|40|898|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|41|895|<span class="rank-name-dl">Kiki.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|42|893|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|43|889|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|44|887|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|44|887|<span class="rank-name-pd">輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|46|886|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|47|880|<span class="rank-name-dl">まさひ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|48|869|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|49|865|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|50|864|<span class="rank-name-pd">☆MASAKI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|51|862|<span class="rank-name-pd">Febry</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|52|857|<span class="rank-name-pd">たいがちゅん∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|53|854|<span class="rank-name-pd">✝︎☆MASA☆✝︎♂矢練♀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|53|854|<span class="rank-name-pd">ミスド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|55|853|<span class="rank-name-pd">terute</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|56|852|<span class="rank-name-pd">ろーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|57|851|<span class="rank-name-dl">かみみみふ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|58|850|<span class="rank-name-pd">32 〜(゜▽゜〜)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|59|847|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|60|843|<span class="rank-name-pd">しょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|61|837|<span class="rank-name-dl">OL_Slime</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|62|836|<span class="rank-name-pd">tsubasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|63|829|<span class="rank-name-pd">32 щ(゜▽゜щ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|64|828|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|65|827|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|66|824|<span class="rank-name-pd">m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|67|823|<span class="rank-name-pd">ToMMIE@901梅田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|67|823|<span class="rank-name-pd">yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|69|822|<span class="rank-name-dl">32щ(゜▽゜щ)</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|70|821|<span class="rank-name-dl">sai.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|71|817|<span class="rank-name-pd">しょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|72|815|<span class="rank-name-pd">karina_ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|72|815|<span class="rank-name-pd">sai.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|72|815|<span class="rank-name-pd">ジョイマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|75|813|<span class="rank-name-pd">Michi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|76|809|<span class="rank-name-pd">ミスド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|76|809|<span class="rank-name-pd">全力な竹田さん(笑)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|78|808|<span class="rank-name-dl">ヒロト</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|79|807|<span class="rank-name-pd">しょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|80|806|<span class="rank-name-dl">HiRo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|80|806|<span class="rank-name-dl">Tさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|82|805|<span class="rank-name-pd">KOHJI.CHERSEA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|82|805|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|84|804|<span class="rank-name-pd">牙神幻十郎 †矢練†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|85|803|<span class="rank-name-pd">澤田 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|86|802|<span class="rank-name-pd">けんてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|87|799|<span class="rank-name-pd">3点☆BOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|88|797|<span class="rank-name-pd">32 щ(゜▽゜щ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|89|795|<span class="rank-name-pd">kit</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|90|792|<span class="rank-name-pd">はろぅみきてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|91|790|<span class="rank-name-pd">こーよー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|92|789|<span class="rank-name-pd">野良豚@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|93|788|<span class="rank-name-pd">けん太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|94|784|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|95|782|<span class="rank-name-pd">Noy/02.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|96|781|<span class="rank-name-pd">五十嵐　博之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78031?s_seq=78031">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|97|780|<span class="rank-name-pd">YAMADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|98|779|<span class="rank-name-dl">Perona.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|99|778|<span class="rank-name-dl">SIN-KUN</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|99|778|<span class="rank-name-pd">はろぅみきてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48332?s_seq=48332">アプレシオ 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,73 +136,69 @@ ___
 |2|1087|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 |3|1047|<span class="rank-name-dl">佐々木　直也</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 |4|1016|<span class="rank-name-dl">ヤマタク</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|5|1009|<span class="rank-name-dl">ヤマタク</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|6|981|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|7|964|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|8|960|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|9|959|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|10|949|<span class="rank-name-dl">MICHI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|11|944|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|12|943|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|13|934|<span class="rank-name-dl">トビるんるん♪</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|14|924|<span class="rank-name-dl">KiKi.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|15|918|<span class="rank-name-dl">にこらす</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|16|915|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|17|914|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|18|908|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|19|906|<span class="rank-name-dl">TRD</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|20|903|<span class="rank-name-dl">Simeji</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|21|895|<span class="rank-name-dl">Kiki.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|22|893|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|23|888|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|24|887|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|25|880|<span class="rank-name-dl">まさひ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|26|865|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|27|851|<span class="rank-name-dl">かみみみふ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|28|837|<span class="rank-name-dl">OL_Slime</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|28|837|<span class="rank-name-dl">ミスド</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|30|828|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|31|822|<span class="rank-name-dl">32щ(゜▽゜щ)</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|32|821|<span class="rank-name-dl">sai.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|33|808|<span class="rank-name-dl">ヒロト</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|34|806|<span class="rank-name-dl">HiRo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|34|806|<span class="rank-name-dl">Tさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|36|797|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|37|795|<span class="rank-name-dl">ろーま</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|38|779|<span class="rank-name-dl">Perona.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|39|778|<span class="rank-name-dl">SIN-KUN</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|40|777|<span class="rank-name-dl">鮒</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店 快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|41|768|<span class="rank-name-dl">しっぽの神様</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|42|763|<span class="rank-name-dl">つよー</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|43|760|<span class="rank-name-dl">全力なTさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|44|748|<span class="rank-name-dl">バンブーです</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|45|746|<span class="rank-name-dl">Bob</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|46|724|<span class="rank-name-dl">MOZ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|47|723|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|48|716|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|49|712|<span class="rank-name-dl">かーねこさん。</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|50|710|<span class="rank-name-dl">NO NAME 1704</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|51|707|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|52|706|<span class="rank-name-dl">tm007</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|53|700|<span class="rank-name-dl">y.stoneriver</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|54|698|<span class="rank-name-dl">たけし☆爆投</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|55|687|<span class="rank-name-dl">Dしょう</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|56|684|<span class="rank-name-dl">GONIZAKI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|57|683|<span class="rank-name-dl">若水</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|58|678|<span class="rank-name-dl">Taiga</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|59|662|<span class="rank-name-dl">松ﾁｬﾝ♂SOLDIER</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|60|650|<span class="rank-name-dl">讃岐のみやつこ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|61|642|<span class="rank-name-dl">310♡</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|62|630|<span class="rank-name-dl">Mina Jovovich</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|63|625|<span class="rank-name-dl">まっちゃん@Zoo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|64|620|<span class="rank-name-dl">미나즈</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|65|585|<span class="rank-name-dl">Buckeye22</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|66|530|<span class="rank-name-dl">松ﾁｬﾝ♥Pochacco</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|67|515|<span class="rank-name-dl">さくさくぱんだ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|68|490|<span class="rank-name-dl">ペン銀</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|69|428|<span class="rank-name-dl">塒</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|70|354|<span class="rank-name-dl">しろい酢飯</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|71|316|<span class="rank-name-dl">NO NAME 2679</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|5|981|<span class="rank-name-dl">藤山　大河</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|6|964|<span class="rank-name-dl">karina_ae07</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|7|960|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|8|959|<span class="rank-name-dl">Naoya Sasaki</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|9|949|<span class="rank-name-dl">MICHI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|10|944|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|11|934|<span class="rank-name-dl">トビるんるん♪</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|12|924|<span class="rank-name-dl">KiKi.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|13|918|<span class="rank-name-dl">にこらす</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|14|915|<span class="rank-name-dl">Kazuma.O</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|15|914|<span class="rank-name-dl">乱場羅流1014</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|16|908|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|17|906|<span class="rank-name-dl">TRD</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|18|903|<span class="rank-name-dl">Simeji</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|19|895|<span class="rank-name-dl">Kiki.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|20|893|<span class="rank-name-dl">京</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|21|887|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|22|880|<span class="rank-name-dl">まさひ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|23|865|<span class="rank-name-dl">244</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|24|851|<span class="rank-name-dl">かみみみふ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|25|837|<span class="rank-name-dl">OL_Slime</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|25|837|<span class="rank-name-dl">ミスド</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|27|828|<span class="rank-name-dl">しまちゃん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|28|822|<span class="rank-name-dl">32щ(゜▽゜щ)</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|29|821|<span class="rank-name-dl">sai.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|30|808|<span class="rank-name-dl">ヒロト</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|31|806|<span class="rank-name-dl">HiRo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|31|806|<span class="rank-name-dl">Tさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|33|795|<span class="rank-name-dl">ろーま</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|34|779|<span class="rank-name-dl">Perona.</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|35|778|<span class="rank-name-dl">SIN-KUN</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|36|777|<span class="rank-name-dl">鮒</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|37|768|<span class="rank-name-dl">しっぽの神様</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|38|763|<span class="rank-name-dl">つよー</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|39|760|<span class="rank-name-dl">全力なTさん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|40|748|<span class="rank-name-dl">バンブーです</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|41|746|<span class="rank-name-dl">Bob</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|42|724|<span class="rank-name-dl">MOZ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|43|723|<span class="rank-name-dl">yossy</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|44|716|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|45|712|<span class="rank-name-dl">かーねこさん。</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|46|710|<span class="rank-name-dl">NO NAME 1704</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|47|707|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|48|706|<span class="rank-name-dl">tm007</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|49|700|<span class="rank-name-dl">y.stoneriver</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|50|698|<span class="rank-name-dl">たけし☆爆投</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|51|687|<span class="rank-name-dl">Dしょう</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|52|684|<span class="rank-name-dl">GONIZAKI</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|53|683|<span class="rank-name-dl">若水</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|54|678|<span class="rank-name-dl">Taiga</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|55|662|<span class="rank-name-dl">松ﾁｬﾝ♂SOLDIER</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|56|650|<span class="rank-name-dl">讃岐のみやつこ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|57|642|<span class="rank-name-dl">310♡</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|58|630|<span class="rank-name-dl">Mina Jovovich</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|59|625|<span class="rank-name-dl">まっちゃん@Zoo</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|60|620|<span class="rank-name-dl">미나즈</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|61|585|<span class="rank-name-dl">Buckeye22</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|62|530|<span class="rank-name-dl">松ﾁｬﾝ♥Pochacco</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|63|515|<span class="rank-name-dl">さくさくぱんだ</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|64|490|<span class="rank-name-dl">ペン銀</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|65|428|<span class="rank-name-dl">塒</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|66|354|<span class="rank-name-dl">しろい酢飯</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|67|316|<span class="rank-name-dl">NO NAME 2679</span>|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 
 
 #### PHOENIXDARTS TOP 100

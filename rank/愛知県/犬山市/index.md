@@ -27,102 +27,102 @@ ___
 |2|1054|<span class="rank-name-pd">斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
 |3|1037|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
 |4|1024|<span class="rank-name-pd">hotsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|5|1006|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|6|1004|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|7|987|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|8|982|<span class="rank-name-dl">たわしろ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|9|975|<span class="rank-name-dl">わーれん</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|10|963|<span class="rank-name-dl">ズータ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|11|953|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|12|939|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|13|935|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|14|915|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|15|914|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|16|898|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|17|884|<span class="rank-name-dl">“TAKE Snowbord</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|18|861|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|19|852|<span class="rank-name-dl">☆T@TSUY@☆</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|20|848|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|21|844|<span class="rank-name-pd">りくふめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|22|839|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|23|838|<span class="rank-name-pd">AK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|24|835|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|25|834|<span class="rank-name-dl">スンスン</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|26|833|<span class="rank-name-dl">けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|27|831|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|28|827|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|29|824|<span class="rank-name-pd">BIG_BuTa_STAR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|30|821|<span class="rank-name-dl">ENE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|31|814|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|32|810|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|33|809|<span class="rank-name-pd">いかくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|34|806|<span class="rank-name-pd">いっちろ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|35|805|<span class="rank-name-pd">KEISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|36|804|<span class="rank-name-dl">卍 RYUJI 卍</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|37|803|<span class="rank-name-dl">2mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|37|803|<span class="rank-name-dl">NO NAME 3362</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|39|800|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|39|800|<span class="rank-name-dl">ｺﾞﾝｿﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|41|798|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|41|798|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|43|797|<span class="rank-name-pd">亜神カイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|44|794|<span class="rank-name-dl">いかくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|45|792|<span class="rank-name-dl">pankun</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|46|788|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|47|785|<span class="rank-name-dl">Haya_25</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|47|785|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|49|784|<span class="rank-name-dl">火拳のYASSI</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|50|783|<span class="rank-name-pd">ぴち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|51|782|<span class="rank-name-dl">chii</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|52|781|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|53|780|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|54|777|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|55|776|<span class="rank-name-pd">ぴち@14.com</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|56|773|<span class="rank-name-pd">卍風雲昇り龍卍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|57|770|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|58|765|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|59|759|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|59|759|<span class="rank-name-pd">海老天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|61|758|<span class="rank-name-dl">ak</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|61|758|<span class="rank-name-pd">とろろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|63|755|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|63|755|<span class="rank-name-pd">フロネ申</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|65|752|<span class="rank-name-pd">8mura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|65|752|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|67|751|<span class="rank-name-dl">rinn-0416</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|68|749|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|69|746|<span class="rank-name-dl">hana_SH華</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|70|744|<span class="rank-name-dl">∞陽∞</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|71|742|<span class="rank-name-pd">もこ【14.com】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|72|736|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|73|731|<span class="rank-name-pd">0028_9455</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|73|731|<span class="rank-name-dl">いっちろ〜</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|75|726|<span class="rank-name-dl">RM</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|75|726|<span class="rank-name-pd">kitoo☆GROWTH☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|77|725|<span class="rank-name-dl">ぴち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|78|724|<span class="rank-name-dl">Yoji</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|79|717|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|80|716|<span class="rank-name-dl">HIRO97</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|80|716|<span class="rank-name-dl">YU</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|82|709|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|82|709|<span class="rank-name-pd">ろちか。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|84|708|<span class="rank-name-pd">AYUPON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|85|707|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|86|705|<span class="rank-name-pd">sh_hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|87|698|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|88|697|<span class="rank-name-dl">ジョン</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|89|690|<span class="rank-name-dl">きとう ゆうた</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|90|688|<span class="rank-name-pd">zun035bdc76d41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|91|686|<span class="rank-name-pd">zx3w37faa36aa8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|92|684|<span class="rank-name-dl">ＵＫＫＹ◇ＢＬ◇</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|93|683|<span class="rank-name-dl">まさかつ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|94|680|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|95|678|<span class="rank-name-pd">きのこもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|96|677|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|96|677|<span class="rank-name-dl">こら村</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|98|673|<span class="rank-name-dl">刃物の先太郎</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|99|670|<span class="rank-name-pd">ジントニック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|100|668|<span class="rank-name-dl">もんにゃん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|5|1006|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|6|982|<span class="rank-name-dl">たわしろ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|7|975|<span class="rank-name-dl">わーれん</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|8|963|<span class="rank-name-dl">ズータ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|9|953|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|10|939|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|11|935|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|12|915|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|13|914|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|14|898|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|15|884|<span class="rank-name-dl">“TAKE Snowbord</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|16|861|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|17|852|<span class="rank-name-dl">☆T@TSUY@☆</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|18|848|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|19|844|<span class="rank-name-pd">りくふめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|20|839|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|21|838|<span class="rank-name-pd">AK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|22|835|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|23|834|<span class="rank-name-dl">スンスン</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|24|833|<span class="rank-name-dl">けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|25|831|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|26|827|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|27|824|<span class="rank-name-pd">BIG_BuTa_STAR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|28|821|<span class="rank-name-dl">ENE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|29|814|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|30|810|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|31|809|<span class="rank-name-pd">いかくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|32|806|<span class="rank-name-pd">いっちろ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|33|805|<span class="rank-name-pd">KEISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|34|804|<span class="rank-name-dl">卍 RYUJI 卍</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|35|803|<span class="rank-name-dl">2mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|35|803|<span class="rank-name-dl">NO NAME 3362</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|37|800|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|37|800|<span class="rank-name-dl">ｺﾞﾝｿﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|39|798|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|39|798|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|41|797|<span class="rank-name-pd">亜神カイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|42|794|<span class="rank-name-dl">いかくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|43|792|<span class="rank-name-dl">pankun</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|44|788|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|45|785|<span class="rank-name-dl">Haya_25</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|45|785|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|47|784|<span class="rank-name-dl">火拳のYASSI</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|48|783|<span class="rank-name-pd">ぴち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|49|782|<span class="rank-name-dl">chii</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|50|781|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|51|780|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|52|777|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|53|776|<span class="rank-name-pd">ぴち@14.com</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|54|773|<span class="rank-name-pd">卍風雲昇り龍卍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|55|765|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|56|759|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|56|759|<span class="rank-name-pd">海老天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|58|758|<span class="rank-name-dl">ak</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|58|758|<span class="rank-name-pd">とろろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|60|755|<span class="rank-name-pd">フロネ申</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|61|752|<span class="rank-name-pd">8mura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|61|752|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|63|751|<span class="rank-name-dl">rinn-0416</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|64|749|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|65|746|<span class="rank-name-dl">hana_SH華</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|66|744|<span class="rank-name-dl">∞陽∞</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|67|742|<span class="rank-name-pd">もこ【14.com】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|68|736|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|69|731|<span class="rank-name-pd">0028_9455</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|69|731|<span class="rank-name-dl">いっちろ〜</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|71|726|<span class="rank-name-dl">RM</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|71|726|<span class="rank-name-pd">kitoo☆GROWTH☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|73|725|<span class="rank-name-dl">ぴち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|74|724|<span class="rank-name-dl">Yoji</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|75|717|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|76|716|<span class="rank-name-dl">HIRO97</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|76|716|<span class="rank-name-dl">YU</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|78|709|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|78|709|<span class="rank-name-pd">ろちか。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|80|708|<span class="rank-name-pd">AYUPON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|81|707|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|82|705|<span class="rank-name-pd">sh_hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|83|698|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|84|697|<span class="rank-name-dl">ジョン</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|85|690|<span class="rank-name-dl">きとう ゆうた</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|86|688|<span class="rank-name-pd">zun035bdc76d41</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|87|686|<span class="rank-name-pd">zx3w37faa36aa8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|88|684|<span class="rank-name-dl">ＵＫＫＹ◇ＢＬ◇</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|89|683|<span class="rank-name-dl">まさかつ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|90|680|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|91|678|<span class="rank-name-pd">きのこもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91337?s_seq=91337">PLAYING SPORTS BAR 14.com</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|92|677|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|92|677|<span class="rank-name-dl">こら村</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|94|673|<span class="rank-name-dl">刃物の先太郎</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|95|670|<span class="rank-name-pd">ジントニック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|96|668|<span class="rank-name-dl">もんにゃん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|97|663|<span class="rank-name-dl">取扱注意13</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|98|662|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|99|652|<span class="rank-name-dl">KURIKI　KENJI</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|99|652|<span class="rank-name-dl">モリモトレオ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,104 +134,104 @@ ___
 |---|---|---|---|---|
 |1|1063|<span class="rank-name-dl">taka</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
 |2|1037|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|3|1006|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|4|1004|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|5|987|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|6|982|<span class="rank-name-dl">たわしろ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|7|975|<span class="rank-name-dl">わーれん</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|8|963|<span class="rank-name-dl">ズータ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|9|939|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|10|935|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|11|914|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|12|898|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|13|884|<span class="rank-name-dl">“TAKE Snowbord</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|14|861|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|15|852|<span class="rank-name-dl">☆T@TSUY@☆</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|16|848|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|17|839|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|18|835|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|19|834|<span class="rank-name-dl">スンスン</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|20|833|<span class="rank-name-dl">けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|21|831|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|22|827|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|23|821|<span class="rank-name-dl">ENE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|24|814|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|25|810|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|26|804|<span class="rank-name-dl">卍 RYUJI 卍</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|27|803|<span class="rank-name-dl">2mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|27|803|<span class="rank-name-dl">NO NAME 3362</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|29|800|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|29|800|<span class="rank-name-dl">ｺﾞﾝｿﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|31|798|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|31|798|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|33|794|<span class="rank-name-dl">いかくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|34|792|<span class="rank-name-dl">pankun</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|35|788|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|36|785|<span class="rank-name-dl">Haya_25</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|36|785|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|38|784|<span class="rank-name-dl">火拳のYASSI</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|39|782|<span class="rank-name-dl">chii</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|40|781|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|41|780|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|42|777|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|43|770|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|44|765|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店 JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|45|759|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|46|758|<span class="rank-name-dl">ak</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|47|755|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|48|752|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|49|751|<span class="rank-name-dl">rinn-0416</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|50|749|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|51|746|<span class="rank-name-dl">hana_SH華</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|52|744|<span class="rank-name-dl">∞陽∞</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|53|736|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|54|731|<span class="rank-name-dl">いっちろ〜</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|55|726|<span class="rank-name-dl">RM</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|56|725|<span class="rank-name-dl">ぴち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|57|724|<span class="rank-name-dl">Yoji</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|58|717|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|59|716|<span class="rank-name-dl">HIRO97</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|59|716|<span class="rank-name-dl">YU</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|61|709|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|62|698|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|63|697|<span class="rank-name-dl">ジョン</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|64|690|<span class="rank-name-dl">きとう ゆうた</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|65|684|<span class="rank-name-dl">ＵＫＫＹ◇ＢＬ◇</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|66|683|<span class="rank-name-dl">まさかつ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|67|680|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|68|677|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|68|677|<span class="rank-name-dl">こら村</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|70|673|<span class="rank-name-dl">刃物の先太郎</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|71|668|<span class="rank-name-dl">もんにゃん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|72|663|<span class="rank-name-dl">取扱注意13</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|73|662|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|74|652|<span class="rank-name-dl">KURIKI　KENJI</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|74|652|<span class="rank-name-dl">モリモトレオ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|76|645|<span class="rank-name-dl">YUTOooo</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|77|640|<span class="rank-name-dl">ふわっと着地</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|78|637|<span class="rank-name-dl">のっち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|79|633|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|80|631|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|81|625|<span class="rank-name-dl">とし☆メガネ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|82|623|<span class="rank-name-dl">スコッティ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|83|621|<span class="rank-name-dl">yootaro0412</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|84|614|<span class="rank-name-dl">frog</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|85|612|<span class="rank-name-dl">たつや</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|86|610|<span class="rank-name-dl">しえろ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|87|603|<span class="rank-name-dl">クボタカイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|88|600|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|89|595|<span class="rank-name-dl">moka</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|90|591|<span class="rank-name-dl">hana_SH_Vo♫</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|91|586|<span class="rank-name-dl">りゅーとですけど</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|92|575|<span class="rank-name-dl">HANA.</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|93|573|<span class="rank-name-dl">スコッティ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|94|550|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|95|548|<span class="rank-name-dl">炎炎ノ消防隊</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|96|545|<span class="rank-name-dl">1番ニキ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|97|540|<span class="rank-name-dl">人参シリシリ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|98|531|<span class="rank-name-dl">龍の改WakaSan</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|99|529|<span class="rank-name-dl">Ju</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
-|100|522|<span class="rank-name-dl">QUATTRO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|3|1006|<span class="rank-name-dl">Hotsu</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|4|982|<span class="rank-name-dl">たわしろ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|5|975|<span class="rank-name-dl">わーれん</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|6|963|<span class="rank-name-dl">ズータ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|7|939|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|8|935|<span class="rank-name-dl">モユキ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|9|914|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|10|898|<span class="rank-name-dl">kozy</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|11|884|<span class="rank-name-dl">“TAKE Snowbord</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|12|861|<span class="rank-name-dl">ラグヲタ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|13|852|<span class="rank-name-dl">☆T@TSUY@☆</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|14|848|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|15|839|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|16|835|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|17|834|<span class="rank-name-dl">スンスン</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|18|833|<span class="rank-name-dl">けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|19|831|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|20|827|<span class="rank-name-dl">8mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|21|821|<span class="rank-name-dl">ENE</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|22|814|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|23|810|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|24|804|<span class="rank-name-dl">卍 RYUJI 卍</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|25|803|<span class="rank-name-dl">2mura</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|25|803|<span class="rank-name-dl">NO NAME 3362</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|27|800|<span class="rank-name-dl">★T@TSUY@★</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|27|800|<span class="rank-name-dl">ｺﾞﾝｿﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|29|798|<span class="rank-name-dl">YOUᕦ(ò_óˇ)ᕤ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|29|798|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|31|794|<span class="rank-name-dl">いかくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|32|792|<span class="rank-name-dl">pankun</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|33|788|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|34|785|<span class="rank-name-dl">Haya_25</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|34|785|<span class="rank-name-dl">たくとぉぉぉ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|36|784|<span class="rank-name-dl">火拳のYASSI</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|37|782|<span class="rank-name-dl">chii</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|38|781|<span class="rank-name-dl">YAMATO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|39|780|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|40|777|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|41|765|<span class="rank-name-dl">ぱんくん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|42|759|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|43|758|<span class="rank-name-dl">ak</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|44|752|<span class="rank-name-dl">YOU *\(^o^)/*</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|45|751|<span class="rank-name-dl">rinn-0416</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|46|749|<span class="rank-name-dl">м！κÅ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|47|746|<span class="rank-name-dl">hana_SH華</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|48|744|<span class="rank-name-dl">∞陽∞</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|49|736|<span class="rank-name-dl">hana_SH</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|50|731|<span class="rank-name-dl">いっちろ〜</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|51|726|<span class="rank-name-dl">RM</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|52|725|<span class="rank-name-dl">ぴち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|53|724|<span class="rank-name-dl">Yoji</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|54|717|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|55|716|<span class="rank-name-dl">HIRO97</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|55|716|<span class="rank-name-dl">YU</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|57|709|<span class="rank-name-dl">りくふめ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|58|698|<span class="rank-name-dl">亜神カイ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|59|697|<span class="rank-name-dl">ジョン</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|60|690|<span class="rank-name-dl">きとう ゆうた</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|61|684|<span class="rank-name-dl">ＵＫＫＹ◇ＢＬ◇</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|62|683|<span class="rank-name-dl">まさかつ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|63|680|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|64|677|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|64|677|<span class="rank-name-dl">こら村</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|66|673|<span class="rank-name-dl">刃物の先太郎</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|67|668|<span class="rank-name-dl">もんにゃん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|68|663|<span class="rank-name-dl">取扱注意13</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|69|662|<span class="rank-name-dl">✭RM✮</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|70|652|<span class="rank-name-dl">KURIKI　KENJI</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|70|652|<span class="rank-name-dl">モリモトレオ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|72|645|<span class="rank-name-dl">YUTOooo</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|73|640|<span class="rank-name-dl">ふわっと着地</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|74|637|<span class="rank-name-dl">のっち</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|75|633|<span class="rank-name-dl">てらち</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|76|631|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|77|625|<span class="rank-name-dl">とし☆メガネ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|78|623|<span class="rank-name-dl">スコッティ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|79|621|<span class="rank-name-dl">yootaro0412</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|80|614|<span class="rank-name-dl">frog</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|81|612|<span class="rank-name-dl">たつや</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|82|610|<span class="rank-name-dl">しえろ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|83|603|<span class="rank-name-dl">クボタカイ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|84|600|<span class="rank-name-dl">こらそん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|85|595|<span class="rank-name-dl">moka</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|86|591|<span class="rank-name-dl">hana_SH_Vo♫</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|87|586|<span class="rank-name-dl">りゅーとですけど</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|88|575|<span class="rank-name-dl">HANA.</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|89|573|<span class="rank-name-dl">スコッティ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|90|550|<span class="rank-name-dl">ZATTO</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|91|548|<span class="rank-name-dl">炎炎ノ消防隊</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|92|545|<span class="rank-name-dl">1番ニキ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|93|540|<span class="rank-name-dl">人参シリシリ</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|94|531|<span class="rank-name-dl">龍の改WakaSan</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|95|529|<span class="rank-name-dl">Ju</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|96|522|<span class="rank-name-dl">QUATTRO</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|97|521|<span class="rank-name-dl">けーこ3</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|98|520|<span class="rank-name-dl">なちゅき(--;)</span>|<a href="https://search.dartslive.com/jp/shop/c17252e4c4d1bb940d9b047a20a7ba1e">ビリヤード&ダーツR.T.B</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|99|515|<span class="rank-name-dl">とあちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|99|515|<span class="rank-name-dl">カナ</span>|<a href="https://search.dartslive.com/jp/shop/a6f16d88083fbde8790ab824ce8730e5">JOYJOY犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

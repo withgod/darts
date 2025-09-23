@@ -33,96 +33,96 @@ ___
 |8|1034|<span class="rank-name-pd">かたま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 |9|1029|<span class="rank-name-pd">星川 覚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 |10|1020|<span class="rank-name-dl">masa_やまがた</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|11|1008|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|12|1007|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|13|1005|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|13|1005|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|15|1000|<span class="rank-name-pd">aux separate2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|16|998|<span class="rank-name-dl">びっとくん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|17|996|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|18|980|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|19|977|<span class="rank-name-dl">あだ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|20|968|<span class="rank-name-dl">Ryo Takahashi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|20|968|<span class="rank-name-dl">Yuya Izuru</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|20|968|<span class="rank-name-dl">よすけ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|23|955|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|24|951|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|25|950|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|26|946|<span class="rank-name-dl">masa_</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|27|945|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|28|943|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|29|942|<span class="rank-name-pd">m@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|30|934|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|31|933|<span class="rank-name-pd">Fiz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|32|932|<span class="rank-name-pd">ん?(´Д｀)aux</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|33|931|<span class="rank-name-pd">TGwtDT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|34|925|<span class="rank-name-pd">Kuripon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|34|925|<span class="rank-name-dl">ﾌｧﾝﾀｼﾞｽﾀ後藤</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|36|922|<span class="rank-name-dl">Yuji@VIVO</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|37|917|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|38|912|<span class="rank-name-pd">-яaiиbow-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|39|911|<span class="rank-name-dl">白咲りさ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|40|908|<span class="rank-name-dl">GO!GO!ZEPPELI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|41|906|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|42|905|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|43|904|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|44|901|<span class="rank-name-pd">M@3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|44|901|<span class="rank-name-dl">のらぶた(^∞^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|46|889|<span class="rank-name-pd">matthew</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|46|889|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|48|887|<span class="rank-name-dl">YOTCH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|49|886|<span class="rank-name-pd">かたま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|50|883|<span class="rank-name-dl">ち　゛　ち　゛</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|51|874|<span class="rank-name-pd">M&amp;Hぱぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|51|874|<span class="rank-name-dl">Matthew</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|51|874|<span class="rank-name-pd">shokun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|54|870|<span class="rank-name-dl">aux separate</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|54|870|<span class="rank-name-dl">安達 大樹</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|56|869|<span class="rank-name-dl">居鶴 雄也</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|57|866|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|58|863|<span class="rank-name-pd"> HI RO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|59|851|<span class="rank-name-pd">★37★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|60|845|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|61|843|<span class="rank-name-pd">やましゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|62|842|<span class="rank-name-pd">【チキン心】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|63|834|<span class="rank-name-dl">YOCCI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|64|828|<span class="rank-name-pd">抹茶ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|65|827|<span class="rank-name-pd">ふーみ@B.B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|66|823|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|67|822|<span class="rank-name-dl">rainbow</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|68|821|<span class="rank-name-dl">Kaimei</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|69|819|<span class="rank-name-dl">あばい</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|69|819|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|69|819|<span class="rank-name-dl">リク</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|72|818|<span class="rank-name-dl">りゅうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|73|817|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|73|817|<span class="rank-name-pd">あつき。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|73|817|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|73|817|<span class="rank-name-pd">清野じゃない？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|77|816|<span class="rank-name-dl">K.T.ろっぴ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|78|814|<span class="rank-name-pd">HIRO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|78|814|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|80|813|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|80|813|<span class="rank-name-pd">しずーく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|82|811|<span class="rank-name-dl">LUCKY STRIKE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|83|810|<span class="rank-name-pd">こーちん【SHAR WARS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|84|804|<span class="rank-name-pd">W</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|85|803|<span class="rank-name-pd">-Rainbow-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|86|796|<span class="rank-name-pd">たけだ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|87|794|<span class="rank-name-pd">→яÅ¡N∂○Ｗ←</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|87|794|<span class="rank-name-pd">がみがみ(´・ω・`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|87|794|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|90|790|<span class="rank-name-pd"> HI RO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|91|782|<span class="rank-name-pd">TATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|92|779|<span class="rank-name-pd">（≧∇≦）@こーちん@（≧∇≦）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|93|775|<span class="rank-name-pd">namirou＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|93|775|<span class="rank-name-dl">ﾀｯｷｰ✩7</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|95|769|<span class="rank-name-pd">しずーく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|96|767|<span class="rank-name-dl">ｔａｋｕ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|97|764|<span class="rank-name-pd">HIRO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|97|764|<span class="rank-name-pd">≫Kaimei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|99|750|<span class="rank-name-pd">ま。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|100|738|<span class="rank-name-pd">RYUSEPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|11|1008|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|12|1005|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|13|1000|<span class="rank-name-pd">aux separate2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|14|998|<span class="rank-name-dl">びっとくん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|15|996|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|16|980|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|17|977|<span class="rank-name-dl">あだ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|18|968|<span class="rank-name-dl">Ryo Takahashi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|18|968|<span class="rank-name-dl">Yuya Izuru</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|18|968|<span class="rank-name-dl">よすけ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|21|955|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|22|950|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|23|946|<span class="rank-name-dl">masa_</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|24|945|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|25|942|<span class="rank-name-pd">m@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|26|933|<span class="rank-name-pd">Fiz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|27|932|<span class="rank-name-pd">ん?(´Д｀)aux</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|28|931|<span class="rank-name-pd">TGwtDT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|29|925|<span class="rank-name-pd">Kuripon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|29|925|<span class="rank-name-dl">ﾌｧﾝﾀｼﾞｽﾀ後藤</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|31|922|<span class="rank-name-dl">Yuji@VIVO</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|32|917|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|33|912|<span class="rank-name-pd">-яaiиbow-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|34|911|<span class="rank-name-dl">白咲りさ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|35|908|<span class="rank-name-dl">GO!GO!ZEPPELI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|36|906|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|37|905|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|38|904|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|39|901|<span class="rank-name-pd">M@3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|39|901|<span class="rank-name-dl">のらぶた(^∞^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|41|889|<span class="rank-name-pd">matthew</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|41|889|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|43|887|<span class="rank-name-dl">YOTCH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|44|886|<span class="rank-name-pd">かたま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|45|883|<span class="rank-name-dl">ち　゛　ち　゛</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|46|874|<span class="rank-name-pd">M&amp;Hぱぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|46|874|<span class="rank-name-dl">Matthew</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|46|874|<span class="rank-name-pd">shokun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|49|870|<span class="rank-name-dl">aux separate</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|49|870|<span class="rank-name-dl">安達 大樹</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|51|869|<span class="rank-name-dl">居鶴 雄也</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|52|866|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|53|863|<span class="rank-name-pd"> HI RO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|54|851|<span class="rank-name-pd">★37★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|55|845|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|56|843|<span class="rank-name-pd">やましゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|57|842|<span class="rank-name-pd">【チキン心】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|58|834|<span class="rank-name-dl">YOCCI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|59|828|<span class="rank-name-pd">抹茶ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|60|827|<span class="rank-name-pd">ふーみ@B.B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|61|822|<span class="rank-name-dl">rainbow</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|62|821|<span class="rank-name-dl">Kaimei</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|63|819|<span class="rank-name-dl">あばい</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|63|819|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|63|819|<span class="rank-name-dl">リク</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|66|818|<span class="rank-name-dl">りゅうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|67|817|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|67|817|<span class="rank-name-pd">あつき。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|67|817|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|67|817|<span class="rank-name-pd">清野じゃない？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|71|816|<span class="rank-name-dl">K.T.ろっぴ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|72|814|<span class="rank-name-pd">HIRO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|72|814|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|74|813|<span class="rank-name-pd">しずーく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|75|811|<span class="rank-name-dl">LUCKY STRIKE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|76|810|<span class="rank-name-pd">こーちん【SHAR WARS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|77|804|<span class="rank-name-pd">W</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|78|803|<span class="rank-name-pd">-Rainbow-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|79|796|<span class="rank-name-pd">たけだ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|80|794|<span class="rank-name-pd">→яÅ¡N∂○Ｗ←</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|80|794|<span class="rank-name-pd">がみがみ(´・ω・`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|82|790|<span class="rank-name-pd"> HI RO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|83|782|<span class="rank-name-pd">TATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|84|779|<span class="rank-name-pd">（≧∇≦）@こーちん@（≧∇≦）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|85|775|<span class="rank-name-pd">namirou＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|85|775|<span class="rank-name-dl">ﾀｯｷｰ✩7</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|87|769|<span class="rank-name-pd">しずーく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|88|767|<span class="rank-name-dl">ｔａｋｕ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|89|764|<span class="rank-name-pd">HIRO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|89|764|<span class="rank-name-pd">≫Kaimei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|91|750|<span class="rank-name-pd">ま。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|92|738|<span class="rank-name-pd">RYUSEPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|93|737|<span class="rank-name-dl">ASH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|94|736|<span class="rank-name-pd">M∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|94|736|<span class="rank-name-pd">彼岸花</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|96|735|<span class="rank-name-pd">あんじー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|97|730|<span class="rank-name-pd">TOMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|98|726|<span class="rank-name-dl">あらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|99|724|<span class="rank-name-pd">甲斐キャノン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65680?s_seq=65680">Cafe&Bar NEW EDGE</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|100|723|<span class="rank-name-pd">TOMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87182?s_seq=87182">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,88 +137,80 @@ ___
 |3|1066|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 |4|1037|<span class="rank-name-dl">片倉 将希</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 |5|1020|<span class="rank-name-dl">masa_やまがた</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|6|1008|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|7|1007|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|8|1005|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|8|1005|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|10|998|<span class="rank-name-dl">びっとくん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|11|996|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|12|980|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|13|977|<span class="rank-name-dl">あだ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|14|968|<span class="rank-name-dl">Ryo Takahashi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|14|968|<span class="rank-name-dl">Yuya Izuru</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|14|968|<span class="rank-name-dl">よすけ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|17|955|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|18|951|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|19|950|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|20|946|<span class="rank-name-dl">masa_</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|21|945|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|22|943|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|23|934|<span class="rank-name-dl">ぬまりこ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|24|925|<span class="rank-name-dl">ﾌｧﾝﾀｼﾞｽﾀ後藤</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|25|922|<span class="rank-name-dl">Yuji@VIVO</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|26|917|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|27|911|<span class="rank-name-dl">白咲りさ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|28|908|<span class="rank-name-dl">GO!GO!ZEPPELI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|29|906|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|30|905|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店 PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|31|904|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|32|901|<span class="rank-name-dl">のらぶた(^∞^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|33|889|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|34|887|<span class="rank-name-dl">YOTCH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|35|883|<span class="rank-name-dl">ち　゛　ち　゛</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|36|874|<span class="rank-name-dl">Matthew</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|37|870|<span class="rank-name-dl">aux separate</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|37|870|<span class="rank-name-dl">安達 大樹</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|39|869|<span class="rank-name-dl">居鶴 雄也</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|40|845|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|41|834|<span class="rank-name-dl">YOCCI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|42|823|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|43|822|<span class="rank-name-dl">rainbow</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|44|821|<span class="rank-name-dl">Kaimei</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|45|819|<span class="rank-name-dl">あばい</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|45|819|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|45|819|<span class="rank-name-dl">リク</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|48|818|<span class="rank-name-dl">りゅうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|49|817|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|49|817|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|51|816|<span class="rank-name-dl">K.T.ろっぴ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|52|813|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|53|811|<span class="rank-name-dl">LUCKY STRIKE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|54|794|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|55|775|<span class="rank-name-dl">ﾀｯｷｰ✩7</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|56|767|<span class="rank-name-dl">ｔａｋｕ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|57|737|<span class="rank-name-dl">ASH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|58|736|<span class="rank-name-dl">エル</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|59|726|<span class="rank-name-dl">あらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|60|716|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|61|688|<span class="rank-name-dl">天雷の龍聖霊</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|62|653|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|63|645|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|63|645|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|65|622|<span class="rank-name-dl">社畜</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|66|585|<span class="rank-name-dl">うさぎ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|67|569|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|68|565|<span class="rank-name-dl">武田 敬生</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|69|559|<span class="rank-name-dl">mai.t</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|70|555|<span class="rank-name-dl">REN☆</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|71|553|<span class="rank-name-dl">人為的なパリア犬</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|72|551|<span class="rank-name-dl">(: I or I :)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|73|548|<span class="rank-name-dl">うてな</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|74|547|<span class="rank-name-dl">ミツキ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|75|537|<span class="rank-name-dl">Latte</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|76|530|<span class="rank-name-dl">双剣おチビたん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|77|500|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|78|499|<span class="rank-name-dl">mimu</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|79|488|<span class="rank-name-dl">ムクゲ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|80|483|<span class="rank-name-dl">次世代型タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|81|443|<span class="rank-name-dl">ちょこち</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|82|429|<span class="rank-name-dl">●○まぃこ○●</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|83|402|<span class="rank-name-dl">Kuroneko</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|84|366|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|85|333|<span class="rank-name-dl">たなか</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|86|283|<span class="rank-name-dl">彩蒼惺</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
-|87|269|<span class="rank-name-dl">(^^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|6|1008|<span class="rank-name-dl">青柳 瑠佑</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|7|1005|<span class="rank-name-dl">#RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|8|998|<span class="rank-name-dl">びっとくん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|9|996|<span class="rank-name-dl">Ｍ＆Ｈぱぱん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|10|980|<span class="rank-name-dl">かたま#山形</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|11|977|<span class="rank-name-dl">あだ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|12|968|<span class="rank-name-dl">Ryo Takahashi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|12|968|<span class="rank-name-dl">Yuya Izuru</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|12|968|<span class="rank-name-dl">よすけ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|15|955|<span class="rank-name-dl">ACE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|16|950|<span class="rank-name-dl">Hiroki Adachi</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|17|946|<span class="rank-name-dl">masa_</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|18|945|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|19|925|<span class="rank-name-dl">ﾌｧﾝﾀｼﾞｽﾀ後藤</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|20|922|<span class="rank-name-dl">Yuji@VIVO</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|21|917|<span class="rank-name-dl">みなみ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|22|911|<span class="rank-name-dl">白咲りさ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|23|908|<span class="rank-name-dl">GO!GO!ZEPPELI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|24|906|<span class="rank-name-dl">Cream</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|25|905|<span class="rank-name-dl">-rainbow-</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|26|904|<span class="rank-name-dl">Mr.k.:*♡</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|27|901|<span class="rank-name-dl">のらぶた(^∞^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|28|889|<span class="rank-name-dl">隆щ☆щ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|29|887|<span class="rank-name-dl">YOTCH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|30|883|<span class="rank-name-dl">ち　゛　ち　゛</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|31|874|<span class="rank-name-dl">Matthew</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|32|870|<span class="rank-name-dl">aux separate</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|32|870|<span class="rank-name-dl">安達 大樹</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|34|869|<span class="rank-name-dl">居鶴 雄也</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|35|845|<span class="rank-name-dl">Fukase Naoto</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|36|834|<span class="rank-name-dl">YOCCI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|37|822|<span class="rank-name-dl">rainbow</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|38|821|<span class="rank-name-dl">Kaimei</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|39|819|<span class="rank-name-dl">あばい</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|39|819|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|39|819|<span class="rank-name-dl">リク</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|42|818|<span class="rank-name-dl">りゅうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|43|817|<span class="rank-name-dl">★こうちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|43|817|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|45|816|<span class="rank-name-dl">K.T.ろっぴ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|46|811|<span class="rank-name-dl">LUCKY STRIKE</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|47|775|<span class="rank-name-dl">ﾀｯｷｰ✩7</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|48|767|<span class="rank-name-dl">ｔａｋｕ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|49|737|<span class="rank-name-dl">ASH</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|50|736|<span class="rank-name-dl">エル</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|51|726|<span class="rank-name-dl">あらぎ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|52|716|<span class="rank-name-dl">いなろ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|53|688|<span class="rank-name-dl">天雷の龍聖霊</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|54|653|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|55|645|<span class="rank-name-dl">mai_1</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|55|645|<span class="rank-name-dl">まんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|57|622|<span class="rank-name-dl">社畜</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|58|585|<span class="rank-name-dl">うさぎ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|59|569|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|60|565|<span class="rank-name-dl">武田 敬生</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|61|559|<span class="rank-name-dl">mai.t</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|62|555|<span class="rank-name-dl">REN☆</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|63|553|<span class="rank-name-dl">人為的なパリア犬</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|64|551|<span class="rank-name-dl">(: I or I :)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|65|548|<span class="rank-name-dl">うてな</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|66|547|<span class="rank-name-dl">ミツキ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|67|537|<span class="rank-name-dl">Latte</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|68|530|<span class="rank-name-dl">双剣おチビたん</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|69|500|<span class="rank-name-dl">齋藤 麻衣</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|70|499|<span class="rank-name-dl">mimu</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|71|488|<span class="rank-name-dl">ムクゲ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|72|483|<span class="rank-name-dl">次世代型タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|73|443|<span class="rank-name-dl">ちょこち</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|74|429|<span class="rank-name-dl">●○まぃこ○●</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|75|402|<span class="rank-name-dl">Kuroneko</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|76|366|<span class="rank-name-dl">み</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|77|333|<span class="rank-name-dl">たなか</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|78|283|<span class="rank-name-dl">彩蒼惺</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
+|79|269|<span class="rank-name-dl">(^^)</span>|<a href="https://search.dartslive.com/jp/shop/fea70d127767f499774c926eb736cb5a">PlayGarden 東根店</a>|<a href="/darts/rank/山形県/東根市">山形県東根市</a>|
 
 
 #### PHOENIXDARTS TOP 100

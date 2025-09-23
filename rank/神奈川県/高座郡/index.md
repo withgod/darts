@@ -30,99 +30,99 @@ ___
 |5|1148|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |6|1133|<span class="rank-name-dl">ドリンクバーぴろ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |7|1106|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰ哲也3</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|8|1088|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|9|1065|<span class="rank-name-dl">古敷谷　裕</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|10|1060|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|11|1035|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|11|1035|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|13|1032|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|14|1014|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|15|1010|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|16|1004|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|1001|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|1001|<span class="rank-name-dl">プレス</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|19|994|<span class="rank-name-dl">Shu</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|20|981|<span class="rank-name-dl">takuchan</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|21|978|<span class="rank-name-dl">ｷｭｳﾁ@LPS運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|22|974|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">湘南D-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">鶴さん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|26|971|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|27|970|<span class="rank-name-dl">鳥居塚優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|28|968|<span class="rank-name-dl">dante</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|29|966|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|30|965|<span class="rank-name-dl">少年</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|31|961|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|31|961|<span class="rank-name-dl">しょってぃー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|33|960|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|34|959|<span class="rank-name-dl">カオル@帰還兵</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|35|950|<span class="rank-name-dl">あらけん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|36|949|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|37|946|<span class="rank-name-dl">さとピョ211Club</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|38|936|<span class="rank-name-dl">Takuma Fujikawa</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|39|934|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|40|933|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|41|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|42|929|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|43|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|44|907|<span class="rank-name-dl">ジャンキー大山</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|45|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|45|905|<span class="rank-name-dl">狐の店員</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|47|898|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|48|892|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|49|887|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|50|884|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|51|862|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|52|859|<span class="rank-name-dl">ぎずも。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|53|852|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|54|849|<span class="rank-name-dl">D@ice</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|55|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|56|828|<span class="rank-name-dl">703</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|57|820|<span class="rank-name-dl">府川優心</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|58|813|<span class="rank-name-dl">Ｄａｉ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|59|776|<span class="rank-name-dl">Koudai</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|60|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|61|769|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|62|767|<span class="rank-name-dl">$UGUЯU</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|63|756|<span class="rank-name-dl">のもっち【極】</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|64|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|65|753|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|66|752|<span class="rank-name-dl">はるぽそ@Disport</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|67|732|<span class="rank-name-dl">るなぴ捻挫中</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|68|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|69|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|70|697|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|71|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|72|686|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|73|683|<span class="rank-name-dl">/you@/</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|74|681|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|75|678|<span class="rank-name-dl">ひなぞ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|76|672|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|77|654|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|78|651|<span class="rank-name-dl">NO NAME 4135</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|79|650|<span class="rank-name-dl">オムライスかんち</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|80|649|<span class="rank-name-dl">とりさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|81|641|<span class="rank-name-dl">乱紅蓮のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|82|639|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|83|634|<span class="rank-name-dl">兎@Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|84|628|<span class="rank-name-dl">おむつ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|85|626|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|86|612|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|87|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|88|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|89|602|<span class="rank-name-dl">ささきだよ～！</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|90|601|<span class="rank-name-dl">せとりー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|91|589|<span class="rank-name-dl">。。Jumi@。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|92|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|93|575|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|94|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|95|562|<span class="rank-name-dl">ﾓﾘﾘﾝ・ﾏﾝﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|96|559|<span class="rank-name-dl">相模の魚屋さん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|97|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|98|552|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|99|549|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|100|547|<span class="rank-name-dl">crow</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|8|1065|<span class="rank-name-dl">古敷谷　裕</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|9|1060|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|10|1035|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|10|1035|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|12|1032|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|13|1014|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|14|1010|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|15|1004|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|1001|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|1001|<span class="rank-name-dl">プレス</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|18|994|<span class="rank-name-dl">Shu</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|19|981|<span class="rank-name-dl">takuchan</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|20|978|<span class="rank-name-dl">ｷｭｳﾁ@LPS運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|21|974|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">湘南D-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">鶴さん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|25|970|<span class="rank-name-dl">鳥居塚優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|26|968|<span class="rank-name-dl">dante</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|27|966|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|28|965|<span class="rank-name-dl">少年</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|961|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|961|<span class="rank-name-dl">しょってぃー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|31|960|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|32|959|<span class="rank-name-dl">カオル@帰還兵</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|33|950|<span class="rank-name-dl">あらけん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|34|949|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|35|946|<span class="rank-name-dl">さとピョ211Club</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|36|936|<span class="rank-name-dl">Takuma Fujikawa</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|37|933|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|38|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|39|929|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|40|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|41|907|<span class="rank-name-dl">ジャンキー大山</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|42|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|42|905|<span class="rank-name-dl">狐の店員</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|44|898|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|45|887|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|46|862|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|47|859|<span class="rank-name-dl">ぎずも。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|48|852|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|49|849|<span class="rank-name-dl">D@ice</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|50|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|51|828|<span class="rank-name-dl">703</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|52|820|<span class="rank-name-dl">府川優心</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|53|813|<span class="rank-name-dl">Ｄａｉ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|54|776|<span class="rank-name-dl">Koudai</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|55|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|56|769|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|57|767|<span class="rank-name-dl">$UGUЯU</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|58|756|<span class="rank-name-dl">のもっち【極】</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|59|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|60|753|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|61|752|<span class="rank-name-dl">はるぽそ@Disport</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|62|732|<span class="rank-name-dl">るなぴ捻挫中</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|63|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|64|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|65|697|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|66|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|67|686|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|68|683|<span class="rank-name-dl">/you@/</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|69|681|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|70|678|<span class="rank-name-dl">ひなぞ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|71|672|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|72|654|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|73|651|<span class="rank-name-dl">NO NAME 4135</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|74|650|<span class="rank-name-dl">オムライスかんち</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|75|649|<span class="rank-name-dl">とりさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|76|641|<span class="rank-name-dl">乱紅蓮のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|77|639|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|78|634|<span class="rank-name-dl">兎@Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|79|628|<span class="rank-name-dl">おむつ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|80|626|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|81|612|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|82|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|83|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|84|602|<span class="rank-name-dl">ささきだよ～！</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|85|601|<span class="rank-name-dl">せとりー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|86|589|<span class="rank-name-dl">。。Jumi@。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|87|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|88|575|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|89|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|90|562|<span class="rank-name-dl">ﾓﾘﾘﾝ・ﾏﾝﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|91|559|<span class="rank-name-dl">相模の魚屋さん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|92|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|93|547|<span class="rank-name-dl">crow</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|94|534|<span class="rank-name-dl">あゆ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|95|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|96|521|<span class="rank-name-dl">イブ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|97|517|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|98|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|99|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|100|496|<span class="rank-name-dl">極悪不動産AB型</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,99 +139,99 @@ ___
 |5|1148|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |6|1133|<span class="rank-name-dl">ドリンクバーぴろ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |7|1106|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰ哲也3</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|8|1088|<span class="rank-name-dl">風間 祐貴</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|9|1065|<span class="rank-name-dl">古敷谷　裕</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|10|1060|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|11|1035|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|11|1035|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|13|1032|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|14|1014|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|15|1010|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|16|1004|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|1001|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|1001|<span class="rank-name-dl">プレス</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|19|994|<span class="rank-name-dl">Shu</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|20|981|<span class="rank-name-dl">takuchan</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|21|978|<span class="rank-name-dl">ｷｭｳﾁ@LPS運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|22|974|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">湘南D-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|972|<span class="rank-name-dl">鶴さん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|26|971|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|27|970|<span class="rank-name-dl">鳥居塚優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|28|968|<span class="rank-name-dl">dante</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|29|966|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|30|965|<span class="rank-name-dl">少年</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|31|961|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|31|961|<span class="rank-name-dl">しょってぃー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|33|960|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|34|959|<span class="rank-name-dl">カオル@帰還兵</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|35|950|<span class="rank-name-dl">あらけん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|36|949|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|37|946|<span class="rank-name-dl">さとピョ211Club</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|38|936|<span class="rank-name-dl">Takuma Fujikawa</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|39|934|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|40|933|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|41|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|42|929|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|43|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|44|907|<span class="rank-name-dl">ジャンキー大山</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|45|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|45|905|<span class="rank-name-dl">狐の店員</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|47|898|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|48|892|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|49|887|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|50|884|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|51|862|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|52|859|<span class="rank-name-dl">ぎずも。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|53|852|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|54|849|<span class="rank-name-dl">D@ice</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|55|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|56|828|<span class="rank-name-dl">703</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|57|820|<span class="rank-name-dl">府川優心</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|58|813|<span class="rank-name-dl">Ｄａｉ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|59|776|<span class="rank-name-dl">Koudai</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|60|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|61|769|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|62|767|<span class="rank-name-dl">$UGUЯU</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|63|756|<span class="rank-name-dl">のもっち【極】</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|64|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|65|753|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|66|752|<span class="rank-name-dl">はるぽそ@Disport</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|67|732|<span class="rank-name-dl">るなぴ捻挫中</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|68|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|69|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|70|697|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|71|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|72|686|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|73|683|<span class="rank-name-dl">/you@/</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|74|681|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|75|678|<span class="rank-name-dl">ひなぞ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|76|672|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|77|654|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|78|651|<span class="rank-name-dl">NO NAME 4135</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|79|650|<span class="rank-name-dl">オムライスかんち</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|80|649|<span class="rank-name-dl">とりさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|81|641|<span class="rank-name-dl">乱紅蓮のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|82|639|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|83|634|<span class="rank-name-dl">兎@Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|84|628|<span class="rank-name-dl">おむつ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|85|626|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|86|612|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|87|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|88|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|89|602|<span class="rank-name-dl">ささきだよ～！</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|90|601|<span class="rank-name-dl">せとりー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|91|589|<span class="rank-name-dl">。。Jumi@。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|92|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|93|575|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|94|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|95|562|<span class="rank-name-dl">ﾓﾘﾘﾝ・ﾏﾝﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|96|559|<span class="rank-name-dl">相模の魚屋さん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|97|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|98|552|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|99|549|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|100|547|<span class="rank-name-dl">crow</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店 カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|8|1065|<span class="rank-name-dl">古敷谷　裕</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|9|1060|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|10|1035|<span class="rank-name-dl">カオル</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|10|1035|<span class="rank-name-dl">山口　雄 PRIDE</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|12|1032|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|13|1014|<span class="rank-name-dl">いんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|14|1010|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|15|1004|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|1001|<span class="rank-name-dl">あ。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|1001|<span class="rank-name-dl">プレス</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|18|994|<span class="rank-name-dl">Shu</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|19|981|<span class="rank-name-dl">takuchan</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|20|978|<span class="rank-name-dl">ｷｭｳﾁ@LPS運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|21|974|<span class="rank-name-dl">ｷｭｳﾁ@運極</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">湘南D-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|972|<span class="rank-name-dl">鶴さん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|25|970|<span class="rank-name-dl">鳥居塚優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|26|968|<span class="rank-name-dl">dante</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|27|966|<span class="rank-name-dl">LPSノザ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|28|965|<span class="rank-name-dl">少年</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|961|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|961|<span class="rank-name-dl">しょってぃー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|31|960|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|32|959|<span class="rank-name-dl">カオル@帰還兵</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|33|950|<span class="rank-name-dl">あらけん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|34|949|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|35|946|<span class="rank-name-dl">さとピョ211Club</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|36|936|<span class="rank-name-dl">Takuma Fujikawa</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|37|933|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|38|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|39|929|<span class="rank-name-dl">TEP</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|40|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|41|907|<span class="rank-name-dl">ジャンキー大山</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|42|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|42|905|<span class="rank-name-dl">狐の店員</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|44|898|<span class="rank-name-dl">320</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|45|887|<span class="rank-name-dl">YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|46|862|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|47|859|<span class="rank-name-dl">ぎずも。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|48|852|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|49|849|<span class="rank-name-dl">D@ice</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|50|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|51|828|<span class="rank-name-dl">703</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|52|820|<span class="rank-name-dl">府川優心</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|53|813|<span class="rank-name-dl">Ｄａｉ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|54|776|<span class="rank-name-dl">Koudai</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|55|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|56|769|<span class="rank-name-dl">ﾕｲたろ☆百花繚乱</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|57|767|<span class="rank-name-dl">$UGUЯU</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|58|756|<span class="rank-name-dl">のもっち【極】</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|59|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|60|753|<span class="rank-name-dl">ひろぽーに</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|61|752|<span class="rank-name-dl">はるぽそ@Disport</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|62|732|<span class="rank-name-dl">るなぴ捻挫中</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|63|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|64|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|65|697|<span class="rank-name-dl">しんくん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|66|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|67|686|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|68|683|<span class="rank-name-dl">/you@/</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|69|681|<span class="rank-name-dl">げし</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|70|678|<span class="rank-name-dl">ひなぞ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|71|672|<span class="rank-name-dl">NO NAME 8519</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|72|654|<span class="rank-name-dl">risako</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|73|651|<span class="rank-name-dl">NO NAME 4135</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|74|650|<span class="rank-name-dl">オムライスかんち</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|75|649|<span class="rank-name-dl">とりさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|76|641|<span class="rank-name-dl">乱紅蓮のしっぽ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|77|639|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|78|634|<span class="rank-name-dl">兎@Darts Labo</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|79|628|<span class="rank-name-dl">おむつ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|80|626|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|81|612|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|82|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|83|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|84|602|<span class="rank-name-dl">ささきだよ～！</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|85|601|<span class="rank-name-dl">せとりー</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|86|589|<span class="rank-name-dl">。。Jumi@。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|87|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|88|575|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|89|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|90|562|<span class="rank-name-dl">ﾓﾘﾘﾝ・ﾏﾝﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|91|559|<span class="rank-name-dl">相模の魚屋さん</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|92|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|93|547|<span class="rank-name-dl">crow</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|94|534|<span class="rank-name-dl">あゆ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|95|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|96|521|<span class="rank-name-dl">イブ</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|97|517|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|98|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|99|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|100|496|<span class="rank-name-dl">極悪不動産AB型</span>|<a href="https://search.dartslive.com/jp/shop/a993bd0d35ddeeb50d9b047a20a7ba1e">カラオケBanBan寒川店</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -26,7 +26,7 @@ ___
 |1|1170|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |2|1128|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |3|1054|<span class="rank-name-dl">梨</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|3|1054|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|3|1054|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |5|1004|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |6|990|<span class="rank-name-dl">しろねずみ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |7|976|<span class="rank-name-dl">すね@ｼｬﾄﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
@@ -36,93 +36,93 @@ ___
 |11|965|<span class="rank-name-dl">むあい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |12|962|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |13|950|<span class="rank-name-dl">Guchi</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|14|949|<span class="rank-name-dl">たけこちゃん17</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|15|944|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|16|938|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|17|937|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|18|936|<span class="rank-name-dl">瓦&quot;</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|19|934|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|20|930|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|20|930|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|22|929|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|23|924|<span class="rank-name-dl">まってぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|24|922|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|25|919|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|26|915|<span class="rank-name-dl">焼き鬼斬り定食</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|27|914|<span class="rank-name-dl">Manya</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|28|913|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|29|911|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|30|910|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|31|908|<span class="rank-name-dl">Baaan</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|32|906|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|33|903|<span class="rank-name-dl">さんこん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|33|903|<span class="rank-name-dl">りっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|35|897|<span class="rank-name-dl">Satoru@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|36|895|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|37|892|<span class="rank-name-dl">ﾍ(め_め*)ﾉ=３</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|38|890|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|39|889|<span class="rank-name-dl">KAMA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|39|889|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|41|886|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|41|886|<span class="rank-name-pd">orz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|43|880|<span class="rank-name-dl">ラーク</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|44|879|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|45|876|<span class="rank-name-dl">時代おくれ</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|46|871|<span class="rank-name-dl">team RADIO</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|47|868|<span class="rank-name-dl">ten</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|48|865|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|49|864|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|50|863|<span class="rank-name-dl">kazu3</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|50|863|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|52|860|<span class="rank-name-pd">☆鰤之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|53|858|<span class="rank-name-dl">ふる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|53|858|<span class="rank-name-dl">ぺ・リー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|55|855|<span class="rank-name-dl">てっぺい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|55|855|<span class="rank-name-dl">やっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|57|853|<span class="rank-name-dl">Cat18</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|58|852|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|59|849|<span class="rank-name-dl">エレノア</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|60|848|<span class="rank-name-dl">AchtChâN⑧No.iE</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|61|847|<span class="rank-name-dl">ハメド</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|61|847|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|63|846|<span class="rank-name-pd">sawai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|63|846|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|63|846|<span class="rank-name-dl">大雅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|66|843|<span class="rank-name-dl">大胸筋胸肉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|67|840|<span class="rank-name-pd">RIKI777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|67|840|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|69|839|<span class="rank-name-dl">しぶガオレン</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|70|835|<span class="rank-name-pd">0216_0437</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|71|830|<span class="rank-name-dl">こんたつ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|71|830|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|73|828|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|74|827|<span class="rank-name-dl">今#[IMA]</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|75|818|<span class="rank-name-dl">Mochizuki Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|76|817|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|77|806|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小西 詳平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|78|805|<span class="rank-name-dl">ずんだもち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|79|802|<span class="rank-name-dl">SHINYA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|80|797|<span class="rank-name-dl">中西</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|81|786|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|82|783|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|83|779|<span class="rank-name-pd">Freesia</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|84|776|<span class="rank-name-dl">calico09</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|85|774|<span class="rank-name-pd">CM PANK@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|85|774|<span class="rank-name-dl">Kazu</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|87|767|<span class="rank-name-pd">JTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|88|762|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|89|756|<span class="rank-name-dl">ＯＬＩＶＥ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|90|745|<span class="rank-name-pd">KOUDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|91|726|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|92|721|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|92|721|<span class="rank-name-pd">ダーツ超初心者🔰🔰🔰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|94|719|<span class="rank-name-pd">たけこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|95|718|<span class="rank-name-pd">中西 詳平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|96|714|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|97|709|<span class="rank-name-pd">SHJ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|98|701|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|98|701|<span class="rank-name-dl">ユウイチロー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|100|697|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|14|944|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|15|938|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|16|937|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|17|936|<span class="rank-name-dl">瓦&quot;</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|18|934|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|19|930|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|19|930|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|21|924|<span class="rank-name-dl">まってぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|22|922|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|23|919|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|24|915|<span class="rank-name-dl">焼き鬼斬り定食</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|25|914|<span class="rank-name-dl">Manya</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|26|913|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|27|910|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|28|908|<span class="rank-name-dl">Baaan</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|29|906|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|30|903|<span class="rank-name-dl">さんこん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|30|903|<span class="rank-name-dl">りっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|32|897|<span class="rank-name-dl">Satoru@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|33|895|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|34|892|<span class="rank-name-dl">ﾍ(め_め*)ﾉ=３</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|35|890|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|36|889|<span class="rank-name-dl">KAMA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|36|889|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|38|886|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|38|886|<span class="rank-name-pd">orz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|40|880|<span class="rank-name-dl">ラーク</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|41|879|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|42|876|<span class="rank-name-dl">時代おくれ</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|43|871|<span class="rank-name-dl">team RADIO</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|44|868|<span class="rank-name-dl">ten</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|45|865|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|46|864|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|47|863|<span class="rank-name-dl">kazu3</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|47|863|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|49|860|<span class="rank-name-pd">☆鰤之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|50|858|<span class="rank-name-dl">ふる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|50|858|<span class="rank-name-dl">ぺ・リー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|52|855|<span class="rank-name-dl">てっぺい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|52|855|<span class="rank-name-dl">やっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|54|853|<span class="rank-name-dl">Cat18</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|55|852|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|56|849|<span class="rank-name-dl">エレノア</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|57|848|<span class="rank-name-dl">AchtChâN⑧No.iE</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|58|847|<span class="rank-name-dl">ハメド</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|59|846|<span class="rank-name-pd">sawai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|59|846|<span class="rank-name-dl">大雅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|61|843|<span class="rank-name-dl">大胸筋胸肉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|62|840|<span class="rank-name-pd">RIKI777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|62|840|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|64|839|<span class="rank-name-dl">しぶガオレン</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|65|835|<span class="rank-name-pd">0216_0437</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|66|830|<span class="rank-name-dl">こんたつ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|66|830|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|68|828|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|69|827|<span class="rank-name-dl">今#[IMA]</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|70|818|<span class="rank-name-dl">Mochizuki Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|71|817|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|72|806|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小西 詳平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|73|805|<span class="rank-name-dl">ずんだもち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|74|802|<span class="rank-name-dl">SHINYA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|75|797|<span class="rank-name-dl">中西</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|76|786|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|77|783|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|78|779|<span class="rank-name-pd">Freesia</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|79|776|<span class="rank-name-dl">calico09</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|80|774|<span class="rank-name-pd">CM PANK@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|80|774|<span class="rank-name-dl">Kazu</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|82|767|<span class="rank-name-pd">JTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|83|762|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|84|756|<span class="rank-name-dl">ＯＬＩＶＥ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|85|745|<span class="rank-name-pd">KOUDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|86|726|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|87|721|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|87|721|<span class="rank-name-pd">ダーツ超初心者🔰🔰🔰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|89|719|<span class="rank-name-pd">たけこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|90|718|<span class="rank-name-pd">中西 詳平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|91|714|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|92|709|<span class="rank-name-pd">SHJ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|93|701|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|93|701|<span class="rank-name-dl">ユウイチロー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|95|697|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|96|695|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|96|695|<span class="rank-name-dl">あさか めぐみ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|96|695|<span class="rank-name-pd">わこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|99|694|<span class="rank-name-pd">19#</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58799?s_seq=58799">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|100|693|<span class="rank-name-dl">☆tsuyo-4☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,7 +135,7 @@ ___
 |1|1170|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |2|1128|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |3|1054|<span class="rank-name-dl">梨</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|3|1054|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|3|1054|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |5|990|<span class="rank-name-dl">しろねずみ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |6|976|<span class="rank-name-dl">すね@ｼｬﾄﾞｳ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |7|970|<span class="rank-name-dl">きーぼう！</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
@@ -144,94 +144,94 @@ ___
 |10|965|<span class="rank-name-dl">むあい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |11|962|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 |12|950|<span class="rank-name-dl">Guchi</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|13|949|<span class="rank-name-dl">たけこちゃん17</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|14|944|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|15|938|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|16|937|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|17|936|<span class="rank-name-dl">瓦&quot;</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|18|934|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|19|930|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|19|930|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|21|929|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|22|924|<span class="rank-name-dl">まってぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|23|922|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|24|919|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|25|915|<span class="rank-name-dl">焼き鬼斬り定食</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|26|914|<span class="rank-name-dl">Manya</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|27|913|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|28|911|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|29|910|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|30|908|<span class="rank-name-dl">Baaan</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|31|906|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|32|903|<span class="rank-name-dl">さんこん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|32|903|<span class="rank-name-dl">りっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|34|897|<span class="rank-name-dl">Satoru@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|35|895|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|36|892|<span class="rank-name-dl">ﾍ(め_め*)ﾉ=３</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|37|890|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|38|889|<span class="rank-name-dl">KAMA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|38|889|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|40|886|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|41|880|<span class="rank-name-dl">ラーク</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|42|876|<span class="rank-name-dl">時代おくれ</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|43|871|<span class="rank-name-dl">team RADIO</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|44|868|<span class="rank-name-dl">ten</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|45|865|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|46|864|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|47|863|<span class="rank-name-dl">kazu3</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|47|863|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店 快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|49|858|<span class="rank-name-dl">ふる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|49|858|<span class="rank-name-dl">ぺ・リー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|51|855|<span class="rank-name-dl">てっぺい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|51|855|<span class="rank-name-dl">やっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|53|853|<span class="rank-name-dl">Cat18</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|54|852|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|55|849|<span class="rank-name-dl">エレノア</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|56|848|<span class="rank-name-dl">AchtChâN⑧No.iE</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|57|847|<span class="rank-name-dl">ハメド</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|57|847|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|59|846|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|59|846|<span class="rank-name-dl">大雅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|61|843|<span class="rank-name-dl">大胸筋胸肉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|62|840|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|63|839|<span class="rank-name-dl">しぶガオレン</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|64|830|<span class="rank-name-dl">こんたつ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|64|830|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|66|828|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|67|827|<span class="rank-name-dl">今#[IMA]</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|68|818|<span class="rank-name-dl">Mochizuki Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|69|817|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|70|805|<span class="rank-name-dl">ずんだもち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|71|802|<span class="rank-name-dl">SHINYA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|72|797|<span class="rank-name-dl">中西</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|73|786|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|74|783|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|75|776|<span class="rank-name-dl">calico09</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|76|774|<span class="rank-name-dl">Kazu</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|77|762|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|78|756|<span class="rank-name-dl">ＯＬＩＶＥ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|79|726|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|80|721|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|81|714|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|82|701|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|82|701|<span class="rank-name-dl">ユウイチロー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|84|697|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|85|695|<span class="rank-name-dl">あさか めぐみ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|86|693|<span class="rank-name-dl">☆tsuyo-4☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|87|678|<span class="rank-name-dl">蒲郡代表</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|88|672|<span class="rank-name-dl">Souu@奥さん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|89|670|<span class="rank-name-dl">r.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|90|664|<span class="rank-name-dl">とーご</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|91|660|<span class="rank-name-dl">NO NAME 1024</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|92|656|<span class="rank-name-dl">がなぱん3</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|93|655|<span class="rank-name-dl">haya</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|94|652|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|95|651|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|96|649|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|97|646|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店 JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|98|643|<span class="rank-name-dl">タレ派</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|99|639|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
-|100|630|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|13|944|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|14|938|<span class="rank-name-dl">ｭｰｷ//Crew&#x27;s-WDF</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|15|937|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|16|936|<span class="rank-name-dl">瓦&quot;</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|17|934|<span class="rank-name-dl">T-cha@tiAra</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|18|930|<span class="rank-name-dl">SunShine@ytb</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|18|930|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|20|924|<span class="rank-name-dl">まってぃ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|21|922|<span class="rank-name-dl">もちち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|22|919|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|23|915|<span class="rank-name-dl">焼き鬼斬り定食</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|24|914|<span class="rank-name-dl">Manya</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|25|913|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|26|910|<span class="rank-name-dl">TaFa＠NewbiE</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|27|908|<span class="rank-name-dl">Baaan</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|28|906|<span class="rank-name-dl">SATOSHI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|29|903|<span class="rank-name-dl">さんこん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|29|903|<span class="rank-name-dl">りっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|31|897|<span class="rank-name-dl">Satoru@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|32|895|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|33|892|<span class="rank-name-dl">ﾍ(め_め*)ﾉ=３</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|34|890|<span class="rank-name-dl">モリーザ JPN</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|35|889|<span class="rank-name-dl">KAMA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|35|889|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|37|886|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|38|880|<span class="rank-name-dl">ラーク</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|39|876|<span class="rank-name-dl">時代おくれ</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|40|871|<span class="rank-name-dl">team RADIO</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|41|868|<span class="rank-name-dl">ten</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|42|865|<span class="rank-name-dl">実況トニー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|43|864|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|44|863|<span class="rank-name-dl">kazu3</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|44|863|<span class="rank-name-dl">名も無き修羅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|46|858|<span class="rank-name-dl">ふる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|46|858|<span class="rank-name-dl">ぺ・リー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|48|855|<span class="rank-name-dl">てっぺい</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|48|855|<span class="rank-name-dl">やっぴー</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|50|853|<span class="rank-name-dl">Cat18</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|51|852|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|52|849|<span class="rank-name-dl">エレノア</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|53|848|<span class="rank-name-dl">AchtChâN⑧No.iE</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|54|847|<span class="rank-name-dl">ハメド</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|55|846|<span class="rank-name-dl">大雅</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|56|843|<span class="rank-name-dl">大胸筋胸肉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|57|840|<span class="rank-name-dl">そら しけまる</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|58|839|<span class="rank-name-dl">しぶガオレン</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|59|830|<span class="rank-name-dl">こんたつ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|59|830|<span class="rank-name-dl">カカロット</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|61|828|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|62|827|<span class="rank-name-dl">今#[IMA]</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|63|818|<span class="rank-name-dl">Mochizuki Hiroto</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|64|817|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|65|805|<span class="rank-name-dl">ずんだもち</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|66|802|<span class="rank-name-dl">SHINYA</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|67|797|<span class="rank-name-dl">中西</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|68|786|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|69|783|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|70|776|<span class="rank-name-dl">calico09</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|71|774|<span class="rank-name-dl">Kazu</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|72|762|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|73|756|<span class="rank-name-dl">ＯＬＩＶＥ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|74|726|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|75|721|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|76|714|<span class="rank-name-dl">ｃｅｎａ.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|77|701|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|77|701|<span class="rank-name-dl">ユウイチロー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|79|697|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|80|695|<span class="rank-name-dl">あさか めぐみ</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|81|693|<span class="rank-name-dl">☆tsuyo-4☆</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|82|678|<span class="rank-name-dl">蒲郡代表</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|83|672|<span class="rank-name-dl">Souu@奥さん</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|84|670|<span class="rank-name-dl">r.</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|85|664|<span class="rank-name-dl">とーご</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|86|660|<span class="rank-name-dl">NO NAME 1024</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|87|656|<span class="rank-name-dl">がなぱん3</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|88|655|<span class="rank-name-dl">haya</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|89|652|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|90|651|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|91|649|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|92|646|<span class="rank-name-dl">くわっしー</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|93|643|<span class="rank-name-dl">タレ派</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|94|639|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|95|630|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|96|628|<span class="rank-name-dl">ネコ型ロボット</span>|<a href="https://search.dartslive.com/jp/shop/c4c6cdab0f10ce50790ab824ce8730e5">JOYJOY蒲郡三谷店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|97|620|<span class="rank-name-dl">もりりん</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|98|619|<span class="rank-name-dl">masyu</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|99|617|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/6b010b5d74642f7428032249b44395af">Darts Bar K&Muu</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
+|100|607|<span class="rank-name-dl">ChamiChami</span>|<a href="https://search.dartslive.com/jp/shop/00b65873d77f82e9f454cb89828a1cfe">快活CLUB 蒲郡店</a>|<a href="/darts/rank/愛知県/蒲郡市">愛知県蒲郡市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -31,98 +31,98 @@ ___
 |6|1217|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |7|1210|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |7|1210|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|9|1209|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |9|1209|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|11|1207|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|12|1203|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店) ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">粕谷 晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|20|1189|<span class="rank-name-dl">Hasesan Black</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|21|1171|<span class="rank-name-dl">牌洗（パイセン）</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|22|1168|<span class="rank-name-dl">MITSUAKI.O</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|22|1168|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|24|1167|<span class="rank-name-dl">チンチロJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|24|1167|<span class="rank-name-dl">近藤 俊介</span>|<a href="https://search.dartslive.com/jp/shop/091dbe97f651c1c00d9b047a20a7ba1e">ラウンドワン南砂店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|26|1165|<span class="rank-name-dl">水原一平</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|27|1162|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|28|1159|<span class="rank-name-dl">波方 涼@Oase</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|28|1159|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|33|1156|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|34|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|35|1153|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店 Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|35|1153|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|37|1152|<span class="rank-name-dl">浦川 祐也</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|38|1150|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|38|1150|<span class="rank-name-dl">須山</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|40|1149|<span class="rank-name-dl">NO NAME 4998</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|41|1144|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店 まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|41|1144|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|43|1137|<span class="rank-name-dl">馬場　善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|44|1136|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|44|1136|<span class="rank-name-dl">後藤　智弥</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|46|1135|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|47|1134|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|47|1134|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|49|1133|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|50|1132|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">まっちゅん</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|55|1127|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|55|1127|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|57|1126|<span class="rank-name-dl">LOOP⭐︎R</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|57|1126|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|59|1125|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|60|1124|<span class="rank-name-dl">Lylian Le Calvez</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|61|1123|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|61|1123|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|63|1122|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|64|1121|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|65|1120|<span class="rank-name-dl">いしわたりょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/7fa76428249152b00d9b047a20a7ba1e">ARTESANO 西大島店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|72|1118|<span class="rank-name-pd">薩佐 幸一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89950?s_seq=89950">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|73|1117|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|73|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|75|1116|<span class="rank-name-dl">けぃ(´Д｀)けぃ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|75|1116|<span class="rank-name-dl">河野匡哉×Y&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|77|1115|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|78|1114|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|78|1114|<span class="rank-name-dl">アオノヨウタロウ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|78|1114|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|81|1112|<span class="rank-name-dl">manabu</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|81|1112|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|81|1112|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/3484ff5d98f56ee9b21333aee1bd51e4">D,trial門前仲町店 D,trial門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|84|1111|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|84|1111|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|84|1111|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|84|1111|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|88|1110|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|89|1109|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|89|1109|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|91|1108|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|92|1107|<span class="rank-name-dl">おもちもち</span>|<a href="https://search.dartslive.com/jp/shop/e7b5c7127ef9351d0d9b047a20a7ba1e">ARTESANO</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|92|1107|<span class="rank-name-dl">加藤 一輝</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|92|1107|<span class="rank-name-pd"><span class="pro-icon-pd"></span>波方 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89950?s_seq=89950">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|95|1106|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|96|1105|<span class="rank-name-dl">にっしー@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店) ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|97|1104|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|97|1104|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|99|1103|<span class="rank-name-dl">-</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|99|1103|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|10|1207|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|11|1203|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">粕谷 晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|18|1189|<span class="rank-name-dl">Hasesan Black</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|19|1171|<span class="rank-name-dl">牌洗（パイセン）</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|20|1168|<span class="rank-name-dl">MITSUAKI.O</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|20|1168|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|22|1167|<span class="rank-name-dl">チンチロJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|22|1167|<span class="rank-name-dl">近藤 俊介</span>|<a href="https://search.dartslive.com/jp/shop/091dbe97f651c1c00d9b047a20a7ba1e">ラウンドワン南砂店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|24|1165|<span class="rank-name-dl">水原一平</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|25|1162|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|26|1159|<span class="rank-name-dl">波方 涼@Oase</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|26|1159|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|31|1156|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|32|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|33|1153|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|34|1152|<span class="rank-name-dl">浦川 祐也</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|35|1150|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|35|1150|<span class="rank-name-dl">須山</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|37|1149|<span class="rank-name-dl">NO NAME 4998</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|38|1144|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|38|1144|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|40|1137|<span class="rank-name-dl">馬場　善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|41|1136|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|41|1136|<span class="rank-name-dl">後藤　智弥</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|43|1135|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|44|1134|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|44|1134|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|46|1133|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|47|1132|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">まっちゅん</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|51|1127|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|51|1127|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|53|1126|<span class="rank-name-dl">LOOP⭐︎R</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|53|1126|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|55|1124|<span class="rank-name-dl">Lylian Le Calvez</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|56|1123|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|56|1123|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|58|1122|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|59|1121|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|60|1120|<span class="rank-name-dl">いしわたりょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/7fa76428249152b00d9b047a20a7ba1e">ARTESANO 西大島店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|67|1118|<span class="rank-name-pd">薩佐 幸一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89950?s_seq=89950">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|68|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|69|1116|<span class="rank-name-dl">けぃ(´Д｀)けぃ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|69|1116|<span class="rank-name-dl">河野匡哉×Y&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|71|1115|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|72|1114|<span class="rank-name-dl">アオノヨウタロウ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|72|1114|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|74|1112|<span class="rank-name-dl">manabu</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|74|1112|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|74|1112|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/3484ff5d98f56ee9b21333aee1bd51e4">D,trial門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|77|1111|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|77|1111|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|77|1111|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|77|1111|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|81|1110|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|82|1109|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|83|1108|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|84|1107|<span class="rank-name-dl">おもちもち</span>|<a href="https://search.dartslive.com/jp/shop/e7b5c7127ef9351d0d9b047a20a7ba1e">ARTESANO</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|84|1107|<span class="rank-name-dl">加藤 一輝</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|84|1107|<span class="rank-name-pd"><span class="pro-icon-pd"></span>波方 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89950?s_seq=89950">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|87|1106|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|88|1105|<span class="rank-name-dl">にっしー@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|89|1104|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|89|1104|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|91|1103|<span class="rank-name-dl">-</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|91|1103|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|93|1102|<span class="rank-name-dl">Rio-ON</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|93|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|95|1101|<span class="rank-name-dl">シャンクス</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|96|1100|<span class="rank-name-dl">ryo koike</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|96|1100|<span class="rank-name-dl">しゅーた</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|96|1100|<span class="rank-name-dl">アオノ　タイラ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|96|1100|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|100|1098|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -140,98 +140,98 @@ ___
 |6|1217|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |7|1210|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |7|1210|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|9|1209|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 |9|1209|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|11|1207|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|12|1203|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店) ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">粕谷 晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|13|1200|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|20|1189|<span class="rank-name-dl">Hasesan Black</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|21|1171|<span class="rank-name-dl">牌洗（パイセン）</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|22|1168|<span class="rank-name-dl">MITSUAKI.O</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|22|1168|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|24|1167|<span class="rank-name-dl">チンチロJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|24|1167|<span class="rank-name-dl">近藤 俊介</span>|<a href="https://search.dartslive.com/jp/shop/091dbe97f651c1c00d9b047a20a7ba1e">ラウンドワン南砂店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|26|1165|<span class="rank-name-dl">水原一平</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|27|1162|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|28|1159|<span class="rank-name-dl">波方 涼@Oase</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|28|1159|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|30|1157|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|33|1156|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|34|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|35|1153|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店 Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|35|1153|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|37|1152|<span class="rank-name-dl">浦川 祐也</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|38|1150|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|38|1150|<span class="rank-name-dl">須山</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|40|1149|<span class="rank-name-dl">NO NAME 4998</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|41|1144|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店 まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|41|1144|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|43|1137|<span class="rank-name-dl">馬場　善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|44|1136|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|44|1136|<span class="rank-name-dl">後藤　智弥</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|46|1135|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|47|1134|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|47|1134|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|49|1133|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|50|1132|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">まっちゅん</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|51|1131|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|55|1127|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|55|1127|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|57|1126|<span class="rank-name-dl">LOOP⭐︎R</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|57|1126|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|59|1125|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|60|1124|<span class="rank-name-dl">Lylian Le Calvez</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|61|1123|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|61|1123|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|63|1122|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|64|1121|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|65|1120|<span class="rank-name-dl">いしわたりょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/7fa76428249152b00d9b047a20a7ba1e">ARTESANO 西大島店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|66|1119|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|72|1117|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|72|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|74|1116|<span class="rank-name-dl">けぃ(´Д｀)けぃ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|74|1116|<span class="rank-name-dl">河野匡哉×Y&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|76|1115|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|77|1114|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|77|1114|<span class="rank-name-dl">アオノヨウタロウ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|77|1114|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|80|1112|<span class="rank-name-dl">manabu</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|80|1112|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|80|1112|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/3484ff5d98f56ee9b21333aee1bd51e4">D,trial門前仲町店 D,trial門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|83|1111|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|83|1111|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|83|1111|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|83|1111|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|87|1110|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|88|1109|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|88|1109|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|90|1108|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|91|1107|<span class="rank-name-dl">おもちもち</span>|<a href="https://search.dartslive.com/jp/shop/e7b5c7127ef9351d0d9b047a20a7ba1e">ARTESANO</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|91|1107|<span class="rank-name-dl">加藤 一輝</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|93|1106|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|94|1105|<span class="rank-name-dl">にっしー@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店) ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|95|1104|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|95|1104|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|97|1103|<span class="rank-name-dl">-</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店 スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|97|1103|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|99|1102|<span class="rank-name-dl">Rio-ON</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
-|99|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|10|1207|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|11|1203|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">GT@TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">粕谷 晋</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|12|1200|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|18|1189|<span class="rank-name-dl">Hasesan Black</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|19|1171|<span class="rank-name-dl">牌洗（パイセン）</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|20|1168|<span class="rank-name-dl">MITSUAKI.O</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|20|1168|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|22|1167|<span class="rank-name-dl">チンチロJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|22|1167|<span class="rank-name-dl">近藤 俊介</span>|<a href="https://search.dartslive.com/jp/shop/091dbe97f651c1c00d9b047a20a7ba1e">ラウンドワン南砂店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|24|1165|<span class="rank-name-dl">水原一平</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|25|1162|<span class="rank-name-dl">薩佐　幸一</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|26|1159|<span class="rank-name-dl">波方 涼@Oase</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|26|1159|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">小野恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">森窪龍己</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|28|1157|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|31|1156|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|32|1155|<span class="rank-name-dl">わたぬべようひ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|33|1153|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|34|1152|<span class="rank-name-dl">浦川 祐也</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|35|1150|<span class="rank-name-dl">野毛 駿平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|35|1150|<span class="rank-name-dl">須山</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|37|1149|<span class="rank-name-dl">NO NAME 4998</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|38|1144|<span class="rank-name-dl">NO NAME 1629</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|38|1144|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|40|1137|<span class="rank-name-dl">馬場　善久</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|41|1136|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|41|1136|<span class="rank-name-dl">後藤　智弥</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|43|1135|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/87b15aa9739609e10d9b047a20a7ba1e">DartsBar Oase</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|44|1134|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|44|1134|<span class="rank-name-dl">ゐ</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|46|1133|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|47|1132|<span class="rank-name-dl">Royden Lam☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">16294030</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">まっちゅん</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|48|1131|<span class="rank-name-dl">木寸木公氵台木尌</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|51|1127|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|51|1127|<span class="rank-name-dl">のげしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|53|1126|<span class="rank-name-dl">LOOP⭐︎R</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|53|1126|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|55|1124|<span class="rank-name-dl">Lylian Le Calvez</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|56|1123|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden 亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|56|1123|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|58|1122|<span class="rank-name-dl">横田　涼</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|59|1121|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|60|1120|<span class="rank-name-dl">いしわたりょうた</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">NO NAME 1618</span>|<a href="https://search.dartslive.com/jp/shop/7fa76428249152b00d9b047a20a7ba1e">ARTESANO 西大島店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">NO NAME 7201</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">中川 聖士</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">岩井 隆之介</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|61|1119|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|67|1117|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|68|1116|<span class="rank-name-dl">けぃ(´Д｀)けぃ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|68|1116|<span class="rank-name-dl">河野匡哉×Y&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/31b68190342d918f0d9b047a20a7ba1e">Y's-spec</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|70|1115|<span class="rank-name-dl">ﾅﾍﾞ初老んｼﾞｬｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|71|1114|<span class="rank-name-dl">アオノヨウタロウ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|71|1114|<span class="rank-name-dl">ﾋﾟｴﾝ⋆ｺｴﾃ⇒ﾊﾟｵン</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|73|1112|<span class="rank-name-dl">manabu</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|73|1112|<span class="rank-name-dl">ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|73|1112|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/3484ff5d98f56ee9b21333aee1bd51e4">D,trial門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|76|1111|<span class="rank-name-dl">N.HISANAGA</span>|<a href="https://search.dartslive.com/jp/shop/839e522f9689eff6790ab824ce8730e5">Play Garden亀戸北口店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|76|1111|<span class="rank-name-dl">NO NAME 9617</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|76|1111|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|76|1111|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|80|1110|<span class="rank-name-dl">Mathew Lee</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|81|1109|<span class="rank-name-dl">養殖鮪</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|82|1108|<span class="rank-name-dl">でつ@㌰</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|83|1107|<span class="rank-name-dl">おもちもち</span>|<a href="https://search.dartslive.com/jp/shop/e7b5c7127ef9351d0d9b047a20a7ba1e">ARTESANO</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|83|1107|<span class="rank-name-dl">加藤 一輝</span>|<a href="https://search.dartslive.com/jp/shop/058272bed606cdb4f454cb89828a1cfe">Restaurant & Darts Bar CONNECT</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|85|1106|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|86|1105|<span class="rank-name-dl">にっしー@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|87|1104|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|87|1104|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|89|1103|<span class="rank-name-dl">-</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|89|1103|<span class="rank-name-dl">ノリだもん</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|91|1102|<span class="rank-name-dl">Rio-ON</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|91|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|93|1101|<span class="rank-name-dl">シャンクス</span>|<a href="https://search.dartslive.com/jp/shop/348ed7a5a6c910260d9b047a20a7ba1e">ダーツカフェデルタ亀戸店(DartsCafeDELTA亀戸店)</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|94|1100|<span class="rank-name-dl">ryo koike</span>|<a href="https://search.dartslive.com/jp/shop/4beaad3a472a012df454cb89828a1cfe">まんがランド門前仲町店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|94|1100|<span class="rank-name-dl">しゅーた</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|94|1100|<span class="rank-name-dl">アオノ　タイラ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|94|1100|<span class="rank-name-dl">ﾉｽｹｰﾇｼｬﾄｰﾌﾞﾘｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|98|1098|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/c233e7025baf9ad0790ab824ce8730e5">Darts Bar B.B.B</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|99|1097|<span class="rank-name-dl">ren</span>|<a href="https://search.dartslive.com/jp/shop/40c6f4e5d96bdd430d9b047a20a7ba1e">スペースクリエイト自遊空間 亀戸店</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
+|100|1096|<span class="rank-name-dl">小野 恵太</span>|<a href="https://search.dartslive.com/jp/shop/d6762e3a00f473c8774c926eb736cb5a">Darts&Bar Delightful</a>|<a href="/darts/rank/東京都/江東区">東京都江東区</a>|
 
 
 #### PHOENIXDARTS TOP 100

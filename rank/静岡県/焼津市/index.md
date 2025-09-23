@@ -92,7 +92,7 @@ ___
 |67|860|<span class="rank-name-pd">諦めないニスｲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |68|859|<span class="rank-name-pd">ししょう【^･ω･^】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |68|859|<span class="rank-name-pd">ツッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93803?s_seq=93803">ADDNINTH</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|70|857|<span class="rank-name-dl">はらさき</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|70|857|<span class="rank-name-dl">はらさき</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |71|856|<span class="rank-name-pd">プカプー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8420?s_seq=8420">アプレシオ 焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |72|855|<span class="rank-name-pd">Fumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8420?s_seq=8420">アプレシオ 焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |72|855|<span class="rank-name-pd">uru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
@@ -105,7 +105,7 @@ ___
 |80|843|<span class="rank-name-pd">PP95092HOUSE DARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |80|843|<span class="rank-name-dl">onちゃん@盛矢</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |82|841|<span class="rank-name-pd">あっき〜？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58527?s_seq=58527">Seventh Chord</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|83|840|<span class="rank-name-dl">なえちゃっ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|83|840|<span class="rank-name-dl">なえちゃっ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |83|840|<span class="rank-name-pd">まっきー(水性)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58527?s_seq=58527">Seventh Chord</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |85|838|<span class="rank-name-pd">トシボー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |86|834|<span class="rank-name-pd">JAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8420?s_seq=8420">アプレシオ 焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
@@ -136,9 +136,9 @@ ___
 |2|889|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |3|879|<span class="rank-name-dl">☆DAIchang☆</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |4|873|<span class="rank-name-dl">つか</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|5|857|<span class="rank-name-dl">はらさき</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|5|857|<span class="rank-name-dl">はらさき</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |6|843|<span class="rank-name-dl">onちゃん@盛矢</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|7|840|<span class="rank-name-dl">なえちゃっ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|7|840|<span class="rank-name-dl">なえちゃっ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |8|829|<span class="rank-name-dl">イチゲキモッチー</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |9|822|<span class="rank-name-dl">takeshi public</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |10|809|<span class="rank-name-dl">痔王</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
@@ -151,7 +151,7 @@ ___
 |17|766|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |18|748|<span class="rank-name-dl">Nobu〜☆</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |19|746|<span class="rank-name-dl">まおねぇ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|20|740|<span class="rank-name-dl">FUJIMON</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|20|740|<span class="rank-name-dl">FUJIMON</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |21|732|<span class="rank-name-dl">あきにぃ★Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |22|726|<span class="rank-name-dl">走召ＭＡＫＯ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |23|722|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
@@ -161,7 +161,7 @@ ___
 |26|705|<span class="rank-name-dl">アメちゃん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |28|704|<span class="rank-name-dl">Birman</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |29|701|<span class="rank-name-dl">SIN</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|30|697|<span class="rank-name-dl">オリゴ糖</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|30|697|<span class="rank-name-dl">オリゴ糖</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |31|696|<span class="rank-name-dl">さくちゃん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |32|694|<span class="rank-name-dl">Kurama</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |33|693|<span class="rank-name-dl">だいち</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
@@ -173,56 +173,52 @@ ___
 |38|677|<span class="rank-name-dl">でんぢゃらすにぃ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |40|676|<span class="rank-name-dl">(゜∀。)</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 |40|676|<span class="rank-name-dl">NO NAME 6471</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|42|675|<span class="rank-name-dl">トモ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|43|674|<span class="rank-name-dl">コタロー</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|44|672|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|45|667|<span class="rank-name-dl">takeshi public</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|46|665|<span class="rank-name-dl">Keita5</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|47|664|<span class="rank-name-dl">ゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|48|661|<span class="rank-name-dl">さわわ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|49|660|<span class="rank-name-dl">オリゴ糖</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|50|659|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|51|653|<span class="rank-name-dl">雨</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|52|646|<span class="rank-name-dl">とぅーや</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|53|644|<span class="rank-name-dl">N1k0mise</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|54|643|<span class="rank-name-dl">ふみ★ONE80‼</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|55|641|<span class="rank-name-dl">しこ猿＠Rozaje</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|56|635|<span class="rank-name-dl">まおねえ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|57|626|<span class="rank-name-dl">茄子</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|58|624|<span class="rank-name-dl">しもじ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|59|621|<span class="rank-name-dl">ぽり</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|60|615|<span class="rank-name-dl">ぺやんぐ@超大盛</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|61|612|<span class="rank-name-dl">kd</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|62|609|<span class="rank-name-dl">ボージオ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|63|606|<span class="rank-name-dl">せあっち</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|64|602|<span class="rank-name-dl">きのこ*ダーツ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|65|601|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|66|600|<span class="rank-name-dl">tiger</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|67|586|<span class="rank-name-dl">(有)鎌野組☆桐</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|68|580|<span class="rank-name-dl">☆☆☆</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|69|578|<span class="rank-name-dl">sanbo</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|70|574|<span class="rank-name-dl">keiyossy</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|71|573|<span class="rank-name-dl">増田 雄弘</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|72|566|<span class="rank-name-dl">NO NAME 0599</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|73|562|<span class="rank-name-dl">みほら</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|74|555|<span class="rank-name-dl">Tomy</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|75|553|<span class="rank-name-dl">ZOU3</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|76|542|<span class="rank-name-dl">お茶犬</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|76|542|<span class="rank-name-dl">じゅの</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店 アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|78|539|<span class="rank-name-dl">はむ@KBee</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|79|538|<span class="rank-name-dl">おにゃんこ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|80|533|<span class="rank-name-dl">ゆっせ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|81|530|<span class="rank-name-dl">とくさん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|82|512|<span class="rank-name-dl">半沢直樹</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|83|506|<span class="rank-name-dl">NO NAME 9176</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|84|470|<span class="rank-name-dl">モグラ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|85|457|<span class="rank-name-dl">Suzu_ka</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|86|449|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|87|417|<span class="rank-name-dl">かりな</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|88|412|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|89|371|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|90|330|<span class="rank-name-dl">ひみたん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|91|293|<span class="rank-name-dl">しらい</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|42|674|<span class="rank-name-dl">コタロー</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|43|672|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|44|665|<span class="rank-name-dl">Keita5</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|45|664|<span class="rank-name-dl">ゆーくん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|46|661|<span class="rank-name-dl">さわわ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|47|659|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|48|653|<span class="rank-name-dl">雨</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|49|646|<span class="rank-name-dl">とぅーや</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|50|644|<span class="rank-name-dl">N1k0mise</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|51|643|<span class="rank-name-dl">ふみ★ONE80‼</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|52|641|<span class="rank-name-dl">しこ猿＠Rozaje</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|53|635|<span class="rank-name-dl">まおねえ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|54|626|<span class="rank-name-dl">茄子</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|55|624|<span class="rank-name-dl">しもじ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|56|621|<span class="rank-name-dl">ぽり</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|57|615|<span class="rank-name-dl">ぺやんぐ@超大盛</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|58|612|<span class="rank-name-dl">kd</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|59|609|<span class="rank-name-dl">ボージオ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|60|606|<span class="rank-name-dl">せあっち</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|61|602|<span class="rank-name-dl">きのこ*ダーツ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|62|600|<span class="rank-name-dl">tiger</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|63|586|<span class="rank-name-dl">(有)鎌野組☆桐</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|64|580|<span class="rank-name-dl">☆☆☆</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|65|578|<span class="rank-name-dl">sanbo</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|66|574|<span class="rank-name-dl">keiyossy</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|67|573|<span class="rank-name-dl">増田 雄弘</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|68|566|<span class="rank-name-dl">NO NAME 0599</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|69|562|<span class="rank-name-dl">みほら</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|70|555|<span class="rank-name-dl">Tomy</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|71|553|<span class="rank-name-dl">ZOU3</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|72|542|<span class="rank-name-dl">お茶犬</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|72|542|<span class="rank-name-dl">じゅの</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|74|539|<span class="rank-name-dl">はむ@KBee</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|75|538|<span class="rank-name-dl">おにゃんこ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|76|533|<span class="rank-name-dl">ゆっせ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|77|530|<span class="rank-name-dl">とくさん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|78|512|<span class="rank-name-dl">半沢直樹</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|79|506|<span class="rank-name-dl">NO NAME 9176</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|80|470|<span class="rank-name-dl">モグラ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|81|457|<span class="rank-name-dl">Suzu_ka</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|82|449|<span class="rank-name-dl">すぅ</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|83|417|<span class="rank-name-dl">かりな</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|84|412|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|85|371|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|86|330|<span class="rank-name-dl">ひみたん</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|87|293|<span class="rank-name-dl">しらい</span>|<a href="https://search.dartslive.com/jp/shop/56385fb0abfd86eb774c926eb736cb5a">アプレシオ焼津店</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -25,20 +25,20 @@ ___
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |1|1200|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|3|1161|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|3|1161|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |4|1158|<span class="rank-name-dl">NO NAME 0352</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |5|1157|<span class="rank-name-dl">まーぼりん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |6|1155|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|7|1152|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|7|1152|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |8|1143|<span class="rank-name-dl">精</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |9|1141|<span class="rank-name-dl">mitsumitsu</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|10|1138|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|10|1138|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |11|1129|<span class="rank-name-dl">近衛　宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |12|1128|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">ざらめちょこ。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">佐藤 健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|16|1120|<span class="rank-name-dl">Ｓ.タツミ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|16|1120|<span class="rank-name-dl">Ｓ.タツミ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |17|1118|<span class="rank-name-pd">0008_8381</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |17|1118|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |19|1117|<span class="rank-name-dl">ToPpO</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
@@ -47,82 +47,82 @@ ___
 |22|1115|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |23|1113|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |24|1112|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|25|1109|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|26|1108|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|27|1104|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|28|1103|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|28|1103|<span class="rank-name-dl">けい・おちょこ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|30|1100|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|31|1089|<span class="rank-name-dl">Choco@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|31|1089|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|33|1088|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|34|1080|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|34|1080|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|36|1079|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|37|1078|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|38|1074|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|39|1072|<span class="rank-name-dl">こぼのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|40|1069|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|41|1063|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|42|1061|<span class="rank-name-dl">中村 周作</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|43|1060|<span class="rank-name-dl">しん@ふりすた</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|43|1060|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|45|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|45|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|45|1059|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|48|1058|<span class="rank-name-dl">まさ兄の舎弟</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|49|1055|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|49|1055|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|51|1052|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|52|1051|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|52|1051|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|54|1050|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|55|1049|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|56|1048|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|57|1045|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|57|1045|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|59|1042|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|60|1040|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|60|1040|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|62|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|63|1035|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|63|1035|<span class="rank-name-pd">近衞宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|65|1034|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|66|1031|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|67|1030|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|67|1030|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|67|1030|<span class="rank-name-dl">セイ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|70|1029|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野村 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|71|1026|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|71|1026|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|73|1022|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|74|1020|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|74|1020|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|74|1020|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高久 祥大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|77|1018|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|78|1016|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|79|1015|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|79|1015|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|81|1014|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|81|1014|<span class="rank-name-dl">次元★竜飛會総帥</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|83|1013|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|83|1013|<span class="rank-name-dl">こぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店 ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|85|1012|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|85|1012|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|87|1010|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|87|1010|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|87|1010|<span class="rank-name-dl">ヒロキ@フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|90|1009|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|91|1008|<span class="rank-name-dl">20221006</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間） G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|91|1008|<span class="rank-name-dl">しょるるん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|91|1008|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|94|1007|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店 快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|95|1006|<span class="rank-name-dl">ｺﾀﾛｰﾔﾄﾞﾝ愛</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|96|1005|<span class="rank-name-pd">ゼッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|96|1005|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店 ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|98|1004|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|99|1001|<span class="rank-name-dl">mit@ハウスダーツ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|100|999|<span class="rank-name-dl">YY.sun</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|25|1108|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|26|1104|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|27|1103|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|27|1103|<span class="rank-name-dl">けい・おちょこ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|29|1100|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|30|1089|<span class="rank-name-dl">Choco@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|30|1089|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|32|1088|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|33|1080|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|33|1080|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|35|1078|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|36|1072|<span class="rank-name-dl">こぼのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|37|1069|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|38|1063|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|39|1061|<span class="rank-name-dl">中村 周作</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|40|1060|<span class="rank-name-dl">しん@ふりすた</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|40|1060|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|42|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|43|1058|<span class="rank-name-dl">まさ兄の舎弟</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|44|1055|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|44|1055|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|46|1052|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|47|1051|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|47|1051|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|49|1050|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|50|1049|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|51|1048|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|52|1045|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|52|1045|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|54|1042|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|55|1040|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|55|1040|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|57|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|58|1035|<span class="rank-name-pd">近衞宗治郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|59|1034|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|60|1031|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|61|1030|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|61|1030|<span class="rank-name-dl">セイ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|63|1029|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野村 優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|64|1026|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|64|1026|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|66|1022|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|67|1020|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|67|1020|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|67|1020|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高久 祥大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|70|1018|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|71|1015|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|71|1015|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|73|1014|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|73|1014|<span class="rank-name-dl">次元★竜飛會総帥</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|75|1013|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|75|1013|<span class="rank-name-dl">こぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|77|1012|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|77|1012|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|79|1010|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|79|1010|<span class="rank-name-dl">ヒロキ@フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|81|1009|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|82|1008|<span class="rank-name-dl">20221006</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|82|1008|<span class="rank-name-dl">しょるるん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|82|1008|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|85|1007|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|86|1006|<span class="rank-name-dl">ｺﾀﾛｰﾔﾄﾞﾝ愛</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|87|1005|<span class="rank-name-pd">ゼッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94775?s_seq=94775">LOCO STYLE CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|87|1005|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|89|1001|<span class="rank-name-dl">mit@ハウスダーツ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|90|999|<span class="rank-name-dl">YY.sun</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|91|995|<span class="rank-name-dl">ヒロキ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|92|994|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|93|993|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|94|986|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|95|983|<span class="rank-name-dl">ZECCHI@真八重流</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|96|980|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|97|976|<span class="rank-name-dl">kouheiman</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|98|973|<span class="rank-name-dl">れみぽーる</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|98|973|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹内 寛貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57647?s_seq=57647">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|100|972|<span class="rank-name-dl">∵∴たけやん∵∴</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,20 +134,20 @@ ___
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">にし</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |1|1200|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|3|1161|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|3|1161|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |4|1158|<span class="rank-name-dl">NO NAME 0352</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |5|1157|<span class="rank-name-dl">まーぼりん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |6|1155|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|7|1152|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|7|1152|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |8|1143|<span class="rank-name-dl">精</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |9|1141|<span class="rank-name-dl">mitsumitsu</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|10|1138|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|10|1138|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |11|1129|<span class="rank-name-dl">近衛　宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |12|1128|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">ざらめちょこ。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |13|1122|<span class="rank-name-dl">佐藤 健亮(ヌコ)</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|16|1120|<span class="rank-name-dl">Ｓ.タツミ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|16|1120|<span class="rank-name-dl">Ｓ.タツミ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |17|1118|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |18|1117|<span class="rank-name-dl">ToPpO</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |18|1117|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
@@ -155,83 +155,83 @@ ___
 |21|1115|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |22|1113|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 |23|1112|<span class="rank-name-dl">松波 甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|24|1109|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|25|1108|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|26|1104|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|27|1103|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|27|1103|<span class="rank-name-dl">けい・おちょこ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|29|1089|<span class="rank-name-dl">Choco@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|29|1089|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|31|1088|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|32|1080|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|32|1080|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|34|1079|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|35|1078|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|36|1074|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|37|1072|<span class="rank-name-dl">こぼのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|38|1069|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|39|1063|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|40|1061|<span class="rank-name-dl">中村 周作</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|41|1060|<span class="rank-name-dl">しん@ふりすた</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|41|1060|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|43|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|43|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|43|1059|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|46|1058|<span class="rank-name-dl">まさ兄の舎弟</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|47|1055|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|47|1055|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|49|1052|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|50|1051|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|50|1051|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|52|1050|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|53|1049|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|54|1048|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|55|1045|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|55|1045|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|57|1042|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|58|1040|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|58|1040|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|60|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|61|1035|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|62|1034|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|63|1031|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|64|1030|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|64|1030|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|64|1030|<span class="rank-name-dl">セイ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|67|1026|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|67|1026|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|69|1022|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|70|1020|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|70|1020|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|72|1018|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|73|1016|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|74|1015|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|74|1015|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|76|1014|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|76|1014|<span class="rank-name-dl">次元★竜飛會総帥</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|78|1013|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|78|1013|<span class="rank-name-dl">こぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店 ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|80|1012|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|80|1012|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|82|1010|<span class="rank-name-dl">Fukky.A〈FSC〉</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|82|1010|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|82|1010|<span class="rank-name-dl">ヒロキ@フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|85|1009|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|86|1008|<span class="rank-name-dl">20221006</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間） G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|86|1008|<span class="rank-name-dl">しょるるん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|86|1008|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|89|1007|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店 快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|90|1006|<span class="rank-name-dl">ｺﾀﾛｰﾔﾄﾞﾝ愛</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|91|1005|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店 ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|92|1004|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|93|1001|<span class="rank-name-dl">mit@ハウスダーツ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|94|999|<span class="rank-name-dl">YY.sun</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|95|995|<span class="rank-name-dl">ヒロキ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|96|994|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|97|993|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|98|986|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|99|983|<span class="rank-name-dl">ZECCHI@真八重流</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
-|100|980|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|24|1108|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|25|1104|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|26|1103|<span class="rank-name-dl">atsushi_フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|26|1103|<span class="rank-name-dl">けい・おちょこ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|28|1089|<span class="rank-name-dl">Choco@卍連合</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|28|1089|<span class="rank-name-dl">こぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|30|1088|<span class="rank-name-dl">Shingo</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|31|1080|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|31|1080|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|33|1078|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|34|1072|<span class="rank-name-dl">こぼのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|35|1069|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|36|1063|<span class="rank-name-dl">髙野　真陽</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|37|1061|<span class="rank-name-dl">中村 周作</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|38|1060|<span class="rank-name-dl">しん@ふりすた</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|38|1060|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|40|1059|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|41|1058|<span class="rank-name-dl">まさ兄の舎弟</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|42|1055|<span class="rank-name-dl">ALEXA</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|42|1055|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|44|1052|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|45|1051|<span class="rank-name-dl">あつまー@FSC</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|45|1051|<span class="rank-name-dl">曽我 一真</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|47|1050|<span class="rank-name-dl">加藤 将太朗</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|48|1049|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|49|1048|<span class="rank-name-dl">しょーただよ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|50|1045|<span class="rank-name-dl">松波　甫</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|50|1045|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|52|1042|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|53|1040|<span class="rank-name-dl">《雅》</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|53|1040|<span class="rank-name-dl">岩浪　哲也</span>|<a href="https://search.dartslive.com/jp/shop/535f43255cc2f4fb0d9b047a20a7ba1e">セカンドスタジアム</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|55|1039|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|56|1034|<span class="rank-name-dl">よーいち</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|57|1031|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|58|1030|<span class="rank-name-dl">こうきっき@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|58|1030|<span class="rank-name-dl">セイ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|60|1026|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|60|1026|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|62|1022|<span class="rank-name-dl">小池 紀之</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|63|1020|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|63|1020|<span class="rank-name-dl">まままま</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|65|1018|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|66|1015|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|66|1015|<span class="rank-name-dl">次元三世★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|68|1014|<span class="rank-name-dl">りょう @でる。</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|68|1014|<span class="rank-name-dl">次元★竜飛會総帥</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|70|1013|<span class="rank-name-dl">Makoto #[Target]</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|70|1013|<span class="rank-name-dl">こぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|72|1012|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|72|1012|<span class="rank-name-dl">ぼ</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|74|1010|<span class="rank-name-dl">こうし</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|74|1010|<span class="rank-name-dl">ヒロキ@フリスタ</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|76|1009|<span class="rank-name-dl">近衞 宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|77|1008|<span class="rank-name-dl">20221006</span>|<a href="https://search.dartslive.com/jp/shop/6b1c952c7105a08658d385ea46352d8f">G-field平塚駅前店（Supported by自遊空間）</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|77|1008|<span class="rank-name-dl">しょるるん</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|77|1008|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|80|1007|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|81|1006|<span class="rank-name-dl">ｺﾀﾛｰﾔﾄﾞﾝ愛</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|82|1005|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|83|1001|<span class="rank-name-dl">mit@ハウスダーツ</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|84|999|<span class="rank-name-dl">YY.sun</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|85|995|<span class="rank-name-dl">ヒロキ@FSC</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|86|994|<span class="rank-name-dl">こなやぎL F</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|87|993|<span class="rank-name-dl">酔いどれ宗治郎</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|88|986|<span class="rank-name-dl">ZECCHI@LOCO</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|89|983|<span class="rank-name-dl">ZECCHI@真八重流</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|90|980|<span class="rank-name-dl">ヒロトド</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|91|976|<span class="rank-name-dl">kouheiman</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|92|973|<span class="rank-name-dl">れみぽーる</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|93|972|<span class="rank-name-dl">∵∴たけやん∵∴</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|94|971|<span class="rank-name-dl">中村 周作</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|95|970|<span class="rank-name-dl">ば氏</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|95|970|<span class="rank-name-dl">ケニー</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|95|970|<span class="rank-name-dl">寅次郎</span>|<a href="https://search.dartslive.com/jp/shop/557e5a7092a0954fa3f63593b5358cc4">快活CLUB 平塚宮松店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|98|966|<span class="rank-name-dl">atsushi.LOCO</span>|<a href="https://search.dartslive.com/jp/shop/785634dad51fbd260d9b047a20a7ba1e">LOCO STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|98|966|<span class="rank-name-dl">山口純也★竜飛會</span>|<a href="https://search.dartslive.com/jp/shop/546a3bfc5c87a82e0d9b047a20a7ba1e">FREE STYLES CAFE</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
+|98|966|<span class="rank-name-dl">黒滝 直輝［破］</span>|<a href="https://search.dartslive.com/jp/shop/8a3a674a2d9084070d9b047a20a7ba1e">ラウンドワンららぽーと湘南平塚店</a>|<a href="/darts/rank/神奈川県/平塚市">神奈川県平塚市</a>|
 
 
 #### PHOENIXDARTS TOP 100

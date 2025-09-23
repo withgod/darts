@@ -106,7 +106,7 @@ ___
 |80|1002|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |82|1000|<span class="rank-name-dl">三瀬大樹 ナイツ</span>|<a href="https://search.dartslive.com/jp/shop/15fb4a9684bbb5fe0d9b047a20a7ba1e">Darts Bar Nest</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |82|1000|<span class="rank-name-pd">凌空@Artemis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6849?s_seq=6849">Banbees 空港通店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|84|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|84|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |85|992|<span class="rank-name-dl">せいんと</span>|<a href="https://search.dartslive.com/jp/shop/327656297d50e8c30d9b047a20a7ba1e">FOOL BAR</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |85|992|<span class="rank-name-dl">相原萌人バイト中</span>|<a href="https://search.dartslive.com/jp/shop/c6c704641ebf88220d9b047a20a7ba1e">14-1 FOURTEEN-ONE</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |87|990|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10577?s_seq=10577">Banbees</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
@@ -182,7 +182,7 @@ ___
 |48|1002|<span class="rank-name-dl">三瀬大樹 ナイツ</span>|<a href="https://search.dartslive.com/jp/shop/f61e2f2cddfdd7360d9b047a20a7ba1e">Dragon Monk</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |48|1002|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |50|1000|<span class="rank-name-dl">三瀬大樹 ナイツ</span>|<a href="https://search.dartslive.com/jp/shop/15fb4a9684bbb5fe0d9b047a20a7ba1e">Darts Bar Nest</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|51|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|51|994|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |52|992|<span class="rank-name-dl">せいんと</span>|<a href="https://search.dartslive.com/jp/shop/327656297d50e8c30d9b047a20a7ba1e">FOOL BAR</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |52|992|<span class="rank-name-dl">相原萌人バイト中</span>|<a href="https://search.dartslive.com/jp/shop/c6c704641ebf88220d9b047a20a7ba1e">14-1 FOURTEEN-ONE</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |54|989|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/bfc255ed27887ec8b21333aee1bd51e4">Darts bar Hachi</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
@@ -194,7 +194,7 @@ ___
 |60|975|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/f61e2f2cddfdd7360d9b047a20a7ba1e">Dragon Monk</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |61|973|<span class="rank-name-dl">かなるです。</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |62|972|<span class="rank-name-dl">マサシ</span>|<a href="https://search.dartslive.com/jp/shop/d53e66d15d148c930d9b047a20a7ba1e">Darts Space D's</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|63|971|<span class="rank-name-dl">チワワde惡烏賊</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|63|971|<span class="rank-name-dl">チワワde惡烏賊</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |64|969|<span class="rank-name-dl">ようちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bfc255ed27887ec8b21333aee1bd51e4">Darts bar Hachi</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |64|969|<span class="rank-name-dl">ポメ</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |66|967|<span class="rank-name-dl">三瀬大樹 ナイツ</span>|<a href="https://search.dartslive.com/jp/shop/caea1ecfb67d8d2c0d9b047a20a7ba1e">BILLIARD&DARTS ポケット</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
@@ -225,12 +225,12 @@ ___
 |91|946|<span class="rank-name-dl">Tくん...</span>|<a href="https://search.dartslive.com/jp/shop/85fe8485c6656b630d9b047a20a7ba1e">Darts & Bar Shake Hip</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |91|946|<span class="rank-name-dl">グレーリング飯</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |91|946|<span class="rank-name-dl">トン</span>|<a href="https://search.dartslive.com/jp/shop/f61e2f2cddfdd7360d9b047a20a7ba1e">Dragon Monk</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|91|946|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|91|946|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |95|945|<span class="rank-name-dl">高瀬 玄馬</span>|<a href="https://search.dartslive.com/jp/shop/d53e66d15d148c930d9b047a20a7ba1e">Darts Space D's</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |96|942|<span class="rank-name-dl">raoh</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |96|942|<span class="rank-name-dl">相原 萌人</span>|<a href="https://search.dartslive.com/jp/shop/b092b3299b7384c80d9b047a20a7ba1e">本町 ナイツ ダーツラボ</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |98|941|<span class="rank-name-dl">萌人</span>|<a href="https://search.dartslive.com/jp/shop/a7678752fce3b26b774c926eb736cb5a">快活CLUB 愛媛重信店</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
-|99|940|<span class="rank-name-dl">LogLog 中矢</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
+|99|940|<span class="rank-name-dl">LogLog 中矢</span>|<a href="https://search.dartslive.com/jp/shop/c2974b2649f978bd774c926eb736cb5a">Log</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 |99|940|<span class="rank-name-dl">林 美奈</span>|<a href="https://search.dartslive.com/jp/shop/f7316690d38f08460d9b047a20a7ba1e">Music & Darts BAR ものおと</a>|<a href="/darts/rank/愛媛県/松山市">愛媛県松山市</a>|
 
 

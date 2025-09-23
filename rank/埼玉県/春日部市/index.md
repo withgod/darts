@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1200|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|1|1200|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |1|1200|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |3|1169|<span class="rank-name-pd">Dai or Alive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |4|1167|<span class="rank-name-dl">逞心(MIX)</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
@@ -36,7 +36,7 @@ ___
 |11|1132|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 竜馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |12|1130|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |13|1125|<span class="rank-name-pd">4502</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|14|1124|<span class="rank-name-dl">ALDEA BAR</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|14|1124|<span class="rank-name-dl">ALDEA BAR</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |15|1120|<span class="rank-name-dl">Diva264994</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |16|1111|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |17|1109|<span class="rank-name-pd">κοzι</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
@@ -50,79 +50,79 @@ ___
 |25|1064|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |26|1056|<span class="rank-name-pd">菅原</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |27|1055|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|28|1054|<span class="rank-name-dl">逞心(MIX)</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|29|1053|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|30|1048|<span class="rank-name-dl">➳ ●█▀█▄</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|30|1048|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|32|1047|<span class="rank-name-dl">a-kuru</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|33|1046|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|34|1045|<span class="rank-name-dl">ホッピー黒∞</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|35|1044|<span class="rank-name-dl">けんばぶぅ保角慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|36|1034|<span class="rank-name-pd">光ｯﾁ【Jackus】4843</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|37|1029|<span class="rank-name-dl">ゆた㌷G2</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|38|1027|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|39|1023|<span class="rank-name-pd">ちょ★なぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|40|1017|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|41|1013|<span class="rank-name-dl">slow_gdf</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|41|1013|<span class="rank-name-pd"><span class="pro-icon-pd"></span>曲澤 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96343?s_seq=96343">BAR IBIZA</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|43|1010|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|44|1006|<span class="rank-name-pd">J-STYLE [侍s5]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|44|1006|<span class="rank-name-dl">さとし＠いーぐる</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|46|1004|<span class="rank-name-pd">レボリューション小川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|47|1003|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|48|1002|<span class="rank-name-pd">槙田 倫史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96343?s_seq=96343">BAR IBIZA</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|49|1001|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|50|1000|<span class="rank-name-dl">かんいち KAN(強)</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|50|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中畑 直也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|50|1000|<span class="rank-name-pd">光ｯﾁ【Jackus】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|53|994|<span class="rank-name-pd">Trippy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|53|994|<span class="rank-name-dl">つばめ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|55|993|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|56|992|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|57|986|<span class="rank-name-pd">福地陸来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|58|982|<span class="rank-name-dl">Ｇ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|59|981|<span class="rank-name-dl">NO NAME666</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|59|981|<span class="rank-name-dl">Nevermore</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|61|980|<span class="rank-name-dl">ささかばりー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|62|975|<span class="rank-name-dl">Motomi</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|62|975|<span class="rank-name-pd">光ｯﾁ【Jackus】halo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|64|971|<span class="rank-name-dl">マッスー　P</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|65|969|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|65|969|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|67|968|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|67|968|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|67|968|<span class="rank-name-dl">SILVER</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|70|967|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|71|966|<span class="rank-name-pd">DELUXE[RED]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|963|<span class="rank-name-pd">shin⑤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|963|<span class="rank-name-dl">ごもくぱいせん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|963|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|75|959|<span class="rank-name-dl">くましぃ←↑</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|76|958|<span class="rank-name-dl">あーちん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|77|957|<span class="rank-name-pd">ジーコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|78|956|<span class="rank-name-dl">Name1031</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|78|956|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|80|954|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|80|954|<span class="rank-name-dl">ささみ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|80|954|<span class="rank-name-pd">モンたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|83|952|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|83|952|<span class="rank-name-dl">はせ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|83|952|<span class="rank-name-pd">齋藤康治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|86|942|<span class="rank-name-pd">0218925414116899</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|87|941|<span class="rank-name-dl">せんぱい。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|87|941|<span class="rank-name-pd">コモコモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|89|940|<span class="rank-name-dl">たいらのまさ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|89|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>瀬尾 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|91|939|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|92|935|<span class="rank-name-dl">雅雅</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|93|934|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|94|931|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|95|928|<span class="rank-name-dl">しんいち</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|95|928|<span class="rank-name-dl">ちゃそみぃ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|97|927|<span class="rank-name-dl">Trippy</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|98|925|<span class="rank-name-dl">S★</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|99|924|<span class="rank-name-dl">ぐりんぴす。。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|100|923|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|28|1053|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|29|1048|<span class="rank-name-dl">➳ ●█▀█▄</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|29|1048|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|31|1047|<span class="rank-name-dl">a-kuru</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|32|1046|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|33|1045|<span class="rank-name-dl">ホッピー黒∞</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|34|1044|<span class="rank-name-dl">けんばぶぅ保角慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|35|1034|<span class="rank-name-pd">光ｯﾁ【Jackus】4843</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|36|1029|<span class="rank-name-dl">ゆた㌷G2</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|37|1027|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|38|1023|<span class="rank-name-pd">ちょ★なぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|39|1017|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|40|1013|<span class="rank-name-dl">slow_gdf</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|40|1013|<span class="rank-name-pd"><span class="pro-icon-pd"></span>曲澤 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96343?s_seq=96343">BAR IBIZA</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|42|1010|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|43|1006|<span class="rank-name-pd">J-STYLE [侍s5]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|43|1006|<span class="rank-name-dl">さとし＠いーぐる</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|45|1004|<span class="rank-name-pd">レボリューション小川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|46|1003|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|47|1002|<span class="rank-name-pd">槙田 倫史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_96343?s_seq=96343">BAR IBIZA</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|48|1001|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|49|1000|<span class="rank-name-dl">かんいち KAN(強)</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|49|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中畑 直也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|49|1000|<span class="rank-name-pd">光ｯﾁ【Jackus】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|52|994|<span class="rank-name-pd">Trippy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|52|994|<span class="rank-name-dl">つばめ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|54|993|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|55|992|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|56|986|<span class="rank-name-pd">福地陸来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|57|982|<span class="rank-name-dl">Ｇ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|58|981|<span class="rank-name-dl">NO NAME666</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|58|981|<span class="rank-name-dl">Nevermore</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|60|980|<span class="rank-name-dl">ささかばりー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|61|975|<span class="rank-name-dl">Motomi</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|61|975|<span class="rank-name-pd">光ｯﾁ【Jackus】halo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|63|971|<span class="rank-name-dl">マッスー　P</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|64|969|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|64|969|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|66|968|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|66|968|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|66|968|<span class="rank-name-dl">SILVER</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|69|967|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|70|966|<span class="rank-name-pd">DELUXE[RED]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|71|963|<span class="rank-name-pd">shin⑤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|71|963|<span class="rank-name-dl">ごもくぱいせん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|71|963|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|74|959|<span class="rank-name-dl">くましぃ←↑</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|75|958|<span class="rank-name-dl">あーちん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|76|957|<span class="rank-name-pd">ジーコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|77|956|<span class="rank-name-dl">Name1031</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|77|956|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|79|954|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|79|954|<span class="rank-name-dl">ささみ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|79|954|<span class="rank-name-pd">モンたく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|82|952|<span class="rank-name-pd">齋藤康治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|83|942|<span class="rank-name-pd">0218925414116899</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54150?s_seq=54150">Darts & Pool Variety</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|84|941|<span class="rank-name-dl">せんぱい。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|84|941|<span class="rank-name-pd">コモコモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|86|940|<span class="rank-name-dl">たいらのまさ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|86|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>瀬尾 章</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9973?s_seq=9973">快活CLUB 16号 春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|88|939|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|89|935|<span class="rank-name-dl">雅雅</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|90|934|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|91|931|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|92|928|<span class="rank-name-dl">しんいち</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|92|928|<span class="rank-name-dl">ちゃそみぃ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|94|927|<span class="rank-name-dl">Trippy</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|95|925|<span class="rank-name-dl">S★</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|96|924|<span class="rank-name-dl">ぐりんぴす。。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|97|923|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|98|922|<span class="rank-name-dl">翔太んk22</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|99|918|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|100|917|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,14 +132,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1200|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|1|1200|<span class="rank-name-dl">CODE NAME A.N</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |1|1200|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |3|1167|<span class="rank-name-dl">逞心(MIX)</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |4|1160|<span class="rank-name-dl">BELIE</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |5|1153|<span class="rank-name-dl">O</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |6|1138|<span class="rank-name-dl">ALDEA</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |7|1130|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|8|1124|<span class="rank-name-dl">ALDEA BAR</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|8|1124|<span class="rank-name-dl">ALDEA BAR</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |9|1120|<span class="rank-name-dl">Diva264994</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |10|1111|<span class="rank-name-dl">ぐりんぴす。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |11|1100|<span class="rank-name-dl">かもめのたまご</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
@@ -148,90 +148,90 @@ ___
 |14|1084|<span class="rank-name-dl">はせ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |15|1064|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |16|1055|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|17|1054|<span class="rank-name-dl">逞心(MIX)</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|18|1053|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|19|1048|<span class="rank-name-dl">➳ ●█▀█▄</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|20|1047|<span class="rank-name-dl">a-kuru</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|21|1046|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|22|1045|<span class="rank-name-dl">ホッピー黒∞</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|23|1044|<span class="rank-name-dl">けんばぶぅ保角慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|24|1029|<span class="rank-name-dl">ゆた㌷G2</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|25|1027|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|26|1017|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|27|1013|<span class="rank-name-dl">slow_gdf</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|28|1010|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|29|1006|<span class="rank-name-dl">さとし＠いーぐる</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|30|1003|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|31|1001|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|32|1000|<span class="rank-name-dl">かんいち KAN(強)</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|33|994|<span class="rank-name-dl">つばめ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|34|993|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|35|992|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|36|982|<span class="rank-name-dl">Ｇ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|37|981|<span class="rank-name-dl">NO NAME666</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|37|981|<span class="rank-name-dl">Nevermore</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|39|980|<span class="rank-name-dl">ささかばりー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|40|975|<span class="rank-name-dl">Motomi</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|41|971|<span class="rank-name-dl">マッスー　P</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|42|969|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|42|969|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|44|968|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|44|968|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|44|968|<span class="rank-name-dl">SILVER</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|47|967|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|48|963|<span class="rank-name-dl">ごもくぱいせん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|48|963|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|50|959|<span class="rank-name-dl">くましぃ←↑</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|51|958|<span class="rank-name-dl">あーちん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|52|956|<span class="rank-name-dl">Name1031</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|52|956|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|54|954|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|54|954|<span class="rank-name-dl">ささみ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|56|952|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|56|952|<span class="rank-name-dl">はせ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|58|941|<span class="rank-name-dl">せんぱい。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|59|940|<span class="rank-name-dl">たいらのまさ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|60|939|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|61|935|<span class="rank-name-dl">雅雅</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|62|934|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|63|931|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|64|928|<span class="rank-name-dl">しんいち</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|64|928|<span class="rank-name-dl">ちゃそみぃ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|66|927|<span class="rank-name-dl">Trippy</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|67|925|<span class="rank-name-dl">S★</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|68|924|<span class="rank-name-dl">ぐりんぴす。。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|69|923|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|70|922|<span class="rank-name-dl">翔太んk22</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|71|918|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|917|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|917|<span class="rank-name-dl">Kou-c</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|72|917|<span class="rank-name-dl">ars84</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|75|915|<span class="rank-name-dl">うつろ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|76|914|<span class="rank-name-dl">ノゾム@SNRA</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|77|912|<span class="rank-name-dl">rooibos tea</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|78|910|<span class="rank-name-dl">YU-YA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|79|908|<span class="rank-name-dl">NoVA.sk4</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|79|908|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|81|906|<span class="rank-name-dl">ars84</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|81|906|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|83|905|<span class="rank-name-dl">north island</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店 快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|83|905|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|85|903|<span class="rank-name-dl">ごっち！</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|86|902|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|87|901|<span class="rank-name-dl">Kenichi Kanazawa</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|88|891|<span class="rank-name-dl">飽ッきー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|89|889|<span class="rank-name-dl">たかちぃー</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|90|887|<span class="rank-name-dl">SAI</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|91|866|<span class="rank-name-dl">mokos.</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|92|864|<span class="rank-name-dl">性徒会長♂</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|93|862|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/fce400bc211896260d9b047a20a7ba1e">BAR Lit</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|94|859|<span class="rank-name-dl">Daichy</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|94|859|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店 カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|96|852|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|97|850|<span class="rank-name-dl">たかちぃー</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|98|849|<span class="rank-name-dl">ヌルったドアノブ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|99|847|<span class="rank-name-dl">kougachan</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|100|845|<span class="rank-name-dl">にゃんだぁまん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|17|1053|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|18|1048|<span class="rank-name-dl">➳ ●█▀█▄</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|19|1047|<span class="rank-name-dl">a-kuru</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|20|1046|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|21|1045|<span class="rank-name-dl">ホッピー黒∞</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|22|1044|<span class="rank-name-dl">けんばぶぅ保角慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|23|1029|<span class="rank-name-dl">ゆた㌷G2</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|24|1027|<span class="rank-name-dl">コモコモ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|25|1017|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|26|1013|<span class="rank-name-dl">slow_gdf</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|27|1010|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|28|1006|<span class="rank-name-dl">さとし＠いーぐる</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|29|1003|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|30|1001|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|31|1000|<span class="rank-name-dl">かんいち KAN(強)</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|32|994|<span class="rank-name-dl">つばめ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|33|993|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|34|992|<span class="rank-name-dl">くましぃex</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|35|982|<span class="rank-name-dl">Ｇ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|36|981|<span class="rank-name-dl">NO NAME666</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|36|981|<span class="rank-name-dl">Nevermore</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|38|980|<span class="rank-name-dl">ささかばりー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|39|975|<span class="rank-name-dl">Motomi</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|40|971|<span class="rank-name-dl">マッスー　P</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|41|969|<span class="rank-name-dl">Shin⑤★虚心坦懐</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|41|969|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|43|968|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|43|968|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|43|968|<span class="rank-name-dl">SILVER</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|46|967|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|47|963|<span class="rank-name-dl">ごもくぱいせん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|47|963|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|49|959|<span class="rank-name-dl">くましぃ←↑</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|50|958|<span class="rank-name-dl">あーちん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|51|956|<span class="rank-name-dl">Name1031</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|51|956|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|53|954|<span class="rank-name-dl">ささしゅん</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|53|954|<span class="rank-name-dl">ささみ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|55|941|<span class="rank-name-dl">せんぱい。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|56|940|<span class="rank-name-dl">たいらのまさ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|57|939|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|58|935|<span class="rank-name-dl">雅雅</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|59|934|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|60|931|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|61|928|<span class="rank-name-dl">しんいち</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|61|928|<span class="rank-name-dl">ちゃそみぃ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|63|927|<span class="rank-name-dl">Trippy</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|64|925|<span class="rank-name-dl">S★</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|65|924|<span class="rank-name-dl">ぐりんぴす。。。</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|66|923|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|67|922|<span class="rank-name-dl">翔太んk22</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|68|918|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|69|917|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|69|917|<span class="rank-name-dl">Kou-c</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|69|917|<span class="rank-name-dl">ars84</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|72|915|<span class="rank-name-dl">うつろ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|73|914|<span class="rank-name-dl">ノゾム@SNRA</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|74|912|<span class="rank-name-dl">rooibos tea</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|75|910|<span class="rank-name-dl">YU-YA</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|76|908|<span class="rank-name-dl">NoVA.sk4</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|77|906|<span class="rank-name-dl">タオパイパイ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|78|905|<span class="rank-name-dl">north island</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|78|905|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|80|903|<span class="rank-name-dl">ごっち！</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|81|902|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|82|901|<span class="rank-name-dl">Kenichi Kanazawa</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|83|891|<span class="rank-name-dl">飽ッきー</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|84|889|<span class="rank-name-dl">たかちぃー</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|85|887|<span class="rank-name-dl">SAI</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|86|866|<span class="rank-name-dl">mokos.</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|87|864|<span class="rank-name-dl">性徒会長♂</span>|<a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">HangOverZ</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|88|862|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/fce400bc211896260d9b047a20a7ba1e">BAR Lit</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|89|859|<span class="rank-name-dl">Daichy</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">Golf&Darts bar KAN Golf&Darts bar KAN</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|89|859|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|91|852|<span class="rank-name-dl">とぶてぃめ</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|92|850|<span class="rank-name-dl">たかちぃー</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|93|849|<span class="rank-name-dl">ヌルったドアノブ</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|94|847|<span class="rank-name-dl">kougachan</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|95|845|<span class="rank-name-dl">にゃんだぁまん</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|96|838|<span class="rank-name-dl">★</span>|<a href="https://search.dartslive.com/jp/shop/3148e159a687164558d385ea46352d8f">快活CLUB 16号春日部店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|97|834|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBANBAN春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|98|829|<span class="rank-name-dl">ごっちん！</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|99|828|<span class="rank-name-dl">んだお</span>|<a href="https://search.dartslive.com/jp/shop/2d0ef9406651929928032249b44395af">マキカントリー GOLF&DARTS</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|100|827|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/3c331f8d4d81b7b40d9b047a20a7ba1e">カラオケBanBan春日部ハクレン通り店</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 
 
 #### PHOENIXDARTS TOP 100

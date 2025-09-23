@@ -24,8 +24,8 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1204|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|2|1201|<span class="rank-name-dl">田中 源一</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番 カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|3|1200|<span class="rank-name-dl">S.Kaito</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番 カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|2|1201|<span class="rank-name-dl">田中 源一</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|3|1200|<span class="rank-name-dl">S.Kaito</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |4|1167|<span class="rank-name-pd">kob</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43661?s_seq=43661">べろ～家 東十条 黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |5|1165|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |6|1162|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 恭介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6969?s_seq=6969">Dining&Dartsbar AURA</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
@@ -37,14 +37,14 @@ ___
 |10|1136|<span class="rank-name-dl">コバチッチ</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |13|1127|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |13|1127|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|15|1119|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|15|1119|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |16|1115|<span class="rank-name-dl">NYAPPY&quot;水上怜路&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |16|1115|<span class="rank-name-dl">NYAPPY@JACK紅</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |18|1112|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |19|1104|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |20|1101|<span class="rank-name-dl">Re:てぃや</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |21|1100|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|22|1090|<span class="rank-name-dl">照井　健伸</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|22|1090|<span class="rank-name-dl">照井　健伸</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |23|1086|<span class="rank-name-dl">★Taku★</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |24|1084|<span class="rank-name-dl">澤里鋭</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |25|1083|<span class="rank-name-dl">中山兄弟　(弟)</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
@@ -55,74 +55,74 @@ ___
 |30|1077|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |31|1074|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |32|1072|<span class="rank-name-dl">おぐたつ@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|33|1069|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|33|1069|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |34|1068|<span class="rank-name-pd">たぁだ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7443?s_seq=7443">Starry Eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |34|1068|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |36|1066|<span class="rank-name-dl">Re:’S’</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |37|1065|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|38|1063|<span class="rank-name-dl">紫音</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|38|1063|<span class="rank-name-dl">紫音</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |39|1060|<span class="rank-name-dl">Re:中岡</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |39|1060|<span class="rank-name-dl">カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|41|1058|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|42|1056|<span class="rank-name-dl">kob</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹 べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|42|1056|<span class="rank-name-pd">はじめちゃん@CUESOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7443?s_seq=7443">Starry Eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|44|1053|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|45|1051|<span class="rank-name-dl">鈴木 憂司@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|46|1049|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|47|1048|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|47|1048|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|47|1048|<span class="rank-name-dl">佐藤 圭</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|50|1047|<span class="rank-name-dl">おああうあー</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|50|1047|<span class="rank-name-dl">小澄太祐@perfect</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店 JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|52|1046|<span class="rank-name-dl">眞也@べろー家</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|53|1045|<span class="rank-name-dl">Ryoma</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|54|1044|<span class="rank-name-dl">✩JIMMY✩</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|55|1043|<span class="rank-name-dl">iriemon</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|56|1042|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|56|1042|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|58|1036|<span class="rank-name-dl">伊藤ぉぉooooo!</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|59|1035|<span class="rank-name-dl">のーねーむ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|60|1033|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田野 眞也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43661?s_seq=43661">べろ～家 東十条 黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|61|1032|<span class="rank-name-dl">にーた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|61|1032|<span class="rank-name-dl">やぐち</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|63|1030|<span class="rank-name-dl">タイキ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|63|1030|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|65|1028|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|65|1028|<span class="rank-name-dl">恋するﾁﾝﾊﾟﾝﾁﾞｰ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|67|1027|<span class="rank-name-pd">BUSA-AURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6969?s_seq=6969">Dining&Dartsbar AURA</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|67|1027|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|69|1025|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|69|1025|<span class="rank-name-dl">中山兄弟　(弟)</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1022|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1022|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1022|<span class="rank-name-dl">しげまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|74|1021|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|75|1020|<span class="rank-name-dl">だんき@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|76|1019|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|76|1019|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|78|1018|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|78|1018|<span class="rank-name-dl">士劉</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|78|1018|<span class="rank-name-dl">小川 男樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|81|1017|<span class="rank-name-dl">よっふぃ☆三矢美</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|81|1017|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1016|<span class="rank-name-dl">Takashi.M</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1016|<span class="rank-name-dl">☆Ｇｙｏｎｎｙ★</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1016|<span class="rank-name-dl">織田ぺぐ長@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|86|1013|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|86|1013|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|86|1013|<span class="rank-name-pd"><span class="pro-icon-pd"></span>星野 夏樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7443?s_seq=7443">Starry Eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|86|1013|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|90|1012|<span class="rank-name-dl">唄丸@starryeye</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|90|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 恭介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8734?s_seq=8734">BAR BLACK WING</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|92|1009|<span class="rank-name-dl">おタキ。@松龍曾</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|92|1009|<span class="rank-name-dl">つっくん@(兄)INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|92|1009|<span class="rank-name-dl">来週さん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|95|1008|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|96|1007|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|96|1007|<span class="rank-name-dl">ハムのカツサンド</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|98|1005|<span class="rank-name-dl">かねこたから</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|99|1004|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|100|1003|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|41|1056|<span class="rank-name-pd">はじめちゃん@CUESOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7443?s_seq=7443">Starry Eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|42|1053|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|43|1051|<span class="rank-name-dl">鈴木 憂司@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|44|1049|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|45|1048|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|45|1048|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|45|1048|<span class="rank-name-dl">佐藤 圭</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|48|1047|<span class="rank-name-dl">おああうあー</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|48|1047|<span class="rank-name-dl">小澄太祐@perfect</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|50|1046|<span class="rank-name-dl">眞也@べろー家</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|51|1045|<span class="rank-name-dl">Ryoma</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|52|1044|<span class="rank-name-dl">✩JIMMY✩</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|53|1043|<span class="rank-name-dl">iriemon</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|54|1042|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|54|1042|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|56|1036|<span class="rank-name-dl">伊藤ぉぉooooo!</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|57|1035|<span class="rank-name-dl">のーねーむ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|58|1033|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田野 眞也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43661?s_seq=43661">べろ～家 東十条 黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|59|1032|<span class="rank-name-dl">にーた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|59|1032|<span class="rank-name-dl">やぐち</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|61|1030|<span class="rank-name-dl">タイキ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|61|1030|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|63|1028|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|63|1028|<span class="rank-name-dl">恋するﾁﾝﾊﾟﾝﾁﾞｰ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|65|1027|<span class="rank-name-pd">BUSA-AURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6969?s_seq=6969">Dining&Dartsbar AURA</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|65|1027|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|67|1025|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1022|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1022|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1022|<span class="rank-name-dl">しげまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|71|1021|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|72|1020|<span class="rank-name-dl">だんき@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|73|1019|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|73|1019|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1018|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1018|<span class="rank-name-dl">士劉</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1018|<span class="rank-name-dl">小川 男樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|78|1017|<span class="rank-name-dl">よっふぃ☆三矢美</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1016|<span class="rank-name-dl">Takashi.M</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1016|<span class="rank-name-dl">☆Ｇｙｏｎｎｙ★</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1016|<span class="rank-name-dl">織田ぺぐ長@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|82|1013|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|82|1013|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|82|1013|<span class="rank-name-pd"><span class="pro-icon-pd"></span>星野 夏樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7443?s_seq=7443">Starry Eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|82|1013|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|86|1012|<span class="rank-name-dl">唄丸@starryeye</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|86|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菊地 恭介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8734?s_seq=8734">BAR BLACK WING</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|88|1009|<span class="rank-name-dl">おタキ。@松龍曾</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|88|1009|<span class="rank-name-dl">つっくん@(兄)INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|88|1009|<span class="rank-name-dl">来週さん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|91|1008|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|92|1007|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|92|1007|<span class="rank-name-dl">ハムのカツサンド</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|94|1005|<span class="rank-name-dl">かねこたから</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|95|1004|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|96|1003|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|96|1003|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|96|1003|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|99|1002|<span class="rank-name-dl">てぃや</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|99|1002|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,8 +133,8 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1204|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|2|1201|<span class="rank-name-dl">田中 源一</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番 カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|3|1200|<span class="rank-name-dl">S.Kaito</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番 カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|2|1201|<span class="rank-name-dl">田中 源一</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|3|1200|<span class="rank-name-dl">S.Kaito</span>|<a href="https://search.dartslive.com/jp/shop/1ce8ae96c9205d310d9b047a20a7ba1e">カラオケ10番</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |4|1165|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |5|1158|<span class="rank-name-dl">kob</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |6|1156|<span class="rank-name-dl">広瀬貴久＊A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
@@ -144,14 +144,14 @@ ___
 |8|1136|<span class="rank-name-dl">コバチッチ</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |11|1127|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |11|1127|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|13|1119|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|13|1119|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |14|1115|<span class="rank-name-dl">NYAPPY&quot;水上怜路&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |14|1115|<span class="rank-name-dl">NYAPPY@JACK紅</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |16|1112|<span class="rank-name-dl">西川　利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |17|1104|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |18|1101|<span class="rank-name-dl">Re:てぃや</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |19|1100|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|20|1090|<span class="rank-name-dl">照井　健伸</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|20|1090|<span class="rank-name-dl">照井　健伸</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |21|1086|<span class="rank-name-dl">★Taku★</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |22|1084|<span class="rank-name-dl">澤里鋭</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |23|1083|<span class="rank-name-dl">中山兄弟　(弟)</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
@@ -161,77 +161,77 @@ ___
 |27|1077|<span class="rank-name-dl">西川利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |28|1074|<span class="rank-name-dl">西川 利一郎</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |29|1072|<span class="rank-name-dl">おぐたつ@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|30|1069|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|30|1069|<span class="rank-name-dl">51（M-yans）</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |31|1068|<span class="rank-name-dl">鈴木 憂司</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |32|1066|<span class="rank-name-dl">Re:’S’</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |33|1065|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|34|1063|<span class="rank-name-dl">紫音</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|34|1063|<span class="rank-name-dl">紫音</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |35|1060|<span class="rank-name-dl">Re:中岡</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 |35|1060|<span class="rank-name-dl">カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|37|1058|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|38|1056|<span class="rank-name-dl">kob</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹 べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|39|1053|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|40|1051|<span class="rank-name-dl">鈴木 憂司@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|41|1049|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|42|1048|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|42|1048|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|42|1048|<span class="rank-name-dl">佐藤 圭</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|45|1047|<span class="rank-name-dl">おああうあー</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|45|1047|<span class="rank-name-dl">小澄太祐@perfect</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店 JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|47|1046|<span class="rank-name-dl">眞也@べろー家</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|48|1045|<span class="rank-name-dl">Ryoma</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|49|1044|<span class="rank-name-dl">✩JIMMY✩</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|50|1043|<span class="rank-name-dl">iriemon</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|51|1042|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|51|1042|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|53|1036|<span class="rank-name-dl">伊藤ぉぉooooo!</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|54|1035|<span class="rank-name-dl">のーねーむ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|55|1032|<span class="rank-name-dl">にーた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|55|1032|<span class="rank-name-dl">やぐち</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|57|1030|<span class="rank-name-dl">タイキ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|57|1030|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|59|1028|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|59|1028|<span class="rank-name-dl">恋するﾁﾝﾊﾟﾝﾁﾞｰ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|61|1027|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|62|1025|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|62|1025|<span class="rank-name-dl">中山兄弟　(弟)</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店 快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|64|1022|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|64|1022|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|64|1022|<span class="rank-name-dl">しげまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|67|1021|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|68|1020|<span class="rank-name-dl">だんき@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|69|1019|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|69|1019|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1018|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1018|<span class="rank-name-dl">士劉</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|71|1018|<span class="rank-name-dl">小川 男樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|74|1017|<span class="rank-name-dl">よっふぃ☆三矢美</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|74|1017|<span class="rank-name-dl">大徳</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|76|1016|<span class="rank-name-dl">Takashi.M</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|76|1016|<span class="rank-name-dl">☆Ｇｙｏｎｎｙ★</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|76|1016|<span class="rank-name-dl">織田ぺぐ長@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|79|1013|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|79|1013|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|79|1013|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|82|1012|<span class="rank-name-dl">唄丸@starryeye</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1009|<span class="rank-name-dl">おタキ。@松龍曾</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1009|<span class="rank-name-dl">つっくん@(兄)INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|83|1009|<span class="rank-name-dl">来週さん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|86|1008|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|87|1007|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|87|1007|<span class="rank-name-dl">ハムのカツサンド</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|89|1005|<span class="rank-name-dl">かねこたから</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|90|1004|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|91|1003|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|91|1003|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|91|1003|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|94|1002|<span class="rank-name-dl">てぃや</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|94|1002|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|94|1002|<span class="rank-name-dl">ハイブリッド</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|94|1002|<span class="rank-name-dl">茉莉太</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|98|1001|<span class="rank-name-dl">だ〜よし</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|98|1001|<span class="rank-name-dl">わんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
-|98|1001|<span class="rank-name-dl">ハイパーふなみず</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|37|1053|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|38|1051|<span class="rank-name-dl">鈴木 憂司@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|39|1049|<span class="rank-name-dl">浴本 昇吾</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|40|1048|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|40|1048|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|40|1048|<span class="rank-name-dl">佐藤 圭</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|43|1047|<span class="rank-name-dl">おああうあー</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|43|1047|<span class="rank-name-dl">小澄太祐@perfect</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|45|1046|<span class="rank-name-dl">眞也@べろー家</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|46|1045|<span class="rank-name-dl">Ryoma</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|47|1044|<span class="rank-name-dl">✩JIMMY✩</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|48|1043|<span class="rank-name-dl">iriemon</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|49|1042|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|49|1042|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|51|1036|<span class="rank-name-dl">伊藤ぉぉooooo!</span>|<a href="https://search.dartslive.com/jp/shop/58085cd8b13e39d80d9b047a20a7ba1e">べろ～家 東十条黒豹</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|52|1035|<span class="rank-name-dl">のーねーむ</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|53|1032|<span class="rank-name-dl">にーた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|53|1032|<span class="rank-name-dl">やぐち</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|55|1030|<span class="rank-name-dl">タイキ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|55|1030|<span class="rank-name-dl">豆腐HENDRIX</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|57|1028|<span class="rank-name-dl">加藤 和孝</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|57|1028|<span class="rank-name-dl">恋するﾁﾝﾊﾟﾝﾁﾞｰ</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|59|1027|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|60|1025|<span class="rank-name-dl">ガんc</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|61|1022|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|61|1022|<span class="rank-name-dl">さとけい</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|61|1022|<span class="rank-name-dl">しげまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|64|1021|<span class="rank-name-dl">37</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|65|1020|<span class="rank-name-dl">だんき@INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|66|1019|<span class="rank-name-dl">YUTAKA SUNAKAWA</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|66|1019|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1018|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1018|<span class="rank-name-dl">士劉</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|68|1018|<span class="rank-name-dl">小川 男樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|71|1017|<span class="rank-name-dl">よっふぃ☆三矢美</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|72|1016|<span class="rank-name-dl">Takashi.M</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|72|1016|<span class="rank-name-dl">☆Ｇｙｏｎｎｙ★</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|72|1016|<span class="rank-name-dl">織田ぺぐ長@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/e70b7a92226e8ffc0d9b047a20a7ba1e">JACK 赤羽店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1013|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1013|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|75|1013|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|78|1012|<span class="rank-name-dl">唄丸@starryeye</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1009|<span class="rank-name-dl">おタキ。@松龍曾</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1009|<span class="rank-name-dl">つっくん@(兄)INF</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|79|1009|<span class="rank-name-dl">来週さん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|82|1008|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|83|1007|<span class="rank-name-dl">やきそば</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|83|1007|<span class="rank-name-dl">ハムのカツサンド</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|85|1005|<span class="rank-name-dl">かねこたから</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|86|1004|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|87|1003|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|87|1003|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|87|1003|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">Darts & Bar Re</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|90|1002|<span class="rank-name-dl">てぃや</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|90|1002|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|90|1002|<span class="rank-name-dl">ハイブリッド</span>|<a href="https://search.dartslive.com/jp/shop/bd0239a09f17d7f60d9b047a20a7ba1e">starry eye</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|90|1002|<span class="rank-name-dl">茉莉太</span>|<a href="https://search.dartslive.com/jp/shop/51f41b124f6cbf3ab21333aee1bd51e4">UP赤羽</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|94|1001|<span class="rank-name-dl">だ〜よし</span>|<a href="https://search.dartslive.com/jp/shop/029183878f8ae9a958d385ea46352d8f">B-GARAGE 赤羽東口駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|94|1001|<span class="rank-name-dl">わんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|94|1001|<span class="rank-name-dl">ハイパーふなみず</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|97|1000|<span class="rank-name-dl">たっきー卍</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|97|1000|<span class="rank-name-dl">前ぺぐ慶次@FOKS!</span>|<a href="https://search.dartslive.com/jp/shop/8fc05e20b8eb0ac20d9b047a20a7ba1e">Darts & Sports Bar INFINITY</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|97|1000|<span class="rank-name-dl">石川</span>|<a href="https://search.dartslive.com/jp/shop/5439d5d866039e9858d385ea46352d8f">快活CLUB 王子駅前店</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
+|100|999|<span class="rank-name-dl">さかもん</span>|<a href="https://search.dartslive.com/jp/shop/8d8217db91c39bff0d9b047a20a7ba1e">DARTS BAR CHRONICLE</a>|<a href="/darts/rank/東京都/北区">東京都北区</a>|
 
 
 #### PHOENIXDARTS TOP 100

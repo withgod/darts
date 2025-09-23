@@ -27,14 +27,14 @@ ___
 |2|1183|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |3|1160|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |4|1144|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|5|1139|<span class="rank-name-dl">航平_Funny&amp;Co._1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|5|1139|<span class="rank-name-dl">航平_Funny&amp;Co._1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |6|1137|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/8280cd413392e31d0d9b047a20a7ba1e">The 300円 酒 Bar</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |7|1136|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|7|1136|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|7|1136|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |9|1130|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|10|1126|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|10|1126|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |11|1125|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|12|1122|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|12|1122|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |13|1121|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/8280cd413392e31d0d9b047a20a7ba1e">The 300円 酒 Bar</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |14|1120|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |15|1117|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
@@ -42,87 +42,87 @@ ___
 |16|1109|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |18|1099|<span class="rank-name-dl">笹生翔也</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |19|1097|<span class="rank-name-dl">Kiyo</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|20|1093|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店 SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|20|1093|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |21|1092|<span class="rank-name-dl">航平_Funny&amp;Co.#1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |22|1089|<span class="rank-name-pd">お昼のKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |23|1088|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |23|1088|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |25|1087|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|25|1087|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|25|1087|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |27|1086|<span class="rank-name-dl">こっちのねこ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |28|1083|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |29|1079|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小田 瞳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|30|1075|<span class="rank-name-dl">ﾄｺﾅｯﾂｮ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|30|1075|<span class="rank-name-dl">ﾄｺﾅｯﾂｮ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |31|1074|<span class="rank-name-dl">まひ眼帯@glow</span>|<a href="https://search.dartslive.com/jp/shop/ed66271e0ed7c8d70d9b047a20a7ba1e">Cross Dining glow</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |31|1074|<span class="rank-name-dl">昼のKD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |33|1073|<span class="rank-name-dl">Wataru</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |34|1070|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |35|1066|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|36|1065|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|37|1059|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|37|1059|<span class="rank-name-dl">ぷくぷくてんちょ</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|37|1059|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|37|1059|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|41|1055|<span class="rank-name-dl">KAN★3Hawks</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|41|1055|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|41|1055|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|44|1053|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1052|<span class="rank-name-dl">K13</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1052|<span class="rank-name-pd">kiyomaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1052|<span class="rank-name-pd">ぷくぷくの賄い長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1052|<span class="rank-name-pd">冨澤 雅人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|49|1051|<span class="rank-name-dl">トンキー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|50|1050|<span class="rank-name-dl">こっちのねこ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|51|1048|<span class="rank-name-dl">あおいみみずく</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|51|1048|<span class="rank-name-dl">つまぐろ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|53|1046|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/7eae2a30dad6a7ac0d9b047a20a7ba1e">Pool&Darts Cafe 「Side」</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|53|1046|<span class="rank-name-pd">はなみち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|55|1043|<span class="rank-name-dl">つばさ＠Jstyle</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|56|1039|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|57|1038|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|57|1038|<span class="rank-name-pd">激かなりゆう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|59|1037|<span class="rank-name-pd">URIBOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81085?s_seq=81085">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|60|1035|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|61|1031|<span class="rank-name-dl">nu</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|62|1029|<span class="rank-name-dl">小次郎@Side</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|63|1028|<span class="rank-name-dl">N. Shori@J-s</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|64|1027|<span class="rank-name-dl">はいぼく@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|65|1026|<span class="rank-name-pd">ろどゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|65|1026|<span class="rank-name-dl">夜のKD</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|67|1025|<span class="rank-name-dl">常夏</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|68|1024|<span class="rank-name-dl">Cov</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|69|1023|<span class="rank-name-dl">志賀　健人</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|70|1022|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1019|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店 SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|72|1017|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|73|1016|<span class="rank-name-dl">ざねまるっくす</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|74|1015|<span class="rank-name-pd">KD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|74|1015|<span class="rank-name-dl">里中ハル</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|76|1014|<span class="rank-name-dl">FREEDOM</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|77|1013|<span class="rank-name-dl">愚巣多亜毋</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|77|1013|<span class="rank-name-dl">昼のKD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|77|1013|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|80|1012|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|81|1011|<span class="rank-name-dl">三井の寿</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1010|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1010|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1010|<span class="rank-name-dl">りゅーぞー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1010|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1010|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|87|1009|<span class="rank-name-dl">ドブネズミの詩</span>|<a href="https://search.dartslive.com/jp/shop/0a87df8ee0717c79790ab824ce8730e5">上石神井スタンド</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|88|1008|<span class="rank-name-pd">夜もKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|88|1008|<span class="rank-name-pd">航平【狂乱投命】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|88|1008|<span class="rank-name-dl">ﾔｯﾁｮ＠ﾄﾘﾆﾀﾞｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|91|1007|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|91|1007|<span class="rank-name-dl">ぼっち･ざ･たぬき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|91|1007|<span class="rank-name-dl">ハム＠助六會</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|91|1007|<span class="rank-name-pd">行實 翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|95|1006|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|95|1006|<span class="rank-name-dl">てんちよ。</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|97|1004|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/886eed41c657d60c0d9b047a20a7ba1e">Darts＆SportBar Second</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|97|1004|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|97|1004|<span class="rank-name-dl">りゅーぞーﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/e442c3421eeb01bbfec1ae84bb28bd87">UP練馬</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|97|1004|<span class="rank-name-dl">一意専心</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|36|1059|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|36|1059|<span class="rank-name-dl">ぷくぷくてんちょ</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|36|1059|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|36|1059|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|40|1055|<span class="rank-name-dl">KAN★3Hawks</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|40|1055|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|42|1053|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|43|1052|<span class="rank-name-dl">K13</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|43|1052|<span class="rank-name-pd">kiyomaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|43|1052|<span class="rank-name-pd">ぷくぷくの賄い長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|43|1052|<span class="rank-name-pd">冨澤 雅人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|47|1051|<span class="rank-name-dl">トンキー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|48|1048|<span class="rank-name-dl">あおいみみずく</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|48|1048|<span class="rank-name-dl">つまぐろ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|50|1046|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/7eae2a30dad6a7ac0d9b047a20a7ba1e">Pool&Darts Cafe 「Side」</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|50|1046|<span class="rank-name-pd">はなみち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|52|1043|<span class="rank-name-dl">つばさ＠Jstyle</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|53|1039|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|54|1038|<span class="rank-name-pd">激かなりゆう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|55|1037|<span class="rank-name-pd">URIBOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81085?s_seq=81085">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|56|1031|<span class="rank-name-dl">nu</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|57|1029|<span class="rank-name-dl">小次郎@Side</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|58|1028|<span class="rank-name-dl">N. Shori@J-s</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|59|1027|<span class="rank-name-dl">はいぼく@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|60|1026|<span class="rank-name-pd">ろどゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|60|1026|<span class="rank-name-dl">夜のKD</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|62|1025|<span class="rank-name-dl">常夏</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|63|1024|<span class="rank-name-dl">Cov</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|64|1023|<span class="rank-name-dl">志賀　健人</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|65|1022|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|66|1019|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|67|1017|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|68|1016|<span class="rank-name-dl">ざねまるっくす</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|69|1015|<span class="rank-name-pd">KD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|69|1015|<span class="rank-name-dl">里中ハル</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|71|1014|<span class="rank-name-dl">FREEDOM</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|72|1013|<span class="rank-name-dl">愚巣多亜毋</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|72|1013|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|74|1011|<span class="rank-name-dl">三井の寿</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|75|1010|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|75|1010|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|75|1010|<span class="rank-name-dl">りゅーぞー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|75|1010|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|79|1009|<span class="rank-name-dl">ドブネズミの詩</span>|<a href="https://search.dartslive.com/jp/shop/0a87df8ee0717c79790ab824ce8730e5">上石神井スタンド</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|80|1008|<span class="rank-name-pd">夜もKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9657?s_seq=9657">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|80|1008|<span class="rank-name-pd">航平【狂乱投命】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|80|1008|<span class="rank-name-dl">ﾔｯﾁｮ＠ﾄﾘﾆﾀﾞｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|83|1007|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|83|1007|<span class="rank-name-dl">ぼっち･ざ･たぬき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|83|1007|<span class="rank-name-dl">ハム＠助六會</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|83|1007|<span class="rank-name-pd">行實 翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|87|1006|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|87|1006|<span class="rank-name-dl">てんちよ。</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|89|1004|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/886eed41c657d60c0d9b047a20a7ba1e">Darts＆SportBar Second</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|89|1004|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|89|1004|<span class="rank-name-dl">りゅーぞーﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/e442c3421eeb01bbfec1ae84bb28bd87">UP練馬</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|89|1004|<span class="rank-name-dl">一意専心</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|89|1004|<span class="rank-name-dl">卍CRAZY†MAX☆</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|94|1003|<span class="rank-name-dl">きたじま だいき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|94|1003|<span class="rank-name-pd">激かなり田中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9659?s_seq=9659">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|96|1002|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|96|1002|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|98|1001|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|98|1001|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|98|1001|<span class="rank-name-dl">中山 恭介</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -136,102 +136,102 @@ ___
 |2|1183|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |3|1160|<span class="rank-name-dl">木村裕馬</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |4|1144|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|5|1139|<span class="rank-name-dl">航平_Funny&amp;Co._1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|5|1139|<span class="rank-name-dl">航平_Funny&amp;Co._1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |6|1137|<span class="rank-name-dl">ブロ伝ωねこ</span>|<a href="https://search.dartslive.com/jp/shop/8280cd413392e31d0d9b047a20a7ba1e">The 300円 酒 Bar</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |7|1136|<span class="rank-name-dl">練習中</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|7|1136|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|7|1136|<span class="rank-name-dl">風間 佑太</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |9|1130|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|10|1126|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|10|1126|<span class="rank-name-dl">Tsutomu Kondo</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |11|1125|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|12|1122|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|12|1122|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |13|1121|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/8280cd413392e31d0d9b047a20a7ba1e">The 300円 酒 Bar</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |14|1120|<span class="rank-name-dl">$たかち$@N9I</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |15|1117|<span class="rank-name-dl">航平_Funny&amp;Co.10</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |16|1109|<span class="rank-name-dl">木村　裕馬</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |17|1099|<span class="rank-name-dl">笹生翔也</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |18|1097|<span class="rank-name-dl">Kiyo</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|19|1093|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店 SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|19|1093|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |20|1092|<span class="rank-name-dl">航平_Funny&amp;Co.#1</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |21|1088|<span class="rank-name-dl">わたる( ˘ω˘ )</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |21|1088|<span class="rank-name-dl">クレマツ@絆</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |23|1087|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|23|1087|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|23|1087|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |25|1086|<span class="rank-name-dl">こっちのねこ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |26|1083|<span class="rank-name-dl">G3-KOU</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|27|1075|<span class="rank-name-dl">ﾄｺﾅｯﾂｮ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|27|1075|<span class="rank-name-dl">ﾄｺﾅｯﾂｮ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |28|1074|<span class="rank-name-dl">まひ眼帯@glow</span>|<a href="https://search.dartslive.com/jp/shop/ed66271e0ed7c8d70d9b047a20a7ba1e">Cross Dining glow</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |28|1074|<span class="rank-name-dl">昼のKD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |30|1073|<span class="rank-name-dl">Wataru</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |31|1070|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 |32|1066|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|33|1065|<span class="rank-name-dl">moomin</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|34|1059|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|34|1059|<span class="rank-name-dl">ぷくぷくてんちょ</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|34|1059|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|34|1059|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|38|1055|<span class="rank-name-dl">KAN★3Hawks</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|38|1055|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|38|1055|<span class="rank-name-dl">元賄い長</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|41|1053|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|42|1052|<span class="rank-name-dl">K13</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|43|1051|<span class="rank-name-dl">トンキー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|44|1050|<span class="rank-name-dl">こっちのねこ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1048|<span class="rank-name-dl">あおいみみずく</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|45|1048|<span class="rank-name-dl">つまぐろ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|47|1046|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/7eae2a30dad6a7ac0d9b047a20a7ba1e">Pool&Darts Cafe 「Side」</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|48|1043|<span class="rank-name-dl">つばさ＠Jstyle</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|49|1039|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|50|1038|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|51|1035|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|52|1031|<span class="rank-name-dl">nu</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|53|1029|<span class="rank-name-dl">小次郎@Side</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|54|1028|<span class="rank-name-dl">N. Shori@J-s</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|55|1027|<span class="rank-name-dl">はいぼく@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|56|1026|<span class="rank-name-dl">夜のKD</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|57|1025|<span class="rank-name-dl">常夏</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|58|1024|<span class="rank-name-dl">Cov</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|59|1023|<span class="rank-name-dl">志賀　健人</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|60|1022|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|61|1019|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店 SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|62|1017|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|63|1016|<span class="rank-name-dl">ざねまるっくす</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|64|1015|<span class="rank-name-dl">里中ハル</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|65|1014|<span class="rank-name-dl">FREEDOM</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|66|1013|<span class="rank-name-dl">愚巣多亜毋</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|66|1013|<span class="rank-name-dl">昼のKD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|66|1013|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|69|1012|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|70|1011|<span class="rank-name-dl">三井の寿</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1010|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1010|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1010|<span class="rank-name-dl">りゅーぞー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1010|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|71|1010|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|76|1009|<span class="rank-name-dl">ドブネズミの詩</span>|<a href="https://search.dartslive.com/jp/shop/0a87df8ee0717c79790ab824ce8730e5">上石神井スタンド</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|77|1008|<span class="rank-name-dl">ﾔｯﾁｮ＠ﾄﾘﾆﾀﾞｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|78|1007|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|78|1007|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|78|1007|<span class="rank-name-dl">ぼっち･ざ･たぬき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|78|1007|<span class="rank-name-dl">ハム＠助六會</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1006|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|82|1006|<span class="rank-name-dl">てんちよ。</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|84|1004|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/886eed41c657d60c0d9b047a20a7ba1e">Darts＆SportBar Second</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|84|1004|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|84|1004|<span class="rank-name-dl">りゅーぞーﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/e442c3421eeb01bbfec1ae84bb28bd87">UP練馬</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|84|1004|<span class="rank-name-dl">一意専心</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|84|1004|<span class="rank-name-dl">卍CRAZY†MAX☆</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|89|1003|<span class="rank-name-dl">きたじま だいき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|90|1002|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|90|1002|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|90|1002|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店 快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|93|1001|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|93|1001|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|93|1001|<span class="rank-name-dl">中山 恭介</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|96|1000|<span class="rank-name-dl">はやて</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|96|1000|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|96|1000|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|99|999|<span class="rank-name-dl">Kitajima Daiki</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
-|99|999|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|33|1059|<span class="rank-name-dl">しょーり@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|33|1059|<span class="rank-name-dl">ぷくぷくてんちょ</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|33|1059|<span class="rank-name-dl">森山 拓海</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|33|1059|<span class="rank-name-dl">石田 敦士</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|37|1055|<span class="rank-name-dl">KAN★3Hawks</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|37|1055|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|39|1053|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|40|1052|<span class="rank-name-dl">K13</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|41|1051|<span class="rank-name-dl">トンキー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|42|1048|<span class="rank-name-dl">あおいみみずく</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|42|1048|<span class="rank-name-dl">つまぐろ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|44|1046|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/7eae2a30dad6a7ac0d9b047a20a7ba1e">Pool&Darts Cafe 「Side」</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|45|1043|<span class="rank-name-dl">つばさ＠Jstyle</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|46|1039|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|47|1031|<span class="rank-name-dl">nu</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|48|1029|<span class="rank-name-dl">小次郎@Side</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|49|1028|<span class="rank-name-dl">N. Shori@J-s</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|50|1027|<span class="rank-name-dl">はいぼく@J-style</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|51|1026|<span class="rank-name-dl">夜のKD</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|52|1025|<span class="rank-name-dl">常夏</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|53|1024|<span class="rank-name-dl">Cov</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|54|1023|<span class="rank-name-dl">志賀　健人</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|55|1022|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|56|1019|<span class="rank-name-dl">ｸﾞｯﾁ⇔049style</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|57|1017|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|58|1016|<span class="rank-name-dl">ざねまるっくす</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|59|1015|<span class="rank-name-dl">里中ハル</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|60|1014|<span class="rank-name-dl">FREEDOM</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|61|1013|<span class="rank-name-dl">愚巣多亜毋</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|61|1013|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|63|1011|<span class="rank-name-dl">三井の寿</span>|<a href="https://search.dartslive.com/jp/shop/4b3f3af091e8a7c80d9b047a20a7ba1e">Apollo Diner</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|64|1010|<span class="rank-name-dl">けんばぶぅ大山慶</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|64|1010|<span class="rank-name-dl">ゅき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|64|1010|<span class="rank-name-dl">りゅーぞー</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|64|1010|<span class="rank-name-dl">井上 晋太郎</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|68|1009|<span class="rank-name-dl">ドブネズミの詩</span>|<a href="https://search.dartslive.com/jp/shop/0a87df8ee0717c79790ab824ce8730e5">上石神井スタンド</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|69|1008|<span class="rank-name-dl">ﾔｯﾁｮ＠ﾄﾘﾆﾀﾞｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|70|1007|<span class="rank-name-dl">KD</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|70|1007|<span class="rank-name-dl">かなえ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|70|1007|<span class="rank-name-dl">ぼっち･ざ･たぬき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|70|1007|<span class="rank-name-dl">ハム＠助六會</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|74|1006|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|74|1006|<span class="rank-name-dl">てんちよ。</span>|<a href="https://search.dartslive.com/jp/shop/fc7a6b3806c0599b0d9b047a20a7ba1e">アミューズメントバー Timeless</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|76|1004|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/886eed41c657d60c0d9b047a20a7ba1e">Darts＆SportBar Second</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|76|1004|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|76|1004|<span class="rank-name-dl">りゅーぞーﾙﾝﾙﾝ</span>|<a href="https://search.dartslive.com/jp/shop/e442c3421eeb01bbfec1ae84bb28bd87">UP練馬</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|76|1004|<span class="rank-name-dl">一意専心</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|76|1004|<span class="rank-name-dl">卍CRAZY†MAX☆</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|81|1003|<span class="rank-name-dl">きたじま だいき</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|82|1002|<span class="rank-name-dl">きりさ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|82|1002|<span class="rank-name-dl">たぬ</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|84|1001|<span class="rank-name-dl">Bosh</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|84|1001|<span class="rank-name-dl">ponでピロシキ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|84|1001|<span class="rank-name-dl">中山 恭介</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|87|1000|<span class="rank-name-dl">はやて</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|87|1000|<span class="rank-name-dl">パラ</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|87|1000|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|90|999|<span class="rank-name-dl">Kitajima Daiki</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|90|999|<span class="rank-name-dl">しんのすけ</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|92|995|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/8de8e7a4304fc00d0d9b047a20a7ba1e">J-style</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|92|995|<span class="rank-name-dl">おだっち@ぷく</span>|<a href="https://search.dartslive.com/jp/shop/647fb4a164cccdf828032249b44395af">ぷくぷく</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|94|994|<span class="rank-name-dl">きゃな男</span>|<a href="https://search.dartslive.com/jp/shop/65ce250a0a1244150d9b047a20a7ba1e">D-TARGET</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|95|993|<span class="rank-name-dl">BBQ総長-絶惡-Tah</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|96|992|<span class="rank-name-dl">わったぁ</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|97|990|<span class="rank-name-dl">＊くにたんだよ＊</span>|<a href="https://search.dartslive.com/jp/shop/3c183177479592250d9b047a20a7ba1e">SUNS練馬店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|98|988|<span class="rank-name-dl">りゅーぞー</span>|<a href="https://search.dartslive.com/jp/shop/e442c3421eeb01bbfec1ae84bb28bd87">UP練馬</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|99|987|<span class="rank-name-dl">Takuya</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
+|100|983|<span class="rank-name-dl">激かなりゆう。</span>|<a href="https://search.dartslive.com/jp/shop/fdcb597ad555dba4b21333aee1bd51e4">快活CLUB 練馬笹目通り店</a>|<a href="/darts/rank/東京都/練馬区">東京都練馬区</a>|
 
 
 #### PHOENIXDARTS TOP 100

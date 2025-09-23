@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |4|1164|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |5|1157|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |6|1149|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |7|1139|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|8|1135|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|9|1132|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|10|1124|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|11|1122|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|12|1114|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|13|1108|<span class="rank-name-dl">R.y⭐︎★</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|14|1101|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|15|1100|<span class="rank-name-dl">＠齋藤 友也</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|16|1089|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|17|1083|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|18|1080|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|18|1080|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|20|1076|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|21|1074|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|22|1073|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|23|1072|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|24|1056|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ6</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">uTa@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|28|1054|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|29|1047|<span class="rank-name-dl">モリマンティヌス</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|30|1044|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|30|1044|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋 隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|32|1042|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|33|1039|<span class="rank-name-dl">りゅーぴー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|34|1034|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|35|1033|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">R.y⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">とも#JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|39|1030|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|40|1028|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|41|1020|<span class="rank-name-dl">えなりかずき本人</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|42|1016|<span class="rank-name-dl">chiaki@…</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|43|1014|<span class="rank-name-dl">R.y</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|44|1013|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|44|1013|<span class="rank-name-dl">杏☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|46|1011|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|47|1010|<span class="rank-name-dl">たー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|47|1010|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|49|1009|<span class="rank-name-dl">野村 勇太</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">まこと☆P-AYER</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|53|1007|<span class="rank-name-dl">ﾘｭｰﾋﾟｰhide out</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|54|1006|<span class="rank-name-dl">&amp;</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|55|1005|<span class="rank-name-dl">CaliBoyGus</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|55|1005|<span class="rank-name-dl">NO NAME 0396</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">HAZIME</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">Muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">えなりかずき弟子</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">けんたうろす</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|62|1003|<span class="rank-name-dl">Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|63|1002|<span class="rank-name-dl">うっしー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|63|1002|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|68|1000|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|69|997|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|69|997|<span class="rank-name-dl">ういちまほ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|71|996|<span class="rank-name-dl">ﾌﾟﾚﾐｱﾑハンバーグ</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|72|995|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|73|993|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|74|992|<span class="rank-name-dl">でらみー</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|75|991|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|76|986|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|77|984|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|78|983|<span class="rank-name-dl">Tatsuro 3rd</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|78|983|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|80|982|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|81|981|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|81|981|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|83|980|<span class="rank-name-dl">やーま</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|83|980|<span class="rank-name-dl">月宮くぅ</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|85|979|<span class="rank-name-dl">K@NEW ATM</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|85|979|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|87|977|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|88|976|<span class="rank-name-dl">チャーハン侍</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|88|976|<span class="rank-name-dl">マモ</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|90|975|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|90|975|<span class="rank-name-dl">ごーッ@えいぷ</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|92|974|<span class="rank-name-dl">ｼｬｯｷｰ@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|93|973|<span class="rank-name-dl">三浦　守</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|94|972|<span class="rank-name-dl">BB Twin</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|94|972|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|96|971|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|96|971|<span class="rank-name-dl">クゥクゥ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|98|970|<span class="rank-name-dl">K@arousal</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|98|970|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|100|969|<span class="rank-name-dl">. .73</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|8|1132|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|9|1124|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|10|1114|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|11|1108|<span class="rank-name-dl">R.y⭐︎★</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|12|1101|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|13|1100|<span class="rank-name-dl">＠齋藤 友也</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|14|1089|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|15|1083|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|16|1080|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|16|1080|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|18|1076|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|19|1074|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|20|1073|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|21|1072|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|22|1056|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ6</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">uTa@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|26|1054|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|27|1047|<span class="rank-name-dl">モリマンティヌス</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|28|1044|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|29|1042|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|30|1039|<span class="rank-name-dl">りゅーぴー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|31|1033|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">R.y⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">とも#JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|35|1030|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|36|1028|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|37|1020|<span class="rank-name-dl">えなりかずき本人</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|38|1016|<span class="rank-name-dl">chiaki@…</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|39|1014|<span class="rank-name-dl">R.y</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|40|1013|<span class="rank-name-dl">杏☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|41|1011|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|42|1010|<span class="rank-name-dl">たー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|42|1010|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|44|1009|<span class="rank-name-dl">野村 勇太</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">まこと☆P-AYER</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|48|1007|<span class="rank-name-dl">ﾘｭｰﾋﾟｰhide out</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|49|1006|<span class="rank-name-dl">&amp;</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|50|1005|<span class="rank-name-dl">CaliBoyGus</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|50|1005|<span class="rank-name-dl">NO NAME 0396</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">HAZIME</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">Muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">えなりかずき弟子</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">けんたうろす</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|57|1003|<span class="rank-name-dl">Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|58|1002|<span class="rank-name-dl">うっしー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|58|1002|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|63|1000|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|64|997|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|64|997|<span class="rank-name-dl">ういちまほ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|66|996|<span class="rank-name-dl">ﾌﾟﾚﾐｱﾑハンバーグ</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|67|995|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|68|993|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|69|992|<span class="rank-name-dl">でらみー</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|70|991|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|71|986|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|72|983|<span class="rank-name-dl">Tatsuro 3rd</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|73|982|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|74|981|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|74|981|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|76|980|<span class="rank-name-dl">やーま</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|76|980|<span class="rank-name-dl">月宮くぅ</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|78|979|<span class="rank-name-dl">K@NEW ATM</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|78|979|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|80|977|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|81|976|<span class="rank-name-dl">チャーハン侍</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|81|976|<span class="rank-name-dl">マモ</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|83|975|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|83|975|<span class="rank-name-dl">ごーッ@えいぷ</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|85|974|<span class="rank-name-dl">ｼｬｯｷｰ@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|86|973|<span class="rank-name-dl">三浦　守</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|87|972|<span class="rank-name-dl">BB Twin</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|87|972|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|89|971|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|89|971|<span class="rank-name-dl">クゥクゥ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|91|970|<span class="rank-name-dl">K@arousal</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|91|970|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|93|969|<span class="rank-name-dl">. .73</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|93|969|<span class="rank-name-dl">柊ニキ</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|95|968|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">m.shu</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">†ミヤ†</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">ぽんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|99|966|<span class="rank-name-dl">ぽんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|100|965|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,105 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |2|1169|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |4|1164|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |5|1157|<span class="rank-name-dl">な</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |6|1149|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |7|1139|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|8|1135|<span class="rank-name-dl">たかゆき</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|9|1132|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|10|1124|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|11|1122|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|12|1114|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|13|1108|<span class="rank-name-dl">R.y⭐︎★</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|14|1101|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|15|1100|<span class="rank-name-dl">＠齋藤 友也</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|16|1089|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|17|1083|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|18|1080|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|18|1080|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|20|1076|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|21|1074|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|22|1073|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|23|1072|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|24|1056|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ6</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|25|1055|<span class="rank-name-dl">uTa@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|28|1054|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|29|1047|<span class="rank-name-dl">モリマンティヌス</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|30|1044|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|30|1044|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋 隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|32|1042|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|33|1039|<span class="rank-name-dl">りゅーぴー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|34|1034|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|35|1033|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">R.y⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">とも#JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|36|1031|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|39|1030|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|40|1028|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|41|1020|<span class="rank-name-dl">えなりかずき本人</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|42|1016|<span class="rank-name-dl">chiaki@…</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|43|1014|<span class="rank-name-dl">R.y</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|44|1013|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|44|1013|<span class="rank-name-dl">杏☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|46|1011|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|47|1010|<span class="rank-name-dl">たー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|47|1010|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|49|1009|<span class="rank-name-dl">野村 勇太</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">まこと☆P-AYER</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|50|1008|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|53|1007|<span class="rank-name-dl">ﾘｭｰﾋﾟｰhide out</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|54|1006|<span class="rank-name-dl">&amp;</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|55|1005|<span class="rank-name-dl">CaliBoyGus</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|55|1005|<span class="rank-name-dl">NO NAME 0396</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">HAZIME</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">Muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">えなりかずき弟子</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">けんたうろす</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|57|1004|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|62|1003|<span class="rank-name-dl">Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店 プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|63|1002|<span class="rank-name-dl">うっしー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|63|1002|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|65|1001|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店 M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|68|1000|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|69|997|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|69|997|<span class="rank-name-dl">ういちまほ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|71|996|<span class="rank-name-dl">ﾌﾟﾚﾐｱﾑハンバーグ</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|72|995|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|73|993|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|74|992|<span class="rank-name-dl">でらみー</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|75|991|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|76|986|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|77|984|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|78|983|<span class="rank-name-dl">Tatsuro 3rd</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|78|983|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|80|982|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|81|981|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|81|981|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|83|980|<span class="rank-name-dl">やーま</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|83|980|<span class="rank-name-dl">月宮くぅ</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|85|979|<span class="rank-name-dl">K@NEW ATM</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|85|979|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|87|977|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|88|976|<span class="rank-name-dl">チャーハン侍</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|88|976|<span class="rank-name-dl">マモ</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|90|975|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|90|975|<span class="rank-name-dl">ごーッ@えいぷ</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|92|974|<span class="rank-name-dl">ｼｬｯｷｰ@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|93|973|<span class="rank-name-dl">三浦　守</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|94|972|<span class="rank-name-dl">BB Twin</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|94|972|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|96|971|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|96|971|<span class="rank-name-dl">クゥクゥ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|98|970|<span class="rank-name-dl">K@arousal</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|98|970|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|100|969|<span class="rank-name-dl">. .73</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|8|1132|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|9|1124|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|10|1114|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|11|1108|<span class="rank-name-dl">R.y⭐︎★</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|12|1101|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|13|1100|<span class="rank-name-dl">＠齋藤 友也</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|14|1089|<span class="rank-name-dl">ぱたぱた</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|15|1083|<span class="rank-name-dl">ミチノリ</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|16|1080|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|16|1080|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|18|1076|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|19|1074|<span class="rank-name-dl">No.8</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|20|1073|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|21|1072|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|22|1056|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ6</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">uTa@HPL</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|23|1055|<span class="rank-name-dl">uTa@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|26|1054|<span class="rank-name-dl">ドリンクバー岡本</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|27|1047|<span class="rank-name-dl">モリマンティヌス</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|28|1044|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|29|1042|<span class="rank-name-dl">阿久根一晃(月晃)</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|30|1039|<span class="rank-name-dl">りゅーぴー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|31|1033|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">R.y⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">とも#JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|32|1031|<span class="rank-name-dl">のく☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|35|1030|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|36|1028|<span class="rank-name-dl">Kaori</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|37|1020|<span class="rank-name-dl">えなりかずき本人</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|38|1016|<span class="rank-name-dl">chiaki@…</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|39|1014|<span class="rank-name-dl">R.y</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|40|1013|<span class="rank-name-dl">杏☆ほあぴり</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|41|1011|<span class="rank-name-dl">ひようどうけんた</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|42|1010|<span class="rank-name-dl">たー</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|42|1010|<span class="rank-name-dl">永井 雅敏</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|44|1009|<span class="rank-name-dl">野村 勇太</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">まこと☆P-AYER</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|45|1008|<span class="rank-name-dl">月宮くぅ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|48|1007|<span class="rank-name-dl">ﾘｭｰﾋﾟｰhide out</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|49|1006|<span class="rank-name-dl">&amp;</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|50|1005|<span class="rank-name-dl">CaliBoyGus</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|50|1005|<span class="rank-name-dl">NO NAME 0396</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">HAZIME</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">Muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">えなりかずき弟子</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">けんたうろす</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|52|1004|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|57|1003|<span class="rank-name-dl">Suzuki</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|58|1002|<span class="rank-name-dl">うっしー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|58|1002|<span class="rank-name-dl">ﾄﾞﾘﾝｸﾊﾞｰﾊﾟﾀ2</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|60|1001|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|63|1000|<span class="rank-name-dl">NAOKI_JACKASS</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|64|997|<span class="rank-name-dl">$</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|64|997|<span class="rank-name-dl">ういちまほ　推し</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|66|996|<span class="rank-name-dl">ﾌﾟﾚﾐｱﾑハンバーグ</span>|<a href="https://search.dartslive.com/jp/shop/0daed567208437915f9f3321c1147265">M-GARAGE 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|67|995|<span class="rank-name-dl">*Hiro@86*E-vil*</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|68|993|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|69|992|<span class="rank-name-dl">でらみー</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|70|991|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|71|986|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|72|983|<span class="rank-name-dl">Tatsuro 3rd</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|73|982|<span class="rank-name-dl">KOKESHI</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|74|981|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|74|981|<span class="rank-name-dl">長嶋 友也</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|76|980|<span class="rank-name-dl">やーま</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|76|980|<span class="rank-name-dl">月宮くぅ</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|78|979|<span class="rank-name-dl">K@NEW ATM</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|78|979|<span class="rank-name-dl">shun_p♪</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|80|977|<span class="rank-name-dl">muah</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|81|976|<span class="rank-name-dl">チャーハン侍</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|81|976|<span class="rank-name-dl">マモ</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|83|975|<span class="rank-name-dl">NO NAME 0281</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|83|975|<span class="rank-name-dl">ごーッ@えいぷ</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|85|974|<span class="rank-name-dl">ｼｬｯｷｰ@arousal</span>|<a href="https://search.dartslive.com/jp/shop/be2506056bd43dcd0d9b047a20a7ba1e">PULAU AYER second</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|86|973|<span class="rank-name-dl">三浦　守</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|87|972|<span class="rank-name-dl">BB Twin</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|87|972|<span class="rank-name-dl">＊</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|89|971|<span class="rank-name-dl">Yuta</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|89|971|<span class="rank-name-dl">クゥクゥ</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|91|970|<span class="rank-name-dl">K@arousal</span>|<a href="https://search.dartslive.com/jp/shop/08f55202689497d60d9b047a20a7ba1e">Access</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|91|970|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|93|969|<span class="rank-name-dl">. .73</span>|<a href="https://search.dartslive.com/jp/shop/b512a35222e2a4ca28032249b44395af">カラオケ館 横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|93|969|<span class="rank-name-dl">柊ニキ</span>|<a href="https://search.dartslive.com/jp/shop/273dc263b0110a830d9b047a20a7ba1e">DARTS & BAR DEEP BLUE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|95|968|<span class="rank-name-dl">エドガ・ワコナン</span>|<a href="https://search.dartslive.com/jp/shop/6efacdb6b13d80030d9b047a20a7ba1e">隠れ屋</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">m.shu</span>|<a href="https://search.dartslive.com/jp/shop/d10065d0159e66ac0d9b047a20a7ba1e">娯楽の殿堂さいか屋eSTAGE</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">†ミヤ†</span>|<a href="https://search.dartslive.com/jp/shop/04b7de0df99a93430d9b047a20a7ba1e">ダイニングバー たねや</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|96|967|<span class="rank-name-dl">ぽんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|99|966|<span class="rank-name-dl">ぽんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eb4ec591ab8ef82d0d9b047a20a7ba1e">ダーツ居酒屋SAND GLASS</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|100|965|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/43cc2a6a2353a28428032249b44395af">プリィモア　横須賀中央店</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -102,7 +102,7 @@ ___
 |77|541|<span class="rank-name-pd">WANGAN-KOZO^&amp;^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84225?s_seq=84225">Bros</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |78|533|<span class="rank-name-pd">KUNKUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |78|533|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|80|531|<span class="rank-name-dl">+.ぬんきち.+</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|80|531|<span class="rank-name-dl">+.ぬんきち.+</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |81|530|<span class="rank-name-pd">テュポン【龍】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |82|526|<span class="rank-name-pd">ひぃさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |83|525|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
@@ -135,13 +135,12 @@ ___
 |1|1000|<span class="rank-name-dl">ただのべっしー</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |2|903|<span class="rank-name-dl">ドS Asano</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |3|859|<span class="rank-name-dl">ペロ</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|4|531|<span class="rank-name-dl">+.ぬんきち.+</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|4|531|<span class="rank-name-dl">+.ぬんきち.+</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |5|487|<span class="rank-name-dl">はづき</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |6|481|<span class="rank-name-dl">チョロ(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 |7|423|<span class="rank-name-dl">min</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|8|404|<span class="rank-name-dl">+.ぬんきち.+</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|9|372|<span class="rank-name-dl">あり</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|10|287|<span class="rank-name-dl">えあち</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|8|372|<span class="rank-name-dl">あり</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|9|287|<span class="rank-name-dl">えあち</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 
 
 #### PHOENIXDARTS TOP 100

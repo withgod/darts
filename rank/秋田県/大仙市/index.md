@@ -33,96 +33,96 @@ ___
 |8|1036|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |9|1027|<span class="rank-name-dl">村岡兼史</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |10|1022|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|11|1017|<span class="rank-name-dl">SEIv(≧∀≦)☆彡</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|12|1016|<span class="rank-name-dl">B級ﾋｰﾛｰひき肉</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|13|1010|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|14|1007|<span class="rank-name-dl">石崎 潤</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|14|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>米内 裕志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|16|1002|<span class="rank-name-dl">〒ammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|17|977|<span class="rank-name-dl">新茶☝︎Lion☝︎</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|18|970|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|19|968|<span class="rank-name-dl">ザキ最速ライン</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|20|962|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|21|959|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|22|953|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|23|950|<span class="rank-name-dl">TOMMY @BOOster</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|24|945|<span class="rank-name-dl">新茶</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|25|941|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|26|934|<span class="rank-name-dl">高山　真生</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|27|933|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|28|927|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|29|924|<span class="rank-name-dl">タカピー@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|30|920|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|31|917|<span class="rank-name-dl">Rimu*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|32|915|<span class="rank-name-dl">徳川埋蔵金</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|33|911|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|34|908|<span class="rank-name-dl">りむむむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|35|905|<span class="rank-name-dl">BRaCE_Ryo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|36|904|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|37|903|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋 伸也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|38|902|<span class="rank-name-dl">やっさー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|39|897|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|40|891|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|41|889|<span class="rank-name-dl">やまこ</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|41|889|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|43|886|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|44|883|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|45|882|<span class="rank-name-dl">ぐるおん</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|46|881|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|46|881|<span class="rank-name-dl">✼chica✼</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|48|879|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|49|877|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|50|874|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|51|873|<span class="rank-name-dl">沢田石秀明</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|52|872|<span class="rank-name-dl">ヘッポコマル</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|53|869|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|54|867|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|54|867|<span class="rank-name-dl">★ズングリン☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|56|866|<span class="rank-name-dl">ryushow=とと！</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|57|865|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|58|864|<span class="rank-name-dl">SunHeart</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|58|864|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|58|864|<span class="rank-name-dl">にっく*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|61|862|<span class="rank-name-pd">ザッキーNーONE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|62|860|<span class="rank-name-dl">TOMY</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|63|859|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|64|857|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|64|857|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|66|855|<span class="rank-name-dl">GT（？）</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|66|855|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|68|852|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|69|850|<span class="rank-name-dl">Ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|70|847|<span class="rank-name-dl">NO NAME 2721</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|70|847|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|72|846|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|73|844|<span class="rank-name-dl">壁lｪ･ﾐ)もち*Lion</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|74|841|<span class="rank-name-dl">keeee</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|74|841|<span class="rank-name-dl">まりやま</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|76|840|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|77|839|<span class="rank-name-dl">及位　千恵子</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|78|837|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|78|837|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|80|835|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|81|834|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|82|832|<span class="rank-name-dl">のりピー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|83|829|<span class="rank-name-dl">リム</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|83|829|<span class="rank-name-dl">犬の人@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|85|828|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|86|826|<span class="rank-name-dl">佐々木義一</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|87|825|<span class="rank-name-dl">ぷりんぷりん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|87|825|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|89|823|<span class="rank-name-dl">✴MitsuRu✴</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|89|823|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|91|822|<span class="rank-name-dl">〇凜 ‪✕‬凛</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|91|822|<span class="rank-name-dl">かちらん*</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|91|822|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|94|821|<span class="rank-name-dl">影</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|95|820|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|96|819|<span class="rank-name-dl">T.T</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|97|818|<span class="rank-name-dl">BEARBRICK</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|98|817|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|98|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|98|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|11|1016|<span class="rank-name-dl">B級ﾋｰﾛｰひき肉</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|12|1010|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|13|1007|<span class="rank-name-dl">石崎 潤</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|13|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>米内 裕志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|15|1002|<span class="rank-name-dl">〒ammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|16|977|<span class="rank-name-dl">新茶☝︎Lion☝︎</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|17|970|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|18|968|<span class="rank-name-dl">ザキ最速ライン</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|19|959|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|20|953|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|21|950|<span class="rank-name-dl">TOMMY @BOOster</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|22|945|<span class="rank-name-dl">新茶</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|23|941|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|24|934|<span class="rank-name-dl">高山　真生</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|25|933|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|26|927|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|27|924|<span class="rank-name-dl">タカピー@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|28|920|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|29|917|<span class="rank-name-dl">Rimu*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|30|915|<span class="rank-name-dl">徳川埋蔵金</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|31|911|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|32|908|<span class="rank-name-dl">りむむむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|33|905|<span class="rank-name-dl">BRaCE_Ryo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|34|904|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|35|903|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋 伸也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|36|902|<span class="rank-name-dl">やっさー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|37|897|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|38|891|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|39|889|<span class="rank-name-dl">やまこ</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|40|886|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|41|883|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|42|882|<span class="rank-name-dl">ぐるおん</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|43|881|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|43|881|<span class="rank-name-dl">✼chica✼</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|45|879|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|46|877|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|47|874|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|48|873|<span class="rank-name-dl">沢田石秀明</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|49|872|<span class="rank-name-dl">ヘッポコマル</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|50|869|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|51|867|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|51|867|<span class="rank-name-dl">★ズングリン☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|53|866|<span class="rank-name-dl">ryushow=とと！</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|54|865|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|55|864|<span class="rank-name-dl">SunHeart</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|55|864|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|55|864|<span class="rank-name-dl">にっく*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|58|862|<span class="rank-name-pd">ザッキーNーONE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|59|860|<span class="rank-name-dl">TOMY</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|60|857|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|61|855|<span class="rank-name-dl">GT（？）</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|61|855|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|63|852|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|64|850|<span class="rank-name-dl">Ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|65|847|<span class="rank-name-dl">NO NAME 2721</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|65|847|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|67|846|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|68|844|<span class="rank-name-dl">壁lｪ･ﾐ)もち*Lion</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|69|841|<span class="rank-name-dl">keeee</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|69|841|<span class="rank-name-dl">まりやま</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|71|840|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|72|839|<span class="rank-name-dl">及位　千恵子</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|73|837|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|73|837|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|75|835|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|76|832|<span class="rank-name-dl">のりピー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|77|829|<span class="rank-name-dl">リム</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|77|829|<span class="rank-name-dl">犬の人@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|79|828|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|80|826|<span class="rank-name-dl">佐々木義一</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|81|825|<span class="rank-name-dl">ぷりんぷりん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|81|825|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|83|823|<span class="rank-name-dl">✴MitsuRu✴</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|83|823|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|85|822|<span class="rank-name-dl">〇凜 ‪✕‬凛</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|85|822|<span class="rank-name-dl">かちらん*</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|85|822|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|88|821|<span class="rank-name-dl">影</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|89|820|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|90|819|<span class="rank-name-dl">T.T</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|91|818|<span class="rank-name-dl">BEARBRICK</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|92|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|93|808|<span class="rank-name-dl">&#124;ω•๑`)*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|94|806|<span class="rank-name-dl">土田&#x27;Lion&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|95|804|<span class="rank-name-dl">はやせ。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|96|803|<span class="rank-name-dl">巨人</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|97|801|<span class="rank-name-dl">はたぼー@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|98|800|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|98|800|<span class="rank-name-dl">ユタポン</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|100|799|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -141,97 +141,97 @@ ___
 |7|1036|<span class="rank-name-dl">Takapセパブル</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |8|1027|<span class="rank-name-dl">村岡兼史</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |9|1022|<span class="rank-name-dl">籾山 誠也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|10|1017|<span class="rank-name-dl">SEIv(≧∀≦)☆彡</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|11|1016|<span class="rank-name-dl">B級ﾋｰﾛｰひき肉</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|12|1010|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|13|1007|<span class="rank-name-dl">石崎 潤</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|14|1002|<span class="rank-name-dl">〒ammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|15|977|<span class="rank-name-dl">新茶☝︎Lion☝︎</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|16|970|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|17|968|<span class="rank-name-dl">ザキ最速ライン</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|18|962|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|19|959|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|20|953|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|21|950|<span class="rank-name-dl">TOMMY @BOOster</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|22|945|<span class="rank-name-dl">新茶</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|23|941|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|24|934|<span class="rank-name-dl">高山　真生</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|25|933|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|26|927|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|27|924|<span class="rank-name-dl">タカピー@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|28|920|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|29|917|<span class="rank-name-dl">Rimu*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|30|915|<span class="rank-name-dl">徳川埋蔵金</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|31|911|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|32|908|<span class="rank-name-dl">りむむむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|33|905|<span class="rank-name-dl">BRaCE_Ryo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|34|904|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|35|902|<span class="rank-name-dl">やっさー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|36|897|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|37|891|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|38|889|<span class="rank-name-dl">やまこ</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|38|889|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|40|886|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|41|883|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|42|882|<span class="rank-name-dl">ぐるおん</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|43|881|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|43|881|<span class="rank-name-dl">✼chica✼</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|45|879|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|46|877|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|47|874|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|48|873|<span class="rank-name-dl">沢田石秀明</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|49|872|<span class="rank-name-dl">ヘッポコマル</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|50|869|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|51|867|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|51|867|<span class="rank-name-dl">★ズングリン☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|53|866|<span class="rank-name-dl">ryushow=とと！</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|54|865|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|55|864|<span class="rank-name-dl">SunHeart</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|55|864|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|55|864|<span class="rank-name-dl">にっく*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|58|860|<span class="rank-name-dl">TOMY</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|59|859|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|60|857|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|60|857|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|62|855|<span class="rank-name-dl">GT（？）</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|62|855|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|64|852|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|65|850|<span class="rank-name-dl">Ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|66|847|<span class="rank-name-dl">NO NAME 2721</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|66|847|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|68|846|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|69|844|<span class="rank-name-dl">壁lｪ･ﾐ)もち*Lion</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|70|841|<span class="rank-name-dl">keeee</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|70|841|<span class="rank-name-dl">まりやま</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|72|840|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|73|839|<span class="rank-name-dl">及位　千恵子</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|74|837|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|74|837|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|76|835|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|77|834|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|78|832|<span class="rank-name-dl">のりピー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|79|829|<span class="rank-name-dl">リム</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|79|829|<span class="rank-name-dl">犬の人@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|81|828|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|82|826|<span class="rank-name-dl">佐々木義一</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|83|825|<span class="rank-name-dl">ぷりんぷりん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|83|825|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|85|823|<span class="rank-name-dl">✴MitsuRu✴</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|85|823|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|87|822|<span class="rank-name-dl">〇凜 ‪✕‬凛</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|87|822|<span class="rank-name-dl">かちらん*</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|87|822|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|90|821|<span class="rank-name-dl">影</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|91|820|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|92|819|<span class="rank-name-dl">T.T</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|93|818|<span class="rank-name-dl">BEARBRICK</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|94|817|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|94|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|94|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|97|808|<span class="rank-name-dl">&#124;ω•๑`)*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|98|807|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|99|806|<span class="rank-name-dl">土田&#x27;Lion&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|100|804|<span class="rank-name-dl">はやせ。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店 A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|10|1016|<span class="rank-name-dl">B級ﾋｰﾛｰひき肉</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|11|1010|<span class="rank-name-dl">壁lｪ･ﾐ)ﾌﾟﾙ*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|12|1007|<span class="rank-name-dl">石崎 潤</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|13|1002|<span class="rank-name-dl">〒ammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|14|977|<span class="rank-name-dl">新茶☝︎Lion☝︎</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|15|970|<span class="rank-name-dl">高橋　伸也</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|16|968|<span class="rank-name-dl">ザキ最速ライン</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|17|959|<span class="rank-name-dl">ヤマちゃん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|18|953|<span class="rank-name-dl">三浦 貴拓</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|19|950|<span class="rank-name-dl">TOMMY @BOOster</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|20|945|<span class="rank-name-dl">新茶</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|21|941|<span class="rank-name-dl">A.J.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|22|934|<span class="rank-name-dl">高山　真生</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|23|933|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|24|927|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|25|924|<span class="rank-name-dl">タカピー@COSMO</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|26|920|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|27|917|<span class="rank-name-dl">Rimu*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|28|915|<span class="rank-name-dl">徳川埋蔵金</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|29|911|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|30|908|<span class="rank-name-dl">りむむむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|31|905|<span class="rank-name-dl">BRaCE_Ryo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|32|904|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|33|902|<span class="rank-name-dl">やっさー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|34|897|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|35|891|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|36|889|<span class="rank-name-dl">やまこ</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|37|886|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|38|883|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|39|882|<span class="rank-name-dl">ぐるおん</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|40|881|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|40|881|<span class="rank-name-dl">✼chica✼</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|42|879|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|43|877|<span class="rank-name-dl">佐川 智紀</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|44|874|<span class="rank-name-dl">τяιйιτу</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|45|873|<span class="rank-name-dl">沢田石秀明</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|46|872|<span class="rank-name-dl">ヘッポコマル</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|47|869|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|48|867|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|48|867|<span class="rank-name-dl">★ズングリン☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|50|866|<span class="rank-name-dl">ryushow=とと！</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|51|865|<span class="rank-name-dl">R i m u.</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|52|864|<span class="rank-name-dl">SunHeart</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|52|864|<span class="rank-name-dl">Tammy-G</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|52|864|<span class="rank-name-dl">にっく*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|55|860|<span class="rank-name-dl">TOMY</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|56|857|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|57|855|<span class="rank-name-dl">GT（？）</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|57|855|<span class="rank-name-dl">mi★</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|59|852|<span class="rank-name-dl">やまこー</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|60|850|<span class="rank-name-dl">Ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|61|847|<span class="rank-name-dl">NO NAME 2721</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|61|847|<span class="rank-name-dl">hiroya</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|63|846|<span class="rank-name-dl">MOMI セパ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|64|844|<span class="rank-name-dl">壁lｪ･ﾐ)もち*Lion</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|65|841|<span class="rank-name-dl">keeee</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|65|841|<span class="rank-name-dl">まりやま</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|67|840|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|68|839|<span class="rank-name-dl">及位　千恵子</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|69|837|<span class="rank-name-dl">ØMI@ReggaePunch</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|69|837|<span class="rank-name-dl">りむさぶ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|71|835|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|72|832|<span class="rank-name-dl">のりピー</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|73|829|<span class="rank-name-dl">リム</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|73|829|<span class="rank-name-dl">犬の人@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|75|828|<span class="rank-name-dl">ＮＡＯＫＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|76|826|<span class="rank-name-dl">佐々木義一</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|77|825|<span class="rank-name-dl">ぷりんぷりん</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|77|825|<span class="rank-name-dl">青髭海賊団らい</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|79|823|<span class="rank-name-dl">✴MitsuRu✴</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|79|823|<span class="rank-name-dl">田口 将</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|81|822|<span class="rank-name-dl">〇凜 ‪✕‬凛</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|81|822|<span class="rank-name-dl">かちらん*</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|81|822|<span class="rank-name-dl">りむ</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|84|821|<span class="rank-name-dl">影</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|85|820|<span class="rank-name-dl">¥uki Ku$anagi</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|86|819|<span class="rank-name-dl">T.T</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|87|818|<span class="rank-name-dl">BEARBRICK</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|88|817|<span class="rank-name-dl">F9low</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|89|808|<span class="rank-name-dl">&#124;ω•๑`)*Lion*</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|90|806|<span class="rank-name-dl">土田&#x27;Lion&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/39c679be0f01d14c0d9b047a20a7ba1e">Lion</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|91|804|<span class="rank-name-dl">はやせ。</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|92|803|<span class="rank-name-dl">巨人</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|93|801|<span class="rank-name-dl">はたぼー@BONDS</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|94|800|<span class="rank-name-dl">passion</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|94|800|<span class="rank-name-dl">ユタポン</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|96|799|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|97|796|<span class="rank-name-dl">ユタポン</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|98|791|<span class="rank-name-dl">いけ *Lion*</span>|<a href="https://search.dartslive.com/jp/shop/be585f5e0c2d9a460d9b047a20a7ba1e">A.Q.A. 大曲店</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|99|788|<span class="rank-name-dl">ぷりんぷりん</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|100|786|<span class="rank-name-dl">DEKA@子育て中</span>|<a href="https://search.dartslive.com/jp/shop/cbe863070d89cf9e0d9b047a20a7ba1e">pazzo</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 
 
 #### PHOENIXDARTS TOP 100

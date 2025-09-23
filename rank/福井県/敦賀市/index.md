@@ -25,7 +25,7 @@ ___
 |---|---|---|---|---|
 |1|1132|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |2|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|3|1121|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|3|1121|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |4|1119|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |5|1115|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |5|1115|<span class="rank-name-dl">帽子屋ＫＩＤ←</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
@@ -36,93 +36,93 @@ ___
 |11|1079|<span class="rank-name-dl">ﾎﾞｳｼﾔKID←負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |12|1075|<span class="rank-name-pd">覚醒小梅太夫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |13|1073|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|14|1067|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|15|1065|<span class="rank-name-dl">ﾀﾞｲｷ卒業ﾊｳｽ9/7</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|16|1061|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|17|1055|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|18|1054|<span class="rank-name-pd">なかにょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|19|1051|<span class="rank-name-pd">鉄拳のフルボ・D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|20|1050|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|21|1047|<span class="rank-name-dl">日和田 祐介</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|22|1042|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|23|1040|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|24|1027|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|25|1021|<span class="rank-name-dl">池田　昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|26|1018|<span class="rank-name-dl">池田 昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|27|1014|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|28|1013|<span class="rank-name-dl">ﾊﾟﾜﾌﾙﾊﾗｽﾒﾝﾄ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|29|1011|<span class="rank-name-pd">こい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|30|1000|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|30|1000|<span class="rank-name-dl">ろっくんレインボ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|32|986|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|33|985|<span class="rank-name-pd">なお。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|34|984|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|35|981|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|36|971|<span class="rank-name-pd"> ろでおあんでぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|36|971|<span class="rank-name-pd">sage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|36|971|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|39|970|<span class="rank-name-dl">武市 大輝</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|40|969|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|41|968|<span class="rank-name-dl">SHiNYA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|41|968|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|43|967|<span class="rank-name-dl">hi!yuuya@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|43|967|<span class="rank-name-pd">ブルの喜びおぢさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|45|966|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|46|964|<span class="rank-name-pd">いい歳のエリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|47|961|<span class="rank-name-pd">うさまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|48|960|<span class="rank-name-pd">すっとこどっこい次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|49|959|<span class="rank-name-pd">にょ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|50|958|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|51|957|<span class="rank-name-dl">kk-Bell</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|52|950|<span class="rank-name-pd">もりけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|52|950|<span class="rank-name-pd">りく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|52|950|<span class="rank-name-dl">松居 大五</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|55|944|<span class="rank-name-pd">ばんばん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|56|939|<span class="rank-name-pd">誇張し過ぎたおたけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|57|936|<span class="rank-name-dl">池田 昌勃</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|58|935|<span class="rank-name-pd">aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|59|928|<span class="rank-name-pd">HAYA10</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|60|926|<span class="rank-name-pd">愛しの白菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|61|925|<span class="rank-name-pd">zip035c2e712e3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|61|925|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|63|922|<span class="rank-name-pd">すんちーだーうー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|64|920|<span class="rank-name-pd">CD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|64|920|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|66|918|<span class="rank-name-dl">森田 莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|67|917|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|68|916|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|69|914|<span class="rank-name-pd">結局ニデックって何？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|70|909|<span class="rank-name-pd">ゴールド-百式-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|70|909|<span class="rank-name-dl">上村 侑矢@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|72|906|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|73|903|<span class="rank-name-pd">紅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|74|899|<span class="rank-name-pd">タケモトピアノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|75|898|<span class="rank-name-pd">ブルベ秋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|76|890|<span class="rank-name-pd">おおにょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|77|888|<span class="rank-name-dl">ブロッコリー外村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|78|885|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|79|876|<span class="rank-name-dl">703☆Logboard</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|79|876|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|81|874|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|82|871|<span class="rank-name-pd">ちぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|83|867|<span class="rank-name-pd">大王姑息虫@T4ichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|84|862|<span class="rank-name-pd">あずきぱーぷる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|84|862|<span class="rank-name-pd">しょしんしゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|84|862|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|87|844|<span class="rank-name-pd">さも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|88|839|<span class="rank-name-pd">Kazu Midoriya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|89|835|<span class="rank-name-pd">6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|90|833|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|90|833|<span class="rank-name-pd">こしま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|92|829|<span class="rank-name-pd">KK-Bell</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|93|828|<span class="rank-name-pd">たまゆら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|94|827|<span class="rank-name-pd">0183_4079</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|94|827|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|96|822|<span class="rank-name-pd">ばたやん@BARREL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|97|818|<span class="rank-name-dl">ｱｽﾞｰﾘCOSMO DARTS</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|98|810|<span class="rank-name-pd">大道 秀信【NO-TEAM】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|99|806|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|100|803|<span class="rank-name-pd">JLYN1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|14|1065|<span class="rank-name-dl">ﾀﾞｲｷ卒業ﾊｳｽ9/7</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|15|1061|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|16|1055|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|17|1054|<span class="rank-name-pd">なかにょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|18|1051|<span class="rank-name-pd">鉄拳のフルボ・D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|19|1050|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|20|1047|<span class="rank-name-dl">日和田 祐介</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|21|1042|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|22|1027|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|23|1021|<span class="rank-name-dl">池田　昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|24|1018|<span class="rank-name-dl">池田 昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|25|1014|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|26|1013|<span class="rank-name-dl">ﾊﾟﾜﾌﾙﾊﾗｽﾒﾝﾄ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|27|1011|<span class="rank-name-pd">こい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|28|1000|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|28|1000|<span class="rank-name-dl">ろっくんレインボ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|30|986|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|31|985|<span class="rank-name-pd">なお。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|32|984|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|33|981|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|34|971|<span class="rank-name-pd"> ろでおあんでぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|34|971|<span class="rank-name-pd">sage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|34|971|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|37|970|<span class="rank-name-dl">武市 大輝</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|38|969|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|39|968|<span class="rank-name-dl">SHiNYA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|39|968|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|41|967|<span class="rank-name-dl">hi!yuuya@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|41|967|<span class="rank-name-pd">ブルの喜びおぢさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|43|964|<span class="rank-name-pd">いい歳のエリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|44|961|<span class="rank-name-pd">うさまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|45|960|<span class="rank-name-pd">すっとこどっこい次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|46|959|<span class="rank-name-pd">にょ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|47|958|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|48|957|<span class="rank-name-dl">kk-Bell</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|49|950|<span class="rank-name-pd">もりけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|49|950|<span class="rank-name-pd">りく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|49|950|<span class="rank-name-dl">松居 大五</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|52|944|<span class="rank-name-pd">ばんばん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|53|939|<span class="rank-name-pd">誇張し過ぎたおたけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|54|936|<span class="rank-name-dl">池田 昌勃</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|55|935|<span class="rank-name-pd">aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|56|928|<span class="rank-name-pd">HAYA10</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|57|926|<span class="rank-name-pd">愛しの白菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|58|925|<span class="rank-name-pd">zip035c2e712e3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|58|925|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|60|922|<span class="rank-name-pd">すんちーだーうー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|61|920|<span class="rank-name-pd">CD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|61|920|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|63|918|<span class="rank-name-dl">森田 莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|64|917|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|65|916|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|66|914|<span class="rank-name-pd">結局ニデックって何？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|67|909|<span class="rank-name-pd">ゴールド-百式-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|67|909|<span class="rank-name-dl">上村 侑矢@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|69|906|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|70|903|<span class="rank-name-pd">紅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|71|899|<span class="rank-name-pd">タケモトピアノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|72|898|<span class="rank-name-pd">ブルベ秋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|73|890|<span class="rank-name-pd">おおにょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|74|888|<span class="rank-name-dl">ブロッコリー外村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|75|885|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|76|876|<span class="rank-name-dl">703☆Logboard</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|76|876|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|78|871|<span class="rank-name-pd">ちぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|79|867|<span class="rank-name-pd">大王姑息虫@T4ichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|80|862|<span class="rank-name-pd">あずきぱーぷる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|80|862|<span class="rank-name-pd">しょしんしゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|80|862|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|83|844|<span class="rank-name-pd">さも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|84|839|<span class="rank-name-pd">Kazu Midoriya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|85|835|<span class="rank-name-pd">6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|86|833|<span class="rank-name-pd">こしま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|87|829|<span class="rank-name-pd">KK-Bell</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|88|828|<span class="rank-name-pd">たまゆら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|89|827|<span class="rank-name-pd">0183_4079</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|89|827|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|91|822|<span class="rank-name-pd">ばたやん@BARREL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|92|818|<span class="rank-name-dl">ｱｽﾞｰﾘCOSMO DARTS</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|93|810|<span class="rank-name-pd">大道 秀信【NO-TEAM】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|94|806|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|95|803|<span class="rank-name-pd">JLYN1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|95|803|<span class="rank-name-pd">Yukiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|97|802|<span class="rank-name-dl">うさまる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|98|800|<span class="rank-name-pd">ゴッチン！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8790?s_seq=8790">JOYLAND 敦賀店</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|99|794|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|100|793|<span class="rank-name-dl">しんたに ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,7 +133,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1132|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|2|1121|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|2|1121|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |3|1119|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |4|1115|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |4|1115|<span class="rank-name-dl">帽子屋ＫＩＤ←</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
@@ -142,96 +142,95 @@ ___
 |8|1084|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |9|1079|<span class="rank-name-dl">ﾎﾞｳｼﾔKID←負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 |10|1073|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|11|1067|<span class="rank-name-dl">かばおくん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|12|1065|<span class="rank-name-dl">ﾀﾞｲｷ卒業ﾊｳｽ9/7</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|13|1061|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|14|1055|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|15|1050|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|16|1047|<span class="rank-name-dl">日和田 祐介</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|17|1042|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|18|1040|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|19|1027|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|20|1021|<span class="rank-name-dl">池田　昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|21|1018|<span class="rank-name-dl">池田 昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|22|1014|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|23|1013|<span class="rank-name-dl">ﾊﾟﾜﾌﾙﾊﾗｽﾒﾝﾄ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|24|1000|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|24|1000|<span class="rank-name-dl">ろっくんレインボ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|26|986|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|27|984|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|28|981|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|29|971|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|30|970|<span class="rank-name-dl">武市 大輝</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|31|969|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|32|968|<span class="rank-name-dl">SHiNYA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|32|968|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|34|967|<span class="rank-name-dl">hi!yuuya@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|35|966|<span class="rank-name-dl">中野 幸太</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|36|958|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|37|957|<span class="rank-name-dl">kk-Bell</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|38|950|<span class="rank-name-dl">松居 大五</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|39|936|<span class="rank-name-dl">池田 昌勃</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|40|925|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|41|920|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|42|918|<span class="rank-name-dl">森田 莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|43|909|<span class="rank-name-dl">上村 侑矢@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|44|888|<span class="rank-name-dl">ブロッコリー外村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|45|885|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|46|876|<span class="rank-name-dl">703☆Logboard</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|46|876|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|48|874|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|49|862|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|50|833|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|51|827|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|52|818|<span class="rank-name-dl">ｱｽﾞｰﾘCOSMO DARTS</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|53|802|<span class="rank-name-dl">うさまる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|54|801|<span class="rank-name-dl">kk-Bell</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|55|794|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|56|793|<span class="rank-name-dl">しんたに ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|57|790|<span class="rank-name-dl">KaZuTo</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|58|776|<span class="rank-name-dl">ばんばん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO- AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|59|746|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|59|746|<span class="rank-name-dl">こっしー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|61|721|<span class="rank-name-dl">Ayumin</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|62|711|<span class="rank-name-dl">Ririka</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|63|694|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|64|693|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|65|685|<span class="rank-name-dl">mizho</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|66|684|<span class="rank-name-dl">minami</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|67|665|<span class="rank-name-dl">235</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|68|641|<span class="rank-name-dl">MIKIKI@R</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|69|640|<span class="rank-name-dl">カーバンクル</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|70|635|<span class="rank-name-dl">FEMGASP</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|71|615|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|72|611|<span class="rank-name-dl">ASUKA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|73|609|<span class="rank-name-dl">Ｋ様 RAINBOW</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LIX TOWN</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|74|587|<span class="rank-name-dl">72</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|74|587|<span class="rank-name-dl">日和田の嫁</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|76|583|<span class="rank-name-dl">復活？ｻﾉﾁﾝ&lt;侍10&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|77|577|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|78|574|<span class="rank-name-dl">Saori</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|79|572|<span class="rank-name-dl">こーたろー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|80|566|<span class="rank-name-dl">SUMI</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|81|554|<span class="rank-name-dl">しろいおにぎり</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|82|551|<span class="rank-name-dl">のっとどりーむ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|83|543|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|84|534|<span class="rank-name-dl">炬燵猫</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|85|530|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|86|520|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|87|506|<span class="rank-name-dl">しろい酢飯</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|88|505|<span class="rank-name-dl">おでん235</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|89|502|<span class="rank-name-dl">RISE-CROWNちゅぶ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|90|497|<span class="rank-name-dl">ちさとてきとー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|91|491|<span class="rank-name-dl">あん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|92|490|<span class="rank-name-dl">Kouji(門)</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LOUNGE VAL</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|93|489|<span class="rank-name-dl">Red Bull？</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|94|471|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|95|467|<span class="rank-name-dl">Ayumin</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LOUNGE VAL</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|96|450|<span class="rank-name-dl">穂乃果ですねん♡</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|97|444|<span class="rank-name-dl">50r4</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|98|434|<span class="rank-name-dl">NO NAME 4360</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|99|432|<span class="rank-name-dl">藤村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
-|100|413|<span class="rank-name-dl">☆HIRO☆</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|11|1065|<span class="rank-name-dl">ﾀﾞｲｷ卒業ﾊｳｽ9/7</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|12|1061|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|13|1055|<span class="rank-name-dl">森田莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|14|1050|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|15|1047|<span class="rank-name-dl">日和田 祐介</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|16|1042|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|17|1027|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|18|1021|<span class="rank-name-dl">池田　昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|19|1018|<span class="rank-name-dl">池田 昌立</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|20|1014|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|21|1013|<span class="rank-name-dl">ﾊﾟﾜﾌﾙﾊﾗｽﾒﾝﾄ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|22|1000|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|22|1000|<span class="rank-name-dl">ろっくんレインボ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|24|986|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|25|984|<span class="rank-name-dl">DMC 黒川智成</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|26|981|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|27|971|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|28|970|<span class="rank-name-dl">武市 大輝</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|29|969|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|30|968|<span class="rank-name-dl">SHiNYA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|30|968|<span class="rank-name-dl">淵本 琢磨</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|32|967|<span class="rank-name-dl">hi!yuuya@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|33|958|<span class="rank-name-dl">ユッキー2号</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|34|957|<span class="rank-name-dl">kk-Bell</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|35|950|<span class="rank-name-dl">松居 大五</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|36|936|<span class="rank-name-dl">池田 昌勃</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|37|925|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|38|920|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|39|918|<span class="rank-name-dl">森田 莉奈</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|40|909|<span class="rank-name-dl">上村 侑矢@負け組</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|41|888|<span class="rank-name-dl">ブロッコリー外村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|42|885|<span class="rank-name-dl">メガネ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|43|876|<span class="rank-name-dl">703☆Logboard</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|43|876|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|45|862|<span class="rank-name-dl">ちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|46|827|<span class="rank-name-dl">Yukita</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|47|818|<span class="rank-name-dl">ｱｽﾞｰﾘCOSMO DARTS</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|48|802|<span class="rank-name-dl">うさまる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|49|794|<span class="rank-name-dl">こしま</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|50|793|<span class="rank-name-dl">しんたに ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|51|790|<span class="rank-name-dl">KaZuTo</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|52|776|<span class="rank-name-dl">ばんばん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|53|746|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|53|746|<span class="rank-name-dl">こっしー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|55|721|<span class="rank-name-dl">Ayumin</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|56|711|<span class="rank-name-dl">Ririka</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|57|694|<span class="rank-name-dl">さおちぇる</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|58|693|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|59|685|<span class="rank-name-dl">mizho</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|60|684|<span class="rank-name-dl">minami</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|61|665|<span class="rank-name-dl">235</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|62|641|<span class="rank-name-dl">MIKIKI@R</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|63|640|<span class="rank-name-dl">カーバンクル</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|64|635|<span class="rank-name-dl">FEMGASP</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|65|615|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|66|611|<span class="rank-name-dl">ASUKA</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|67|609|<span class="rank-name-dl">Ｋ様 RAINBOW</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LIX TOWN</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|68|587|<span class="rank-name-dl">72</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|68|587|<span class="rank-name-dl">日和田の嫁</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|70|583|<span class="rank-name-dl">復活？ｻﾉﾁﾝ&lt;侍10&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|71|577|<span class="rank-name-dl">魔魅</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|72|574|<span class="rank-name-dl">Saori</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|73|572|<span class="rank-name-dl">こーたろー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|74|566|<span class="rank-name-dl">SUMI</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|75|554|<span class="rank-name-dl">しろいおにぎり</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|76|551|<span class="rank-name-dl">のっとどりーむ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|77|543|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|78|534|<span class="rank-name-dl">炬燵猫</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|79|530|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|80|520|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|81|506|<span class="rank-name-dl">しろい酢飯</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|82|505|<span class="rank-name-dl">おでん235</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|83|502|<span class="rank-name-dl">RISE-CROWNちゅぶ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|84|497|<span class="rank-name-dl">ちさとてきとー</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|85|491|<span class="rank-name-dl">あん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|86|490|<span class="rank-name-dl">Kouji(門)</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LOUNGE VAL</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|87|489|<span class="rank-name-dl">Red Bull？</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|88|471|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|89|467|<span class="rank-name-dl">Ayumin</span>|<a href="https://search.dartslive.com/jp/shop/4fb16379c38f91e55f9f3321c1147265">LOUNGE VAL</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|90|450|<span class="rank-name-dl">穂乃果ですねん♡</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|91|444|<span class="rank-name-dl">50r4</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|92|434|<span class="rank-name-dl">NO NAME 4360</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|93|432|<span class="rank-name-dl">藤村</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|94|413|<span class="rank-name-dl">☆HIRO☆</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|95|367|<span class="rank-name-dl">YUI</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|96|355|<span class="rank-name-dl">もえ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|97|344|<span class="rank-name-dl">ぺ</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|98|326|<span class="rank-name-dl">プリティーあん</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
+|99|307|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/3b74acf7bf4e578aa3f63593b5358cc4">AmeBar 8-OTTO-</a>|<a href="/darts/rank/福井県/敦賀市">福井県敦賀市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -25,104 +25,104 @@ ___
 |---|---|---|---|---|
 |1|1440|<span class="rank-name-dl">Lu7</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
 |2|1200|<span class="rank-name-dl">福地祐哉TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|3|1163|<span class="rank-name-dl">福地祐哉TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|4|1140|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|5|1138|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|6|1133|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|7|1131|<span class="rank-name-pd"><span class="pro-icon-pd"></span>井上 颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|8|1123|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|9|1117|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|10|1115|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|11|1111|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|12|1110|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|13|1108|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|14|1105|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|15|1102|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|15|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|17|1101|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|18|1100|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|18|1100|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|20|1097|<span class="rank-name-dl">矢所望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|21|1094|<span class="rank-name-dl">ゆうき〜</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|22|1084|<span class="rank-name-dl">あき@ゆずる2</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|23|1080|<span class="rank-name-dl">VIVO</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|24|1078|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|25|1073|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|26|1069|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|26|1069|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|28|1060|<span class="rank-name-dl">NO NAME 0423</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|28|1060|<span class="rank-name-dl">mya</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|28|1060|<span class="rank-name-dl">村上 大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|31|1059|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|31|1059|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|33|1056|<span class="rank-name-pd">井上颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|33|1056|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|35|1055|<span class="rank-name-dl">KonKonきーつね</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|35|1055|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店 カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|37|1051|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|38|1048|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|39|1045|<span class="rank-name-dl">西哲平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|40|1044|<span class="rank-name-pd">ジョー☆龍神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|41|1042|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|42|1041|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|43|1040|<span class="rank-name-pd">トロッコ電車</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|43|1040|<span class="rank-name-dl">三月イチル</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|45|1039|<span class="rank-name-dl">挿しこみ職人</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|46|1035|<span class="rank-name-dl">けんぼー BAZOOKA</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|47|1033|<span class="rank-name-dl">けんぼー Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|47|1033|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|49|1026|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|50|1025|<span class="rank-name-dl">TRE@-ﾒﾝﾒﾝ-@pts</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|50|1025|<span class="rank-name-dl">ぼのりす</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|52|1024|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|53|1023|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|54|1020|<span class="rank-name-dl">そーた</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|55|1019|<span class="rank-name-dl">だーのー</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|56|1016|<span class="rank-name-dl">Ike@</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店 カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|57|1015|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|58|1012|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|59|1010|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|60|1008|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|60|1008|<span class="rank-name-dl">古舘翔DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|62|1007|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|63|1005|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|64|1004|<span class="rank-name-dl">村上　一葉</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|64|1004|<span class="rank-name-dl">黒川 智成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|66|1003|<span class="rank-name-dl">バル</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|67|1002|<span class="rank-name-dl">Fernando</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|68|1001|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|69|1000|<span class="rank-name-dl">yдmд</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|69|1000|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|71|995|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|71|995|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|73|991|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|74|989|<span class="rank-name-dl">OKB♂だい!Aims</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|75|986|<span class="rank-name-dl">OKBπひげ@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|76|985|<span class="rank-name-dl">村上　大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|77|979|<span class="rank-name-dl">ねこてん@髙橋派</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|77|979|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|77|979|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|80|977|<span class="rank-name-dl">*SHIROKUMA*</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|80|977|<span class="rank-name-dl">G.E.N</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|82|976|<span class="rank-name-pd">ジョー龍神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|83|975|<span class="rank-name-dl">DAIKI.U</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|83|975|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|85|974|<span class="rank-name-dl">senaランナー2</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|85|974|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|87|972|<span class="rank-name-pd">Menchi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|87|972|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|89|971|<span class="rank-name-dl">#絶望ニキ</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|89|971|<span class="rank-name-dl">ASKA吠VBUZZ∞4</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|89|971|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|92|970|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|92|970|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|92|970|<span class="rank-name-pd">涼平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|95|969|<span class="rank-name-dl">スズケン</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|95|969|<span class="rank-name-dl">泡盛</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|97|968|<span class="rank-name-dl">train</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|98|967|<span class="rank-name-dl">kudo masayuki</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|98|967|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|100|964|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|3|1140|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|4|1138|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|5|1133|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|6|1131|<span class="rank-name-pd"><span class="pro-icon-pd"></span>井上 颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|7|1123|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|8|1117|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|9|1115|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|10|1111|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|11|1110|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|12|1108|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|13|1105|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|14|1102|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|14|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|16|1101|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|17|1100|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|17|1100|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|19|1097|<span class="rank-name-dl">矢所望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|20|1094|<span class="rank-name-dl">ゆうき〜</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|21|1084|<span class="rank-name-dl">あき@ゆずる2</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|22|1080|<span class="rank-name-dl">VIVO</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|23|1078|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|24|1073|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|25|1069|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|25|1069|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|27|1060|<span class="rank-name-dl">NO NAME 0423</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|27|1060|<span class="rank-name-dl">mya</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|27|1060|<span class="rank-name-dl">村上 大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|30|1059|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|30|1059|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|32|1056|<span class="rank-name-pd">井上颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|32|1056|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|34|1055|<span class="rank-name-dl">KonKonきーつね</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|34|1055|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|36|1051|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|37|1048|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|38|1045|<span class="rank-name-dl">西哲平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|39|1044|<span class="rank-name-pd">ジョー☆龍神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|40|1042|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|41|1040|<span class="rank-name-pd">トロッコ電車</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|41|1040|<span class="rank-name-dl">三月イチル</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|43|1039|<span class="rank-name-dl">挿しこみ職人</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|44|1035|<span class="rank-name-dl">けんぼー BAZOOKA</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|45|1033|<span class="rank-name-dl">けんぼー Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|45|1033|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|47|1025|<span class="rank-name-dl">TRE@-ﾒﾝﾒﾝ-@pts</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|47|1025|<span class="rank-name-dl">ぼのりす</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|49|1024|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|50|1020|<span class="rank-name-dl">そーた</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|51|1019|<span class="rank-name-dl">だーのー</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|52|1016|<span class="rank-name-dl">Ike@</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|53|1015|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|54|1012|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|55|1008|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|55|1008|<span class="rank-name-dl">古舘翔DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|57|1007|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|58|1005|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|59|1004|<span class="rank-name-dl">村上　一葉</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|59|1004|<span class="rank-name-dl">黒川 智成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|61|1003|<span class="rank-name-dl">バル</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|62|1002|<span class="rank-name-dl">Fernando</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|63|1001|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|64|1000|<span class="rank-name-dl">yдmд</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|64|1000|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|66|995|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|66|995|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|68|991|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|69|989|<span class="rank-name-dl">OKB♂だい!Aims</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|70|986|<span class="rank-name-dl">OKBπひげ@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|71|985|<span class="rank-name-dl">村上　大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|72|979|<span class="rank-name-dl">ねこてん@髙橋派</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|72|979|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|72|979|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|75|977|<span class="rank-name-dl">*SHIROKUMA*</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|75|977|<span class="rank-name-dl">G.E.N</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|77|976|<span class="rank-name-pd">ジョー龍神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|78|975|<span class="rank-name-dl">DAIKI.U</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|78|975|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|80|974|<span class="rank-name-dl">senaランナー2</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|80|974|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|82|972|<span class="rank-name-pd">Menchi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|82|972|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|84|971|<span class="rank-name-dl">#絶望ニキ</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|84|971|<span class="rank-name-dl">ASKA吠VBUZZ∞4</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|86|970|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|86|970|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|86|970|<span class="rank-name-pd">涼平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58532?s_seq=58532">バレルカフェAims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|89|969|<span class="rank-name-dl">スズケン</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|89|969|<span class="rank-name-dl">泡盛</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|91|968|<span class="rank-name-dl">train</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|92|967|<span class="rank-name-dl">kudo masayuki</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|92|967|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|94|964|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|94|964|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|94|964|<span class="rank-name-dl">∞しろくま∞</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|94|964|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|98|963|<span class="rank-name-dl">ランナーイップス</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|99|961|<span class="rank-name-dl">NO NAME 2870</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|99|961|<span class="rank-name-pd">涼平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57957?s_seq=57957">granmash</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,104 +134,104 @@ ___
 |---|---|---|---|---|
 |1|1440|<span class="rank-name-dl">Lu7</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
 |2|1200|<span class="rank-name-dl">福地祐哉TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|3|1163|<span class="rank-name-dl">福地祐哉TRiNiDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|4|1140|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|5|1138|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|6|1133|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|7|1123|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|8|1117|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|9|1115|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|10|1111|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|11|1110|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|12|1108|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|13|1105|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|14|1102|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|14|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|16|1101|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|17|1100|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|17|1100|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|19|1097|<span class="rank-name-dl">矢所望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|20|1094|<span class="rank-name-dl">ゆうき〜</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|21|1084|<span class="rank-name-dl">あき@ゆずる2</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|22|1080|<span class="rank-name-dl">VIVO</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|23|1078|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|24|1073|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|25|1069|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|25|1069|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|27|1060|<span class="rank-name-dl">NO NAME 0423</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|27|1060|<span class="rank-name-dl">mya</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|27|1060|<span class="rank-name-dl">村上 大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|30|1059|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|30|1059|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|32|1056|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|33|1055|<span class="rank-name-dl">KonKonきーつね</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|33|1055|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店 カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|35|1051|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|36|1048|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|37|1045|<span class="rank-name-dl">西哲平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|38|1042|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|39|1041|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|40|1040|<span class="rank-name-dl">三月イチル</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|41|1039|<span class="rank-name-dl">挿しこみ職人</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|42|1035|<span class="rank-name-dl">けんぼー BAZOOKA</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|43|1033|<span class="rank-name-dl">けんぼー Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|43|1033|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|45|1026|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|46|1025|<span class="rank-name-dl">TRE@-ﾒﾝﾒﾝ-@pts</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|46|1025|<span class="rank-name-dl">ぼのりす</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|48|1024|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|49|1023|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|50|1020|<span class="rank-name-dl">そーた</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|51|1019|<span class="rank-name-dl">だーのー</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|52|1016|<span class="rank-name-dl">Ike@</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店 カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|53|1015|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|54|1012|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|55|1010|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|56|1008|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|56|1008|<span class="rank-name-dl">古舘翔DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|58|1007|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|59|1005|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|60|1004|<span class="rank-name-dl">村上　一葉</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|60|1004|<span class="rank-name-dl">黒川 智成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|62|1003|<span class="rank-name-dl">バル</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|63|1002|<span class="rank-name-dl">Fernando</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|64|1001|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|65|1000|<span class="rank-name-dl">yдmд</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|65|1000|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|67|995|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|67|995|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|69|991|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|70|989|<span class="rank-name-dl">OKB♂だい!Aims</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|71|986|<span class="rank-name-dl">OKBπひげ@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|72|985|<span class="rank-name-dl">村上　大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|73|979|<span class="rank-name-dl">ねこてん@髙橋派</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|73|979|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|73|979|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|76|977|<span class="rank-name-dl">*SHIROKUMA*</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|76|977|<span class="rank-name-dl">G.E.N</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|78|975|<span class="rank-name-dl">DAIKI.U</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|78|975|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|80|974|<span class="rank-name-dl">senaランナー2</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|80|974|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|82|972|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!! Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|83|971|<span class="rank-name-dl">#絶望ニキ</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|83|971|<span class="rank-name-dl">ASKA吠VBUZZ∞4</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|83|971|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店 プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|86|970|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|86|970|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|88|969|<span class="rank-name-dl">スズケン</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|88|969|<span class="rank-name-dl">泡盛</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|90|968|<span class="rank-name-dl">train</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|91|967|<span class="rank-name-dl">kudo masayuki</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|91|967|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|93|964|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|93|964|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|93|964|<span class="rank-name-dl">∞しろくま∞</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|93|964|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|97|963|<span class="rank-name-dl">ランナーイップス</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|98|961|<span class="rank-name-dl">NO NAME 2870</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|99|960|<span class="rank-name-dl">G.E.N</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
-|99|960|<span class="rank-name-dl">泡盛 Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|3|1140|<span class="rank-name-dl">藤川　拓(たくー)</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|4|1138|<span class="rank-name-dl">徳坊さん</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|5|1133|<span class="rank-name-dl">OKB♪910@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|6|1123|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|7|1117|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|8|1115|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|9|1111|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|10|1110|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|11|1108|<span class="rank-name-dl">しろくま</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|12|1105|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|13|1102|<span class="rank-name-dl">前田 淳哉 諏訪流</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|13|1102|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|15|1101|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|16|1100|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|16|1100|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|18|1097|<span class="rank-name-dl">矢所望</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|19|1094|<span class="rank-name-dl">ゆうき〜</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|20|1084|<span class="rank-name-dl">あき@ゆずる2</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|21|1080|<span class="rank-name-dl">VIVO</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|22|1078|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|23|1073|<span class="rank-name-dl">DURAN DURAN</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|24|1069|<span class="rank-name-dl">北山 稀士</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|24|1069|<span class="rank-name-dl">大塚【ＤＯ】大輔</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|26|1060|<span class="rank-name-dl">NO NAME 0423</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|26|1060|<span class="rank-name-dl">mya</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|26|1060|<span class="rank-name-dl">村上 大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|29|1059|<span class="rank-name-dl">岩田 夏海</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|29|1059|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|31|1056|<span class="rank-name-dl">藤川拓COSMODARTS</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|32|1055|<span class="rank-name-dl">KonKonきーつね</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|32|1055|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|34|1051|<span class="rank-name-dl">yuu-　Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|35|1048|<span class="rank-name-dl">山口絵美RyuDarts</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|36|1045|<span class="rank-name-dl">西哲平</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|37|1042|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|38|1040|<span class="rank-name-dl">三月イチル</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|39|1039|<span class="rank-name-dl">挿しこみ職人</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|40|1035|<span class="rank-name-dl">けんぼー BAZOOKA</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|41|1033|<span class="rank-name-dl">けんぼー Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|41|1033|<span class="rank-name-dl">渡邊 知仁</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|43|1025|<span class="rank-name-dl">TRE@-ﾒﾝﾒﾝ-@pts</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|43|1025|<span class="rank-name-dl">ぼのりす</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|45|1024|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|46|1020|<span class="rank-name-dl">そーた</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|47|1019|<span class="rank-name-dl">だーのー</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|48|1016|<span class="rank-name-dl">Ike@</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|49|1015|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|50|1012|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|51|1008|<span class="rank-name-dl">上島 大輝</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|51|1008|<span class="rank-name-dl">古舘翔DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|53|1007|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|54|1005|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|55|1004|<span class="rank-name-dl">村上　一葉</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|55|1004|<span class="rank-name-dl">黒川 智成</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|57|1003|<span class="rank-name-dl">バル</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|58|1002|<span class="rank-name-dl">Fernando</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|59|1001|<span class="rank-name-dl">LOOP✩R Lp</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|60|1000|<span class="rank-name-dl">yдmд</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|60|1000|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|62|995|<span class="rank-name-dl">SON58</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|62|995|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|64|991|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|65|989|<span class="rank-name-dl">OKB♂だい!Aims</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|66|986|<span class="rank-name-dl">OKBπひげ@Aims</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|67|985|<span class="rank-name-dl">村上　大翼</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|68|979|<span class="rank-name-dl">ねこてん@髙橋派</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|68|979|<span class="rank-name-dl">バルク村上</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|68|979|<span class="rank-name-dl">ラパン</span>|<a href="https://search.dartslive.com/jp/shop/a673f3d52715357625d56fb0e5c39bac">ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA ｶﾗｵｹ&ﾀﾞｰﾂBAZOOKA</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|71|977|<span class="rank-name-dl">*SHIROKUMA*</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|71|977|<span class="rank-name-dl">G.E.N</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|73|975|<span class="rank-name-dl">DAIKI.U</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|73|975|<span class="rank-name-dl">まさまさ</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|75|974|<span class="rank-name-dl">senaランナー2</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|75|974|<span class="rank-name-dl">確定申告</span>|<a href="https://search.dartslive.com/jp/shop/80d948c753b532c00d9b047a20a7ba1e">プール＆ダーツ トリガー 大久保店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|77|972|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|78|971|<span class="rank-name-dl">#絶望ニキ</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|78|971|<span class="rank-name-dl">ASKA吠VBUZZ∞4</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|80|970|<span class="rank-name-dl">うー</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|80|970|<span class="rank-name-dl">前田志一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|82|969|<span class="rank-name-dl">スズケン</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|82|969|<span class="rank-name-dl">泡盛</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|84|968|<span class="rank-name-dl">train</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|85|967|<span class="rank-name-dl">kudo masayuki</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|85|967|<span class="rank-name-dl">デューク西郷</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|87|964|<span class="rank-name-dl">Danny_FrenchBull</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|87|964|<span class="rank-name-dl">masayuki kudo</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|87|964|<span class="rank-name-dl">∞しろくま∞</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBANBAN実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|87|964|<span class="rank-name-dl">荏隈 秀一</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|91|963|<span class="rank-name-dl">ランナーイップス</span>|<a href="https://search.dartslive.com/jp/shop/1bc085c6257ac89328032249b44395af">カラオケ館 津田沼店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|92|961|<span class="rank-name-dl">NO NAME 2870</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|93|960|<span class="rank-name-dl">泡盛 Boom!!</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|94|958|<span class="rank-name-dl">アーガイ</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|95|957|<span class="rank-name-dl">たかβ</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|96|956|<span class="rank-name-dl">だいぶつ</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|97|955|<span class="rank-name-dl">#TWD</span>|<a href="https://search.dartslive.com/jp/shop/567814ed728c99cb0d9b047a20a7ba1e">カラオケBanBan実籾駅前店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|97|955|<span class="rank-name-dl">加藤 直紀</span>|<a href="https://search.dartslive.com/jp/shop/dd656f20339fca9e0d9b047a20a7ba1e">Darts&Sports Bar Boom!!</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|99|952|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/489881ff07f3cebe0d9b047a20a7ba1e">バレルカフェ Aims</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
+|100|951|<span class="rank-name-dl">ころたま</span>|<a href="https://search.dartslive.com/jp/shop/d5e9e988ffbfcaf70d9b047a20a7ba1e">ラウンドワン習志野店</a>|<a href="/darts/rank/千葉県/習志野市">千葉県習志野市</a>|
 
 
 #### PHOENIXDARTS TOP 100

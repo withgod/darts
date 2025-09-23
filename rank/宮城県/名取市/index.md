@@ -32,97 +32,97 @@ ___
 |7|1115|<span class="rank-name-dl">ﾓ└&#124;勺ｨ≠</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |8|1102|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |9|1080|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|10|1078|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |10|1078|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |10|1078|<span class="rank-name-dl">森　泰喜</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|13|1069|<span class="rank-name-pd">Joh</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|14|1068|<span class="rank-name-dl">shou</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|15|1060|<span class="rank-name-dl">もっくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|16|1055|<span class="rank-name-dl">yasuke△</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|16|1055|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|18|1054|<span class="rank-name-dl">にきまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|19|1045|<span class="rank-name-pd">KOJI!?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|19|1045|<span class="rank-name-dl">右大臣やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|21|1044|<span class="rank-name-pd">s.t【七星龍】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|22|1040|<span class="rank-name-pd">翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|23|1038|<span class="rank-name-dl">シノブル✿✿✿</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|24|1015|<span class="rank-name-pd">SUN@Nexus</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|24|1015|<span class="rank-name-pd">_K_H_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|26|1013|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|27|1012|<span class="rank-name-dl">syuzo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|27|1012|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|29|1009|<span class="rank-name-pd">★☆ほっすぃ〜☆★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|30|1008|<span class="rank-name-dl">おおん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|31|1007|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|31|1007|<span class="rank-name-dl">アキカン</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|33|1006|<span class="rank-name-pd">❀シノブル❀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|33|1006|<span class="rank-name-dl">伊賀</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|35|1005|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|36|1002|<span class="rank-name-dl">fumi@復帰した？</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|36|1002|<span class="rank-name-dl">雰囲気Aフラ！</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|38|992|<span class="rank-name-pd">しょった(両手)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|39|989|<span class="rank-name-pd">masa1998</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|40|986|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|41|978|<span class="rank-name-pd">YUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|42|973|<span class="rank-name-pd">NICKY@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|42|973|<span class="rank-name-pd">さんぺー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|42|973|<span class="rank-name-dl">入間川 春璃</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|45|969|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|46|968|<span class="rank-name-pd">たろ→【Time-Line】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|46|968|<span class="rank-name-pd">まじしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|46|968|<span class="rank-name-pd">刀NIN心※S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|49|967|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|49|967|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|51|966|<span class="rank-name-dl">(^×^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|51|966|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|53|965|<span class="rank-name-dl">もんたから</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|54|963|<span class="rank-name-dl">やまりょう</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|55|960|<span class="rank-name-dl">toshi-Zo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|56|958|<span class="rank-name-dl">しょった♂</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|56|958|<span class="rank-name-pd">ツッチー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|58|955|<span class="rank-name-dl">masashi@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|58|955|<span class="rank-name-pd">ラッコ先輩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|60|953|<span class="rank-name-dl">PhaN†0nn</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|61|952|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|62|948|<span class="rank-name-pd">かねこたから</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|62|948|<span class="rank-name-pd">けちゃ(｢ ˙꒳˙)｣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|64|944|<span class="rank-name-dl">S猫</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|64|944|<span class="rank-name-dl">けちゃ(｢･ω･)｣</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|66|942|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|66|942|<span class="rank-name-dl">とろまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|68|940|<span class="rank-name-pd">toshi-Zo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|68|940|<span class="rank-name-dl">関</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|70|939|<span class="rank-name-dl">peace</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|71|935|<span class="rank-name-dl">Nyasuto</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|72|934|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|72|934|<span class="rank-name-pd">シャルティア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|74|933|<span class="rank-name-dl">yuuuuu</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|74|933|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|76|932|<span class="rank-name-dl">千葉 ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|76|932|<span class="rank-name-pd">猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|931|<span class="rank-name-dl">Ryoji.Matsuyama</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|931|<span class="rank-name-pd">S猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|931|<span class="rank-name-dl">YUDA╰(◉ᾥ◉)╯</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|931|<span class="rank-name-pd">きゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|931|<span class="rank-name-pd">べろりんが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|83|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡村 将史郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|84|929|<span class="rank-name-pd">カーリー・ダダン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|85|928|<span class="rank-name-dl">koba</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|85|928|<span class="rank-name-pd">sakataka1975</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|87|927|<span class="rank-name-pd">脱帽かっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|88|925|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|89|923|<span class="rank-name-dl">_K_H_</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|89|923|<span class="rank-name-dl">【SHIN】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|91|922|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|91|922|<span class="rank-name-pd">上海鮮弁当</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|93|921|<span class="rank-name-pd">刀NIN心</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|94|919|<span class="rank-name-pd">らま～【挑者】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|95|918|<span class="rank-name-pd">UN-DEUX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|95|918|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|95|918|<span class="rank-name-pd">かまサブ郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|98|915|<span class="rank-name-pd">こじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|99|914|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|100|913|<span class="rank-name-dl">(^・^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|12|1069|<span class="rank-name-pd">Joh</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|13|1068|<span class="rank-name-dl">shou</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|14|1060|<span class="rank-name-dl">もっくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|15|1055|<span class="rank-name-dl">yasuke△</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|15|1055|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|17|1054|<span class="rank-name-dl">にきまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|18|1045|<span class="rank-name-pd">KOJI!?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|18|1045|<span class="rank-name-dl">右大臣やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|20|1044|<span class="rank-name-pd">s.t【七星龍】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|21|1040|<span class="rank-name-pd">翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|22|1038|<span class="rank-name-dl">シノブル✿✿✿</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|23|1015|<span class="rank-name-pd">SUN@Nexus</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|23|1015|<span class="rank-name-pd">_K_H_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|25|1013|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|26|1012|<span class="rank-name-dl">syuzo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|26|1012|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|28|1009|<span class="rank-name-pd">★☆ほっすぃ〜☆★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|29|1008|<span class="rank-name-dl">おおん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|30|1007|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|30|1007|<span class="rank-name-dl">アキカン</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|32|1006|<span class="rank-name-pd">❀シノブル❀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|32|1006|<span class="rank-name-dl">伊賀</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|34|1005|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|35|1002|<span class="rank-name-dl">fumi@復帰した？</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|35|1002|<span class="rank-name-dl">雰囲気Aフラ！</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|37|992|<span class="rank-name-pd">しょった(両手)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|38|989|<span class="rank-name-pd">masa1998</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|39|986|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|40|978|<span class="rank-name-pd">YUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|41|973|<span class="rank-name-pd">NICKY@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|41|973|<span class="rank-name-pd">さんぺー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|41|973|<span class="rank-name-dl">入間川 春璃</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|44|969|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|45|968|<span class="rank-name-pd">たろ→【Time-Line】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|45|968|<span class="rank-name-pd">まじしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|45|968|<span class="rank-name-pd">刀NIN心※S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|48|967|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|49|966|<span class="rank-name-dl">(^×^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|49|966|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|51|965|<span class="rank-name-dl">もんたから</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|52|963|<span class="rank-name-dl">やまりょう</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|53|960|<span class="rank-name-dl">toshi-Zo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|54|958|<span class="rank-name-dl">しょった♂</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|54|958|<span class="rank-name-pd">ツッチー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|56|955|<span class="rank-name-dl">masashi@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|56|955|<span class="rank-name-pd">ラッコ先輩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|58|953|<span class="rank-name-dl">PhaN†0nn</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|59|952|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|60|948|<span class="rank-name-pd">かねこたから</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|60|948|<span class="rank-name-pd">けちゃ(｢ ˙꒳˙)｣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|62|944|<span class="rank-name-dl">S猫</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|62|944|<span class="rank-name-dl">けちゃ(｢･ω･)｣</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|64|942|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|64|942|<span class="rank-name-dl">とろまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|66|940|<span class="rank-name-pd">toshi-Zo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|66|940|<span class="rank-name-dl">関</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|68|939|<span class="rank-name-dl">peace</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|69|935|<span class="rank-name-dl">Nyasuto</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|70|934|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|70|934|<span class="rank-name-pd">シャルティア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|72|933|<span class="rank-name-dl">yuuuuu</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|72|933|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|74|932|<span class="rank-name-dl">千葉 ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|74|932|<span class="rank-name-pd">猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|931|<span class="rank-name-dl">Ryoji.Matsuyama</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|931|<span class="rank-name-pd">S猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|931|<span class="rank-name-dl">YUDA╰(◉ᾥ◉)╯</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|931|<span class="rank-name-pd">きゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|931|<span class="rank-name-pd">べろりんが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|81|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡村 将史郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|82|929|<span class="rank-name-pd">カーリー・ダダン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|83|928|<span class="rank-name-dl">koba</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|83|928|<span class="rank-name-pd">sakataka1975</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|85|927|<span class="rank-name-pd">脱帽かっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|86|925|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|87|923|<span class="rank-name-dl">_K_H_</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|87|923|<span class="rank-name-dl">【SHIN】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|89|922|<span class="rank-name-pd">くーや。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|89|922|<span class="rank-name-pd">上海鮮弁当</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|91|921|<span class="rank-name-pd">刀NIN心</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|92|919|<span class="rank-name-pd">らま～【挑者】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|93|918|<span class="rank-name-pd">UN-DEUX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|93|918|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|93|918|<span class="rank-name-pd">かまサブ郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|96|915|<span class="rank-name-pd">こじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|97|914|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|98|913|<span class="rank-name-dl">(^・^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|99|909|<span class="rank-name-pd">aoi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|99|909|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10326?s_seq=10326">コート・ダジュール仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -137,101 +137,101 @@ ___
 |3|1115|<span class="rank-name-dl">ﾓ└&#124;勺ｨ≠</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |4|1102|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |5|1080|<span class="rank-name-dl">浅野 充照@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|6|1078|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |6|1078|<span class="rank-name-dl">森　泰喜</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|8|1068|<span class="rank-name-dl">shou</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|9|1060|<span class="rank-name-dl">もっくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|10|1055|<span class="rank-name-dl">yasuke△</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|10|1055|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|12|1054|<span class="rank-name-dl">にきまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|13|1045|<span class="rank-name-dl">右大臣やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|14|1038|<span class="rank-name-dl">シノブル✿✿✿</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|15|1013|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|16|1012|<span class="rank-name-dl">syuzo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|16|1012|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|18|1008|<span class="rank-name-dl">おおん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|19|1007|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|19|1007|<span class="rank-name-dl">アキカン</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|21|1006|<span class="rank-name-dl">伊賀</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|22|1005|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|23|1002|<span class="rank-name-dl">fumi@復帰した？</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|23|1002|<span class="rank-name-dl">雰囲気Aフラ！</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|25|986|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|26|973|<span class="rank-name-dl">入間川 春璃</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|27|969|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|28|967|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|28|967|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|30|966|<span class="rank-name-dl">(^×^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|30|966|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|32|965|<span class="rank-name-dl">もんたから</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|33|963|<span class="rank-name-dl">やまりょう</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|34|960|<span class="rank-name-dl">toshi-Zo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|35|958|<span class="rank-name-dl">しょった♂</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|36|955|<span class="rank-name-dl">masashi@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|37|953|<span class="rank-name-dl">PhaN†0nn</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|38|952|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|39|944|<span class="rank-name-dl">S猫</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|39|944|<span class="rank-name-dl">けちゃ(｢･ω･)｣</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|41|942|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|41|942|<span class="rank-name-dl">とろまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|43|940|<span class="rank-name-dl">関</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|44|939|<span class="rank-name-dl">peace</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|45|935|<span class="rank-name-dl">Nyasuto</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|46|934|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|47|933|<span class="rank-name-dl">yuuuuu</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|48|932|<span class="rank-name-dl">千葉 ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|49|931|<span class="rank-name-dl">Ryoji.Matsuyama</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|49|931|<span class="rank-name-dl">YUDA╰(◉ᾥ◉)╯</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|51|928|<span class="rank-name-dl">koba</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|52|925|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|53|923|<span class="rank-name-dl">_K_H_</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|53|923|<span class="rank-name-dl">【SHIN】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|55|913|<span class="rank-name-dl">(^・^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|56|908|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|57|905|<span class="rank-name-dl">Swn⌒⌒Citta&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|58|904|<span class="rank-name-dl">KUMA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|59|896|<span class="rank-name-dl">YUDA╰(◉ᾥ◉)╯</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|60|891|<span class="rank-name-dl">佐藤t</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|61|884|<span class="rank-name-dl">JUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|62|883|<span class="rank-name-dl">だい</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|63|880|<span class="rank-name-dl">たっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|64|877|<span class="rank-name-dl">you×撃狩</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|65|876|<span class="rank-name-dl">青太郎bot</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|66|874|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|67|867|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|68|858|<span class="rank-name-dl">peace</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|69|853|<span class="rank-name-dl">you×撃狩</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|70|849|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店 コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|71|825|<span class="rank-name-dl">進撃のちっちき</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|72|822|<span class="rank-name-dl">ちゃんみさ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|73|811|<span class="rank-name-dl">りあん@211club</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|74|760|<span class="rank-name-dl">ron</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|75|747|<span class="rank-name-dl">Marcy Friedman</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|76|728|<span class="rank-name-dl">MYON</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|77|727|<span class="rank-name-dl">きょー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|78|696|<span class="rank-name-dl">TOO</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|79|677|<span class="rank-name-dl">ruri</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|79|677|<span class="rank-name-dl">ルイ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|81|669|<span class="rank-name-dl">Dolphin</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|82|650|<span class="rank-name-dl">ぐっちー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|83|649|<span class="rank-name-dl">しょきー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|84|647|<span class="rank-name-dl">藻</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|85|637|<span class="rank-name-dl">やーゆー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|86|619|<span class="rank-name-dl">$まみやん$</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|87|616|<span class="rank-name-dl">shoei</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|88|608|<span class="rank-name-dl">カワハギ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|89|592|<span class="rank-name-dl">MIKA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|90|582|<span class="rank-name-dl">YouLALA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|90|582|<span class="rank-name-dl">しゅうとく　211</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|92|579|<span class="rank-name-dl">riho</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|93|578|<span class="rank-name-dl">ノッブ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|94|575|<span class="rank-name-dl">yj</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|95|570|<span class="rank-name-dl">しげMi</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|96|569|<span class="rank-name-dl">こーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|97|559|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|98|556|<span class="rank-name-dl">チャミスル</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|99|554|<span class="rank-name-dl">るる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|100|552|<span class="rank-name-dl">YUMI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|7|1068|<span class="rank-name-dl">shou</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|8|1060|<span class="rank-name-dl">もっくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|9|1055|<span class="rank-name-dl">yasuke△</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|9|1055|<span class="rank-name-dl">もっちょ【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|11|1054|<span class="rank-name-dl">にきまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|12|1045|<span class="rank-name-dl">右大臣やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|13|1038|<span class="rank-name-dl">シノブル✿✿✿</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|14|1013|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|15|1012|<span class="rank-name-dl">syuzo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|15|1012|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|17|1008|<span class="rank-name-dl">おおん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|18|1007|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|18|1007|<span class="rank-name-dl">アキカン</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|20|1006|<span class="rank-name-dl">伊賀</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|21|1005|<span class="rank-name-dl">まじしゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|22|1002|<span class="rank-name-dl">fumi@復帰した？</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|22|1002|<span class="rank-name-dl">雰囲気Aフラ！</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|24|986|<span class="rank-name-dl">カウントアップ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|25|973|<span class="rank-name-dl">入間川 春璃</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|26|969|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|27|967|<span class="rank-name-dl">エリート佐竹DX</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|28|966|<span class="rank-name-dl">(^×^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|28|966|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|30|965|<span class="rank-name-dl">もんたから</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|31|963|<span class="rank-name-dl">やまりょう</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|32|960|<span class="rank-name-dl">toshi-Zo</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|33|958|<span class="rank-name-dl">しょった♂</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|34|955|<span class="rank-name-dl">masashi@TieUp</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|35|953|<span class="rank-name-dl">PhaN†0nn</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|36|952|<span class="rank-name-dl">RYUSEI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|37|944|<span class="rank-name-dl">S猫</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|37|944|<span class="rank-name-dl">けちゃ(｢･ω･)｣</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|39|942|<span class="rank-name-dl">すずたく</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|39|942|<span class="rank-name-dl">とろまる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|41|940|<span class="rank-name-dl">関</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|42|939|<span class="rank-name-dl">peace</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|43|935|<span class="rank-name-dl">Nyasuto</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|44|934|<span class="rank-name-dl">きゃん。</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|45|933|<span class="rank-name-dl">yuuuuu</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|46|932|<span class="rank-name-dl">千葉 ゆいか</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|47|931|<span class="rank-name-dl">Ryoji.Matsuyama</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|47|931|<span class="rank-name-dl">YUDA╰(◉ᾥ◉)╯</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|49|928|<span class="rank-name-dl">koba</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|50|925|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|51|923|<span class="rank-name-dl">_K_H_</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|51|923|<span class="rank-name-dl">【SHIN】</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|53|913|<span class="rank-name-dl">(^・^)</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|54|908|<span class="rank-name-dl">けんてぃー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|55|905|<span class="rank-name-dl">Swn⌒⌒Citta&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|56|904|<span class="rank-name-dl">KUMA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|57|891|<span class="rank-name-dl">佐藤t</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|58|884|<span class="rank-name-dl">JUN</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|59|883|<span class="rank-name-dl">だい</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|60|880|<span class="rank-name-dl">たっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|61|877|<span class="rank-name-dl">you×撃狩</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|62|876|<span class="rank-name-dl">青太郎bot</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|63|874|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|64|867|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|65|825|<span class="rank-name-dl">進撃のちっちき</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|66|822|<span class="rank-name-dl">ちゃんみさ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|67|811|<span class="rank-name-dl">りあん@211club</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|68|760|<span class="rank-name-dl">ron</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|69|747|<span class="rank-name-dl">Marcy Friedman</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|70|728|<span class="rank-name-dl">MYON</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|71|727|<span class="rank-name-dl">きょー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|72|696|<span class="rank-name-dl">TOO</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|73|677|<span class="rank-name-dl">ruri</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|73|677|<span class="rank-name-dl">ルイ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|75|669|<span class="rank-name-dl">Dolphin</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|76|650|<span class="rank-name-dl">ぐっちー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|77|649|<span class="rank-name-dl">しょきー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|78|647|<span class="rank-name-dl">藻</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|79|637|<span class="rank-name-dl">やーゆー</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|80|619|<span class="rank-name-dl">$まみやん$</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|81|616|<span class="rank-name-dl">shoei</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|82|608|<span class="rank-name-dl">カワハギ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|83|592|<span class="rank-name-dl">MIKA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|84|582|<span class="rank-name-dl">YouLALA</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|84|582|<span class="rank-name-dl">しゅうとく　211</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|86|579|<span class="rank-name-dl">riho</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|87|578|<span class="rank-name-dl">ノッブ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|88|575|<span class="rank-name-dl">yj</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|89|570|<span class="rank-name-dl">しげMi</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|90|569|<span class="rank-name-dl">こーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|91|559|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|92|556|<span class="rank-name-dl">チャミスル</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|93|554|<span class="rank-name-dl">るる</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|94|552|<span class="rank-name-dl">YUMI</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|95|545|<span class="rank-name-dl">ミツキ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|96|543|<span class="rank-name-dl">ぼっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|97|537|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|98|535|<span class="rank-name-dl">I♥310@ちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|98|535|<span class="rank-name-dl">スポポビッチ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|100|528|<span class="rank-name-dl">まよ</span>|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -26,8 +26,8 @@ ___
 |1|1157|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |2|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>金山 恭平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |3|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|4|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|5|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|4|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|5|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |6|1033|<span class="rank-name-pd">AQUARIUS【2023 PERFECT MAIN SPONSOR】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |7|1032|<span class="rank-name-pd">Harry Potter</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |8|1013|<span class="rank-name-dl">凛</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
@@ -71,58 +71,58 @@ ___
 |46|865|<span class="rank-name-pd">すみすみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |47|864|<span class="rank-name-pd">KYOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |47|864|<span class="rank-name-pd">すみれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|47|864|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|47|864|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |50|860|<span class="rank-name-pd">ヤギネギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|51|856|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|52|850|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|53|844|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|54|843|<span class="rank-name-pd">ひかたんっっっ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|55|842|<span class="rank-name-pd">城田　大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|56|841|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|57|840|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|57|840|<span class="rank-name-pd">づーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|57|840|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|57|840|<span class="rank-name-dl">竹花 侑秀</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|61|837|<span class="rank-name-dl">これまる*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|62|836|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|63|834|<span class="rank-name-pd">あつもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|64|828|<span class="rank-name-pd">シロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|65|827|<span class="rank-name-dl">Mii＊ｻｻﾗﾈｰﾉ＊</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|65|827|<span class="rank-name-dl">Nawo</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|67|821|<span class="rank-name-pd">伊勢崎　真央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|68|820|<span class="rank-name-pd">ししまる@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|69|813|<span class="rank-name-pd">よっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|70|812|<span class="rank-name-pd">城田　大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|71|811|<span class="rank-name-pd">鶴屋怪盗ステイっす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|72|809|<span class="rank-name-pd">MIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|73|807|<span class="rank-name-pd">さとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|74|806|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|75|802|<span class="rank-name-pd">yanako_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|76|800|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|77|799|<span class="rank-name-pd">sauro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|78|796|<span class="rank-name-pd">そーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|79|795|<span class="rank-name-pd">PINO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|80|793|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|80|793|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|82|792|<span class="rank-name-pd">すみすみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|82|792|<span class="rank-name-pd">ヤギネギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|84|791|<span class="rank-name-dl">たれにゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|85|789|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|85|789|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|87|783|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|88|782|<span class="rank-name-pd">ゆーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|89|781|<span class="rank-name-pd">すみすみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|89|781|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中澤 聖佳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|91|780|<span class="rank-name-dl">これまる</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|91|780|<span class="rank-name-pd">彪夢菫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|91|780|<span class="rank-name-pd">鶴屋怪盗ステイっす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|94|777|<span class="rank-name-pd">yoshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|95|773|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|96|769|<span class="rank-name-pd">シロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|97|768|<span class="rank-name-pd">MA-TAN@1224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65002?s_seq=65002">Y's Bar</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|98|764|<span class="rank-name-pd">ンナンナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|99|763|<span class="rank-name-pd">リッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|100|759|<span class="rank-name-pd">0060_1533</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|51|850|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|52|844|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|53|843|<span class="rank-name-pd">ひかたんっっっ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|54|842|<span class="rank-name-pd">城田　大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|55|841|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|56|840|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|56|840|<span class="rank-name-pd">づーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|56|840|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|56|840|<span class="rank-name-dl">竹花 侑秀</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|60|836|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|61|834|<span class="rank-name-pd">あつもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|62|828|<span class="rank-name-pd">シロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|63|827|<span class="rank-name-dl">Mii＊ｻｻﾗﾈｰﾉ＊</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|63|827|<span class="rank-name-dl">Nawo</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|65|821|<span class="rank-name-pd">伊勢崎　真央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|66|820|<span class="rank-name-pd">ししまる@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|67|813|<span class="rank-name-pd">よっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|68|812|<span class="rank-name-pd">城田　大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|69|811|<span class="rank-name-pd">鶴屋怪盗ステイっす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|70|809|<span class="rank-name-pd">MIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|71|807|<span class="rank-name-pd">さとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|72|806|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|73|802|<span class="rank-name-pd">yanako_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|74|800|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|75|799|<span class="rank-name-pd">sauro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|76|796|<span class="rank-name-pd">そーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|77|795|<span class="rank-name-pd">PINO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|78|793|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|78|793|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|80|792|<span class="rank-name-pd">すみすみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|80|792|<span class="rank-name-pd">ヤギネギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|82|791|<span class="rank-name-dl">たれにゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|83|789|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|83|789|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城田 大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|85|783|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|86|782|<span class="rank-name-pd">ゆーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|87|781|<span class="rank-name-pd">すみすみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|87|781|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中澤 聖佳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|89|780|<span class="rank-name-dl">これまる</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|89|780|<span class="rank-name-pd">彪夢菫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|89|780|<span class="rank-name-pd">鶴屋怪盗ステイっす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|92|777|<span class="rank-name-pd">yoshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74776?s_seq=74776">Darts&Bar One Eighty</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|93|773|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|94|769|<span class="rank-name-pd">シロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|95|768|<span class="rank-name-pd">MA-TAN@1224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65002?s_seq=65002">Y's Bar</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|96|764|<span class="rank-name-pd">ンナンナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86828?s_seq=86828">ユルム</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|97|763|<span class="rank-name-pd">リッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|98|759|<span class="rank-name-pd">0060_1533</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85291?s_seq=85291">Amusement Bar いこ</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|98|759|<span class="rank-name-dl">€rapter€</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|100|758|<span class="rank-name-pd">ノラネコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94075?s_seq=94075">Amusement BAR CONTE</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -134,8 +134,8 @@ ___
 |---|---|---|---|---|
 |1|1157|<span class="rank-name-dl">マサヒロ豆腐</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |2|1066|<span class="rank-name-dl">NO NAME 1286</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|3|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|4|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|3|1045|<span class="rank-name-dl">まひ@らっ子</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|4|1039|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |5|1013|<span class="rank-name-dl">凛</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |6|976|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |7|960|<span class="rank-name-dl">▼dik▼</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
@@ -147,91 +147,91 @@ ___
 |13|893|<span class="rank-name-dl">伶太</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |14|885|<span class="rank-name-dl">hide@ラウンジ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 |15|881|<span class="rank-name-dl">鈴木幸己＠feliz</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|16|864|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|17|856|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|18|850|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|19|844|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|20|840|<span class="rank-name-dl">竹花 侑秀</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|21|837|<span class="rank-name-dl">これまる*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|22|836|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|23|827|<span class="rank-name-dl">Mii＊ｻｻﾗﾈｰﾉ＊</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|23|827|<span class="rank-name-dl">Nawo</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|25|806|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|26|791|<span class="rank-name-dl">たれにゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|27|789|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|28|780|<span class="rank-name-dl">これまる</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|29|759|<span class="rank-name-dl">€rapter€</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|30|755|<span class="rank-name-dl">シロクマ</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|31|748|<span class="rank-name-dl">@かず</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店 群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|32|743|<span class="rank-name-dl">kenta@病原体</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|33|738|<span class="rank-name-dl">♨︎Worange♨︎</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|34|731|<span class="rank-name-dl">Mii</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|35|728|<span class="rank-name-dl">HU NTER</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|36|727|<span class="rank-name-dl">miya</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|37|726|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|38|724|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|39|719|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|40|714|<span class="rank-name-dl">kenta@病原体</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|41|713|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|42|708|<span class="rank-name-dl">Jiiiiing</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|43|701|<span class="rank-name-dl">ともちん♪</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|44|700|<span class="rank-name-dl">おぎちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|45|694|<span class="rank-name-dl">ゆらえもん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|46|691|<span class="rank-name-dl">msttt_66☆0618</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|47|688|<span class="rank-name-dl">かー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|48|687|<span class="rank-name-dl">ともヲ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|48|687|<span class="rank-name-dl">黄monkey@ﾊﾊﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|50|683|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|51|681|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|52|678|<span class="rank-name-dl">Falcon</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|53|676|<span class="rank-name-dl">Mr.Sun</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|54|672|<span class="rank-name-dl">ﾄｼｷ(ﾆｾﾓﾉ)</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|55|671|<span class="rank-name-dl">AKIcha</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|55|671|<span class="rank-name-dl">おぎはら</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|55|671|<span class="rank-name-dl">キョーせー</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|58|667|<span class="rank-name-dl">☠ たかしそん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|59|665|<span class="rank-name-dl">おぎてゃん^..^</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|60|662|<span class="rank-name-dl">Mii＊ｻｻﾗﾈｰﾉ＊</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間 アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|60|662|<span class="rank-name-dl">おぎてゃん^..^</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|62|659|<span class="rank-name-dl">tqkq</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|63|653|<span class="rank-name-dl">桜春@2525</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|64|652|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店 群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|64|652|<span class="rank-name-dl">ポリンキング</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|66|650|<span class="rank-name-dl">KAZU.A</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|66|650|<span class="rank-name-dl">たにたろう</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店 群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|68|642|<span class="rank-name-dl">にょん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|69|641|<span class="rank-name-dl">さとー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|70|635|<span class="rank-name-dl">℃てちん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|71|633|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|72|632|<span class="rank-name-dl">wataru@Lammin</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|73|631|<span class="rank-name-dl">おひゃん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|74|628|<span class="rank-name-dl">☆あっきー☆</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|75|624|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店 カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|75|624|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|75|624|<span class="rank-name-dl">あうい</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|78|619|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|78|619|<span class="rank-name-dl">ゆーりんちー</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|80|618|<span class="rank-name-dl">Shandy◎</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|81|615|<span class="rank-name-dl">xoxo</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|81|615|<span class="rank-name-dl">もったいない店長</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|83|613|<span class="rank-name-dl">K.H</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|83|613|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|85|612|<span class="rank-name-dl">c_mao</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|86|605|<span class="rank-name-dl">加藤優世*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|87|604|<span class="rank-name-dl">さとちゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|88|602|<span class="rank-name-dl">村井</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|88|602|<span class="rank-name-dl">ＳＥＩ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|90|600|<span class="rank-name-dl">NO NAME 3238</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|91|598|<span class="rank-name-dl">あすぴ。</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|92|596|<span class="rank-name-dl">Shelby Cobra</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|93|593|<span class="rank-name-dl">HDMD</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|94|591|<span class="rank-name-dl">TIDORI-NO*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|94|591|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|94|591|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|97|590|<span class="rank-name-dl">wkappaw</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|98|589|<span class="rank-name-dl">Paんち</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|99|588|<span class="rank-name-dl">KAZU.A</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
-|100|587|<span class="rank-name-dl">だーおか</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|16|864|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|17|850|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|18|844|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|19|840|<span class="rank-name-dl">竹花 侑秀</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|20|836|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|21|827|<span class="rank-name-dl">Mii＊ｻｻﾗﾈｰﾉ＊</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|21|827|<span class="rank-name-dl">Nawo</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|23|806|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|24|791|<span class="rank-name-dl">たれにゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|25|789|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|26|780|<span class="rank-name-dl">これまる</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|27|759|<span class="rank-name-dl">€rapter€</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|28|755|<span class="rank-name-dl">シロクマ</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|29|748|<span class="rank-name-dl">@かず</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|30|743|<span class="rank-name-dl">kenta@病原体</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|31|738|<span class="rank-name-dl">♨︎Worange♨︎</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|32|731|<span class="rank-name-dl">Mii</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|33|728|<span class="rank-name-dl">HU NTER</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|34|727|<span class="rank-name-dl">miya</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|35|726|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|36|719|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|37|713|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|38|708|<span class="rank-name-dl">Jiiiiing</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|39|701|<span class="rank-name-dl">ともちん♪</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|40|700|<span class="rank-name-dl">おぎちゃん！</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|41|694|<span class="rank-name-dl">ゆらえもん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|42|691|<span class="rank-name-dl">msttt_66☆0618</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|43|688|<span class="rank-name-dl">かー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|44|687|<span class="rank-name-dl">ともヲ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|44|687|<span class="rank-name-dl">黄monkey@ﾊﾊﾛ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|46|683|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|47|681|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|48|678|<span class="rank-name-dl">Falcon</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|49|676|<span class="rank-name-dl">Mr.Sun</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|50|672|<span class="rank-name-dl">ﾄｼｷ(ﾆｾﾓﾉ)</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|51|671|<span class="rank-name-dl">AKIcha</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|51|671|<span class="rank-name-dl">おぎはら</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|51|671|<span class="rank-name-dl">キョーせー</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|54|667|<span class="rank-name-dl">☠ たかしそん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|55|665|<span class="rank-name-dl">おぎてゃん^..^</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|56|662|<span class="rank-name-dl">おぎてゃん^..^</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|57|659|<span class="rank-name-dl">tqkq</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|58|653|<span class="rank-name-dl">桜春@2525</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|59|652|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|59|652|<span class="rank-name-dl">ポリンキング</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|61|650|<span class="rank-name-dl">KAZU.A</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|61|650|<span class="rank-name-dl">たにたろう</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|63|642|<span class="rank-name-dl">にょん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|64|641|<span class="rank-name-dl">さとー</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|65|635|<span class="rank-name-dl">℃てちん</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|66|632|<span class="rank-name-dl">wataru@Lammin</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|67|631|<span class="rank-name-dl">おひゃん。</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|68|628|<span class="rank-name-dl">☆あっきー☆</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|69|624|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|69|624|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|69|624|<span class="rank-name-dl">あうい</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|72|619|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|72|619|<span class="rank-name-dl">ゆーりんちー</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|74|618|<span class="rank-name-dl">Shandy◎</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|75|615|<span class="rank-name-dl">xoxo</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|75|615|<span class="rank-name-dl">もったいない店長</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|77|613|<span class="rank-name-dl">K.H</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|77|613|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|79|612|<span class="rank-name-dl">c_mao</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|80|605|<span class="rank-name-dl">加藤優世*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|81|604|<span class="rank-name-dl">さとちゃん</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|82|602|<span class="rank-name-dl">村井</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|82|602|<span class="rank-name-dl">ＳＥＩ</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|84|600|<span class="rank-name-dl">NO NAME 3238</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|85|598|<span class="rank-name-dl">あすぴ。</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|86|596|<span class="rank-name-dl">Shelby Cobra</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|87|593|<span class="rank-name-dl">HDMD</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|88|591|<span class="rank-name-dl">TIDORI-NO*ｻｻﾗﾈｰﾉ</span>|<a href="https://search.dartslive.com/jp/shop/59fa175f7570c54f28032249b44395af">アミューズメントスペース有利区間</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|88|591|<span class="rank-name-dl">sho</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|88|591|<span class="rank-name-dl">げん</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|91|590|<span class="rank-name-dl">wkappaw</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|92|589|<span class="rank-name-dl">Paんち</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|93|588|<span class="rank-name-dl">KAZU.A</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|94|587|<span class="rank-name-dl">だーおか</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|95|586|<span class="rank-name-dl">Kuro</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|95|586|<span class="rank-name-dl">rio__n1020</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|97|585|<span class="rank-name-dl">りょりょ</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|98|584|<span class="rank-name-dl">HIZA</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|99|583|<span class="rank-name-dl">Xyhatte</span>|<a href="https://search.dartslive.com/jp/shop/1d676c131664a56458d385ea46352d8f">群馬レジャーランド伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
+|100|580|<span class="rank-name-dl">ユウキ山無し</span>|<a href="https://search.dartslive.com/jp/shop/330091e4ed03df230d9b047a20a7ba1e">カラオケBanBan伊勢崎店</a>|<a href="/darts/rank/群馬県/伊勢崎市">群馬県伊勢崎市</a>|
 
 
 #### PHOENIXDARTS TOP 100

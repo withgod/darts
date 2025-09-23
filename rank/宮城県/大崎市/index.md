@@ -80,7 +80,7 @@ ___
 |55|882|<span class="rank-name-pd">甚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90076?s_seq=90076">タンブルウィード</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |56|881|<span class="rank-name-pd">◆青髭矢賊団◆三番隊 相談役―ｱｯｷｰ―</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70649?s_seq=70649">Dining Bal 銀</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |57|879|<span class="rank-name-pd">蜂谷 拓美</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70649?s_seq=70649">Dining Bal 銀</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
-|58|878|<span class="rank-name-dl">いの</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|58|878|<span class="rank-name-dl">いの</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |59|874|<span class="rank-name-pd">SeDeSu  -B.P.T-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70649?s_seq=70649">Dining Bal 銀</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |60|869|<span class="rank-name-pd">セパよっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10417?s_seq=10417">NIGHT IN GREW</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |61|867|<span class="rank-name-pd">きく坂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70649?s_seq=70649">Dining Bal 銀</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
@@ -132,7 +132,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|878|<span class="rank-name-dl">いの</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|1|878|<span class="rank-name-dl">いの</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |2|844|<span class="rank-name-dl">サトシ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |3|843|<span class="rank-name-dl">祖利目 大晟</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |4|837|<span class="rank-name-dl">さんぺー</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
@@ -147,10 +147,10 @@ ___
 |13|601|<span class="rank-name-dl">とんとん</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |14|600|<span class="rank-name-dl">Asami.</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |15|592|<span class="rank-name-dl">五本丸</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
-|16|576|<span class="rank-name-dl">KOALA</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|16|576|<span class="rank-name-dl">KOALA</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |17|562|<span class="rank-name-dl">あっかりーぬ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |18|557|<span class="rank-name-dl">Ocean</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
-|19|556|<span class="rank-name-dl">⭐︎月兎⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|19|556|<span class="rank-name-dl">⭐︎月兎⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |20|549|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |21|545|<span class="rank-name-dl">チキン南蛮</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |22|539|<span class="rank-name-dl">DDkong</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
@@ -158,7 +158,7 @@ ___
 |24|528|<span class="rank-name-dl">bluesky</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |25|525|<span class="rank-name-dl">IQ200OKAKAkids</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |26|506|<span class="rank-name-dl">祖利目 大晟(セパ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
-|27|500|<span class="rank-name-dl">#ポコ太♪</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|27|500|<span class="rank-name-dl">#ポコ太♪</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |28|499|<span class="rank-name-dl">takayuki</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |29|484|<span class="rank-name-dl">うわぁぁぁぁぁぁ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |30|466|<span class="rank-name-dl">豚バラ弁当</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
@@ -167,7 +167,7 @@ ___
 |33|367|<span class="rank-name-dl">うさ丸</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |34|354|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 |35|317|<span class="rank-name-dl">NAOKI</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
-|36|226|<span class="rank-name-dl">わかめスープ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|36|226|<span class="rank-name-dl">わかめスープ</span>|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 
 
 #### PHOENIXDARTS TOP 100

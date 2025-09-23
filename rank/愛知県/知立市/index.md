@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1161|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|1|1161|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
@@ -37,11 +37,11 @@ ___
 |11|1057|<span class="rank-name-dl">カモ★ねぎ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |13|1056|<span class="rank-name-pd">ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |13|1056|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|13|1056|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|13|1056|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |16|1043|<span class="rank-name-dl">どろどろB型血液</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |16|1043|<span class="rank-name-dl">高橋 弘樹</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |18|1042|<span class="rank-name-dl">NO NAME 0992</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|19|1038|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|19|1038|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |20|1036|<span class="rank-name-dl">yoshiki</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |21|1032|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |22|1024|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川田 夏理武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
@@ -50,79 +50,79 @@ ___
 |24|1017|<span class="rank-name-dl">スギ◯◯ダイ◯</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |24|1017|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |27|1016|<span class="rank-name-pd">0046-1PPE1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|27|1016|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|29|1012|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|29|1012|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|31|1011|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|32|1010|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|33|1007|<span class="rank-name-dl">ふみ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|34|1006|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|35|1005|<span class="rank-name-dl">Karaage</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|35|1005|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|37|1003|<span class="rank-name-dl">skgzykm</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|38|1001|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|39|998|<span class="rank-name-dl">亮 太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|40|994|<span class="rank-name-pd">R-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|41|987|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|42|975|<span class="rank-name-dl">大中 隆生@Bee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|43|969|<span class="rank-name-dl">キャシー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|44|968|<span class="rank-name-dl">スギ◯◯ダイ◯</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|45|967|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|45|967|<span class="rank-name-pd">おおしろ いっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|47|966|<span class="rank-name-dl">ねむた〜い</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|48|965|<span class="rank-name-pd">ハッチ@GHOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|48|965|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|50|964|<span class="rank-name-pd">44H!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|50|964|<span class="rank-name-dl">かずとん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|52|963|<span class="rank-name-pd">GHOUL　たま出没中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|53|961|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|53|961|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|960|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|960|<span class="rank-name-pd">ゆーや@grazie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|960|<span class="rank-name-dl">無糖latte</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|58|959|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|59|957|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|59|957|<span class="rank-name-pd">kaminomisoshiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|61|953|<span class="rank-name-pd"><span class="pro-icon-pd"></span>北村  祐哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|62|952|<span class="rank-name-pd">6NaO9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|62|952|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|64|951|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|65|950|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|66|946|<span class="rank-name-pd">ふみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|67|944|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|67|944|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|69|941|<span class="rank-name-pd">@まこと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|70|938|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|71|937|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|72|935|<span class="rank-name-pd">TOMO!!ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|73|934|<span class="rank-name-dl">めぐみん焰邁進中</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|73|934|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|75|933|<span class="rank-name-pd">ジェレミア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|76|931|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|77|928|<span class="rank-name-dl">まつかれ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|77|928|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|77|928|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|80|926|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|81|925|<span class="rank-name-dl">YUKI8.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|82|924|<span class="rank-name-pd">azusa.5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|82|924|<span class="rank-name-pd">totoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|84|923|<span class="rank-name-pd">ホリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|85|921|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|86|919|<span class="rank-name-pd">なが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|87|915|<span class="rank-name-pd">良</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|88|914|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|88|914|<span class="rank-name-pd"><span class="pro-icon-pd"></span>楠本 純也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|90|913|<span class="rank-name-dl">くるみのカード</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|90|913|<span class="rank-name-pd">なかむらあきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|92|911|<span class="rank-name-dl">ｼﾞｮﾆｰﾃﾞｯﾌﾟ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|93|909|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|94|907|<span class="rank-name-dl">Taniyan</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|95|905|<span class="rank-name-pd">ピィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|95|905|<span class="rank-name-pd">中村侑馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|97|904|<span class="rank-name-dl">ﾕｰﾔ@ﾛｯｶｼﾝｹｲﾅｵﾘｶｹ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|98|902|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|99|900|<span class="rank-name-pd">りょうたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|100|893|<span class="rank-name-pd">こめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|28|1012|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|28|1012|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|30|1011|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|31|1010|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|32|1007|<span class="rank-name-dl">ふみ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|33|1006|<span class="rank-name-pd">アキラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|34|1005|<span class="rank-name-dl">Karaage</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|34|1005|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|36|1003|<span class="rank-name-dl">skgzykm</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|37|1001|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|38|998|<span class="rank-name-dl">亮 太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|39|994|<span class="rank-name-pd">R-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|40|987|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|41|975|<span class="rank-name-dl">大中 隆生@Bee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|42|969|<span class="rank-name-dl">キャシー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|43|967|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|43|967|<span class="rank-name-pd">おおしろ いっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|45|966|<span class="rank-name-dl">ねむた〜い</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|46|965|<span class="rank-name-pd">ハッチ@GHOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|46|965|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|48|964|<span class="rank-name-pd">44H!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|48|964|<span class="rank-name-dl">かずとん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|50|963|<span class="rank-name-pd">GHOUL　たま出没中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|51|961|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|51|961|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|53|960|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|53|960|<span class="rank-name-pd">ゆーや@grazie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|53|960|<span class="rank-name-dl">無糖latte</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|56|959|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|57|957|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|57|957|<span class="rank-name-pd">kaminomisoshiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|59|953|<span class="rank-name-pd"><span class="pro-icon-pd"></span>北村  祐哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|60|952|<span class="rank-name-pd">6NaO9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|61|951|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|62|950|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|63|946|<span class="rank-name-pd">ふみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|64|944|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|65|941|<span class="rank-name-pd">@まこと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|66|938|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|67|937|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|68|935|<span class="rank-name-pd">TOMO!!ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|69|934|<span class="rank-name-dl">めぐみん焰邁進中</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|69|934|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|71|933|<span class="rank-name-pd">ジェレミア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|72|931|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|73|928|<span class="rank-name-dl">まつかれ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|73|928|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|73|928|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|76|926|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|77|925|<span class="rank-name-dl">YUKI8.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|78|924|<span class="rank-name-pd">azusa.5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|78|924|<span class="rank-name-pd">totoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|80|923|<span class="rank-name-pd">ホリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|81|921|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|82|919|<span class="rank-name-pd">なが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|83|915|<span class="rank-name-pd">良</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|84|914|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|84|914|<span class="rank-name-pd"><span class="pro-icon-pd"></span>楠本 純也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|86|913|<span class="rank-name-dl">くるみのカード</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|86|913|<span class="rank-name-pd">なかむらあきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|88|911|<span class="rank-name-dl">ｼﾞｮﾆｰﾃﾞｯﾌﾟ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|89|909|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|90|907|<span class="rank-name-dl">Taniyan</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|91|905|<span class="rank-name-pd">ピィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|91|905|<span class="rank-name-pd">中村侑馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|93|904|<span class="rank-name-dl">ﾕｰﾔ@ﾛｯｶｼﾝｹｲﾅｵﾘｶｹ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|94|902|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|95|900|<span class="rank-name-pd">りょうたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95827?s_seq=95827">Darts＆PokecaBar GHOUL</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|96|893|<span class="rank-name-pd">こめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|97|888|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|97|888|<span class="rank-name-dl">姫（AKI店長）</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|99|887|<span class="rank-name-pd">ｭｰｷ // Crew&#x27;s-WDF ➳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|100|883|<span class="rank-name-pd">遠山 学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,7 +132,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1161|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|1|1161|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |2|1111|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
@@ -141,11 +141,11 @@ ___
 |7|1057|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |7|1057|<span class="rank-name-dl">カモ★ねぎ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |9|1056|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|9|1056|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|9|1056|<span class="rank-name-dl">ｶゝﾚ)､ζ､″s2</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |11|1043|<span class="rank-name-dl">どろどろB型血液</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |11|1043|<span class="rank-name-dl">高橋 弘樹</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |13|1042|<span class="rank-name-dl">NO NAME 0992</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|14|1038|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|14|1038|<span class="rank-name-dl">SONだよ( ^ω^ )</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |15|1036|<span class="rank-name-dl">yoshiki</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |16|1032|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |17|1029|<span class="rank-name-dl">み つ き</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
@@ -153,85 +153,85 @@ ___
 |19|1017|<span class="rank-name-dl">BESSI[2]</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |19|1017|<span class="rank-name-dl">スギ◯◯ダイ◯</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 |19|1017|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|22|1016|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|23|1012|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|24|1011|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|25|1010|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|26|1007|<span class="rank-name-dl">ふみ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|27|1005|<span class="rank-name-dl">Karaage</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|27|1005|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|29|1003|<span class="rank-name-dl">skgzykm</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|30|1001|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|31|998|<span class="rank-name-dl">亮 太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|32|987|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|33|977|<span class="rank-name-dl">NAGATATSU</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|34|975|<span class="rank-name-dl">大中 隆生@Bee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|35|969|<span class="rank-name-dl">キャシー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|36|968|<span class="rank-name-dl">スギ◯◯ダイ◯</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|37|967|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|38|966|<span class="rank-name-dl">ねむた〜い</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|39|965|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|40|964|<span class="rank-name-dl">かずとん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|41|961|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|41|961|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|43|960|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店 快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|43|960|<span class="rank-name-dl">無糖latte</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|45|959|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|46|957|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|47|952|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|48|951|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|49|950|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|50|944|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|50|944|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|52|938|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|53|934|<span class="rank-name-dl">めぐみん焰邁進中</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|53|934|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|928|<span class="rank-name-dl">まつかれ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|928|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|55|928|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|58|925|<span class="rank-name-dl">YUKI8.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|59|922|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|60|914|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|61|913|<span class="rank-name-dl">くるみのカード</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|62|911|<span class="rank-name-dl">ｼﾞｮﾆｰﾃﾞｯﾌﾟ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|63|907|<span class="rank-name-dl">Taniyan</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|64|904|<span class="rank-name-dl">ﾕｰﾔ@ﾛｯｶｼﾝｹｲﾅｵﾘｶｹ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|65|888|<span class="rank-name-dl">姫（AKI店長）</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|66|859|<span class="rank-name-dl">R-1</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|67|848|<span class="rank-name-dl">モチズキ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|68|833|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|69|829|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|70|824|<span class="rank-name-dl">まみやん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|71|809|<span class="rank-name-dl">Nissy</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|72|807|<span class="rank-name-dl">よぅ.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|73|798|<span class="rank-name-dl">髙田　直人</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|74|787|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|75|785|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|76|765|<span class="rank-name-dl">ホリ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|77|764|<span class="rank-name-dl">Seren</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|78|762|<span class="rank-name-dl">すーみん229</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|79|740|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|80|726|<span class="rank-name-dl">GO★TON</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|81|725|<span class="rank-name-dl">MON☆竹馬企画</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|82|714|<span class="rank-name-dl">石川</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|83|704|<span class="rank-name-dl">riho_01</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|84|701|<span class="rank-name-dl">めぐ＠一匹羊</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|84|701|<span class="rank-name-dl">㍋たぁ太㌥@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|86|698|<span class="rank-name-dl">Mami</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|87|690|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|88|677|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|89|676|<span class="rank-name-dl">ポンコツ会女将</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|90|667|<span class="rank-name-dl">一匹羊</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|91|666|<span class="rank-name-dl">レレレ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|92|662|<span class="rank-name-dl">ちゃちゃまる。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|92|662|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|94|658|<span class="rank-name-dl">U4</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|95|648|<span class="rank-name-dl">村人Ａ【アス】</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|96|642|<span class="rank-name-dl">冴羽 獠</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|97|634|<span class="rank-name-dl">ぷー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|98|633|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|99|626|<span class="rank-name-dl">ふ。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
-|100|622|<span class="rank-name-dl">yuya☆</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|22|1012|<span class="rank-name-dl">ｺﾞﾆｮﾆｮ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|23|1011|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|24|1010|<span class="rank-name-dl">TOMO!!☆Air Grow</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|25|1007|<span class="rank-name-dl">ふみ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|26|1005|<span class="rank-name-dl">Karaage</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|26|1005|<span class="rank-name-dl">さらさら血液？</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|28|1003|<span class="rank-name-dl">skgzykm</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|29|1001|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|30|998|<span class="rank-name-dl">亮 太</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|31|987|<span class="rank-name-dl">サダヲ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|32|977|<span class="rank-name-dl">NAGATATSU</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|33|975|<span class="rank-name-dl">大中 隆生@Bee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|34|969|<span class="rank-name-dl">キャシー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|35|967|<span class="rank-name-dl">GODtomGOD</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|36|966|<span class="rank-name-dl">ねむた〜い</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|37|965|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|38|964|<span class="rank-name-dl">かずとん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|39|961|<span class="rank-name-dl">maikeru</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|39|961|<span class="rank-name-dl">ポンコツ会会長</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|41|960|<span class="rank-name-dl">✎＿飯＿ღ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|41|960|<span class="rank-name-dl">無糖latte</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|43|959|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|44|957|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|45|951|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|46|950|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|47|944|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|48|938|<span class="rank-name-dl">@まこと</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|49|934|<span class="rank-name-dl">めぐみん焰邁進中</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|49|934|<span class="rank-name-dl">モンハナシャコ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|51|928|<span class="rank-name-dl">まつかれ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|51|928|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|51|928|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|54|925|<span class="rank-name-dl">YUKI8.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|55|922|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|56|914|<span class="rank-name-dl">かんた</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|57|913|<span class="rank-name-dl">くるみのカード</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|58|911|<span class="rank-name-dl">ｼﾞｮﾆｰﾃﾞｯﾌﾟ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|59|907|<span class="rank-name-dl">Taniyan</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|60|904|<span class="rank-name-dl">ﾕｰﾔ@ﾛｯｶｼﾝｹｲﾅｵﾘｶｹ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|61|888|<span class="rank-name-dl">姫（AKI店長）</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|62|859|<span class="rank-name-dl">R-1</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|63|848|<span class="rank-name-dl">モチズキ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|64|833|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|65|829|<span class="rank-name-dl">yuki*´3｀*san</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|66|824|<span class="rank-name-dl">まみやん</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|67|809|<span class="rank-name-dl">Nissy</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|68|807|<span class="rank-name-dl">よぅ.</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|69|798|<span class="rank-name-dl">髙田　直人</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|70|787|<span class="rank-name-dl">LingLing。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|71|785|<span class="rank-name-dl">こめち@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|72|765|<span class="rank-name-dl">ホリ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|73|764|<span class="rank-name-dl">Seren</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|74|762|<span class="rank-name-dl">すーみん229</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|75|740|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|76|726|<span class="rank-name-dl">GO★TON</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|77|725|<span class="rank-name-dl">MON☆竹馬企画</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|78|714|<span class="rank-name-dl">石川</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|79|704|<span class="rank-name-dl">riho_01</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|80|701|<span class="rank-name-dl">めぐ＠一匹羊</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|80|701|<span class="rank-name-dl">㍋たぁ太㌥@蜂王</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|82|698|<span class="rank-name-dl">Mami</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|83|690|<span class="rank-name-dl">お松</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|84|677|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|85|676|<span class="rank-name-dl">ポンコツ会女将</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|86|667|<span class="rank-name-dl">一匹羊</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|87|666|<span class="rank-name-dl">レレレ</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|88|662|<span class="rank-name-dl">ちゃちゃまる。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|88|662|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|90|658|<span class="rank-name-dl">U4</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|91|648|<span class="rank-name-dl">村人Ａ【アス】</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|92|642|<span class="rank-name-dl">冴羽 獠</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|93|634|<span class="rank-name-dl">ぷー</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|94|633|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|95|626|<span class="rank-name-dl">ふ。</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|96|622|<span class="rank-name-dl">yuya☆</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|97|621|<span class="rank-name-dl">★リカ☆(*^^*)</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|98|613|<span class="rank-name-dl">めぐ@一匹羊</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|99|608|<span class="rank-name-dl">ABCせんこー⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/8b27b5a06a34815928032249b44395af">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|100|602|<span class="rank-name-dl">らむね</span>|<a href="https://search.dartslive.com/jp/shop/2c9276f4a55d823d5f9f3321c1147265">ジャンカラ Re:知立駅前店 ジャンカラ Re:知立駅前店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
 
 
 #### PHOENIXDARTS TOP 100

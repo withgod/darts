@@ -26,103 +26,103 @@ ___
 |1|1220|<span class="rank-name-dl">飯田なつめ サブ</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |2|1206|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|7|1170|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|8|1166|<span class="rank-name-dl">トレビアンPF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|9|1162|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|10|1157|<span class="rank-name-pd">福中　健志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|11|1154|<span class="rank-name-pd">わたなべけんぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|12|1151|<span class="rank-name-pd">中村俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91678?s_seq=91678">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|13|1134|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|14|1132|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|15|1128|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|15|1128|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|17|1127|<span class="rank-name-dl">広瀬貴久＊A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|18|1124|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|18|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|18|1124|<span class="rank-name-dl">福中　健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|21|1122|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|22|1120|<span class="rank-name-dl">秋元　均</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|23|1115|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|24|1111|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|25|1105|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|25|1105|<span class="rank-name-pd"><span class="pro-icon-pd"></span>上里 徹弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|27|1102|<span class="rank-name-pd">ギョウザ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|28|1100|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|28|1100|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店 カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|30|1098|<span class="rank-name-dl">ごっちん！</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|31|1093|<span class="rank-name-dl">ゲイリー下北座</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|32|1092|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|33|1087|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|33|1087|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|35|1082|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|36|1080|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91678?s_seq=91678">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|37|1075|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|38|1069|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|39|1067|<span class="rank-name-dl">50GOﾃﾞﾗｯｸｽ☆妄想</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|40|1064|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|41|1062|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|41|1062|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|43|1060|<span class="rank-name-dl">菅野 貴文♠DMC♤</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|44|1054|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|45|1053|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|45|1053|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|47|1050|<span class="rank-name-dl">κοzι</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|47|1050|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|49|1047|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|50|1045|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|51|1043|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|52|1042|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|53|1039|<span class="rank-name-dl">髙橋 侑汰</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|54|1038|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|54|1038|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|56|1037|<span class="rank-name-dl">NO NAME 3936</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|57|1036|<span class="rank-name-dl">稲葉 竜也</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|58|1035|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|59|1031|<span class="rank-name-dl">おな○</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|59|1031|<span class="rank-name-dl">ミチアキ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|61|1026|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|62|1023|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|63|1020|<span class="rank-name-dl">Dr.Hide@DOLPHIN</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|63|1020|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|65|1017|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|66|1015|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|67|1013|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|68|1009|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|69|1008|<span class="rank-name-dl">ぎょうざ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|70|1007|<span class="rank-name-dl">やまぐちかずまさ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|71|1004|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|71|1004|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|73|1002|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|74|1001|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic. _genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|74|1001|<span class="rank-name-pd">福中　健志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|76|1000|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|77|999|<span class="rank-name-pd">山田 竜也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|78|998|<span class="rank-name-dl">★KA-Ton-pe! PF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|79|997|<span class="rank-name-dl">KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|80|996|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|81|993|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|82|989|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|83|985|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|84|982|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|981|<span class="rank-name-dl">maki__</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|981|<span class="rank-name-dl">や　ま</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|87|980|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|88|979|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|89|978|<span class="rank-name-dl">★K.J.L★</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|89|978|<span class="rank-name-dl">テラシマ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|91|977|<span class="rank-name-dl">Big_G</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|91|977|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|91|977|<span class="rank-name-dl">r o y_β</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|91|977|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|95|975|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|96|974|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店 カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|96|974|<span class="rank-name-dl">がほ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|96|974|<span class="rank-name-dl">楢＠NaT★軟庭</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|96|974|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|100|973|<span class="rank-name-dl">トニー</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|5|1170|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|6|1166|<span class="rank-name-dl">トレビアンPF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|7|1162|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|8|1157|<span class="rank-name-pd">福中　健志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|9|1154|<span class="rank-name-pd">わたなべけんぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|10|1151|<span class="rank-name-pd">中村俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91678?s_seq=91678">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|11|1134|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|12|1132|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|13|1128|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|13|1128|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|15|1127|<span class="rank-name-dl">広瀬貴久＊A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|16|1124|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|16|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 俊太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9419?s_seq=9419">PLAY FAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|16|1124|<span class="rank-name-dl">福中　健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|19|1122|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|20|1120|<span class="rank-name-dl">秋元　均</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|21|1115|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|22|1111|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|23|1105|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|23|1105|<span class="rank-name-pd"><span class="pro-icon-pd"></span>上里 徹弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|25|1102|<span class="rank-name-pd">ギョウザ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|26|1100|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|26|1100|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|28|1098|<span class="rank-name-dl">ごっちん！</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|29|1093|<span class="rank-name-dl">ゲイリー下北座</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|30|1092|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|31|1087|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|31|1087|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|33|1080|<span class="rank-name-pd">shuntaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91678?s_seq=91678">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|34|1075|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|35|1069|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|36|1067|<span class="rank-name-dl">50GOﾃﾞﾗｯｸｽ☆妄想</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|37|1064|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|38|1062|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|38|1062|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|40|1060|<span class="rank-name-dl">菅野 貴文♠DMC♤</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|41|1054|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|42|1053|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|42|1053|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|44|1050|<span class="rank-name-dl">κοzι</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|44|1050|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|46|1047|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|47|1045|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|48|1043|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|49|1042|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|50|1039|<span class="rank-name-dl">髙橋 侑汰</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|51|1038|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|52|1037|<span class="rank-name-dl">NO NAME 3936</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|53|1036|<span class="rank-name-dl">稲葉 竜也</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|54|1035|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|55|1031|<span class="rank-name-dl">おな○</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|55|1031|<span class="rank-name-dl">ミチアキ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|57|1026|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|58|1020|<span class="rank-name-dl">Dr.Hide@DOLPHIN</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|58|1020|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|60|1017|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|61|1015|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|62|1013|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|63|1009|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|64|1008|<span class="rank-name-dl">ぎょうざ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|65|1007|<span class="rank-name-dl">やまぐちかずまさ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|66|1004|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|66|1004|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|68|1002|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|69|1001|<span class="rank-name-pd">福中　健志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|70|1000|<span class="rank-name-pd">ぶりぶりざえもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|71|999|<span class="rank-name-pd">山田 竜也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|72|998|<span class="rank-name-dl">★KA-Ton-pe! PF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|73|997|<span class="rank-name-dl">KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|74|996|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|75|989|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|76|985|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|77|982|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|981|<span class="rank-name-dl">maki__</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|981|<span class="rank-name-dl">や　ま</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|80|980|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|81|979|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|82|978|<span class="rank-name-dl">★K.J.L★</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|82|978|<span class="rank-name-dl">テラシマ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|84|977|<span class="rank-name-dl">Big_G</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|84|977|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|84|977|<span class="rank-name-dl">r o y_β</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|84|977|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|88|975|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|89|974|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|89|974|<span class="rank-name-dl">がほ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|89|974|<span class="rank-name-dl">楢＠NaT★軟庭</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|89|974|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|93|973|<span class="rank-name-dl">トニー</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|94|969|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|94|969|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|94|969|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|968|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|968|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|968|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|968|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 和将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80550?s_seq=80550">Live&Bar HANGOVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1220|<span class="rank-name-dl">飯田なつめ サブ</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |2|1206|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|3|1200|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|7|1170|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|8|1166|<span class="rank-name-dl">トレビアンPF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|9|1162|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|10|1134|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|11|1128|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|11|1128|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|13|1127|<span class="rank-name-dl">広瀬貴久＊A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|14|1124|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|14|1124|<span class="rank-name-dl">福中　健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|16|1122|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|17|1120|<span class="rank-name-dl">秋元　均</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|18|1115|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|19|1111|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|20|1105|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|21|1100|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|21|1100|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店 カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|23|1098|<span class="rank-name-dl">ごっちん！</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|24|1093|<span class="rank-name-dl">ゲイリー下北座</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|25|1092|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|26|1087|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|26|1087|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|28|1082|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|29|1075|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|30|1069|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|31|1067|<span class="rank-name-dl">50GOﾃﾞﾗｯｸｽ☆妄想</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|32|1064|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|33|1062|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|33|1062|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|35|1060|<span class="rank-name-dl">菅野 貴文♠DMC♤</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|36|1054|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|37|1053|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|37|1053|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|39|1050|<span class="rank-name-dl">κοzι</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|39|1050|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|41|1047|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|42|1045|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|43|1043|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|44|1042|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|45|1039|<span class="rank-name-dl">髙橋 侑汰</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|46|1038|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|46|1038|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|48|1037|<span class="rank-name-dl">NO NAME 3936</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|49|1036|<span class="rank-name-dl">稲葉 竜也</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|50|1035|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|51|1031|<span class="rank-name-dl">おな○</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|51|1031|<span class="rank-name-dl">ミチアキ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|53|1026|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|54|1023|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|55|1020|<span class="rank-name-dl">Dr.Hide@DOLPHIN</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|55|1020|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|57|1017|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|58|1015|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|59|1013|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|60|1009|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|61|1008|<span class="rank-name-dl">ぎょうざ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|62|1007|<span class="rank-name-dl">やまぐちかずまさ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|63|1004|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|63|1004|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|65|1002|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|66|1001|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic. _genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|67|998|<span class="rank-name-dl">★KA-Ton-pe! PF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|68|997|<span class="rank-name-dl">KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|69|996|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|70|993|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|71|989|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|72|985|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|73|982|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|74|981|<span class="rank-name-dl">maki__</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|74|981|<span class="rank-name-dl">や　ま</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|76|980|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|77|979|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|78|978|<span class="rank-name-dl">★K.J.L★</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|78|978|<span class="rank-name-dl">テラシマ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|80|977|<span class="rank-name-dl">Big_G</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|80|977|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|80|977|<span class="rank-name-dl">r o y_β</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|80|977|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|84|975|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|974|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店 カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|974|<span class="rank-name-dl">がほ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|974|<span class="rank-name-dl">楢＠NaT★軟庭</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|85|974|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|89|973|<span class="rank-name-dl">トニー</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|90|969|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|90|969|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|90|969|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|93|968|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|93|968|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|93|968|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|96|967|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|97|966|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|97|966|<span class="rank-name-dl">ケロ☆HANGOVER</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|99|965|<span class="rank-name-dl">GC卍こーへー</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|99|965|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|5|1170|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|6|1166|<span class="rank-name-dl">トレビアンPF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|7|1162|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|8|1134|<span class="rank-name-dl">けんぼー</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|9|1128|<span class="rank-name-dl">GORIVERのシミ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|9|1128|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|11|1127|<span class="rank-name-dl">広瀬貴久＊A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|12|1124|<span class="rank-name-dl">けんぴっぴ♪</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|12|1124|<span class="rank-name-dl">福中　健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|14|1122|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|15|1120|<span class="rank-name-dl">秋元　均</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|16|1115|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|17|1111|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|18|1105|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|19|1100|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|19|1100|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|21|1098|<span class="rank-name-dl">ごっちん！</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|22|1093|<span class="rank-name-dl">ゲイリー下北座</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|23|1092|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|24|1087|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|24|1087|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|26|1075|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|27|1069|<span class="rank-name-dl">ロッキー</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|28|1067|<span class="rank-name-dl">50GOﾃﾞﾗｯｸｽ☆妄想</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|29|1064|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|30|1062|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|30|1062|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|32|1060|<span class="rank-name-dl">菅野 貴文♠DMC♤</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|33|1054|<span class="rank-name-dl">福中 健志</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|34|1053|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|34|1053|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|36|1050|<span class="rank-name-dl">κοzι</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|36|1050|<span class="rank-name-dl">矢所 望</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|38|1047|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|39|1045|<span class="rank-name-dl">ぶりぶりざえもん</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|40|1043|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|41|1042|<span class="rank-name-dl">ささみーご</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|42|1039|<span class="rank-name-dl">髙橋 侑汰</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|43|1038|<span class="rank-name-dl">たつやんまぁ</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|44|1037|<span class="rank-name-dl">NO NAME 3936</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|45|1036|<span class="rank-name-dl">稲葉 竜也</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|46|1035|<span class="rank-name-dl">toto 60/40</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|47|1031|<span class="rank-name-dl">おな○</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|47|1031|<span class="rank-name-dl">ミチアキ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|49|1026|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/0b6c8f304fbc37c60d9b047a20a7ba1e">_genic.</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|50|1020|<span class="rank-name-dl">Dr.Hide@DOLPHIN</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|50|1020|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|52|1017|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|53|1015|<span class="rank-name-dl">☆あにぃ〜☆</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|54|1013|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/c7dbac0f43b156320d9b047a20a7ba1e">JOKER越谷</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|55|1009|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|56|1008|<span class="rank-name-dl">ぎょうざ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|57|1007|<span class="rank-name-dl">やまぐちかずまさ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|58|1004|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|58|1004|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|60|1002|<span class="rank-name-dl">わたなべ</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|61|998|<span class="rank-name-dl">★KA-Ton-pe! PF</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|62|997|<span class="rank-name-dl">KIICHI</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|63|996|<span class="rank-name-dl">ま～し～</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|64|989|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|65|985|<span class="rank-name-dl">《KAZUKI》</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|66|982|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|67|981|<span class="rank-name-dl">maki__</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|67|981|<span class="rank-name-dl">や　ま</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|69|980|<span class="rank-name-dl">しんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|70|979|<span class="rank-name-dl">Oriente</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|71|978|<span class="rank-name-dl">★K.J.L★</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|71|978|<span class="rank-name-dl">テラシマ</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|73|977|<span class="rank-name-dl">Big_G</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|73|977|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|73|977|<span class="rank-name-dl">r o y_β</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|73|977|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|77|975|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|974|<span class="rank-name-dl">Nov...</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|974|<span class="rank-name-dl">がほ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|974|<span class="rank-name-dl">楢＠NaT★軟庭</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|78|974|<span class="rank-name-dl">福地陸来</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|82|973|<span class="rank-name-dl">トニー</span>|<a href="https://search.dartslive.com/jp/shop/670c84445e99cc4b0d9b047a20a7ba1e">HYGEIAN</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|83|969|<span class="rank-name-dl">Yuuuji</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|83|969|<span class="rank-name-dl">タワマンニート</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|83|969|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBanBan新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|86|968|<span class="rank-name-dl">J-STYLE【侍s5】</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|86|968|<span class="rank-name-dl">かねていらｰ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|86|968|<span class="rank-name-dl">タクって！シーモ</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|89|967|<span class="rank-name-dl">kuromitu</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|90|966|<span class="rank-name-dl">ケロ☆HANGOVER</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|91|965|<span class="rank-name-dl">GC卍こーへー</span>|<a href="https://search.dartslive.com/jp/shop/ddecc2f55148eb5d0d9b047a20a7ba1e">グリーンカフェ ウエスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|91|965|<span class="rank-name-dl">ken3</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|91|965|<span class="rank-name-dl">みるきー BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|91|965|<span class="rank-name-dl">鬼舞辻無害</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBanBanせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|95|964|<span class="rank-name-dl">Zirou</span>|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|95|964|<span class="rank-name-dl">ぺちお08</span>|<a href="https://search.dartslive.com/jp/shop/b888e405b6e91baa0d9b047a20a7ba1e">GLEEN CAFE EAST</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|963|<span class="rank-name-dl">ISOB</span>|<a href="https://search.dartslive.com/jp/shop/0c9572f638eef1330d9b047a20a7ba1e">カラオケBANBAN新越谷駅前店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|963|<span class="rank-name-dl">たいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0a24f0ce0573ad730d9b047a20a7ba1e">Darts Bar River</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|963|<span class="rank-name-dl">ドリアンボーイ</span>|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|97|963|<span class="rank-name-dl">元帥</span>|<a href="https://search.dartslive.com/jp/shop/c4c4fe8ab4f19f660d9b047a20a7ba1e">カラオケBANBANせんげん台西口店</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 
 
 #### PHOENIXDARTS TOP 100
