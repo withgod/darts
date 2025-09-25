@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 横須賀市 | BAR76
+title: 'COUNTUP AREA RANKING | 神奈川県 | 横須賀市 | BAR76'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 横須賀市 | BAR76
 
@@ -34,8 +34,8 @@ ___
 |3|677|<span class="rank-name-dl">Cyrik</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |4|577|<span class="rank-name-dl">Beardo 2</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |5|567|<span class="rank-name-dl">外国人</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|6|530|<span class="rank-name-dl">Hebrew hammer</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|6|530|<span class="rank-name-dl">スカイラー Sky</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|6|565|<span class="rank-name-dl">Hebrew hammer</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|7|530|<span class="rank-name-dl">スカイラー Sky</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |8|527|<span class="rank-name-dl">Jobie</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |9|516|<span class="rank-name-dl">Gorda Con Clasé</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |10|513|<span class="rank-name-dl">Motobecane</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
@@ -62,8 +62,8 @@ ___
 |3|677|<span class="rank-name-dl">Cyrik</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |4|577|<span class="rank-name-dl">Beardo 2</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |5|567|<span class="rank-name-dl">外国人</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|6|530|<span class="rank-name-dl">Hebrew hammer</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
-|6|530|<span class="rank-name-dl">スカイラー Sky</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|6|565|<span class="rank-name-dl">Hebrew hammer</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
+|7|530|<span class="rank-name-dl">スカイラー Sky</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |8|527|<span class="rank-name-dl">Jobie</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |9|516|<span class="rank-name-dl">Gorda Con Clasé</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|
 |10|513|<span class="rank-name-dl">Motobecane</span>|<a href="/darts/rank/shops/7efabbcb560f0edc25d56fb0e5c39bac.html">BAR76</a> <a href="https://search.dartslive.com/jp/shop/7efabbcb560f0edc25d56fb0e5c39bac">[↗]</a>|<a href="/darts/rank/神奈川県/横須賀市">神奈川県横須賀市</a>|

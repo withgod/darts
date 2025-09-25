@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar Bond 相模原駅前店
+title: 'COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar Bond 相模原駅前店'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar Bond 相模原駅前店
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 群馬県 | 太田市 | BASE太田駅
+title: 'COUNTUP AREA RANKING | 群馬県 | 太田市 | BASE太田駅'
 ---
 ## COUNTUP AREA RANKING | 群馬県 | 太田市 | BASE太田駅
 

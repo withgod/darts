@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 埼玉県 | さいたま市 | HONU
+title: 'COUNTUP AREA RANKING | 埼玉県 | さいたま市 | HONU'
 ---
 ## COUNTUP AREA RANKING | 埼玉県 | さいたま市 | HONU
 

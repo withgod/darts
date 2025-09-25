@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 船橋市 | 炭火焼き処 太閤
+title: 'COUNTUP AREA RANKING | 千葉県 | 船橋市 | 炭火焼き処 太閤'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 船橋市 | 炭火焼き処 太閤
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 柏市 | バー ベローズ
+title: 'COUNTUP AREA RANKING | 千葉県 | 柏市 | バー ベローズ'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 柏市 | バー ベローズ
 

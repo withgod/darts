@@ -231,7 +231,7 @@ ___
 |97|748|<span class="rank-name-dl">でーすけ氏2代目</span>|<a href="/darts/rank/shops/6d9e05ee0917894ea3f63593b5358cc4.html">カラオケ合衆国　弘前城東店</a> <a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |98|741|<span class="rank-name-dl">fytmzp2</span>|<a href="/darts/rank/shops/6d9e05ee0917894ea3f63593b5358cc4.html">カラオケ合衆国 弘前城東店</a> <a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |98|741|<span class="rank-name-dl">ピリカピリララ♪</span>|<a href="/darts/rank/shops/6d9e05ee0917894ea3f63593b5358cc4.html">カラオケ合衆国　弘前城東店</a> <a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|100|739|<span class="rank-name-dl">つひろ</span>|<a href="/darts/rank/shops/6d9e05ee0917894ea3f63593b5358cc4.html">カラオケ合衆国　弘前城東店</a> <a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|100|740|<span class="rank-name-dl">silver</span>|<a href="/darts/rank/shops/6d9e05ee0917894ea3f63593b5358cc4.html">カラオケ合衆国　弘前城東店</a> <a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 相模原市 | 東南食堂
+title: 'COUNTUP AREA RANKING | 神奈川県 | 相模原市 | 東南食堂'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 相模原市 | 東南食堂
 

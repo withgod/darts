@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 愛媛県 | 松山市 | BILLIARD&DARTS ポケット
+title: 'COUNTUP AREA RANKING | 愛媛県 | 松山市 | BILLIARD&DARTS ポケット'
 ---
 ## COUNTUP AREA RANKING | 愛媛県 | 松山市 | BILLIARD&DARTS ポケット
 

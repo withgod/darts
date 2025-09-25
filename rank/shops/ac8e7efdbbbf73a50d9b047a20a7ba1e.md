@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | Bee NAMBA
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | Bee NAMBA'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | Bee NAMBA
 

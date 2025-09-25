@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 品川区 | JUNGLE
+title: 'COUNTUP AREA RANKING | 東京都 | 品川区 | JUNGLE'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 品川区 | JUNGLE
 
@@ -34,11 +34,13 @@ ___
 |3|640|<span class="rank-name-dl">わ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 |4|603|<span class="rank-name-dl">わたげげげげげげ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 |5|595|<span class="rank-name-dl">紫熊</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|6|416|<span class="rank-name-dl">BOO66</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|7|355|<span class="rank-name-dl">NO NAME 0342</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|7|355|<span class="rank-name-dl">ｶﾚﾝa.k.a赤い稲妻</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|9|281|<span class="rank-name-dl">かわいいりんたろ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|10|254|<span class="rank-name-dl">ゆーまうぇーの</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|6|591|<span class="rank-name-dl">TgR</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|7|491|<span class="rank-name-dl">SEIYA</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|8|416|<span class="rank-name-dl">BOO66</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|9|355|<span class="rank-name-dl">NO NAME 0342</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|9|355|<span class="rank-name-dl">ｶﾚﾝa.k.a赤い稲妻</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|11|281|<span class="rank-name-dl">かわいいりんたろ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|12|254|<span class="rank-name-dl">ゆーまうぇーの</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,11 +55,13 @@ ___
 |3|640|<span class="rank-name-dl">わ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 |4|603|<span class="rank-name-dl">わたげげげげげげ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 |5|595|<span class="rank-name-dl">紫熊</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|6|416|<span class="rank-name-dl">BOO66</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|7|355|<span class="rank-name-dl">NO NAME 0342</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|7|355|<span class="rank-name-dl">ｶﾚﾝa.k.a赤い稲妻</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|9|281|<span class="rank-name-dl">かわいいりんたろ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
-|10|254|<span class="rank-name-dl">ゆーまうぇーの</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|6|591|<span class="rank-name-dl">TgR</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|7|491|<span class="rank-name-dl">SEIYA</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|8|416|<span class="rank-name-dl">BOO66</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|9|355|<span class="rank-name-dl">NO NAME 0342</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|9|355|<span class="rank-name-dl">ｶﾚﾝa.k.a赤い稲妻</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|11|281|<span class="rank-name-dl">かわいいりんたろ</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
+|12|254|<span class="rank-name-dl">ゆーまうぇーの</span>|<a href="/darts/rank/shops/6ccd6f19fcbeff410d9b047a20a7ba1e.html">JUNGLE</a> <a href="https://search.dartslive.com/jp/shop/6ccd6f19fcbeff410d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/品川区">東京都品川区</a>|
 
 
 #### PHOENIXDARTS TOP 100

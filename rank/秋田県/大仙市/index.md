@@ -287,12 +287,13 @@ ___
 |44|461|<span class="rank-name-pd">あ~</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |45|442|<span class="rank-name-pd">あね</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 |46|399|<span class="rank-name-pd">†★くにｋuni★†</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|47|374|<span class="rank-name-pd">Luna</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|48|350|<span class="rank-name-pd">NaPo78</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|48|350|<span class="rank-name-pd">きゃらめる</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|50|328|<span class="rank-name-pd">あおい</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|51|326|<span class="rank-name-pd">MI--</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
-|52|319|<span class="rank-name-pd">SSR</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|47|397|<span class="rank-name-pd">ぬこレンジャー2号</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|48|374|<span class="rank-name-pd">Luna</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|49|350|<span class="rank-name-pd">NaPo78</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|49|350|<span class="rank-name-pd">きゃらめる</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|51|328|<span class="rank-name-pd">あおい</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|52|326|<span class="rank-name-pd">MI--</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
+|53|319|<span class="rank-name-pd">SSR</span>|<a href="/darts/rank/shops/77955.html">Lion</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77955?s_seq=77955">[↗]</a>|<a href="/darts/rank/秋田県/大仙市">秋田県大仙市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

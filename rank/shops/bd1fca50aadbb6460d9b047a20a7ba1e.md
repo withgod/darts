@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | ZINO なんば戎橋店
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | ZINO なんば戎橋店'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | ZINO なんば戎橋店
 
@@ -29,15 +29,21 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|721|<span class="rank-name-dl">sho//@R</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|2|669|<span class="rank-name-dl">「蠍火」</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|3|580|<span class="rank-name-dl">KAMPEI</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|4|554|<span class="rank-name-dl">むいに。</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|5|493|<span class="rank-name-dl">怪獣</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|6|482|<span class="rank-name-dl">蠍火</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|7|440|<span class="rank-name-dl">aika</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|8|429|<span class="rank-name-dl">爆撃ゆんゆん</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|9|411|<span class="rank-name-dl">あるてぃめっと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|1|744|<span class="rank-name-dl">ナチュごり</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|2|721|<span class="rank-name-dl">sho//@R</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|3|715|<span class="rank-name-dl">しょーだい</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|4|686|<span class="rank-name-dl">KAMPEI</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|5|669|<span class="rank-name-dl">「蠍火」</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|6|554|<span class="rank-name-dl">むいに。</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|7|507|<span class="rank-name-dl">ゆうと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|8|493|<span class="rank-name-dl">怪獣</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|9|482|<span class="rank-name-dl">蠍火</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|10|440|<span class="rank-name-dl">aika</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|11|429|<span class="rank-name-dl">爆撃ゆんゆん</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|12|411|<span class="rank-name-dl">あるてぃめっと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|13|362|<span class="rank-name-dl">NO かーーーい</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|14|356|<span class="rank-name-dl">あめうた</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|15|303|<span class="rank-name-dl">せーー</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,15 +53,21 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|721|<span class="rank-name-dl">sho//@R</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|2|669|<span class="rank-name-dl">「蠍火」</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|3|580|<span class="rank-name-dl">KAMPEI</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|4|554|<span class="rank-name-dl">むいに。</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|5|493|<span class="rank-name-dl">怪獣</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|6|482|<span class="rank-name-dl">蠍火</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|7|440|<span class="rank-name-dl">aika</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|8|429|<span class="rank-name-dl">爆撃ゆんゆん</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|9|411|<span class="rank-name-dl">あるてぃめっと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|1|744|<span class="rank-name-dl">ナチュごり</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|2|721|<span class="rank-name-dl">sho//@R</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|3|715|<span class="rank-name-dl">しょーだい</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|4|686|<span class="rank-name-dl">KAMPEI</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|5|669|<span class="rank-name-dl">「蠍火」</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|6|554|<span class="rank-name-dl">むいに。</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|7|507|<span class="rank-name-dl">ゆうと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|8|493|<span class="rank-name-dl">怪獣</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|9|482|<span class="rank-name-dl">蠍火</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|10|440|<span class="rank-name-dl">aika</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|11|429|<span class="rank-name-dl">爆撃ゆんゆん</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|12|411|<span class="rank-name-dl">あるてぃめっと</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|13|362|<span class="rank-name-dl">NO かーーーい</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|14|356|<span class="rank-name-dl">あめうた</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|15|303|<span class="rank-name-dl">せーー</span>|<a href="/darts/rank/shops/bd1fca50aadbb6460d9b047a20a7ba1e.html">ZINO なんば戎橋店</a> <a href="https://search.dartslive.com/jp/shop/bd1fca50aadbb6460d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 
 
 #### PHOENIXDARTS TOP 100

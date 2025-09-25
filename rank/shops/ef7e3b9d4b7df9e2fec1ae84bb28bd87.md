@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 愛知県 | 名古屋市 | 亜熱帯中川コロナワールド店
+title: 'COUNTUP AREA RANKING | 愛知県 | 名古屋市 | 亜熱帯中川コロナワールド店'
 ---
 ## COUNTUP AREA RANKING | 愛知県 | 名古屋市 | 亜熱帯中川コロナワールド店
 

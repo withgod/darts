@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 川崎市 | LIPINE
+title: 'COUNTUP AREA RANKING | 神奈川県 | 川崎市 | LIPINE'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 川崎市 | LIPINE
 

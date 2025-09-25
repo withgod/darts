@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 木更津市 | カフェレストラン　たまーる
+title: 'COUNTUP AREA RANKING | 千葉県 | 木更津市 | カフェレストラン　たまーる'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 木更津市 | カフェレストラン　たまーる
 

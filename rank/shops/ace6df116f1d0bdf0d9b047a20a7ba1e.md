@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 青森県 | 青森市 | Drink & Easyfood & Music B.I.G.
+title: 'COUNTUP AREA RANKING | 青森県 | 青森市 | Drink & Easyfood & Music B.I.G.'
 ---
 ## COUNTUP AREA RANKING | 青森県 | 青森市 | Drink & Easyfood & Music B.I.G.
 

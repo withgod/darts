@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 福岡県 | 北九州市 | Darts＆Dining Bar SKYROAD
+title: 'COUNTUP AREA RANKING | 福岡県 | 北九州市 | Darts＆Dining Bar SKYROAD'
 ---
 ## COUNTUP AREA RANKING | 福岡県 | 北九州市 | Darts＆Dining Bar SKYROAD
 

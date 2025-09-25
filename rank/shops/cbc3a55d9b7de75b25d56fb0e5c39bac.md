@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 宮城県 | 仙台市 | カラオケマック仙台フォーラス店
+title: 'COUNTUP AREA RANKING | 宮城県 | 仙台市 | カラオケマック仙台フォーラス店'
 ---
 ## COUNTUP AREA RANKING | 宮城県 | 仙台市 | カラオケマック仙台フォーラス店
 

@@ -122,7 +122,7 @@ ___
 |97|838|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |98|837|<span class="rank-name-pd">べるせってぃ</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |99|834|<span class="rank-name-pd">たんたくあん</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|100|832|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|99|834|<span class="rank-name-pd">麻原彰晃(空中浮遊)</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -317,14 +317,14 @@ ___
 |90|838|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |91|837|<span class="rank-name-pd">べるせってぃ</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |92|834|<span class="rank-name-pd">たんたくあん</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|93|832|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|93|832|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="/darts/rank/shops/45648.html">コート・ダジュール 甲府昭和店</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|93|832|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伏見 龍也</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|96|830|<span class="rank-name-pd">0240_5131</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|97|828|<span class="rank-name-pd">TSUBASA4</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|98|827|<span class="rank-name-pd">I am Tetsu@S.GARAGE.</span>|<a href="/darts/rank/shops/45648.html">コート・ダジュール 甲府昭和店</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|99|824|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 裕樹</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|100|822|<span class="rank-name-pd">みなみおばちゃん</span>|<a href="/darts/rank/shops/45648.html">コート・ダジュール 甲府昭和店</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|92|834|<span class="rank-name-pd">麻原彰晃(空中浮遊)</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|832|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|832|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="/darts/rank/shops/45648.html">コート・ダジュール 甲府昭和店</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|832|<span class="rank-name-pd"><span class="pro-icon-pd"></span>伏見 龍也</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|97|830|<span class="rank-name-pd">0240_5131</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|98|828|<span class="rank-name-pd">TSUBASA4</span>|<a href="/darts/rank/shops/9647.html">Monkey Rotten cafe</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|99|827|<span class="rank-name-pd">I am Tetsu@S.GARAGE.</span>|<a href="/darts/rank/shops/45648.html">コート・ダジュール 甲府昭和店</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|100|824|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 裕樹</span>|<a href="/darts/rank/shops/18163.html">Darts&Bar Collect</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">[↗]</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

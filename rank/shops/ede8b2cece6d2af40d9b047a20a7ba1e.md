@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 匝瑳市 | DARTS&DINING ixi
+title: 'COUNTUP AREA RANKING | 千葉県 | 匝瑳市 | DARTS&DINING ixi'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 匝瑳市 | DARTS&DINING ixi
 

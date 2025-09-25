@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 愛知県 | 名古屋市 | カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店
+title: 'COUNTUP AREA RANKING | 愛知県 | 名古屋市 | カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店'
 ---
 ## COUNTUP AREA RANKING | 愛知県 | 名古屋市 | カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店
 

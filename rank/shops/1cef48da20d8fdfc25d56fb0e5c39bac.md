@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 兵庫県 | 姫路市 | BAR RAKUDA 別館
+title: 'COUNTUP AREA RANKING | 兵庫県 | 姫路市 | BAR RAKUDA 別館'
 ---
 ## COUNTUP AREA RANKING | 兵庫県 | 姫路市 | BAR RAKUDA 別館
 

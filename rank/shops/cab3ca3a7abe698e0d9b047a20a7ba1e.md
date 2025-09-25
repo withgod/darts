@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 川崎市 | Girls Bar Lounge D.u.f.f.y Girls Bar Lounge D.u.f.f.y
+title: 'COUNTUP AREA RANKING | 神奈川県 | 川崎市 | Girls Bar Lounge D.u.f.f.y Girls Bar Lounge D.u.f.f.y'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 川崎市 | Girls Bar Lounge D.u.f.f.y Girls Bar Lounge D.u.f.f.y
 

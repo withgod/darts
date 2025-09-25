@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 品川区 | JACK 目黒東口店
+title: 'COUNTUP AREA RANKING | 東京都 | 品川区 | JACK 目黒東口店'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 品川区 | JACK 目黒東口店
 

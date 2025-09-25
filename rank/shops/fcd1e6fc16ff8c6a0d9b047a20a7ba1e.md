@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 岩手県 | 北上市 | memento
+title: 'COUNTUP AREA RANKING | 岩手県 | 北上市 | memento'
 ---
 ## COUNTUP AREA RANKING | 岩手県 | 北上市 | memento
 

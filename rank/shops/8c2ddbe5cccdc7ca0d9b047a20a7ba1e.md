@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | BAR EIGHT
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | BAR EIGHT'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | BAR EIGHT
 
@@ -31,14 +31,17 @@ ___
 |---|---|---|---|---|
 |1|742|<span class="rank-name-dl">佐野 祐哉</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |2|707|<span class="rank-name-dl">Yuya Sano</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|3|680|<span class="rank-name-dl">かまんべーる</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|3|702|<span class="rank-name-dl">かまんべーる</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |4|669|<span class="rank-name-dl">あお</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |5|575|<span class="rank-name-dl">ちーちゃん</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |6|574|<span class="rank-name-dl">ume</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |7|543|<span class="rank-name-dl">ゲンちゃん</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |8|514|<span class="rank-name-dl">梅</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |9|512|<span class="rank-name-dl">おさの</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|10|265|<span class="rank-name-dl">かえ</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|10|429|<span class="rank-name-dl">NO NAME 9222</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|11|421|<span class="rank-name-dl">NO NAME 5543</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|12|368|<span class="rank-name-dl">NO NAME 9975</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|13|265|<span class="rank-name-dl">かえ</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -50,14 +53,17 @@ ___
 |---|---|---|---|---|
 |1|742|<span class="rank-name-dl">佐野 祐哉</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |2|707|<span class="rank-name-dl">Yuya Sano</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|3|680|<span class="rank-name-dl">かまんべーる</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|3|702|<span class="rank-name-dl">かまんべーる</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |4|669|<span class="rank-name-dl">あお</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |5|575|<span class="rank-name-dl">ちーちゃん</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |6|574|<span class="rank-name-dl">ume</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |7|543|<span class="rank-name-dl">ゲンちゃん</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |8|514|<span class="rank-name-dl">梅</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 |9|512|<span class="rank-name-dl">おさの</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
-|10|265|<span class="rank-name-dl">かえ</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|10|429|<span class="rank-name-dl">NO NAME 9222</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|11|421|<span class="rank-name-dl">NO NAME 5543</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|12|368|<span class="rank-name-dl">NO NAME 9975</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
+|13|265|<span class="rank-name-dl">かえ</span>|<a href="/darts/rank/shops/8c2ddbe5cccdc7ca0d9b047a20a7ba1e.html">BAR EIGHT</a> <a href="https://search.dartslive.com/jp/shop/8c2ddbe5cccdc7ca0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/大阪市中央区">大阪府大阪市中央区</a>|
 
 
 #### PHOENIXDARTS TOP 100

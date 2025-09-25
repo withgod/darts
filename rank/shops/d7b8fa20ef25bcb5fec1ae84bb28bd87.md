@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 新潟県 | 新潟市 | Bar Coccole Bar Coccole
+title: 'COUNTUP AREA RANKING | 新潟県 | 新潟市 | Bar Coccole Bar Coccole'
 ---
 ## COUNTUP AREA RANKING | 新潟県 | 新潟市 | Bar Coccole Bar Coccole
 

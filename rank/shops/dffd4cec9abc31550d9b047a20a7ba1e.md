@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar ROCK
+title: 'COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar ROCK'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 相模原市 | Dining Bar ROCK
 

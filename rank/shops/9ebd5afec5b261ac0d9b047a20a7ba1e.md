@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 板橋区 | AirShip-unlimited-
+title: 'COUNTUP AREA RANKING | 東京都 | 板橋区 | AirShip-unlimited-'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 板橋区 | AirShip-unlimited-
 

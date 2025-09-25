@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 港区 | 大衆酒場 勇壮
+title: 'COUNTUP AREA RANKING | 東京都 | 港区 | 大衆酒場 勇壮'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 港区 | 大衆酒場 勇壮
 

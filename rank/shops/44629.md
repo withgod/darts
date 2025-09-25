@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 群馬県 | 前橋市 | 快活CLUB 新前橋店
+title: 'COUNTUP AREA RANKING | 群馬県 | 前橋市 | 快活CLUB 新前橋店'
 ---
 ## COUNTUP AREA RANKING | 群馬県 | 前橋市 | 快活CLUB 新前橋店
 

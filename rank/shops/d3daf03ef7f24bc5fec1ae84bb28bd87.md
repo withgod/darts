@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 豊島区 | AJITO+
+title: 'COUNTUP AREA RANKING | 東京都 | 豊島区 | AJITO+'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 豊島区 | AJITO+
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 山梨県 | 南都留郡 | Darts Cafe&bar CIEL
+title: 'COUNTUP AREA RANKING | 山梨県 | 南都留郡 | Darts Cafe&bar CIEL'
 ---
 ## COUNTUP AREA RANKING | 山梨県 | 南都留郡 | Darts Cafe&bar CIEL
 

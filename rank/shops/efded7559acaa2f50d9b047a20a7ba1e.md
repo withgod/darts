@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 横浜市 | BAR Tree Frog
+title: 'COUNTUP AREA RANKING | 神奈川県 | 横浜市 | BAR Tree Frog'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 横浜市 | BAR Tree Frog
 

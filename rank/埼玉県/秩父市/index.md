@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1094|<span class="rank-name-dl">GAN【絆】</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|1|1119|<span class="rank-name-dl">GAN【絆】</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |2|1054|<span class="rank-name-dl">†Gooner†</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |3|1024|<span class="rank-name-dl">金居 誠人</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |4|990|<span class="rank-name-dl">※SNOW※</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
@@ -113,7 +113,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1094|<span class="rank-name-dl">GAN【絆】</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|1|1119|<span class="rank-name-dl">GAN【絆】</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |2|1054|<span class="rank-name-dl">†Gooner†</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |3|1024|<span class="rank-name-dl">金居 誠人</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |4|990|<span class="rank-name-dl">※SNOW※</span>|<a href="/darts/rank/shops/8304fb96474369d6790ab824ce8730e5.html">自遊空間 秩父中央店</a> <a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">[↗]</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|

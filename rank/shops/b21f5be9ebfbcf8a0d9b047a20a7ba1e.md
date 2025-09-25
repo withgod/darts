@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 北海道 | 旭川市 | LANkers
+title: 'COUNTUP AREA RANKING | 北海道 | 旭川市 | LANkers'
 ---
 ## COUNTUP AREA RANKING | 北海道 | 旭川市 | LANkers
 

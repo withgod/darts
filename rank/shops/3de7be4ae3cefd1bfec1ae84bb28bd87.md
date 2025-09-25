@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 町田市 | ぶんぶん
+title: 'COUNTUP AREA RANKING | 東京都 | 町田市 | ぶんぶん'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 町田市 | ぶんぶん
 

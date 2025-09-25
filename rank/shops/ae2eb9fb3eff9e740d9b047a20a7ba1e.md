@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 埼玉県 | 草加市 | 神音
+title: 'COUNTUP AREA RANKING | 埼玉県 | 草加市 | 神音'
 ---
 ## COUNTUP AREA RANKING | 埼玉県 | 草加市 | 神音
 

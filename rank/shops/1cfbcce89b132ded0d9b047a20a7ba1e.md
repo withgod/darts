@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 吹田市 | Bee ESAKA
+title: 'COUNTUP AREA RANKING | 大阪府 | 吹田市 | Bee ESAKA'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 吹田市 | Bee ESAKA
 

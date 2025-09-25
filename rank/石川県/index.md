@@ -243,10 +243,10 @@ ___
 |94|938|<span class="rank-name-dl">yukiboyy</span>|<a href="/darts/rank/shops/eee3adcf8acc404728032249b44395af.html">ダーツショップ&Bar KINGS</a> <a href="https://search.dartslive.com/jp/shop/eee3adcf8acc404728032249b44395af">[↗]</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
 |94|938|<span class="rank-name-dl">ひーまろー</span>|<a href="/darts/rank/shops/b4035b85b05b533858d385ea46352d8f.html">Play Garden 金沢諸江店</a> <a href="https://search.dartslive.com/jp/shop/b4035b85b05b533858d385ea46352d8f">[↗]</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
 |96|937|<span class="rank-name-dl">ぴの@さん</span>|<a href="/darts/rank/shops/4211c435d402788ca3f63593b5358cc4.html">快活CLUB 8号松任店</a> <a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|97|936|<span class="rank-name-dl">Sweetio</span>|<a href="/darts/rank/shops/4211c435d402788ca3f63593b5358cc4.html">快活CLUB 8号松任店</a> <a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
 |97|936|<span class="rank-name-dl">〆鯖ババーン</span>|<a href="/darts/rank/shops/b4035b85b05b533858d385ea46352d8f.html">Play Garden 金沢諸江店</a> <a href="https://search.dartslive.com/jp/shop/b4035b85b05b533858d385ea46352d8f">[↗]</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|98|935|<span class="rank-name-dl">うるとらリュウガ</span>|<a href="/darts/rank/shops/372fc5e3c83c35490d9b047a20a7ba1e.html">安-Bartic駅前店</a> <a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|99|934|<span class="rank-name-dl">あお</span>|<a href="/darts/rank/shops/4211c435d402788ca3f63593b5358cc4.html">快活CLUB 8号松任店</a> <a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
-|100|933|<span class="rank-name-dl">カオルセパ練習</span>|<a href="/darts/rank/shops/4211c435d402788ca3f63593b5358cc4.html">快活CLUB 8号松任店</a> <a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|99|935|<span class="rank-name-dl">うるとらリュウガ</span>|<a href="/darts/rank/shops/372fc5e3c83c35490d9b047a20a7ba1e.html">安-Bartic駅前店</a> <a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|100|934|<span class="rank-name-dl">あお</span>|<a href="/darts/rank/shops/4211c435d402788ca3f63593b5358cc4.html">快活CLUB 8号松任店</a> <a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

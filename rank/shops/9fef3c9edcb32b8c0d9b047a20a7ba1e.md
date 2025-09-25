@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 渋谷区 | CROSS POINT VILLAS
+title: 'COUNTUP AREA RANKING | 東京都 | 渋谷区 | CROSS POINT VILLAS'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 渋谷区 | CROSS POINT VILLAS
 

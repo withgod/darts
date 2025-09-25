@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 大田区 | cafe & bar Re; cafe & bar Re;
+title: 'COUNTUP AREA RANKING | 東京都 | 大田区 | cafe & bar Re; cafe & bar Re;'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 大田区 | cafe & bar Re; cafe & bar Re;
 

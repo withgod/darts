@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 江東区 | YOASOBI
+title: 'COUNTUP AREA RANKING | 東京都 | 江東区 | YOASOBI'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 江東区 | YOASOBI
 

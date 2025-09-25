@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 宮城県 | 仙台市 | ダーツハイブ 仙台駅前店
+title: 'COUNTUP AREA RANKING | 宮城県 | 仙台市 | ダーツハイブ 仙台駅前店'
 ---
 ## COUNTUP AREA RANKING | 宮城県 | 仙台市 | ダーツハイブ 仙台駅前店
 

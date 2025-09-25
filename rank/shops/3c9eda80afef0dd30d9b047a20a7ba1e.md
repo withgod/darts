@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 群馬県 | 高崎市 | Darts Dining ensembull
+title: 'COUNTUP AREA RANKING | 群馬県 | 高崎市 | Darts Dining ensembull'
 ---
 ## COUNTUP AREA RANKING | 群馬県 | 高崎市 | Darts Dining ensembull
 

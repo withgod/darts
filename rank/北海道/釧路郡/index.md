@@ -298,15 +298,15 @@ ___
 |89|728|<span class="rank-name-pd">王子@ハゲ治療中</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
 |90|727|<span class="rank-name-pd">セパプル</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
 |91|724|<span class="rank-name-pd">ナオキ</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|92|722|<span class="rank-name-pd">SAKACHIN</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
 |92|722|<span class="rank-name-pd">東海林</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|93|720|<span class="rank-name-pd">モーリー</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|94|712|<span class="rank-name-pd">Yu.Su</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|95|708|<span class="rank-name-pd">じゅんちゃ</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|96|701|<span class="rank-name-pd">rucogrm</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|97|699|<span class="rank-name-pd">z8wj35b80b1776</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|98|698|<span class="rank-name-pd">K</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|98|698|<span class="rank-name-pd">SAGARI</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|100|697|<span class="rank-name-pd">りえ</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|94|720|<span class="rank-name-pd">モーリー</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|95|712|<span class="rank-name-pd">Yu.Su</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|96|708|<span class="rank-name-pd">じゅんちゃ</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|97|701|<span class="rank-name-pd">rucogrm</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|98|699|<span class="rank-name-pd">z8wj35b80b1776</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|99|698|<span class="rank-name-pd">K</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|99|698|<span class="rank-name-pd">SAGARI</span>|<a href="/darts/rank/shops/9207.html">CAFE -AA-</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">[↗]</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 府中市 | Girls Bar DOOLs Girls Bar DOOLs
+title: 'COUNTUP AREA RANKING | 東京都 | 府中市 | Girls Bar DOOLs Girls Bar DOOLs'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 府中市 | Girls Bar DOOLs Girls Bar DOOLs
 

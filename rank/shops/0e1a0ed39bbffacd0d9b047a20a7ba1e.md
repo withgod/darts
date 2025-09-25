@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 兵庫県 | 明石市 | Sally’ｓ Club
+title: 'COUNTUP AREA RANKING | 兵庫県 | 明石市 | Sally’ｓ Club'
 ---
 ## COUNTUP AREA RANKING | 兵庫県 | 明石市 | Sally’ｓ Club
 

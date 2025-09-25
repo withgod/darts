@@ -231,7 +231,7 @@ ___
 |96|816|<span class="rank-name-dl">たーー</span>|<a href="/darts/rank/shops/cea11d66ca59807df454cb89828a1cfe.html">快活CLUB 富士吉原店</a> <a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |98|814|<span class="rank-name-dl">わかな</span>|<a href="/darts/rank/shops/9c7ad8320c0d52e50d9b047a20a7ba1e.html">ラウンドワン富士店</a> <a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |98|814|<span class="rank-name-dl">グンタマ.M</span>|<a href="/darts/rank/shops/cea11d66ca59807df454cb89828a1cfe.html">快活CLUB 富士吉原店</a> <a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|100|812|<span class="rank-name-dl">RyoP</span>|<a href="/darts/rank/shops/cea11d66ca59807df454cb89828a1cfe.html">快活CLUB 富士吉原店</a> <a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|100|813|<span class="rank-name-dl">シンクン</span>|<a href="/darts/rank/shops/9c7ad8320c0d52e50d9b047a20a7ba1e.html">ラウンドワン富士店</a> <a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 
 
 #### PHOENIXDARTS TOP 100

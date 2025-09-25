@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 茨城県 | つくばみらい市 | GIRLS BAR PINKSPIDER
+title: 'COUNTUP AREA RANKING | 茨城県 | つくばみらい市 | GIRLS BAR PINKSPIDER'
 ---
 ## COUNTUP AREA RANKING | 茨城県 | つくばみらい市 | GIRLS BAR PINKSPIDER
 

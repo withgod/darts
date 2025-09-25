@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 横浜市 | e-VERSE
+title: 'COUNTUP AREA RANKING | 神奈川県 | 横浜市 | e-VERSE'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 横浜市 | e-VERSE
 

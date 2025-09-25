@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 北区 | クレイジーラパン
+title: 'COUNTUP AREA RANKING | 東京都 | 北区 | クレイジーラパン'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 北区 | クレイジーラパン
 

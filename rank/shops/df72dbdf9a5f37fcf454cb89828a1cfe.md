@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 埼玉県 | さいたま市 | NEXTime
+title: 'COUNTUP AREA RANKING | 埼玉県 | さいたま市 | NEXTime'
 ---
 ## COUNTUP AREA RANKING | 埼玉県 | さいたま市 | NEXTime
 
@@ -49,8 +49,8 @@ ___
 |18|500|<span class="rank-name-dl">Mr.K</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |19|499|<span class="rank-name-dl">だいすけ</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |20|496|<span class="rank-name-dl">Kraft</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|21|489|<span class="rank-name-dl">貸し出し用</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|22|482|<span class="rank-name-dl">Toni</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|21|494|<span class="rank-name-dl">Toni</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|22|489|<span class="rank-name-dl">貸し出し用</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |23|472|<span class="rank-name-dl">みうら1008</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |24|463|<span class="rank-name-dl">NO NAME 0870</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |25|458|<span class="rank-name-dl">TriStar</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
@@ -62,7 +62,9 @@ ___
 |31|352|<span class="rank-name-dl">haruharu</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |32|347|<span class="rank-name-dl">宇宙猫</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |33|336|<span class="rank-name-dl">ハチワレ</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|34|304|<span class="rank-name-dl">NO NAME 3799</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|34|315|<span class="rank-name-dl">Joseph</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|35|304|<span class="rank-name-dl">NO NAME 3799</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|36|254|<span class="rank-name-dl">Karvo</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -92,8 +94,8 @@ ___
 |18|500|<span class="rank-name-dl">Mr.K</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |19|499|<span class="rank-name-dl">だいすけ</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |20|496|<span class="rank-name-dl">Kraft</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|21|489|<span class="rank-name-dl">貸し出し用</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|22|482|<span class="rank-name-dl">Toni</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|21|494|<span class="rank-name-dl">Toni</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|22|489|<span class="rank-name-dl">貸し出し用</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |23|472|<span class="rank-name-dl">みうら1008</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |24|463|<span class="rank-name-dl">NO NAME 0870</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |25|458|<span class="rank-name-dl">TriStar</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
@@ -105,7 +107,9 @@ ___
 |31|352|<span class="rank-name-dl">haruharu</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |32|347|<span class="rank-name-dl">宇宙猫</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 |33|336|<span class="rank-name-dl">ハチワレ</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|34|304|<span class="rank-name-dl">NO NAME 3799</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|34|315|<span class="rank-name-dl">Joseph</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|35|304|<span class="rank-name-dl">NO NAME 3799</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|36|254|<span class="rank-name-dl">Karvo</span>|<a href="/darts/rank/shops/df72dbdf9a5f37fcf454cb89828a1cfe.html">NEXTime</a> <a href="https://search.dartslive.com/jp/shop/df72dbdf9a5f37fcf454cb89828a1cfe">[↗]</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
 
 
 #### PHOENIXDARTS TOP 100

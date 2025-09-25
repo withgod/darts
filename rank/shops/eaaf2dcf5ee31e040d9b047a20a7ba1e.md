@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 千代田区 | デルタプラス有楽町店(DartsCafeDELTA＋有楽町店)
+title: 'COUNTUP AREA RANKING | 東京都 | 千代田区 | デルタプラス有楽町店(DartsCafeDELTA＋有楽町店)'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 千代田区 | デルタプラス有楽町店(DartsCafeDELTA＋有楽町店)
 

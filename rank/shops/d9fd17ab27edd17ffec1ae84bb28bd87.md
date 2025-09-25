@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市 | BILLIARDS DRAGON
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市 | BILLIARDS DRAGON'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市 | BILLIARDS DRAGON
 

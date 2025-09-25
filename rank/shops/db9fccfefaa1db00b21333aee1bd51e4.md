@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 京都府 | 宇治市 | YONAYONABAR
+title: 'COUNTUP AREA RANKING | 京都府 | 宇治市 | YONAYONABAR'
 ---
 ## COUNTUP AREA RANKING | 京都府 | 宇治市 | YONAYONABAR
 

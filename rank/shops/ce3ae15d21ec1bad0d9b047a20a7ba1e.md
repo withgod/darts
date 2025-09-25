@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 堺市 | Rat
+title: 'COUNTUP AREA RANKING | 大阪府 | 堺市 | Rat'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 堺市 | Rat
 
@@ -29,14 +29,19 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|778|<span class="rank-name-dl">Bar Nei</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|1|861|<span class="rank-name-dl">Bar Nei</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 |2|754|<span class="rank-name-dl">yassuo</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 |3|712|<span class="rank-name-dl">MKTO</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|4|579|<span class="rank-name-dl">ケーシィ</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|5|472|<span class="rank-name-dl">NO NAME 6902</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|5|472|<span class="rank-name-dl">ひろ⭐︎rat</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|7|454|<span class="rank-name-dl">HIRO...</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|8|445|<span class="rank-name-dl">Ｙ子</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|4|666|<span class="rank-name-dl">Takuya</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|5|579|<span class="rank-name-dl">ケーシィ</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|5|579|<span class="rank-name-dl">Ｙ子</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|7|525|<span class="rank-name-dl">Kawakawa</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|8|480|<span class="rank-name-dl">koba0124</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|9|472|<span class="rank-name-dl">NO NAME 6902</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|9|472|<span class="rank-name-dl">ひろ⭐︎rat</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|11|454|<span class="rank-name-dl">HIRO...</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|12|424|<span class="rank-name-dl">soeurs703</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|13|365|<span class="rank-name-dl">かずや</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,14 +51,19 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|778|<span class="rank-name-dl">Bar Nei</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|1|861|<span class="rank-name-dl">Bar Nei</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 |2|754|<span class="rank-name-dl">yassuo</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 |3|712|<span class="rank-name-dl">MKTO</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|4|579|<span class="rank-name-dl">ケーシィ</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|5|472|<span class="rank-name-dl">NO NAME 6902</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|5|472|<span class="rank-name-dl">ひろ⭐︎rat</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|7|454|<span class="rank-name-dl">HIRO...</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
-|8|445|<span class="rank-name-dl">Ｙ子</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|4|666|<span class="rank-name-dl">Takuya</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|5|579|<span class="rank-name-dl">ケーシィ</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|5|579|<span class="rank-name-dl">Ｙ子</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|7|525|<span class="rank-name-dl">Kawakawa</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|8|480|<span class="rank-name-dl">koba0124</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|9|472|<span class="rank-name-dl">NO NAME 6902</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|9|472|<span class="rank-name-dl">ひろ⭐︎rat</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|11|454|<span class="rank-name-dl">HIRO...</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|12|424|<span class="rank-name-dl">soeurs703</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
+|13|365|<span class="rank-name-dl">かずや</span>|<a href="/darts/rank/shops/ce3ae15d21ec1bad0d9b047a20a7ba1e.html">Rat</a> <a href="https://search.dartslive.com/jp/shop/ce3ae15d21ec1bad0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/大阪府/堺市">大阪府堺市</a>|
 
 
 #### PHOENIXDARTS TOP 100

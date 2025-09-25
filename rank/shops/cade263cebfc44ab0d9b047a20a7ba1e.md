@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 新潟県 | 十日町市 | アミューズメントバー FreeStyle
+title: 'COUNTUP AREA RANKING | 新潟県 | 十日町市 | アミューズメントバー FreeStyle'
 ---
 ## COUNTUP AREA RANKING | 新潟県 | 十日町市 | アミューズメントバー FreeStyle
 

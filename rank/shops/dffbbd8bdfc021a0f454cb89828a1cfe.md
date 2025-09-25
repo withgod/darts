@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 静岡県 | 袋井市 | Symbol
+title: 'COUNTUP AREA RANKING | 静岡県 | 袋井市 | Symbol'
 ---
 ## COUNTUP AREA RANKING | 静岡県 | 袋井市 | Symbol
 

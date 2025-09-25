@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 品川区 | マドレーヌ旗の台MAD
+title: 'COUNTUP AREA RANKING | 東京都 | 品川区 | マドレーヌ旗の台MAD'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 品川区 | マドレーヌ旗の台MAD
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 目黒区 | JACK 自由が丘店
+title: 'COUNTUP AREA RANKING | 東京都 | 目黒区 | JACK 自由が丘店'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 目黒区 | JACK 自由が丘店
 

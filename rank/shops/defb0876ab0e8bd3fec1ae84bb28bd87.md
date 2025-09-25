@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 愛知県 | 東海市 | JOYJOY東海名和店
+title: 'COUNTUP AREA RANKING | 愛知県 | 東海市 | JOYJOY東海名和店'
 ---
 ## COUNTUP AREA RANKING | 愛知県 | 東海市 | JOYJOY東海名和店
 

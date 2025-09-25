@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 港区 | カラオケスナックのすけ
+title: 'COUNTUP AREA RANKING | 東京都 | 港区 | カラオケスナックのすけ'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 港区 | カラオケスナックのすけ
 

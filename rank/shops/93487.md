@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 八千代市 | Cafe&Bar MASSE
+title: 'COUNTUP AREA RANKING | 千葉県 | 八千代市 | Cafe&Bar MASSE'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 八千代市 | Cafe&Bar MASSE
 

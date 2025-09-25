@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 千葉市 | 快活CLUB 16号千葉北店
+title: 'COUNTUP AREA RANKING | 千葉県 | 千葉市 | 快活CLUB 16号千葉北店'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 千葉市 | 快活CLUB 16号千葉北店
 

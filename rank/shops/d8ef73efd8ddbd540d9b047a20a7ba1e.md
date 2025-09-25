@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 岐阜県 | 大垣市 | DARTS&Bar Nova
+title: 'COUNTUP AREA RANKING | 岐阜県 | 大垣市 | DARTS&Bar Nova'
 ---
 ## COUNTUP AREA RANKING | 岐阜県 | 大垣市 | DARTS&Bar Nova
 

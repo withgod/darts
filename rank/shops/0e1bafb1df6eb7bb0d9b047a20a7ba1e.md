@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 埼玉県 | 春日部市 | HangOverZ
+title: 'COUNTUP AREA RANKING | 埼玉県 | 春日部市 | HangOverZ'
 ---
 ## COUNTUP AREA RANKING | 埼玉県 | 春日部市 | HangOverZ
 
@@ -33,8 +33,8 @@ ___
 |2|925|<span class="rank-name-dl">S★</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |3|917|<span class="rank-name-dl">DEATH♂</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |4|864|<span class="rank-name-dl">性徒会長♂</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|5|764|<span class="rank-name-dl">神様</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|6|720|<span class="rank-name-dl">練･習中</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|5|790|<span class="rank-name-dl">練･習中</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|6|764|<span class="rank-name-dl">神様</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |7|685|<span class="rank-name-dl">カタツムリ</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |8|672|<span class="rank-name-dl">Bori吉</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |9|658|<span class="rank-name-dl">昔は痩せてました</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
@@ -71,8 +71,8 @@ ___
 |2|925|<span class="rank-name-dl">S★</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |3|917|<span class="rank-name-dl">DEATH♂</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |4|864|<span class="rank-name-dl">性徒会長♂</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|5|764|<span class="rank-name-dl">神様</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
-|6|720|<span class="rank-name-dl">練･習中</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|5|790|<span class="rank-name-dl">練･習中</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
+|6|764|<span class="rank-name-dl">神様</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |7|685|<span class="rank-name-dl">カタツムリ</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |8|672|<span class="rank-name-dl">Bori吉</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|
 |9|658|<span class="rank-name-dl">昔は痩せてました</span>|<a href="/darts/rank/shops/0e1bafb1df6eb7bb0d9b047a20a7ba1e.html">HangOverZ</a> <a href="https://search.dartslive.com/jp/shop/0e1bafb1df6eb7bb0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/埼玉県/春日部市">埼玉県春日部市</a>|

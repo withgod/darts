@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 渋谷区 | G-BLUE
+title: 'COUNTUP AREA RANKING | 東京都 | 渋谷区 | G-BLUE'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 渋谷区 | G-BLUE
 

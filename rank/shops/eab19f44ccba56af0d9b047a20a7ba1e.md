@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 八千代市 | BAR Z
+title: 'COUNTUP AREA RANKING | 千葉県 | 八千代市 | BAR Z'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 八千代市 | BAR Z
 

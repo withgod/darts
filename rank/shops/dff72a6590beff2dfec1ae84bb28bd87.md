@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 滋賀県 | 近江八幡市 | BAR WILL
+title: 'COUNTUP AREA RANKING | 滋賀県 | 近江八幡市 | BAR WILL'
 ---
 ## COUNTUP AREA RANKING | 滋賀県 | 近江八幡市 | BAR WILL
 

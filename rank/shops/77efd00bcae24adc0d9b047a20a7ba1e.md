@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 墨田区 | GLAM
+title: 'COUNTUP AREA RANKING | 東京都 | 墨田区 | GLAM'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 墨田区 | GLAM
 

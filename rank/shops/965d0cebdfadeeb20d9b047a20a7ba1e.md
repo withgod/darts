@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 府中市 | JANGO→
+title: 'COUNTUP AREA RANKING | 東京都 | 府中市 | JANGO→'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 府中市 | JANGO→
 

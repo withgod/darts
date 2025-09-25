@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 港区 | Wild Heart 新橋
+title: 'COUNTUP AREA RANKING | 東京都 | 港区 | Wild Heart 新橋'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 港区 | Wild Heart 新橋
 

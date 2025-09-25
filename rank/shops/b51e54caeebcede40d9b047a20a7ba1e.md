@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 群馬県 | 太田市 | Shot Bar JACK 9
+title: 'COUNTUP AREA RANKING | 群馬県 | 太田市 | Shot Bar JACK 9'
 ---
 ## COUNTUP AREA RANKING | 群馬県 | 太田市 | Shot Bar JACK 9
 

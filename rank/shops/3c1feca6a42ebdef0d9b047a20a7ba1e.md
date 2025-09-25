@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 沖縄県 | 石垣市 | Set up
+title: 'COUNTUP AREA RANKING | 沖縄県 | 石垣市 | Set up'
 ---
 ## COUNTUP AREA RANKING | 沖縄県 | 石垣市 | Set up
 

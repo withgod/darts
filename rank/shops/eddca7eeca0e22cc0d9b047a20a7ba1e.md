@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 銚子市 | Darts&Bar?db
+title: 'COUNTUP AREA RANKING | 千葉県 | 銚子市 | Darts&Bar?db'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 銚子市 | Darts&Bar?db
 
@@ -34,7 +34,7 @@ ___
 |3|972|<span class="rank-name-dl">Hide</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |4|959|<span class="rank-name-dl">あっきーばたいち</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |5|927|<span class="rank-name-dl">空白ルスティ</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
-|6|861|<span class="rank-name-dl">茂木恒夫@db</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
+|6|866|<span class="rank-name-dl">茂木恒夫@db</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |7|839|<span class="rank-name-dl">ジロー</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |8|837|<span class="rank-name-dl">らい</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |9|821|<span class="rank-name-dl">（ixi）HIKARU</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
@@ -74,7 +74,7 @@ ___
 |3|972|<span class="rank-name-dl">Hide</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |4|959|<span class="rank-name-dl">あっきーばたいち</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |5|927|<span class="rank-name-dl">空白ルスティ</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
-|6|861|<span class="rank-name-dl">茂木恒夫@db</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
+|6|866|<span class="rank-name-dl">茂木恒夫@db</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |7|839|<span class="rank-name-dl">ジロー</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |8|837|<span class="rank-name-dl">らい</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|
 |9|821|<span class="rank-name-dl">（ixi）HIKARU</span>|<a href="/darts/rank/shops/eddca7eeca0e22cc0d9b047a20a7ba1e.html">Darts&Bar?db</a> <a href="https://search.dartslive.com/jp/shop/eddca7eeca0e22cc0d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/千葉県/銚子市">千葉県銚子市</a>|

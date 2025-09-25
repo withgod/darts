@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 千代田区 | Darts Physics Laboratory
+title: 'COUNTUP AREA RANKING | 東京都 | 千代田区 | Darts Physics Laboratory'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 千代田区 | Darts Physics Laboratory
 
@@ -32,7 +32,7 @@ ___
 |1|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |2|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |3|1044|<span class="rank-name-dl">➹➸HiRoFuMi➸➷</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|4|1008|<span class="rank-name-dl">こみやまあみ</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|4|1036|<span class="rank-name-dl">こみやまあみ</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |5|1001|<span class="rank-name-dl">hide.^^☆cbk</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |6|989|<span class="rank-name-dl">とも✯₦✧DPL</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |7|973|<span class="rank-name-dl">ばーぐししょー</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
@@ -66,7 +66,7 @@ ___
 |1|1093|<span class="rank-name-dl">Rikiya Imaizumi</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |2|1087|<span class="rank-name-dl">Ryu_白鳥警部@KTD</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |3|1044|<span class="rank-name-dl">➹➸HiRoFuMi➸➷</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
-|4|1008|<span class="rank-name-dl">こみやまあみ</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
+|4|1036|<span class="rank-name-dl">こみやまあみ</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |5|1001|<span class="rank-name-dl">hide.^^☆cbk</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |6|989|<span class="rank-name-dl">とも✯₦✧DPL</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|
 |7|973|<span class="rank-name-dl">ばーぐししょー</span>|<a href="/darts/rank/shops/b0b87e5aea0bdbf10d9b047a20a7ba1e.html">Darts Physics Laboratory</a> <a href="https://search.dartslive.com/jp/shop/b0b87e5aea0bdbf10d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/東京都/千代田区">東京都千代田区</a>|

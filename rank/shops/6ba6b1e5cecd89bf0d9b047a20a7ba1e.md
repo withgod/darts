@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 埼玉県 | 越谷市 | Duck
+title: 'COUNTUP AREA RANKING | 埼玉県 | 越谷市 | Duck'
 ---
 ## COUNTUP AREA RANKING | 埼玉県 | 越谷市 | Duck
 

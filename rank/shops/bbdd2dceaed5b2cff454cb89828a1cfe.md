@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 滋賀県 | 湖南市 | FOOD&BAR ONLY
+title: 'COUNTUP AREA RANKING | 滋賀県 | 湖南市 | FOOD&BAR ONLY'
 ---
 ## COUNTUP AREA RANKING | 滋賀県 | 湖南市 | FOOD&BAR ONLY
 

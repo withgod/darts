@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 神奈川県 | 大和市 | Jack in the Box
+title: 'COUNTUP AREA RANKING | 神奈川県 | 大和市 | Jack in the Box'
 ---
 ## COUNTUP AREA RANKING | 神奈川県 | 大和市 | Jack in the Box
 

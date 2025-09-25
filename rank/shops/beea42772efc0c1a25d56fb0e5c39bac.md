@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | bar Lazo
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | bar Lazo'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市中央区 | bar Lazo
 

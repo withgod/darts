@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 成田市 | Bar PINK PANTHER
+title: 'COUNTUP AREA RANKING | 千葉県 | 成田市 | Bar PINK PANTHER'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 成田市 | Bar PINK PANTHER
 

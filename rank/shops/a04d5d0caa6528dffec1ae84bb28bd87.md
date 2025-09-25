@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 福島県 | 郡山市 | Cybex　郡山店
+title: 'COUNTUP AREA RANKING | 福島県 | 郡山市 | Cybex　郡山店'
 ---
 ## COUNTUP AREA RANKING | 福島県 | 郡山市 | Cybex　郡山店
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 渋谷区 | LOS CABOS渋谷
+title: 'COUNTUP AREA RANKING | 東京都 | 渋谷区 | LOS CABOS渋谷'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 渋谷区 | LOS CABOS渋谷
 

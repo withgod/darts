@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 千葉市 | bar_SEALs
+title: 'COUNTUP AREA RANKING | 千葉県 | 千葉市 | bar_SEALs'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 千葉市 | bar_SEALs
 

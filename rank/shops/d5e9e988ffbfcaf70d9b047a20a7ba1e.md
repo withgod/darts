@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 習志野市 | ラウンドワン習志野店
+title: 'COUNTUP AREA RANKING | 千葉県 | 習志野市 | ラウンドワン習志野店'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 習志野市 | ラウンドワン習志野店
 

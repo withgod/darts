@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 大阪府 | 大阪市淀川区 | BAR MACHERIE
+title: 'COUNTUP AREA RANKING | 大阪府 | 大阪市淀川区 | BAR MACHERIE'
 ---
 ## COUNTUP AREA RANKING | 大阪府 | 大阪市淀川区 | BAR MACHERIE
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 千葉県 | 木更津市 | 18with Mohikan-chi 18with Mohikan-chi
+title: 'COUNTUP AREA RANKING | 千葉県 | 木更津市 | 18with Mohikan-chi 18with Mohikan-chi'
 ---
 ## COUNTUP AREA RANKING | 千葉県 | 木更津市 | 18with Mohikan-chi 18with Mohikan-chi
 

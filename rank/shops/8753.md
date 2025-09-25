@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 長野県 | 長野市 | ラウンドワン長野店
+title: 'COUNTUP AREA RANKING | 長野県 | 長野市 | ラウンドワン長野店'
 ---
 ## COUNTUP AREA RANKING | 長野県 | 長野市 | ラウンドワン長野店
 

@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 港区 | JUNCTION
+title: 'COUNTUP AREA RANKING | 東京都 | 港区 | JUNCTION'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 港区 | JUNCTION
 

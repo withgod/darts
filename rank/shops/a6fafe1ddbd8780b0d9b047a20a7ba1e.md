@@ -1,5 +1,5 @@
 ---
-title: COUNTUP AREA RANKING | 東京都 | 立川市 | MGM collection
+title: 'COUNTUP AREA RANKING | 東京都 | 立川市 | MGM collection'
 ---
 ## COUNTUP AREA RANKING | 東京都 | 立川市 | MGM collection
 
