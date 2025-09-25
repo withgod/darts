@@ -1,5 +1,5 @@
 ---
-title: 'COUNTUP AREA RANKING | 広島県 | 呉市 | R's la vie'
+title: 'COUNTUP AREA RANKING | 広島県 | 呉市 | R''s la vie'
 ---
 ## COUNTUP AREA RANKING | 広島県 | 呉市 | R's la vie
 

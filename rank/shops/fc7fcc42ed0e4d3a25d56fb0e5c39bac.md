@@ -1,5 +1,5 @@
 ---
-title: 'COUNTUP AREA RANKING | 兵庫県 | 神戸市 | Ryu'z DINING'
+title: 'COUNTUP AREA RANKING | 兵庫県 | 神戸市 | Ryu''z DINING'
 ---
 ## COUNTUP AREA RANKING | 兵庫県 | 神戸市 | Ryu'z DINING
 

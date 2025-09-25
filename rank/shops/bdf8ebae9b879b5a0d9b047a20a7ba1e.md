@@ -1,5 +1,5 @@
 ---
-title: 'COUNTUP AREA RANKING | 愛知県 | 一宮市 | Rookie's'
+title: 'COUNTUP AREA RANKING | 愛知県 | 一宮市 | Rookie''s'
 ---
 ## COUNTUP AREA RANKING | 愛知県 | 一宮市 | Rookie's
 
